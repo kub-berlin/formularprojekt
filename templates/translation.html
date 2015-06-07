@@ -8,8 +8,6 @@
 <div class="disclaimer">{{translations[lang_id].meta.disclaimer}}</div>
 
 <aside>
-	<a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">language overview</a>
-
 	<ul>
 		{% for _lang_id in available_languages %}
 		<li><a
@@ -26,7 +24,9 @@
 	<dt>title</dt>
 		<dd>{{forms[form_id].title}}</dd>
 	<dt>language</dt>
-		<dd>{{translations[lang_id].meta.language}}</dd>
+		<dd><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
+			{{translations[lang_id].meta.language}}
+		</a></dd>
 	<dt>Stand</dt>
 		<dd>{{forms[form_id].date}}</dd>
 	<dt>URL</dt>

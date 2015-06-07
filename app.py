@@ -40,9 +40,16 @@ def index_route():
     return 'index'
 
 
-@formularprojekt.route('/<lang>/')
-def language_route(lang):
-    return 'language %s' % lang
+@formularprojekt.route('/<lang_id>/')
+def language_route(lang_id):
+    if not lang_id in translations:
+        abort(404)
+
+    return render_template(
+        'language.html',
+        translations=translations,
+        forms=forms,
+        lang_id=lang_id)
 
 
 @formularprojekt.route('/<lang_id>/<form_id>/')

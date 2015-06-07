@@ -58,7 +58,8 @@ translations = {
 def index_route():
     return render_template(
         'index.html',
-        translations=translations)
+        translations=translations,
+        lang_id='en')
 
 
 @formularprojekt.route('/<lang_id>/')

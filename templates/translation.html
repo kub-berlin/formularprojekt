@@ -42,6 +42,12 @@
 		</tr>
 	</thead>
 	<tbody>
+		<tr class="title">
+			<td></td>
+			<td>{{ forms[form_id].title }}</td>
+			<td>{{ translations[lang_id][form_id][forms[form_id].title] }}</td>
+		</tr>
+
 		{% for row in forms[form_id].rows %}
 		<tr class="{% if row[0] %}structure{% endif %}">
 			<td>{{ row[0] }}</td>

@@ -3,6 +3,16 @@
 {% block main %}
 <div class="disclaimer">{{translations[lang_id].meta.disclaimer}}</div>
 
+<select onchange="window.location.href = this.value">
+	{% for _lang_id in available_languages %}
+	<option
+		value="{{ url_for('formularprojekt.translation_route', lang_id=_lang_id, form_id=form_id) }}"
+		{% if _lang_id == lang_id %}selected="selected"{% endif %}>
+		{{ translations[_lang_id].meta.language }}
+	</option>
+	{% endfor %}
+</select>
+
 <dl>
 	<dt>title</dt>
 		<dd>{{forms[form_id].title}}</dd>

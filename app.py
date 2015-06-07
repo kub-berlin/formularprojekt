@@ -29,6 +29,14 @@ translations = {
         'kindergeld': {
             'foo': 'bar',
         }
+    },
+    'de': {
+        'meta': {
+            'language': 'Deutsch',
+        },
+        'kindergeld': {
+            'foo': 'blub',
+        }
     }
 }
 
@@ -54,6 +62,9 @@ def language_route(lang_id):
 
 @formularprojekt.route('/<lang_id>/<form_id>/')
 def translation_route(lang_id, form_id):
+    available_languages = [l for l in translations
+        if form_id in translations[l]]
+
     if lang_id not in translations:
         abort(404)
     if form_id not in forms:
@@ -66,7 +77,8 @@ def translation_route(lang_id, form_id):
         translations=translations,
         forms=forms,
         lang_id=lang_id,
-        form_id=form_id)
+        form_id=form_id,
+        available_languages=available_languages)
 
 
 def create_app(settings=None):

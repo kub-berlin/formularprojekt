@@ -102,7 +102,7 @@ def parse_args(argv=None):
 def main():  # pragma: no cover
     args = parse_args()
 
-    if True:
+    if args.cmd == 'serve':
         app = create_app(args)
         app.run()
     else:

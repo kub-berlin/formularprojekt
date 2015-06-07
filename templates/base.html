@@ -2,24 +2,24 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ lang_id }}">
 
 <head>
-	<meta charset="utf-8" />
-	<link rel="shortcut icon" type="image/x-icon" href="/static/favicon.ico" />
-	<link rel="stylesheet" type="text/css" href="/static/style.css" />
-	<meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.ico" />
+    <link rel="stylesheet" type="text/css" href="/static/style.css" />
+    <meta name="viewport" content="width=device-width" />
 
-	{% block head %}
-	<title>Formularprojekt</title>
-	{% endblock head %}
+    {% block head %}
+    <title>Formularprojekt</title>
+    {% endblock head %}
 </head>
 
 <body>
-	<header>
-		<a rel="home" href="{{ url_for('formularprojekt.index_route') }}">Home</a>
-	</header>
+    <header>
+        <a rel="home" href="{{ url_for('formularprojekt.index_route') }}">Home</a>
+    </header>
 
-	<main id="main">
-		{% block main %}
-		{% endblock %}
-	</main>
+    <main id="main">
+        {% block main %}
+        {% endblock %}
+    </main>
 </body>
 </html>

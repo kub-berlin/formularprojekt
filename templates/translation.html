@@ -8,54 +8,54 @@
 <div class="disclaimer">{{translations[lang_id].meta.disclaimer}}</div>
 
 <dl>
-	<dt>title</dt>
-		<dd>{{forms[form_id].title}}</dd>
-	<dt>language</dt>
-		<dd><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
-			{{translations[lang_id].meta.language}}
-		</a></dd>
-	<dt>Stand</dt>
-		<dd>{{forms[form_id].date}}</dd>
-	<dt>URL</dt>
-		<dd><a href="{{forms[form_id].url}}">{{forms[form_id].url}}</a></dd>
+    <dt>title</dt>
+        <dd>{{forms[form_id].title}}</dd>
+    <dt>language</dt>
+        <dd><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
+            {{translations[lang_id].meta.language}}
+        </a></dd>
+    <dt>Stand</dt>
+        <dd>{{forms[form_id].date}}</dd>
+    <dt>URL</dt>
+        <dd><a href="{{forms[form_id].url}}">{{forms[form_id].url}}</a></dd>
 </dl>
 
 <table class="translation-table">
-	<thead>
-		<tr>
-			<th></th>
-			<th>{{ translations[lang_id].meta.german }}</th>
-			<th>{{ translations[lang_id].meta.language }}</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr class="title">
-			<td></td>
-			<td>{{ forms[form_id].title }}</td>
-			<td>{{ translations[lang_id][form_id][forms[form_id].title] }}</td>
-		</tr>
+    <thead>
+        <tr>
+            <th></th>
+            <th>{{ translations[lang_id].meta.german }}</th>
+            <th>{{ translations[lang_id].meta.language }}</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="title">
+            <td></td>
+            <td>{{ forms[form_id].title }}</td>
+            <td>{{ translations[lang_id][form_id][forms[form_id].title] }}</td>
+        </tr>
 
-		{% for row in forms[form_id].rows %}
-		<tr class="{% if row[0] %}structure{% endif %}">
-			<td>{{ row[0] }}</td>
-			<td>{{ row[1] }}</td>
-			<td>{{ translations[lang_id][form_id][row[1]] }}</td>
-		</tr>
-		{% endfor %}
-	</tbody>
+        {% for row in forms[form_id].rows %}
+        <tr class="{% if row[0] %}structure{% endif %}">
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ translations[lang_id][form_id][row[1]] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
 </table>
 
 <footer class="language-footer">
-	{{ translations[lang_id].meta.switch }}
+    {{ translations[lang_id].meta.switch }}
 
-	<ul class="inline">
-		{% for _lang_id in available_languages | sort %}
-		<li><a
-			href="{{ url_for('formularprojekt.translation_route', lang_id=_lang_id, form_id=form_id) }}"
-			rel="alternate"
-			lang="{{_lang_id}}">
-			{{ translations[_lang_id].meta.language }}</a></li>
-		{% endfor %}
-	</ul>
+    <ul class="inline">
+        {% for _lang_id in available_languages | sort %}
+        <li><a
+            href="{{ url_for('formularprojekt.translation_route', lang_id=_lang_id, form_id=form_id) }}"
+            rel="alternate"
+            lang="{{_lang_id}}">
+            {{ translations[_lang_id].meta.language }}</a></li>
+        {% endfor %}
+    </ul>
 </footer>
 {% endblock %}

@@ -1,6 +1,8 @@
 #!/use/bin/env python
 # -*- coding: utf-8 -*-
 
+from __future__ import unicode_literals
+
 import sys
 import datetime
 import argparse
@@ -25,6 +27,9 @@ translations = {
         'meta': {
             'disclaimer': 'This is an unofficial translation',
             'language': 'English',
+            'about_header': 'About this Project',
+            'about': 'about_en',
+            'translated_documents': 'translated documents',
         },
         'kindergeld': {
             'foo': 'bar',
@@ -33,6 +38,14 @@ translations = {
     'de': {
         'meta': {
             'language': 'Deutsch',
+            'about_header': 'Über dieses Projekt',
+            'about': ('Das Projekt "Formulare verstehbar machen" der KuB '
+                'Berlin soll Flüchtlingen und Migrant_innen helfen, sich im '
+                'deutschen Amtsdschungel zurechtzufinden.  Ehrenamtliche '
+                'Übersetzer_innen übersetzen Formulare in nachgefragte '
+                'Sprachen. Wir stellen allen Interessierten die Ergebnisse '
+                'auf dieser Seite zur Verfügung.'),
+            'translated_documents': 'Übersetzte Dokumente',
         },
         'kindergeld': {
             'foo': 'blub',

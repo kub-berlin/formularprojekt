@@ -1,6 +1,13 @@
 {% extends 'base.html' %}'
 
 {% block main %}
+
+<h2>{{ translations[lang_id].meta.about_header }}</h2>
+
+{{ translations[lang_id].meta.about | markdown}}
+
+<h2>{{ translations[lang_id].meta.translated_documents }}</h2>
+
 <ul>
     {% for form_id in translations[lang_id] %}
     {% if form_id != 'meta' %}

@@ -34,6 +34,7 @@ translations = {
         'meta': {
             'disclaimer': 'This is an unofficial translation',
             'language': 'English',
+            'german': 'German',
             'about_header': 'About this Project',
             'about': 'about_en',
             'translated_documents': 'translated documents',
@@ -52,6 +53,7 @@ translations = {
     'de': {
         'meta': {
             'language': 'Deutsch',
+            'german': 'Deutsch',
             'about_header': 'Über dieses Projekt',
             'about': ('Das Projekt "Formulare verstehbar machen" der KuB '
                 'Berlin soll Flüchtlingen und Migrant_innen helfen, sich im '

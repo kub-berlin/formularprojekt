@@ -10,6 +10,7 @@ from flask import current_app, url_for
 from flask import Markup, escape
 from flask import abort
 from flask_frozen import Freezer
+from flask.ext.markdown import Markdown
 
 formularprojekt = Blueprint('formularprojekt', __name__)
 forms = {
@@ -60,6 +61,7 @@ def create_app(settings=None):
     app = Flask(__name__)
     app.config.from_object(settings)
     app.register_blueprint(formularprojekt)
+    Markdown(app)
     return app
 
 

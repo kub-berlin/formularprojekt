@@ -1,0 +1,29 @@
+<div class="disclaimer">{{meta.disclaimer}}</div>
+
+<dl>
+	<dt>title</dt>
+		<dd>{{form.title}}</dd>
+	<dt>language</dt>
+		<dd>{{meta.language}}</dd>
+	<dt>Stand</dt>
+		<dd>{{form.date}}</dd>
+</dl>
+
+<table>
+	<thead>
+		<tr>
+			<th></th>
+			<th>source</th>
+			<th>translation</th>
+		</tr>
+	</thead>
+	<tbody>
+		{% for row in form.rows %}
+		<tr class="{% if row[0] %}structure{% endif %}">
+			<td>{{ row[0] }}</td>
+			<td>{{ row[1] }}</td>
+			<td>{{ translation[row[1]] }}</td>
+		</tr>
+		{% endfor %}
+	</tbody>
+</table>

@@ -2,15 +2,40 @@
 # -*- coding: utf-8 -*-
 
 import sys
+import datetime
 import argparse
 
 from flask import Flask, Blueprint, render_template
 from flask import current_app, url_for
 from flask import Markup, escape
+from flask import abort
 from flask_frozen import Freezer
 
 formularprojekt = Blueprint('formularprojekt', __name__)
+forms = {
+    'kindergeld': {
+        'title': 'Antrag auf Kindergeld',
+        'date': datetime.date.today(),
+        'rows': [
+            ('2.1.1', 'foo')
+        ]
+    }
+}
+translations = {
+    'en': {
+        '_': {
+            'disclaimer': 'This is an unofficial translation',
+            'language': 'English',
+        },
+        'kindergeld': {
+            'foo': 'bar',
+        }
+    }
+}
 
+
+# form -> (source, structure)[]
+# form -> lang -> source -> translation
 
 @formularprojekt.route('/')
 def index_route():
@@ -19,12 +44,19 @@ def index_route():
 
 @formularprojekt.route('/<lang>/')
 def language_route(lang):
-    return 'language'
+    return 'language %s' % lang
 
 
-@formularprojekt.route('/<lang>/<form>/')
-def translation_route(lang, form):
-    return 'translation'
+@formularprojekt.route('/<lang_id>/<form_id>/')
+def translation_route(lang_id, form_id):
+    try:
+        return render_template(
+            'translation.html',
+            form=forms[form_id],
+            meta=translations[lang_id]['_'],
+            translation=translations[lang_id][form_id])
+    except KeyError:
+        abort(404)
 
 
 def create_app(settings=None):

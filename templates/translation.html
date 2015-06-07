@@ -1,22 +1,22 @@
 {% extends 'base.html' %}'
 
 {% block head %}
-<title>{{ 'formularprojekt' | translate(lang_id, 'meta') }} - {{ forms[form_id].title }}</title>
+<title>{{ 'Formularprojekt' | translate(lang_id, 'meta') }} - {{ forms[form_id].title }}</title>
 {% endblock %}
 
 {% block main %}
-<div class="disclaimer">{{ 'disclaimer' | translate(lang_id, 'meta') }}</div>
+<div class="disclaimer">{{ 'Disclaimer' | translate(lang_id, 'meta') }}</div>
 
 <dl>
-    <dt>title</dt>
+    <dt>{{ 'Titel' | translate(lang_id, 'meta') }}</dt>
         <dd>{{ forms[form_id].title }}</dd>
-    <dt>language</dt>
+    <dt>{{ 'Sprache' | translate(lang_id, 'meta') }}</dt>
         <dd><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
             {{ 'language' | translate(lang_id, 'meta') }}
         </a></dd>
-    <dt>Stand</dt>
+    <dt>{{ 'Zuletzt aktualisiert' | translate(lang_id, 'meta') }}</dt>
         <dd>{{ forms[form_id].date }}</dd>
-    <dt>URL</dt>
+    <dt>{{ 'Originaldokument' | translate(lang_id, 'meta') }}</dt>
         <dd><a href="{{ forms[form_id].url }}">{{ forms[form_id].url }}</a></dd>
 </dl>
 
@@ -24,7 +24,7 @@
     <thead>
         <tr>
             <th></th>
-            <th>{{ 'german' | translate(lang_id, 'meta') }}</th>
+            <th>{{ 'Deutsch' | translate(lang_id, 'meta') }}</th>
             <th>{{ 'language' | translate(lang_id, 'meta') }}</th>
         </tr>
     </thead>
@@ -46,7 +46,7 @@
 </table>
 
 <footer class="language-footer">
-    {{ 'switch' | translate(lang_id, 'meta') }}
+    {{ 'Sprache wechseln:' | translate(lang_id, 'meta') }}
 
     <ul class="inline">
         {% for _lang_id in available_languages | sort %}

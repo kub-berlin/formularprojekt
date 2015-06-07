@@ -33,13 +33,16 @@ forms = {
 translations = {
     'en': {
         'meta': {
-            'disclaimer': 'This is an unofficial translation',
+            'Disclaimer': 'This is an unofficial translation',
             'language': 'English',
-            'german': 'German',
-            'switch': 'Switch language:',
-            'about_header': 'About this Project',
-            'about': 'about_en',
-            'translated_documents': 'translated documents',
+            'Deutsch': 'German',
+            'Sprache wechseln:': 'Switch language:',
+            'Über dieses Projekt': 'About this Project',
+            'Übersetzte Dokumente': 'Translated documents',
+            'Titel': 'Title',
+            'Sprache': 'Language',
+            'Zuletzt aktualisiert': 'Last update',
+            'Originaldokument': 'Source document',
         },
         'kindergeld': {
             'foo': 'bar',
@@ -55,16 +58,12 @@ translations = {
     'de': {
         'meta': {
             'language': 'Deutsch',
-            'german': 'Deutsch',
-            'switch': 'Sprache wechseln:',
-            'about_header': 'Über dieses Projekt',
             'about': ('Das Projekt "Formulare verstehbar machen" der KuB '
                 'Berlin soll Flüchtlingen und Migrant_innen helfen, sich im '
                 'deutschen Amtsdschungel zurechtzufinden.  Ehrenamtliche '
                 'Übersetzer_innen übersetzen Formulare in nachgefragte '
                 'Sprachen. Wir stellen allen Interessierten die Ergebnisse '
                 'auf dieser Seite zur Verfügung.'),
-            'translated_documents': 'Übersetzte Dokumente',
         },
         'kindergeld': {
             'foo': 'blub',

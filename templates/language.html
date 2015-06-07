@@ -1,16 +1,16 @@
 {% extends 'base.html' %}'
 
 {% block head %}
-<title>{{ 'formularprojekt' | translate(lang_id, 'meta') }}</title>
+<title>{{ 'Formularprojekt' | translate(lang_id, 'meta') }}</title>
 {% endblock %}
 
 {% block main %}
 
-<h2>{{ 'about_header' | translate(lang_id, 'meta') }}</h2>
+<h2>{{ 'Über dieses Projekt' | translate(lang_id, 'meta') }}</h2>
 
 {{ 'about' | translate(lang_id, 'meta') | markdown}}
 
-<h2>{{ 'translated_documents' | translate(lang_id, 'meta') }}</h2>
+<h2>{{ 'Übersetzte Dokumente' | translate(lang_id, 'meta') }}</h2>
 
 <ul>
     {% for form_id in translations[lang_id] | sort %}
@@ -23,7 +23,7 @@
 </ul>
 
 <footer class="language-footer">
-    {{ 'switch' | translate(lang_id, 'meta') }}
+    {{ 'Sprache wechseln:' | translate(lang_id, 'meta') }}
 
     <ul class="inline">
         {% for _lang_id in translations | sort %}

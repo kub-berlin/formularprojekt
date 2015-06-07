@@ -54,14 +54,19 @@ def language_route(lang_id):
 
 @formularprojekt.route('/<lang_id>/<form_id>/')
 def translation_route(lang_id, form_id):
-    try:
-        return render_template(
-            'translation.html',
-            form=forms[form_id],
-            meta=translations[lang_id]['meta'],
-            translation=translations[lang_id][form_id])
-    except KeyError:
+    if lang_id not in translations:
         abort(404)
+    if form_id not in forms:
+        abort(404)
+    if form_id not in translations[lang_id]:
+        abort(404)
+
+    return render_template(
+        'translation.html',
+        translations=translations,
+        forms=forms,
+        lang_id=lang_id,
+        form_id=form_id)
 
 
 def create_app(settings=None):

@@ -1,12 +1,12 @@
-<div class="disclaimer">{{meta.disclaimer}}</div>
+<div class="disclaimer">{{translations[lang_id].meta.disclaimer}}</div>
 
 <dl>
 	<dt>title</dt>
-		<dd>{{form.title}}</dd>
-	<dt>language</dt>
-		<dd>{{meta.language}}</dd>
+		<dd>{{forms[form_id].title}}</dd>
 	<dt>Stand</dt>
-		<dd>{{form.date}}</dd>
+		<dd>{{forms[form_id].date}}</dd>
+	<dt>language</dt>
+		<dd>{{translations[lang_id].meta.language}}</dd>
 </dl>
 
 <table>
@@ -18,11 +18,11 @@
 		</tr>
 	</thead>
 	<tbody>
-		{% for row in form.rows %}
+		{% for row in forms[form_id].rows %}
 		<tr class="{% if row[0] %}structure{% endif %}">
 			<td>{{ row[0] }}</td>
 			<td>{{ row[1] }}</td>
-			<td>{{ translation[row[1]] }}</td>
+			<td>{{ translations[lang_id][form_id][row[1]] }}</td>
 		</tr>
 		{% endfor %}
 	</tbody>

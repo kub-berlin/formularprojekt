@@ -1,13 +1,14 @@
 {% extends 'base.html' %}'
 
 {% block main %}
-Choose your language
+<div class="landing">
+    <h1>Choose your language</h1>
 
-<ul>
-    {% for lang_id in translations %}
-    <li><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
-        {{ translations[lang_id].meta.language }}
-    </a></li>
-    {% endfor %}
-</ul>
+    <ul class="inline">
+        {% for lang_id in translations | sort %}
+        <li><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
+            {{ translations[lang_id].meta.language }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
 {% endblock %}

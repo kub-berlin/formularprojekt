@@ -1,0 +1,9 @@
+Choose your language
+
+<ul>
+    {% for lang_id in translations %}
+    <li><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
+        {{ translations[lang_id].meta.language }}
+    </a></li>
+    {% endfor %}
+</ul>

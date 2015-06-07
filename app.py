@@ -35,7 +35,9 @@ translations = {
 
 @formularprojekt.route('/')
 def index_route():
-    return 'index'
+    return render_template(
+        'index.html',
+        translations=translations)
 
 
 @formularprojekt.route('/<lang_id>/')

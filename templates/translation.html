@@ -9,15 +9,15 @@
 
 <dl>
     <dt>title</dt>
-        <dd>{{forms[form_id].title}}</dd>
+        <dd>{{ forms[form_id].title }}</dd>
     <dt>language</dt>
         <dd><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
             {{ 'language' | translate(lang_id, 'meta') }}
         </a></dd>
     <dt>Stand</dt>
-        <dd>{{forms[form_id].date}}</dd>
+        <dd>{{ forms[form_id].date }}</dd>
     <dt>URL</dt>
-        <dd><a href="{{forms[form_id].url}}">{{forms[form_id].url}}</a></dd>
+        <dd><a href="{{ forms[form_id].url }}">{{ forms[form_id].url }}</a></dd>
 </dl>
 
 <table class="translation-table">

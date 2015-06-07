@@ -23,7 +23,7 @@ forms = {
 }
 translations = {
     'en': {
-        '_': {
+        'meta': {
             'disclaimer': 'This is an unofficial translation',
             'language': 'English',
         },
@@ -33,9 +33,6 @@ translations = {
     }
 }
 
-
-# form -> (source, structure)[]
-# form -> lang -> source -> translation
 
 @formularprojekt.route('/')
 def index_route():
@@ -53,7 +50,7 @@ def translation_route(lang_id, form_id):
         return render_template(
             'translation.html',
             form=forms[form_id],
-            meta=translations[lang_id]['_'],
+            meta=translations[lang_id]['meta'],
             translation=translations[lang_id][form_id])
     except KeyError:
         abort(404)

@@ -21,4 +21,18 @@
     {% endif %}
     {% endfor %}
 </ul>
+
+<footer class="language-footer">
+    {{ translations[lang_id].meta.switch }}
+
+    <ul class="inline">
+        {% for _lang_id in translations | sort %}
+        <li><a
+            href="{{ url_for('formularprojekt.language_route', lang_id=_lang_id) }}"
+            rel="alternate"
+            lang="{{_lang_id}}">
+            {{ translations[_lang_id].meta.language }}</a></li>
+        {% endfor %}
+    </ul>
+</footer>
 {% endblock %}

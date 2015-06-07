@@ -7,19 +7,6 @@
 {% block main %}
 <div class="disclaimer">{{translations[lang_id].meta.disclaimer}}</div>
 
-<aside>
-	<ul>
-		{% for _lang_id in available_languages %}
-		<li><a
-			href="{{ url_for('formularprojekt.translation_route', lang_id=_lang_id, form_id=form_id) }}"
-			rel="alternate"
-			lang="{{_lang_id}}">
-			{{ translations[_lang_id].meta.language }}
-		</a></li>
-		{% endfor %}
-	</ul>
-</aside>
-
 <dl>
 	<dt>title</dt>
 		<dd>{{forms[form_id].title}}</dd>
@@ -57,4 +44,18 @@
 		{% endfor %}
 	</tbody>
 </table>
+
+<footer class="language-footer">
+	{{ translations[lang_id].meta.switch }}
+
+	<ul class="inline">
+		{% for _lang_id in available_languages %}
+		<li><a
+			href="{{ url_for('formularprojekt.translation_route', lang_id=_lang_id, form_id=form_id) }}"
+			rel="alternate"
+			lang="{{_lang_id}}">
+			{{ translations[_lang_id].meta.language }}</a></li>
+		{% endfor %}
+	</ul>
+</footer>
 {% endblock %}

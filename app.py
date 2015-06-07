@@ -18,7 +18,14 @@ forms = {
         'title': 'Antrag auf Kindergeld',
         'date': datetime.date.today(),
         'rows': [
-            ('2.1.1', 'foo')
+            ('2.1.1', 'foo'),
+            ('0', 'Familienkasse'),
+            ('', 'Antrag auf Kindergeld'),
+            ('', 'Anzahl der beigefügten "Anlage Kind"'),
+            ('1', 'Angaben zur antragstellenden Person'),
+            ('', 'Name'),
+            ('', 'Titel'),
+            ('', 'Vorname'),
         ]
     }
 }
@@ -33,6 +40,13 @@ translations = {
         },
         'kindergeld': {
             'foo': 'bar',
+            'Familienkasse': 'Family Benefits Office',
+            'Antrag auf Kindergeld': 'Application for child benefit',
+            'Anzahl der beigefügten "Anlage Kind"': 'Number of attached enclosure "Anlage Kind"',
+            'Angaben zur antragstellenden Person': 'Information regarding the applicant',
+            'Name': 'Surname',
+            'Titel': 'Title',
+            'Vorname': 'First name',
         }
     },
     'de': {

@@ -3,7 +3,9 @@
 
 from __future__ import unicode_literals
 
+import os
 import sys
+import json
 import datetime
 import argparse
 
@@ -30,46 +32,25 @@ forms = {
         ]
     }
 }
-translations = {
-    'en': {
-        'meta': {
-            'Disclaimer': 'This is an unofficial translation',
-            'language': 'English',
-            'Deutsch': 'German',
-            'Sprache wechseln:': 'Switch language:',
-            'Über dieses Projekt': 'About this Project',
-            'Übersetzte Dokumente': 'Translated documents',
-            'Titel': 'Title',
-            'Sprache': 'Language',
-            'Zuletzt aktualisiert': 'Last update',
-            'Originaldokument': 'Source document',
-        },
-        'kindergeld': {
-            'foo': 'bar',
-            'Familienkasse': 'Family Benefits Office',
-            'Antrag auf Kindergeld': 'Application for child benefit',
-            'Anzahl der beigefügten "Anlage Kind"': 'Number of attached enclosure "Anlage Kind"',
-            'Angaben zur antragstellenden Person': 'Information regarding the applicant',
-            'Name': 'Surname',
-            'Titel': 'Title',
-            'Vorname': 'First name',
-        }
-    },
-    'de': {
-        'meta': {
-            'language': 'Deutsch',
-            'about': ('Das Projekt "Formulare verstehbar machen" der KuB '
-                'Berlin soll Flüchtlingen und Migrant_innen helfen, sich im '
-                'deutschen Amtsdschungel zurechtzufinden.  Ehrenamtliche '
-                'Übersetzer_innen übersetzen Formulare in nachgefragte '
-                'Sprachen. Wir stellen allen Interessierten die Ergebnisse '
-                'auf dieser Seite zur Verfügung.'),
-        },
-        'kindergeld': {
-            'foo': 'blub',
-        }
-    }
-}
+
+
+translations = {}
+
+
+def load_translations(top):
+    for dirpath, dirnames, filenames in os.walk(top):
+        for filename in filenames:
+            form_id = os.path.basename(dirpath)
+            path = os.path.join(dirpath, filename)
+
+            if filename.endswith('.json'):
+                lang_id = filename[:-5]
+
+                if not lang_id in translations:
+                    translations[lang_id] = {}
+
+                with open(path) as fh:
+                    translations[lang_id][form_id] = json.load(fh)
 
 
 @formularprojekt.app_template_filter('translate')
@@ -157,6 +138,7 @@ def parse_args(argv=None):
 
 def main():  # pragma: no cover
     args = parse_args()
+    load_translations('data')
 
     if args.cmd == 'serve':
         app = create_app(args)

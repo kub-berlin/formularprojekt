@@ -1,3 +1,6 @@
+{% extends 'base.html' %}'
+
+{% block main %}
 <ul>
     {% for form_id in translations[lang_id] %}
     {% if form_id != 'meta' %}
@@ -7,3 +10,4 @@
     {% endif %}
     {% endfor %}
 </ul>
+{% endblock %}

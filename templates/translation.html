@@ -1,3 +1,6 @@
+{% extends 'base.html' %}'
+
+{% block main %}
 <div class="disclaimer">{{translations[lang_id].meta.disclaimer}}</div>
 
 <dl>
@@ -27,3 +30,4 @@
 		{% endfor %}
 	</tbody>
 </table>
+{% endblock %}

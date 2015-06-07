@@ -49,7 +49,7 @@
 	{{ translations[lang_id].meta.switch }}
 
 	<ul class="inline">
-		{% for _lang_id in available_languages %}
+		{% for _lang_id in available_languages | sort %}
 		<li><a
 			href="{{ url_for('formularprojekt.translation_route', lang_id=_lang_id, form_id=form_id) }}"
 			rel="alternate"

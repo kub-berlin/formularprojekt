@@ -6,8 +6,6 @@ import datetime
 import argparse
 
 from flask import Flask, Blueprint, render_template
-from flask import current_app, url_for
-from flask import Markup, escape
 from flask import abort
 from flask_frozen import Freezer
 from flask.ext.markdown import Markdown
@@ -42,7 +40,7 @@ def index_route():
 
 @formularprojekt.route('/<lang_id>/')
 def language_route(lang_id):
-    if not lang_id in translations:
+    if lang_id not in translations:
         abort(404)
 
     return render_template(

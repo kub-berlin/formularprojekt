@@ -16,6 +16,7 @@ formularprojekt = Blueprint('formularprojekt', __name__)
 forms = {
     'kindergeld': {
         'title': 'Antrag auf Kindergeld',
+        'url': 'http://www.arbeitsagentur.de/web/wcm/idc/groups/public/d',
         'date': datetime.date.today(),
         'rows': [
             ('2.1.1', 'foo'),

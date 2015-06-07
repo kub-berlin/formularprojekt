@@ -15,29 +15,11 @@ from flask_frozen import Freezer
 from flask.ext.markdown import Markdown
 
 formularprojekt = Blueprint('formularprojekt', __name__)
-forms = {
-    'kindergeld': {
-        'title': 'Antrag auf Kindergeld',
-        'url': 'http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378287.pdf',
-        'date': datetime.date.today(),
-        'rows': [
-            ('2.1.1', 'foo'),
-            ('0', 'Familienkasse'),
-            ('', 'Antrag auf Kindergeld'),
-            ('', 'Anzahl der beigefügten "Anlage Kind"'),
-            ('1', 'Angaben zur antragstellenden Person'),
-            ('', 'Name'),
-            ('', 'Titel'),
-            ('', 'Vorname'),
-        ]
-    }
-}
-
-
+forms = {}
 translations = {}
 
 
-def load_translations(top):
+def load_data(top):
     for dirpath, dirnames, filenames in os.walk(top):
         for filename in filenames:
             form_id = os.path.basename(dirpath)
@@ -46,11 +28,14 @@ def load_translations(top):
             if filename.endswith('.json'):
                 lang_id = filename[:-5]
 
-                if not lang_id in translations:
-                    translations[lang_id] = {}
-
-                with open(path) as fh:
-                    translations[lang_id][form_id] = json.load(fh)
+                if lang_id == 'form':
+                    with open(path) as fh:
+                        forms[form_id] = json.load(fh)
+                else:
+                    if not lang_id in translations:
+                        translations[lang_id] = {}
+                    with open(path) as fh:
+                        translations[lang_id][form_id] = json.load(fh)
 
 
 @formularprojekt.app_template_filter('translate')
@@ -138,7 +123,7 @@ def parse_args(argv=None):
 
 def main():  # pragma: no cover
     args = parse_args()
-    load_translations('data')
+    load_data('data')
 
     if args.cmd == 'serve':
         app = create_app(args)

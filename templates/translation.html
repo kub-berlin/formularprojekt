@@ -1,5 +1,9 @@
 {% extends 'base.html' %}'
 
+{% block head %}
+<title>{{ translations[lang_id].meta.formularprojekt }} - {{ forms[form_id].title }}</title>
+{% endblock %}
+
 {% block main %}
 <div class="disclaimer">{{translations[lang_id].meta.disclaimer}}</div>
 

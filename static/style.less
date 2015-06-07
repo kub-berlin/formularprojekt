@@ -19,4 +19,24 @@ dd {
 
 .translation-table {
     width: 100%;
+    font-size: small;
+
+    tr {
+        border: 0;
+    }
+    td, th {
+        border: 1px solid @color-border;
+    }
+    th {
+        text-transform: uppercase;
+    }
+
+    tbody {
+        tr:nth-child(odd) {
+            background: @color-bg-tint;
+        }
+        tr.structure {
+            font-weight: bold;
+        }
+    }
 }

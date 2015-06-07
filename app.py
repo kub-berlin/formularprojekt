@@ -73,6 +73,14 @@ translations = {
 }
 
 
+@formularprojekt.app_template_filter('translate')
+def translate_filter(s, lang_id, form_id):
+    try:
+        return translations[lang_id][form_id][s]
+    except KeyError:
+        return s
+
+
 @formularprojekt.route('/')
 def index_route():
     return render_template(
@@ -107,7 +115,6 @@ def translation_route(lang_id, form_id):
 
     return render_template(
         'translation.html',
-        translations=translations,
         forms=forms,
         lang_id=lang_id,
         form_id=form_id,

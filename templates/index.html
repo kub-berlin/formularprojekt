@@ -7,7 +7,7 @@
     <ul class="inline">
         {% for lang_id in translations | sort %}
         <li><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
-            {{ translations[lang_id].meta.language }}</a></li>
+            {{ 'language' | translate(lang_id, 'meta') }}</a></li>
         {% endfor %}
     </ul>
 </div>

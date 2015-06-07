@@ -154,7 +154,7 @@ def main():  # pragma: no cover
 
     if args.cmd == 'serve':
         app = create_app(args)
-        app.run()
+        app.run(port=args.port)
     else:
         freezer = create_freezer()
         freezer.freeze()

@@ -38,8 +38,8 @@
         {% for row in forms[form_id].rows %}
         <tr class="{% if row[0] %}structure{% endif %}">
             <td>{{ row[0] }}</td>
-            <td>{{ row[1] }}</td>
-            <td>{{ row[1] | translate(lang_id, form_id) }}</td>
+            <td>{{ row[1] | markdown }}</td>
+            <td>{{ row[1] | translate(lang_id, form_id) | markdown }}</td>
         </tr>
         {% endfor %}
     </tbody>

@@ -3,8 +3,8 @@
 
 <head>
     <meta charset="utf-8" />
-    <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.ico" />
-    <link rel="stylesheet" type="text/css" href="/static/style.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}" />
     <meta name="viewport" content="width=device-width" />
 
     {% block head %}

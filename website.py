@@ -46,6 +46,14 @@ def translate_filter(s, lang_id, form_id):
         return s
 
 
+@formularprojekt.app_template_filter('text_direction')
+def text_direction_filter(lang_id):
+    try:
+        return translations[lang_id]['meta']['direction']
+    except KeyError:
+        return 'auto'
+
+
 @formularprojekt.route('/')
 def index_route():
     return render_template(

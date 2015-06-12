@@ -30,6 +30,7 @@
         <li><a
             href="{{ url_for('formularprojekt.language_route', lang_id=_lang_id) }}"
             rel="alternate"
+            dir="{{ _lang_id | text_direction }}"
             lang="{{_lang_id}}">
             {{ 'language' | translate(_lang_id, 'meta') }}</a></li>
         {% endfor %}

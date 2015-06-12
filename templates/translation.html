@@ -31,14 +31,14 @@
     <tbody>
         <tr class="title">
             <td></td>
-            <td>{{ forms[form_id].title }}</td>
+            <td dir="ltr" lang="de">{{ forms[form_id].title }}</td>
             <td>{{ forms[form_id].title | translate(lang_id, form_id) }}</td>
         </tr>
 
         {% for row in forms[form_id].rows %}
         <tr class="{% if row[0] %}structure{% endif %}">
             <td>{{ row[0] }}</td>
-            <td>{{ row[1] | markdown }}</td>
+            <td dir="ltr" lang="de">{{ row[1] | markdown }}</td>
             <td>{{ row[1] | translate(lang_id, form_id) | markdown }}</td>
         </tr>
         {% endfor %}
@@ -53,6 +53,7 @@
         <li><a
             href="{{ url_for('formularprojekt.translation_route', lang_id=_lang_id, form_id=form_id) }}"
             rel="alternate"
+            dir="{{ _lang_id | text_direction }}"
             lang="{{_lang_id}}">
             {{ 'language' | translate(_lang_id, 'meta') }}</a></li>
         {% endfor %}

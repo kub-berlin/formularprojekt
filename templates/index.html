@@ -2,11 +2,14 @@
 
 {% block main %}
 <div class="landing">
-    <h1>Wählen Sie eine Sprache</h1>
+    <h1 dir="ltr" lang="de">Wählen Sie eine Sprache</h1>
 
     <ul class="inline">
         {% for lang_id in translations | sort %}
-        <li><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
+        <li><a
+                href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}"
+                lang="{{ lang_id }}"
+                dir="{{ lang_id | text_direction }}">
             {{ 'language' | translate(lang_id, 'meta') }}</a></li>
         {% endfor %}
     </ul>

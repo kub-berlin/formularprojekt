@@ -7,18 +7,23 @@
 {% block main %}
 <div class="disclaimer">{{ 'Disclaimer' | translate(lang_id, 'meta') }}</div>
 
-<dl>
-    <dt>{{ 'Titel' | translate(lang_id, 'meta') }}</dt>
-        <dd>{{ forms[form_id].title }}</dd>
-    <dt>{{ 'Sprache' | translate(lang_id, 'meta') }}</dt>
-        <dd><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
+<table class="m-dl">
+    <tr>
+        <th>{{ 'Titel' | translate(lang_id, 'meta') }}</th>
+        <td>{{ forms[form_id].title }}</td>
+    </tr><tr>
+        <th>{{ 'Sprache' | translate(lang_id, 'meta') }}</th>
+        <td><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">
             {{ 'language' | translate(lang_id, 'meta') }}
-        </a></dd>
-    <dt>{{ 'Zuletzt aktualisiert' | translate(lang_id, 'meta') }}</dt>
-        <dd>{{ forms[form_id].date }}</dd>
-    <dt>{{ 'Originaldokument' | translate(lang_id, 'meta') }}</dt>
-        <dd><a href="{{ forms[form_id].url }}">{{ forms[form_id].url }}</a></dd>
-</dl>
+        </a></td>
+    </tr><tr>
+        <th>{{ 'Zuletzt aktualisiert' | translate(lang_id, 'meta') }}</th>
+        <td>{{ forms[form_id].date }}</td>
+    </tr><tr>
+        <th>{{ 'Originaldokument' | translate(lang_id, 'meta') }}</th>
+        <td><a href="{{ forms[form_id].url }}" class="overlong">{{ forms[form_id].url }}</a></td>
+    </tr>
+</table>
 
 <table class="translation-table">
     <thead>

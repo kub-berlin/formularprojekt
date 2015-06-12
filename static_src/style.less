@@ -10,15 +10,16 @@ h1, h2, h3, h4, h5, h6 {
     font-family: serif;
 }
 
-dt {
-    float: left;
-    clear: left;
-    width: 11.5em;
-    text-overflow: ellipsis;
+.overlong {
+    word-break: break-word;
 }
-dd {
-    margin-left: 12em;
-    word-wrap: break-word;
+
+table.m-dl {
+    td, th {
+        padding: 0;
+        border: 0;
+        text-align: start;
+    }
 }
 
 .translation-table {

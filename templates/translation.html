@@ -10,7 +10,7 @@
 <table class="m-dl">
     <tr>
         <th>{{ 'Titel' | translate(lang_id, 'meta') }}</th>
-        <td>{{ forms[form_id].title }}</td>
+        <td lang="de" dir="ltr">{{ forms[form_id].title }}</td>
     </tr><tr>
         <th>{{ 'Sprache' | translate(lang_id, 'meta') }}</th>
         <td><a href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}">

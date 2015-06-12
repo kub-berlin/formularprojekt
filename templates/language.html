@@ -16,7 +16,7 @@
 <ul>
     {% for form_id in translations[lang_id] | sort %}
     {% if form_id != 'meta' %}
-    <li><a href="{{ url_for('formularprojekt.translation_route', lang_id=lang_id, form_id=form_id) }}">
+    <li><a href="{{ url_for('formularprojekt.translation_route', lang_id=lang_id, form_id=form_id) }}" lang="de" dir="ltr">
         {{ forms[form_id].title }}
     </a></li>
     {% endif %}

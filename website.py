@@ -102,9 +102,12 @@ def create_app(settings=None):
     return app
 
 
-def create_freezer(*args, **kwargs):
-    freezer = Freezer(create_app(*args, **kwargs))
-    return freezer
+def create_freezer(app):
+    app.config.update({
+        'FREEZER_RELATIVE_URLS': True,
+        'FREEZER_REMOVE_EXTRA_FILES': True,
+    })
+    return Freezer(app)
 
 
 def parse_args(argv=None):
@@ -126,11 +129,12 @@ def main():  # pragma: no cover
     args = parse_args()
     load_data('data')
 
+    app = create_app(args)
+
     if args.cmd == 'serve':
-        app = create_app(args)
         app.run(port=args.port)
     else:
-        freezer = create_freezer()
+        freezer = create_freezer(app)
         freezer.freeze()
 
 

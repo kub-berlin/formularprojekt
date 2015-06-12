@@ -12,6 +12,7 @@
 
 <h2>{{ 'Übersetzte Dokumente' | translate(lang_id, 'meta') }}</h2>
 
+{% if any_translations %}
 <ul>
     {% for form_id in translations[lang_id] | sort %}
     {% if form_id != 'meta' %}
@@ -21,6 +22,9 @@
     {% endif %}
     {% endfor %}
 </ul>
+{% else %}
+<p>{{ 'Bisher keine Übersetzungen in dieser Sprache.' | translate(lang_id, 'meta') }}</p>
+{% endif %}
 
 <footer class="language-footer">
     {{ 'Sprache wechseln:' | translate(lang_id, 'meta') }}

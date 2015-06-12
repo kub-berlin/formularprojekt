@@ -6,7 +6,6 @@ from __future__ import unicode_literals
 import os
 import sys
 import json
-import datetime
 import argparse
 
 from flask import Flask, Blueprint, render_template
@@ -32,7 +31,7 @@ def load_data(top):
                     with open(path) as fh:
                         forms[form_id] = json.load(fh)
                 else:
-                    if not lang_id in translations:
+                    if lang_id not in translations:
                         translations[lang_id] = {}
                     with open(path) as fh:
                         translations[lang_id][form_id] = json.load(fh)

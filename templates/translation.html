@@ -57,6 +57,7 @@
         {% for _lang_id in available_languages | sort %}
         <li><a
             href="{{ url_for('formularprojekt.translation_route', lang_id=_lang_id, form_id=form_id) }}"
+            hreflang="{{_lang_id}}"
             rel="alternate"
             dir="{{ _lang_id | text_direction }}"
             lang="{{_lang_id}}">

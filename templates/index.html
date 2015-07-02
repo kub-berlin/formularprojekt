@@ -8,6 +8,7 @@
         {% for lang_id in translations | sort %}
         <li><a
                 href="{{ url_for('formularprojekt.language_route', lang_id=lang_id) }}"
+                hreflang="{{ lang_id }}"
                 lang="{{ lang_id }}"
                 dir="{{ lang_id | text_direction }}">
             {{ 'language' | translate(lang_id, 'meta') }}</a></li>

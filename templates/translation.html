@@ -25,7 +25,7 @@
     </tr>
 </table>
 
-<table class="translation-table">
+<table class="translation-table" dir="ltr">
     <thead>
         <tr>
             <th></th>
@@ -37,14 +37,14 @@
         <tr class="title">
             <td></td>
             <td dir="ltr" lang="de">{{ forms[form_id].title }}</td>
-            <td>{{ forms[form_id].title | translate(lang_id, form_id) }}</td>
+            <td dir="{{ lang_id | text_direction }}">{{ forms[form_id].title | translate(lang_id, form_id) }}</td>
         </tr>
 
         {% for row in forms[form_id].rows %}
         <tr class="{% if row[0] %}structure{% endif %}">
-            <td>{{ row[0] }}</td>
+            <td dir="{{ lang_id | text_direction }}">{{ row[0] }}</td>
             <td dir="ltr" lang="de">{{ row[1] | markdown }}</td>
-            <td>{{ row[1] | translate(lang_id, form_id) | markdown }}</td>
+            <td dir="{{ lang_id | text_direction }}">{{ row[1] | translate(lang_id, form_id) | markdown }}</td>
         </tr>
         {% endfor %}
     </tbody>

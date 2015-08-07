@@ -29,8 +29,8 @@
     <thead>
         <tr>
             <th></th>
-            <th>{{ 'Deutsch' | translate(lang_id, 'meta') }}</th>
-            <th>{{ 'language' | translate(lang_id, 'meta') }}</th>
+            <th dir="{{ lang_id | text_direction }}">{{ 'Deutsch' | translate(lang_id, 'meta') }}</th>
+            <th dir="{{ lang_id | text_direction }}">{{ 'language' | translate(lang_id, 'meta') }}</th>
         </tr>
     </thead>
     <tbody>

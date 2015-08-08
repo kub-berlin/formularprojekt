@@ -42,7 +42,15 @@ def translate_filter(s, lang_id, form_id):
     try:
         return translations[lang_id][form_id][s]
     except KeyError:
-        return s
+        pass
+
+    if form_id == 'meta':
+        try:
+            return translations['de'][form_id][s]
+        except:
+            pass
+
+    return s
 
 
 @formularprojekt.app_template_filter('text_direction')
@@ -106,7 +114,7 @@ def create_app(settings=None):
 
 def create_freezer(app):
     app.config.update({
-        'FREEZER_RELATIVE_URLS': True,
+        'FREEZER_BASE_URL': '/formularprojekt/',
         'FREEZER_REMOVE_EXTRA_FILES': True,
     })
     return Freezer(app)

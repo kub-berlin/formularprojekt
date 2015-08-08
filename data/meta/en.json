@@ -1,7 +1,10 @@
 {
+    "about": "This website is used to publish translation tables for official forms. They are supposed to help refugees and migrants to cope with the german administrative chaos.\n\nThe translations this is based on are published by [KuB Berlin](//www.kub-berlin.org/formularprojekt/). They are created by volunteers and are not official.\n\nSince filling in the forms is very complicated, it is recommended to seek consultation.",
+    "Bisher keine Übersetzungen in dieser Sprache.": "No translations for this language yet.",
     "Deutsch": "German",
     "direction": "ltr",
-    "Disclaimer": "This is an unofficial translation",
+    "disclaimer": "**Warning:** This translation was created by volunteers and is not official!",
+    "Formularprojekt": "Formproject",
     "language": "English",
     "Originaldokument": "Source document",
     "Sprache": "Language",

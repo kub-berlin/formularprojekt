@@ -14,7 +14,9 @@
 
 <body>
     <header>
-        <a rel="home" href="{{ url_for('formularprojekt.index_route') }}">Home</a>
+        <h1 class="page-title">
+            <a rel="home" href="{{ url_for('formularprojekt.index_route') }}">{{ 'Formularprojekt' | translate(lang_id, 'meta') }}</a>
+        </h1>
     </header>
 
     <main id="main">

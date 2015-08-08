@@ -14,6 +14,9 @@ h1, h2, h3, h4, h5, h6 {
     word-break: break-all;
 }
 
+table th {
+    text-align: center;
+}
 table.m-dl {
     td, th {
         padding: 0;
@@ -23,6 +26,13 @@ table.m-dl {
     td {
         padding: 0 0.5em;
     }
+}
+// compatibility for text-align: start
+html[dir=ltr] table.m-dl th {
+    text-align: left;
+}
+html[dir=rtl] table.m-dl th {
+    text-align: right;
 }
 
 .translation-table {

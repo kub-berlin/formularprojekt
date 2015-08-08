@@ -14,9 +14,11 @@
 
 <body>
     <header>
+        {% block header %}
         <h1 class="page-title">
             <a rel="home" href="{{ url_for('formularprojekt.index_route') }}">{{ 'Formularprojekt' | translate(lang_id, 'meta') }}</a>
         </h1>
+        {% endblock header %}
     </header>
 
     <main id="main">

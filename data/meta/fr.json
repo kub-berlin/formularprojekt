@@ -1,13 +1,16 @@
 {
-    "Deutsch": "Allemand",
     "direction": "ltr",
-    "Disclaimer": "Ceci est une traduction non officielle",
-    "language": "Française",
-    "Originaldokument": "Document original",
-    "Sprache": "Langue",
-    "Sprache wechseln:": "Changer de langue:",
-    "Titel": "Titre",
-    "Über dieses Projekt": "À propos de ce projet:",
+    "Deutsch": "allemand",
+    "language": "français",
+    "Formularprojekt": "Projet base de données formulaires",
+    "Über dieses Projekt": "Sur ce projet",
     "Übersetzte Dokumente": "Documents traduits",
-    "Zuletzt aktualisiert": "Dernière actualisation"
+    "Bisher keine Übersetzungen in dieser Sprache.": "Pas de traductions disponibles en cette langue.",
+    "Sprache": "Langue",
+    "Titel": "Titre",
+    "Zuletzt aktualisiert": "Dernière mise à jour",
+    "Originaldokument": "Document original",
+    "Sprache wechseln:": "Changer la langue :",
+    "disclaimer": "**Attention :** Cette traduction a été fait par des volontaires. Elle n'est pas officielle !",
+    "about": "Sur ce site web, nous publions la traduction du vocabulaire utilisé dans des formulaires officielles.  Ce faisant, nous voulons aider des refugé-e-s et immigrant-e-s à s'orienter dans le labyrinthe administratif de l'Allemagne.\n\nLes traductions sont provisionnées par la [KuB Berlin](//www.kub-berlin.org/formularprojekt/).  Elles sont faites par des volontaires. Elles ne sont pas officielles !\n\nEn remplissant ces formulaires, des erreurs occurent faciliment, c'est pourquoi nous recommandons à se laisser consulter."
 }

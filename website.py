@@ -13,6 +13,12 @@ from flask import abort
 from flask_frozen import Freezer
 from flask.ext.markdown import Markdown
 
+from colorama import Fore
+
+INCOMPLETE = 1
+MISSING = 2
+EXTRA = 3
+
 formularprojekt = Blueprint('formularprojekt', __name__)
 forms = {}
 translations = {}
@@ -35,6 +41,67 @@ def load_data(top):
                         translations[lang_id] = {}
                     with open(path) as fh:
                         translations[lang_id][form_id] = json.load(fh)
+
+
+def log(s, style=None, indent=0):
+    if sys.stdout.isatty():
+        reset = Fore.RESET
+
+        if style == INCOMPLETE:
+            color = Fore.GREEN
+        elif style == MISSING:
+            color = Fore.YELLOW
+        elif style == EXTRA:
+            color = Fore.RED
+        else:
+            color = ''
+    else:
+        reset = ''
+        color = ''
+
+    print(' ' * indent + color + s + reset)
+
+def check_translations(verbose=False):
+    langs = translations.keys()
+
+    for form_id, form in forms.items():
+        print(form_id)
+
+        keys = set([r[1] for r in form['rows']])
+        n = len(keys)
+
+        for lang_id in langs:
+            if form_id in translations[lang_id]:
+                translation = translations[lang_id][form_id]
+                tkeys = set(translation.keys())
+
+                translated = tkeys.intersection(keys)
+                untranslated = keys.difference(tkeys)
+                extra = tkeys.difference(keys)
+            else:
+                translated = []
+                untranslated = []
+                extra = []
+
+            if len(extra) > 0:
+                style = EXTRA
+            elif len(translated) == 0:
+                style = MISSING
+            elif len(translated) < n:
+                style = INCOMPLETE
+            else:
+                style = None
+
+            s = '  %s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
+            log(s, style, 2)
+
+            if verbose:
+                for s in untranslated:
+                    log(s, MISSING, 4)
+                for s in extra:
+                    log(s, EXTRA, 4)
+
+        print('')
 
 
 @formularprojekt.app_template_filter('translate')
@@ -128,6 +195,10 @@ def parse_args(argv=None):
     parser_build = subparsers.add_parser('build', help='generate static HTML')
     parser_build.set_defaults(cmd='build')
 
+    parser_check = subparsers.add_parser('check', help='validate translations')
+    parser_check.add_argument('--verbose', '-v', action='store_true')
+    parser_check.set_defaults(cmd='check')
+
     parser_serve = subparsers.add_parser('serve', help='run a test server')
     parser_serve.add_argument('--port', '-p', type=int, default=8000)
     parser_serve.set_defaults(cmd='serve')
@@ -143,6 +214,8 @@ def main():  # pragma: no cover
 
     if args.cmd == 'serve':
         app.run(port=args.port)
+    elif args.cmd == 'check':
+        check_translations(args.verbose)
     else:
         freezer = create_freezer(app)
         freezer.freeze()

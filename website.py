@@ -61,12 +61,11 @@ def log(s, style=None, indent=0):
 
     print(' ' * indent + color + s + reset)
 
-def check_translations(verbose=False):
-    langs = translations.keys()
 
-    for form_id, form in forms.items():
+def _check_form(form_id, langs, verbose):
         print(form_id)
 
+        form = forms[form_id]
         keys = set([r[1] for r in form['rows']])
         n = len(keys)
 
@@ -102,6 +101,19 @@ def check_translations(verbose=False):
                     log(s, EXTRA, 4)
 
         print('')
+
+
+def check_translations(form_id=None, lang_id=None, verbose=False):
+    if lang_id is None:
+        langs = translations.keys()
+    else:
+        langs = [lang_id]
+
+    if form_id is None:
+        for form_id in forms.keys():
+            _check_form(form_id, langs, verbose)
+    else:
+        _check_form(form_id, langs, verbose)
 
 
 @formularprojekt.app_template_filter('translate')
@@ -197,6 +209,8 @@ def parse_args(argv=None):
 
     parser_check = subparsers.add_parser('check', help='validate translations')
     parser_check.add_argument('--verbose', '-v', action='store_true')
+    parser_check.add_argument('--lang', '-l')
+    parser_check.add_argument('form', nargs='?')
     parser_check.set_defaults(cmd='check')
 
     parser_serve = subparsers.add_parser('serve', help='run a test server')
@@ -215,7 +229,7 @@ def main():  # pragma: no cover
     if args.cmd == 'serve':
         app.run(port=args.port)
     elif args.cmd == 'check':
-        check_translations(args.verbose)
+        check_translations(args.form, args.lang, args.verbose)
     else:
         freezer = create_freezer(app)
         freezer.freeze()

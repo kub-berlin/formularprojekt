@@ -67,6 +67,8 @@ def _check_form(form_id, langs, verbose):
 
         form = forms[form_id]
         keys = set([r[1] for r in form['rows']])
+        if '' in keys:
+            keys.remove('')
         n = len(keys)
 
         for lang_id in langs:

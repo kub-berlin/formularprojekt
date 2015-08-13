@@ -91,7 +91,7 @@ def _check_form(form_id, langs, verbose):
             else:
                 style = None
 
-            s = '  %s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
+            s = '%s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
             log(s, style, 2)
 
             if verbose:

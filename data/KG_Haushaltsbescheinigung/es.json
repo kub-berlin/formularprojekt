@@ -25,7 +25,7 @@
   "Dienstsiegel oder Stempel": "Sello oficial",
   "Name und Vorname des/der Kindergeldberechtigten": "Apellido/s y nombre/s del solicitante del subsidio por hijos a cargo",
   "Haushaltsbescheinigung": "Certificado de composici\u00f3n de hogar",
-  "(Name)                                          (Vorname)": "(Apellido/s) (Nombre/s)",
+  "(Name) (Vorname)": "(Apellido/s) (Nombre/s)",
   "B. Amtliche Bescheinigung der Angaben": "B. Confirmaci\u00f3n oficial de los datos",
   "Hinweise": "Indicaciones",
   "Kindergeld kann Ihnen grunds\u00e4tzlich f\u00fcr die Kinder gezahlt werden, die zu Ihrem Haushalt geh\u00f6ren. Eine Haushaltszugeh\u00f6rigkeit liegt nur vor, wenn das Kind st\u00e4ndig in Ihrem Haushalt lebt, von Ihnen betreut und erzogen wird und aus den Mitteln Ihres Haushalts versorgt wird. Allein die blo\u00dfe Anmeldung eines Kindes bei einer Meldebeh\u00f6rde f\u00fchrt nicht zur Haushaltszugeh\u00f6rigkeit. W\u00e4hrend einer zeitweiligen ausw\u00e4rtigen Unterbringung zur Schul- oder Berufsausbildung bleibt eine bestehende Haushaltszugeh\u00f6rigkeit erhalten.": "El derecho al subsidio por hijos a cargo le corresponde a aquellos que forman parte del hogar, circunstancia que se da por cumplida si es su residencia habitual, el n\u00facleo de su cuidado y educaci\u00f3n y si se financia por las rentas y los ingresos que se generan en el propio hogar. El mero empadronamiento no significa necesariamente que un/a hijo/a forme parte del hogar. En cambio, el alojamiento temporal fuera del hogar a efectos de la educaci\u00f3n escolar o profesional no interrumpe la composici\u00f3n del hogar familiar.",
@@ -35,5 +35,5 @@
   "Zu meinem Haushalt unter der oben angegebenen Anschrift geh\u00f6ren folgende Kinder:": "Relaci\u00f3n de hijos a cargo listados en la solicitud de subsidio / en el cuestionario por orden de nacimiento (empezando por el/la mayor)",
   "zur Vorlage bei der Familienkasse": "para ser presentado ante la Caja de Prestaciones Familiares",
   "In Deutschland seit **)": "Estancia en Alemania desde **)",
-  "Nr.      Name und Vorname des Kindes": "N\u00famero\u2026..Apellido/s y nombre/s del hijo"
+  "Name und Vorname des Kindes": "Apellido/s y nombre/s del hijo"
 }

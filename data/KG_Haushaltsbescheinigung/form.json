@@ -40,15 +40,15 @@
     ],
     [
       "",
-      "(Name)                                          (Vorname)"
+      "(Name) (Vorname)"
     ],
     [
       "",
-      "geboren am:                                            "
+      "geboren am:"
     ],
     [
       "",
-      " Familienstand:"
+      "Familienstand:"
     ],
     [
       "",
@@ -56,11 +56,11 @@
     ],
     [
       "",
-      "(Stra\u00dfe/Platz, Hausnummer)                             "
+      "(Stra\u00dfe/Platz, Hausnummer)"
     ],
     [
       "",
-      " (Postleitzahl, Wohnort)"
+      "(Postleitzahl, Wohnort)"
     ],
     [
       "",
@@ -128,7 +128,7 @@
     ],
     [
       "",
-      "(Ort)                                    "
+      "(Ort)"
     ],
     [
       "",
@@ -140,7 +140,7 @@
     ],
     [
       "",
-      "Nr.      Name und Vorname des Kindes"
+      "Name und Vorname des Kindes"
     ],
     [
       "",

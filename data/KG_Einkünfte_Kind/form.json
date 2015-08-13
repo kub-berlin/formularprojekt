@@ -1,0 +1,463 @@
+{
+  "url": "",
+  "date": "1970-01-01",
+  "rows": [
+    [
+      "",
+      "Name und Vorname des/der Kindergeldberechtigten"
+    ],
+    [
+      "",
+      "Kindergeld-Nr."
+    ],
+    [
+      "",
+      "Steuer-ID"
+    ],
+    [
+      "",
+      "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:"
+    ],
+    [
+      "",
+      "Erkl\u00e4rung zu den Eink\u00fcnften und Bez\u00fcgen eines \u00fcber 18 Jahre alten Kindes f\u00fcr Zeitr\u00e4ume bis 31.12.2011"
+    ],
+    [
+      "",
+      "Beachten Sie bitte die beiliegenden Hinweise zum Ausf\u00fcllen des Erkl\u00e4rungsvordrucks und zu den erforderlichen Nachweisen."
+    ],
+    [
+      "",
+      "f\u00fcr das Kalenderjahr 20                "
+    ],
+    [
+      "",
+      "Angaben zum Kind:"
+    ],
+    [
+      "",
+      "Name "
+    ],
+    [
+      "",
+      "Vorname  "
+    ],
+    [
+      "",
+      "Geburtsdatum"
+    ],
+    [
+      "",
+      "Familienstand: "
+    ],
+    [
+      "",
+      "ledig    "
+    ],
+    [
+      "",
+      "seit "
+    ],
+    [
+      "",
+      "verheiratet "
+    ],
+    [
+      "",
+      "eingetragene Lebenspartnerschaft"
+    ],
+    [
+      "",
+      "verwitwet"
+    ],
+    [
+      "",
+      "geschieden "
+    ],
+    [
+      "",
+      "dauernd getrennt lebend"
+    ],
+    [
+      "",
+      "Hatte das Kind"
+    ],
+    [
+      "",
+      " Einnahmen aus nichtselbst\u00e4ndiger Arbeit (Arbeitnehmert\u00e4tigkeit)? "
+    ],
+    [
+      "",
+      "ja"
+    ],
+    [
+      "",
+      "nein "
+    ],
+    [
+      "",
+      "Versorgungsbez\u00fcge (z. B. Hinterbliebenenbez\u00fcge nach Beamtenrecht)?"
+    ],
+    [
+      "",
+      "ja "
+    ],
+    [
+      "",
+      "nein "
+    ],
+    [
+      "",
+      "Wenn eine der Fragen mit \u201eja\u201c beantwortet wurde:"
+    ],
+    [
+      "",
+      "Im Kalenderjahr"
+    ],
+    [
+      "",
+      "Art der Einnahmen"
+    ],
+    [
+      "",
+      "Von  \u2026     bis"
+    ],
+    [
+      "",
+      "Bruttobetrag insgesamt EUR"
+    ],
+    [
+      "",
+      "Hatte das Kind Einnahmen aus"
+    ],
+    [
+      "",
+      "selbst\u00e4ndiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft? "
+    ],
+    [
+      "",
+      "ja"
+    ],
+    [
+      "",
+      "nein  "
+    ],
+    [
+      "",
+      "Vermietung und Verpachtung? "
+    ],
+    [
+      "",
+      "ja"
+    ],
+    [
+      "",
+      "nein"
+    ],
+    [
+      "",
+      "Kapitalverm\u00f6gen? "
+    ],
+    [
+      "",
+      "ja"
+    ],
+    [
+      "",
+      "nein"
+    ],
+    [
+      "",
+      "Wenn eine der Fragen mit \u201eja\u201c beantwortet wurde:"
+    ],
+    [
+      "",
+      "Im Kalenderjahr                                    "
+    ],
+    [
+      "",
+      "Art der Einnahmen"
+    ],
+    [
+      "",
+      "Von  \u2026   bis"
+    ],
+    [
+      "",
+      "Bruttobetrag insgesamt EUR"
+    ],
+    [
+      "",
+      "Erhielt das Kind Leistungen von einer Agentur f\u00fcr Arbeit?"
+    ],
+    [
+      "",
+      "ja"
+    ],
+    [
+      "",
+      "nein"
+    ],
+    [
+      "",
+      "Wenn ja:"
+    ],
+    [
+      "",
+      "Von der Agentur f\u00fcr Arbeit"
+    ],
+    [
+      "",
+      "Im Kalenderjahr"
+    ],
+    [
+      "",
+      "Art der Leistung"
+    ],
+    [
+      "",
+      "Kundennummer"
+    ],
+    [
+      "",
+      "Fortsetzung auf der R\u00fcckseite "
+    ],
+    [
+      "",
+      "Erhielt das Kind BAf\u00f6G oder andere Studienbeihilfen, Ausbildungshilfen bzw. Stipendien?"
+    ],
+    [
+      "",
+      "Wenn ja:"
+    ],
+    [
+      "",
+      "Im Kalenderjahr                                    "
+    ],
+    [
+      "",
+      "Art der Einnahmen"
+    ],
+    [
+      "",
+      "Von \u2026   bis"
+    ],
+    [
+      "",
+      "Bruttobetrag insgesamt EUR"
+    ],
+    [
+      "",
+      "Hatte das Kind andere als die in den Nrn. 1 bis 4 genannten Einnahmen?"
+    ],
+    [
+      "",
+      "ja"
+    ],
+    [
+      "",
+      "nein"
+    ],
+    [
+      "",
+      "Wenn ja:"
+    ],
+    [
+      "",
+      "Im Kalenderjahr"
+    ],
+    [
+      "",
+      "Art der Einnahmen"
+    ],
+    [
+      "",
+      "Von \u2026   bis"
+    ],
+    [
+      "",
+      "Bruttobetrag insgesamt EUR"
+    ],
+    [
+      "",
+      "Wurden f\u00fcr das Kind Leistungen im Sinne der Nrn. 3 bis 5 beantragt und steht die Entscheidung \u00fcber den Antrag noch aus?"
+    ],
+    [
+      "",
+      "wenn ja:"
+    ],
+    [
+      "",
+      "Art der Leistung:"
+    ],
+    [
+      "",
+      "bei welcher Stelle:"
+    ],
+    [
+      "",
+      "Antragstellung am:"
+    ],
+    [
+      "",
+      "Kundennummer/Aktenzeichen (falls bekannt):"
+    ],
+    [
+      "",
+      "Nur auszuf\u00fcllen, wenn das Kind verheiratet ist oder eine eingetragene Lebenspartnerschaft begr\u00fcndet hat:"
+    ],
+    [
+      "",
+      "Hatte der Ehegatte/Lebenspartner des Kindes Einnahmen, Versorgungsbez\u00fcge oder ihm zuflie\u00dfende Leistungen im Sinne der Nrn. 1 bis 5 ?"
+    ],
+    [
+      "",
+      "ja"
+    ],
+    [
+      "",
+      "nein"
+    ],
+    [
+      "",
+      "Wenn ja:"
+    ],
+    [
+      "",
+      "Im Kalenderjahr                                    "
+    ],
+    [
+      "",
+      "Art der Einnahmen"
+    ],
+    [
+      "",
+      "Von  \u2026  bis"
+    ],
+    [
+      "",
+      "Bruttobetrag insgesamt EUR"
+    ],
+    [
+      "",
+      "In folgenden Monaten flossen zus\u00e4tzliche Nettoeinnahmen zu (z.B. Urlaubsgeld, Weihnachtsgeld oder Gratifikationen):"
+    ],
+    [
+      "",
+      "Im Kalenderjahr"
+    ],
+    [
+      "",
+      "Art der Einnahmen"
+    ],
+    [
+      "",
+      "Von \u2026   bis"
+    ],
+    [
+      "",
+      "Nettobetrag insgesamt EUR"
+    ],
+    [
+      "",
+      "Erg\u00e4nzende Angaben (z.B. zu Werbungskosten, Betriebsausgaben, besonderen Ausbildungskosten) \u2013 bei Bedarf auf besonderem Blatt -:"
+    ],
+    [
+      "",
+      "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der \u00a7\u00a7 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt."
+    ],
+    [
+      "",
+      "Wir versichern, dass alle Angaben wahrheitsgetreu gemacht worden sind. Die erforderlichen Nachweise sind beigef\u00fcgt. Uns ist bekannt, dass Ver\u00e4nderungen gegen\u00fcber den gemachten Angaben unverz\u00fcglich der zust\u00e4ndigen Familienkasse anzuzeigen sind. "
+    ],
+    [
+      "",
+      "Ort und Datum"
+    ],
+    [
+      "",
+      "(Unterschrift des/der Berechtigten)"
+    ],
+    [
+      "",
+      "(Unterschrift des Kindes)"
+    ],
+    [
+      "",
+      "Hinweise zum Ausf\u00fcllen der Erkl\u00e4rung zu den Eink\u00fcnften und Bez\u00fcgen eines \u00fcber 18 Jahre alten Kindes f\u00fcr Zeitr\u00e4ume bis 31.12.2011 sowie zu den erforderlichen Nachweisen"
+    ],
+    [
+      "",
+      "Nach der bis 31.12.2011 geltenden Rechtslage werden \u00fcber 18 Jahre alte Kinder f\u00fcr den Kindergeldanspruch nicht ber\u00fccksichtigt, wenn ihre Eink\u00fcnfte und Bez\u00fcge die f\u00fcr das jeweilige Kalenderjahr geltende Einkommensgrenze \u00fcberschreiten (2004 bis 2009: 7.680 Euro; bis 2011: 8.004 Euro). Dieser Betrag verringert sich um ein Zw\u00f6lftel f\u00fcr jeden Kalendermonat, in dem das Kind am ersten Tag noch nicht 18 Jahre alt war. Ferner verringert sich der Betrag um ein Zw\u00f6lftel f\u00fcr jeden Kalendermonat, in dem die Anspruchsvoraussetzungen an keinem Tag vorliegen. Angaben m\u00fcssen f\u00fcr alle Monate gemacht werden, f\u00fcr die bereits Kindergeld gezahlt worden ist bzw. f\u00fcr die weiterhin Kindergeld beansprucht wird. Ab dem 01.01.2012 entf\u00e4llt die Eink\u00fcnfte- und Bez\u00fcgegrenze infolge des Steuervereinfachungsgesetzes 2011."
+    ],
+    [
+      "",
+      "Alle Eink\u00fcnfte und Bez\u00fcge des Kindes sind nachzuweisen!"
+    ],
+    [
+      "",
+      "Sofern sich bereits mitgeteilte und nachgewiesene Eink\u00fcnfte und Bez\u00fcge des Kindes nicht ge\u00e4ndert haben, sind sie im Vor- druck zwar anzugeben, jedoch nicht nochmals nachzuweisen; es reicht die Angabe \u201ebereits bekannt\"."
+    ],
+    [
+      "",
+      "Fallen Eink\u00fcnfte und Bez\u00fcge in mehreren Kalenderjahren an, sind sie f\u00fcr jedes Kalenderjahr gesondert anzugeben und nachzuweisen. "
+    ],
+    [
+      "",
+      "Zu den Einnahmen aus nichtselbst\u00e4ndiger Arbeit z\u00e4hlen alle Einnahmen aus Arbeitnehmert\u00e4tigkeiten, auch wenn diese nicht sozialversicherungspflichtig sind. Anzugeben sind z. B. auch Verg\u00fctungen aus einem Praktikanten-, Volont\u00e4r- oder Anlernverh\u00e4ltnis oder einem praktischen Studiensemester und Einnahmen wegen Ableistung eines freiwilligen sozialen oder \u00f6kologischen Jahres. Einnahmen aus einem Berufsausbildungsverh\u00e4ltnis sind nur dann anzugeben, wenn sie der Familienkasse noch nicht mit einer Erkl\u00e4rung zum Ausbildungsverh\u00e4ltnis und den Eink\u00fcnften nachgewiesen worden sind."
+    ],
+    [
+      "",
+      "Zu den Versorgungsbez\u00fcgen z\u00e4hlen Hinterbliebenenbez\u00fcge nach beamten- oder soldatenrechtlichen Vorschriften oder von be- rufsst\u00e4ndischen Versorgungseinrichtungen wie. z. B. Waisengeld, \u00dcbergangsgeb\u00fchrnisse bzw. Ausgleichsbez\u00fcge nach dem Sol- datenversorgungsgesetz."
+    ],
+    [
+      "",
+      "Die Einnahmen aus nichtselbst\u00e4ndiger Arbeit sind durch Lohn- bzw. Gehaltsabrechnungen oder Bescheinigungen des Arbeitgebers nachzuweisen. Aus den Nachweisen muss das Bruttoarbeitsentgelt einschlie\u00dflich Sachleistungen (z. B. Unterkunft und Ver- pflegung), Lohnzuschl\u00e4gen und einmaligen Zuwendungen wie z. B. Urlaubsgeld, Weihnachtsgeld, Gratifikationen sowie verm\u00f6- genswirksame Arbeitgeberleistungen ersichtlich sein. Zum Nachweis der Versorgungsbez\u00fcge ist der Bewilligungsbescheid oder eine Bescheinigung \u00fcber Dauer und H\u00f6he der Leistung vorzulegen."
+    ],
+    [
+      "",
+      "Von den Einnahmen werden Werbungskosten in H\u00f6he des Arbeitnehmer-Pauschbetrages (ab 2004: 920 Euro; f\u00fcr 2011: 1.000 Euro) und die Arbeitnehmeranteile zur gesetzlichen Sozialversicherung (Renten-, Kranken-, Pflege- und Arbeitslosenversiche- rung) von der Familienkasse abgezogen. Wenn die Werbungskosten den Arbeitnehmer-Pauschbetrag \u00fcbersteigen, m\u00fcssen sie unter Nr. 8 erl\u00e4utert werden; hierf\u00fcr kann bei der Familienkasse ein besonderer Vordruck angefordert werden."
+    ],
+    [
+      "",
+      "Einnahmen aus selbst\u00e4ndiger Arbeit, Gewerbebetrieb, Land- und Forstwirtschaft oder Vermietung und Verpachtung sind grund- s\u00e4tzlich durch den letzten Einkommensteuerbescheid glaubhaft zu machen; sie k\u00f6nnen aber auch durch Bescheinigungen von Steuerberatern, Buchf\u00fchrungsdiensten u. \u00e4. nachgewiesen werden."
+    ],
+    [
+      "",
+      "Alle Einnahmen aus Kapitalverm\u00f6gen (z. B. Zinsertr\u00e4ge, Dividenden) sind anzugeben, die in dem jeweiligen Kalenderjahr f\u00e4llig werden, auch wenn sie erst nach Ablauf des Jahres gutgeschrieben werden. Dies gilt auch, wenn Kindergeld nur f\u00fcr einen Teil des Jahres gezahlt wird und die F\u00e4lligkeit bereits vor Beginn oder erst nach dem Ende des Kindergeldbezugs eintritt. Die Ein- nahmen sind durch Bescheinigungen der Kreditinstitute, Kontoausz\u00fcge u. \u00e4. nachzuweisen."
+    ],
+    [
+      "",
+      "Die Betriebsausgaben bzw. Werbungskosten m\u00fcssen aus den Unterlagen ersichtlich sein oder unter Nr. 8 erl\u00e4utert werden. Bei Einnahmen aus Kapitalverm\u00f6gen wird bis zum Kalenderjahr 2008 der Werbungskosten-Pauschbetrag (51 Euro, bei Verheirateten 102 Euro) und ab dem Kalenderjahr 2009 der Sparer-Pauschbetrag (801 Euro, bei Verheirateten 1602 Euro) von der Familienkasse abgezogen."
+    ],
+    [
+      "",
+      "Anzugeben sind alle Leistungen, die das Kind von einer Agentur f\u00fcr Arbeit erh\u00e4lt, wie z. B. Berufsausbildungsbeihilfe, Ausbildungsgeld, Unterhaltsgeld, \u00dcbergangsgeld, Arbeitslosengeld."
+    ],
+    [
+      "",
+      "Anzugeben sind alle Leistungen, die das Kind von einer anderen Stelle als einer Agentur f\u00fcr Arbeit erh\u00e4lt, wie z. B. als Zuschuss gew\u00e4hrte Leistungen nach dem Bundesausbildungsf\u00f6rderungsgesetz (BAf\u00f6G), von Privatpersonen oder Stiftungen gezahlte Stipendien. Als Nachweis ist der Bewilligungsbescheid, eine Bescheinigung \u00fcber Dauer und H\u00f6he der Leistung oder \u00c4hnliches vorzulegen. "
+    ],
+    [
+      "",
+      "Anzugeben sind andere Einnahmen des Kindes, wie Renten aus den gesetzlichen Rentenversicherungen (Rente wegen Erwerbsminderung oder Halbwaisen- bzw. Waisenrente u. \u00e4.), Krankengeld, Mutterschaftsgeld, Arbeitslosengeld II, Sozialhilfeleistungen, Wohngeld, Renten aus der gesetzlichen Unfallversicherung, Leistungen nach dem Bundesversorgungsgesetz, Einnahmen aus einem Au-pair-Verh\u00e4ltnis im Ausland, Geld- und Sachbez\u00fcge von Wehrdienst- und Zivildienstleistenden einschlie\u00dflich Weihnachts- und Entlassungsgeld."
+    ],
+    [
+      "",
+      "Als Nachweis ist der Bewilligungsbescheid, eine Bescheinigung \u00fcber Dauer und H\u00f6he der Leistung oder \u00c4hnliches vorzulegen. Von sonstigen Einnahmen (z. B. Renten aus den gesetzlichen Rentenversicherungen) wird der Werbungskosten-Pauschbetrag in H\u00f6he von 102 Euro durch die Familienkasse abgezogen."
+    ],
+    [
+      "",
+      "Nicht anzugeben sind Unterhaltsleistungen der Eltern bzw. Erziehungsgeld."
+    ],
+    [
+      "",
+      "Anzugeben sind nur die seit dem Tag der Eheschlie\u00dfung bzw. der Begr\u00fcndung der Lebenspartnerschaft erzielten Nettoeinnahmen. Zum Nachweis sind die unter den Nrn. 1 bis 5 jeweils genannten Unterlagen vorzulegen. Wurden f\u00fcr den Ehegat- ten/Lebenspartner des Kindes Leistungen im Sinne der Nrn. 3 bis 5 beantragt und steht die Entscheidung \u00fcber den Antrag noch aus, sind entsprechende Angaben unter Nr. 8 zu machen."
+    ],
+    [
+      "",
+      "Anzugeben sind ggf. erh\u00f6hte Werbungskosten (in diesem Fall wird Ihnen die Familienkasse einen besonderen Vordruck \u00fcber- senden), besondere Ausbildungskosten usw. Unter besonderen Ausbildungskosten sind die tats\u00e4chlichen Aufwendungen f\u00fcr die Ausbildung zu verstehen, z. B. Fahrtkosten zur Universit\u00e4t, Studiengeb\u00fchren, Arbeitsmittel usw."
+    ]
+  ],
+  "title": "KG_Eink\u00fcnfte_Kind"
+}

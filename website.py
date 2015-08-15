@@ -119,19 +119,22 @@ def check_translations(form_id=None, lang_id=None, verbose=False):
 
 
 @formularprojekt.app_template_filter('translate')
-def translate_filter(s, lang_id, form_id):
+def translate_filter(s, lang_id, form_id, default=None):
     try:
         return translations[lang_id][form_id][s]
     except KeyError:
         pass
 
-    if form_id == 'meta':
-        try:
-            return translations['de'][form_id][s]
-        except:
-            pass
+    if default is None:
+        if form_id == 'meta':
+            try:
+                return translations['de'][form_id][s]
+            except:
+                pass
 
-    return s
+        return s
+    else:
+        return default
 
 
 @formularprojekt.app_template_filter('text_direction')

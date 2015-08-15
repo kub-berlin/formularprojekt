@@ -44,7 +44,7 @@
         <tr class="{% if row[0] %}structure{% endif %}">
             <td dir="{{ lang_id | text_direction }}">{{ row[0] }}</td>
             <td dir="ltr" lang="de">{{ row[1] | markdown }}</td>
-            <td dir="{{ lang_id | text_direction }}">{{ row[1] | translate(lang_id, form_id) | markdown }}</td>
+            <td dir="{{ lang_id | text_direction }}">{{ row[1] | translate(lang_id, form_id, default='') | markdown }}</td>
         </tr>
         {% endfor %}
     </tbody>

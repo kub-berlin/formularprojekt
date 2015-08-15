@@ -108,6 +108,7 @@ def _check_form(form_id, langs, verbose):
 def check_translations(form_id=None, lang_id=None, verbose=False):
     if lang_id is None:
         langs = translations.keys()
+        langs.remove('de')
     else:
         langs = [lang_id]
 

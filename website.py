@@ -181,7 +181,7 @@ def language_route(lang_id):
         translations=translations,
         forms=forms,
         lang_id=lang_id,
-        any_translations=len(translations[lang_id]) > 1)
+        any_translations=len(translations[lang_id]) > 0)
 
 
 @formularprojekt.route('/<lang_id>/<form_id>/')

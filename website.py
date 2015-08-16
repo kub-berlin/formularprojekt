@@ -21,6 +21,7 @@ EXTRA = 3
 
 formularprojekt = Blueprint('formularprojekt', __name__)
 forms = {}
+_translations = {}
 translations = {}
 
 
@@ -35,12 +36,30 @@ def load_data(top):
 
                 if lang_id == 'form':
                     with open(path) as fh:
-                        forms[form_id] = json.load(fh)
+                        form = json.load(fh)
+
+                        keys = set([r[1] for r in form['rows']])
+                        if '' in keys:
+                            keys.remove('')
+                        form['keys'] = keys
+
+                        forms[form_id] = form
                 else:
-                    if lang_id not in translations:
-                        translations[lang_id] = {}
+                    if lang_id not in _translations:
+                        _translations[lang_id] = {}
                     with open(path) as fh:
-                        translations[lang_id][form_id] = json.load(fh)
+                        _translations[lang_id][form_id] = json.load(fh)
+
+    for lang_id in _translations:
+        if 'meta' in _translations[lang_id]:
+            translations[lang_id] = {}
+            translations[lang_id]['meta'] = _translations[lang_id]['meta']
+
+            for form_id, translation in _translations[lang_id].items():
+                if form_id in forms:
+                    form = forms[form_id]
+                    if len(translation) >= 0.8 * len(form['keys']):
+                        translations[lang_id][form_id] = translation
 
 
 def log(s, style=None, indent=0):
@@ -66,14 +85,12 @@ def _check_form(form_id, langs, verbose):
         print(form_id)
 
         form = forms[form_id]
-        keys = set([r[1] for r in form['rows']])
-        if '' in keys:
-            keys.remove('')
+        keys = form['keys']
         n = len(keys)
 
         for lang_id in langs:
-            if form_id in translations[lang_id]:
-                translation = translations[lang_id][form_id]
+            if form_id in _translations[lang_id]:
+                translation = _translations[lang_id][form_id]
                 tkeys = set(translation.keys())
 
                 translated = tkeys.intersection(keys)
@@ -107,7 +124,7 @@ def _check_form(form_id, langs, verbose):
 
 def check_translations(form_id=None, lang_id=None, verbose=False):
     if lang_id is None:
-        langs = translations.keys()
+        langs = _translations.keys()
         langs.remove('de')
     else:
         langs = [lang_id]

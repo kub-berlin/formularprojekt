@@ -1,6 +1,6 @@
 {
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378295.pdf",
-  "date": "1970-01-01",
+  "date": "2009-05-01",
   "rows": [
     [
       "",
@@ -16,10 +16,6 @@
     ],
     [
       "",
-      "Haushaltsbescheinigung"
-    ],
-    [
-      "",
       "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:"
     ],
     [
@@ -28,11 +24,15 @@
     ],
     [
       "",
-      "zur Vorlage bei der Familienkasse"
+      "Haushaltsbescheinigung"
     ],
     [
       "",
-      "A. Erkl\u00e4rung \u00fcber die Haushaltszugeh\u00f6rigkeit von Kindern"
+      "zur Vorlage bei der Familienkasse"
+    ],
+    [
+      "A.",
+      "Erkl\u00e4rung \u00fcber die Haushaltszugeh\u00f6rigkeit von Kindern"
     ],
     [
       "",
@@ -111,8 +111,8 @@
       "(Unterschrift)"
     ],
     [
-      "",
-      "B. Amtliche Bescheinigung der Angaben"
+      "B,",
+      "Amtliche Bescheinigung der Angaben"
     ],
     [
       "",
@@ -137,10 +137,6 @@
     [
       "",
       "(Unterschrift)"
-    ],
-    [
-      "",
-      "Name und Vorname des Kindes"
     ],
     [
       "",

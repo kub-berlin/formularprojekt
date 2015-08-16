@@ -1,6 +1,6 @@
 {
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378299.pdf",
-  "date": "1970-01-01",
+  "date": "2009-05-01",
   "rows": [
     [
       "",
@@ -16,10 +16,6 @@
     ],
     [
       "",
-      "Lebensbescheinigung"
-    ],
-    [
-      "",
       "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:"
     ],
     [
@@ -28,10 +24,14 @@
     ],
     [
       "",
-      "zur Vorlage bei der Familienkasse"
+      "Lebensbescheinigung"
     ],
     [
       "",
+      "zur Vorlage bei der Familienkasse"
+    ],
+    [
+      "A.",
       "Erkl\u00e4rung \u00fcber Kinder, die au\u00dferhalb des Haushaltes wohnen"
     ],
     [
@@ -76,11 +76,11 @@
     ],
     [
       "",
-      "Name und Vorname des Kindes          "
+      "Name und Vorname des Kindes"
     ],
     [
       "",
-      "geboren am     "
+      "geboren am"
     ],
     [
       "",
@@ -88,7 +88,7 @@
     ],
     [
       "",
-      " In Deutschland seit **)"
+      "In Deutschland seit **)"
     ],
     [
       "",
@@ -131,8 +131,8 @@
       "(Unterschrift)"
     ],
     [
-      "",
-      " Bescheinigung"
+      "B.",
+      "Bescheinigung"
     ],
     [
       "",
@@ -140,15 +140,11 @@
     ],
     [
       "",
-      "Bemerkungen: "
+      "Bemerkungen:"
     ],
     [
       "",
-      "Dienstsiegel"
-    ],
-    [
-      "",
-      "oder Stempel, falls vorhanden"
+      "Dienstsiegel oder Stempel, falls vorhanden"
     ],
     [
       "",

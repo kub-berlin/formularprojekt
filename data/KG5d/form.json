@@ -1,6 +1,6 @@
 {
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mtay/~edisp/l6019022dstbai408118.pdf",
-  "date": "1970-01-01",
+  "date": "2014-04-01",
   "rows": [
     [
       "",
@@ -20,27 +20,15 @@
     ],
     [
       "",
-      "Erkl\u00e4rung"
-    ],
-    [
-      "",
-      "zu einer abgeschlossenen"
-    ],
-    [
-      "",
-      "Erstausbildung und Erwerbst\u00e4tigkeit"
-    ],
-    [
-      "",
-      "eines \u00fcber 18 Jahre alten Kindes"
-    ],
-    [
-      "",
       "Beachten Sie bitte die Hinweise zum Ausf\u00fcllen des Erkl\u00e4rungsvordrucks und zu den erforderlichen Nachweisen."
     ],
     [
       "",
-      "Angaben zum Kind:"
+      "Erkl\u00e4rung zu den Verhältnissen eines über 18 Jahre alten Kindes"
+    ],
+    [
+      "1",
+      "Angaben zur Person des Kindes"
     ],
     [
       "",
@@ -64,7 +52,7 @@
     ],
     [
       "",
-      "ledig "
+      "ledig"
     ],
     [
       "",
@@ -104,11 +92,11 @@
     ],
     [
       "",
-      "\u2026 vor\u00fcbergehend zu Ausbildungszwecken seit ... bei/in ...."
+      "vor\u00fcbergehend zu Ausbildungszwecken seit ... bei/in ...."
     ],
     [
       "",
-      "Hat das Kind eigene Kinder?                        "
+      "Hat das Kind eigene Kinder?"
     ],
     [
       "",
@@ -119,44 +107,120 @@
       "nein"
     ],
     [
-      "",
-      "Hat Ihr Kind bereits eine Berufsausbildung abgeschlossen?   "
+      "2",
+      "Weitere Angaben zum Kind (bitte Nachweise beifügen)"
     ],
     [
       "",
-      "Ja "
+      "Zeitraum 1"
     ],
     [
       "",
-      "nein"
+      "von"
     ],
     [
       "",
-      "Hat Ihr Kind bereits ein Studium abgeschlossen?      "
+      "bis"
     ],
     [
       "",
-      "ja   "
+      "ggf. Zeitraum 2"
     ],
     [
       "",
-      "nein"
+      "von"
     ],
     [
       "",
-      "Wenn ja,"
+      "bis"
     ],
     [
       "",
-      "Ende des Studiums am: "
+      "Mein unter 1 genanntes Kind"
     ],
     [
       "",
-      "Abschluss im Fach/in den F\u00e4chern:"
+      "hat das 21. Lebensjahr noch nicht vollendet, steht/stand nicht in einem Beschäftigungsverhältnis und ist/war bei der Bundesagentur für Arbeit als arbeitsuchend registriert."
     ],
     [
       "",
-      "Als akademischer Grad wurde verliehen:"
+      "kann/konnte eine Ausbildung bzw. ein Studium mangels Ausbildungsplatz bzw. Studienplatz (noch) nicht beginnen oder fortsetzen."
+    ],
+    [
+      "",
+      "Mein unter 1 genanntes Kind befindet/befand sich"
+    ],
+    [
+      "",
+      "in Schulausbildung."
+    ],
+    [
+      "",
+      "in Berufsausbildung."
+    ],
+    [
+      "",
+      "im Studium."
+    ],
+    [
+      "",
+      "in einer sonstigen Ausbildungsmaßnahme:"
+    ],
+    [
+      "",
+      "in einer Übergangszeit von höchstens vier Monaten (siehe Hinweise)."
+    ],
+    [
+      "",
+      "in einem Freiwilligendienst nach § 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d EStG bzw. § 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d BKGG (siehe Hinweise)."
+    ],
+    [
+      "",
+      "Mein unter 1 genanntes Kind"
+    ],
+    [
+      "",
+      "kann/konnte sich aufgrund einer körperlichen/geistigen/seelischen Behinderung nicht selbst unterhalten."
+    ],
+    [
+      "",
+      "Weiter bei Punkt 5; bitte füllen Sie zusätzlich das Formular KG 5f aus."
+    ],
+    [
+      "3",
+      "Angaben zur bisherigen Berufsausbildung / zum bisherigen Studium des Kindes (auch für Zeiträume vor Vollendung des 18. Lebensjahres)"
+    ],
+    [
+      "",
+      "Mein unter 1 genanntes Kind"
+    ],
+    [
+      "",
+      "hat bereits eine Ausbildung abgeschlossen/wird in Kürze eine Ausbildung abschließen."
+    ],
+    [
+      "",
+      "Berufsabschluss:"
+    ],
+    [
+      "",
+      "Ausbildungsende:"
+    ],
+    [
+      "",
+      "hat bereits ein Studium abgeschlossen/wird in Kürze ein Studium abschließen."
+    ],
+    [
+      "",
+      "im Fach/in den Fächern:"
+    ],
+    [
+      "",
+      "Ende des Studiums:"
+    ],
+    [
+      "",
+      "hat/wird folgenden akademischen Grad erhalten:"
     ],
     [
       "",
@@ -168,62 +232,82 @@
     ],
     [
       "",
-      "Nur wenn Sie Frage 1 bzw. Frage 2 mit \u201eja\u201c beantwortet haben, bitte ausf\u00fcllen:"
+      "Diplom"
     ],
     [
       "",
-      "\u00dcbt Ihr Kind"
+      "Zeitpunkt:"
     ],
     [
       "",
-      "a) eine geringf\u00fcgige Besch\u00e4ftigung (Minijob) aus bzw. wird es dies voraussichtlich tun?   "
+      "hat bisher noch keine Berufsausbildung bzw. noch kein Studium abgeschlossen."
+    ],
+    [
+      "4",
+      "Angaben zur Erwerbstätigkeit des Kindes"
     ],
     [
       "",
-      "Ja"
+      "(nur ausfüllen, wenn bereits eine Ausbildung/ein Studium abgeschlossen wurde)"
     ],
     [
       "",
-      "nein b) eine (weitere) Erwerbst\u00e4tigkeit aus bzw. wird es dies voraussichtlich tun?                 "
+      "Die der Familienkasse vorliegenden Angaben zur Erwerbstätigkeit haben sich nicht geändert."
     ],
     [
       "",
-      "Ja"
+      "Die der Familienkasse vorliegenden Angaben zur Erwerbstätigkeit werden sich voraussichtlich nicht ändern."
     ],
     [
       "",
-      "nein"
+      "Mein unter 1 genanntes Kind"
     ],
     [
       "",
-      "Wenn Sie a) oder b) mit \u201eja\u201c beantwortet haben, f\u00fcllen Sie bitte nachfolgende Tabelle aus (ggf. auf einem gesonderten Blatt). Bitte f\u00fcgen Sie entsprechende Nachweise bei."
+      "übt keine Erwerbstätigkeit aus/wird voraussichtlich keine Erwerbstätigkeit ausüben."
     ],
     [
       "",
-      "(voraussichtliche) Dauer"
+      "übt eine geringfügige Beschäftigung (Minijob) aus/wird voraussichtlich eine geringfügige Beschäftigung ausüben:"
     ],
     [
       "",
-      "Anschrift"
+      "von"
     ],
     [
       "",
-      "regelm\u00e4\u00dfige w\u00f6chentliche Arbeitszeit"
+      "bis"
     ],
     [
       "",
-      "von \u2013 bis:"
+      "(bitte Nachweise beifügen)"
     ],
     [
       "",
-      "Art der T\u00e4tigkeit             "
+      "übt folgende (weitere) Erwerbstätigkeit aus/wird voraussichtlich folgende (weitere) Erwerbstätigkeit ausüben:"
     ],
     [
       "",
-      "Dienstherr/Arbeitgeber"
+      "(bitte Verträge/Nachweise beifügen; ggf. Angaben auf einem gesonderten Blatt)"
     ],
     [
       "",
+      "(voraussichtliche) Dauer von – bis:"
+    ],
+    [
+      "",
+      "Art der Tätigkeit"
+    ],
+    [
+      "",
+      "Dienstherr/Arbeitgeber Anschrift"
+    ],
+    [
+      "",
+      "regelmäßige wöchentliche Arbeitszeit"
+    ],
+    [
+      "5",
       "Au\u00dferdem teile ich Folgendes mit:"
     ],
     [
@@ -248,7 +332,7 @@
     ],
     [
       "",
-      "Hinweise zur Erkl\u00e4rung zu einer abgeschlossenen Erstausbildung und Erwerbst\u00e4tigkeit eines \u00fcber 18 Jahre alten Kindes"
+      "Hinweise zur Erkl\u00e4rung zu den Verhältnissen eines \u00fcber 18 Jahre alten Kindes"
     ],
     [
       "",
@@ -272,11 +356,15 @@
     ],
     [
       "",
-      "b) sich in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten befindet oder"
+      "b) sich in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten befindet (siehe auch zu 2.) oder"
     ],
     [
       "",
-      "c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder d) einen geregelten Freiwilligendienst leistet oder"
+      "c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder"
+    ],
+    [
+      "",
+      "d) einen geregelten Freiwilligendienst leistet oder"
     ],
     [
       "",
@@ -284,15 +372,39 @@
     ],
     [
       "",
-      "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den F\u00e4llen der Nummer 2 (a bis d) nur ber\u00fccksichtigt, wenn das Kind keiner (sch\u00e4dlichen) Erwerbst\u00e4tigkeit nachgeht. Zu Unrecht erhaltenes Kindergeld muss zur\u00fcckgezahlt werden."
+      "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den F\u00e4llen der Nummer 2 (a bis d) nur ber\u00fccksichtigt, wenn das Kind keiner (sch\u00e4dlichen) Erwerbst\u00e4tigkeit nachgeht."
     ],
     [
       "",
-      "Zu 1 und zu 2 Angaben zur bisherigen Berufsausbildung / zum bisherigen Studium des Kindes Eine Ausbildung (Berufsausbildung oder Studium) ist abgeschlossen, wenn sie zur Aus\u00fcbung eines Berufs bef\u00e4higt, auch wenn sich daran eine darauf aufbauende weitere Ausbildung anschlie\u00dft. Die Angaben sind auch f\u00fcr Zeitr\u00e4ume vor Vollendung des 18. Lebensjahres zu machen."
+      "Zu Unrecht erhaltenes Kindergeld muss zur\u00fcckgezahlt werden."
+    ],
+    [
+      "Zu 2",
+      "Weitere Angaben zum Kind"
     ],
     [
       "",
-      "Zu 3 Angaben zur Erwerbst\u00e4tigkeit des Kindes"
+      "Für ein volljähriges, noch nicht 25 Jahre altes Kind besteht auch dann Anspruch auf Kindergeld, wenn es sich in einer Übergangszeit von höchstens vier Monaten befindet, die zwischen zwei Ausbildungsabschnitten oder zwischen einem Ausbildungsabschnitt und der Ableistung eines geregelten Freiwilligendienstes im Sinne des § 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d Einkommensteuergesetz (EStG) bzw. § 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d Bundeskindergeldgesetz (BKGG) liegt (siehe unten)."
+    ],
+    [
+      "",
+      "Nach § 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d EStG bzw. § 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d BKGG werden Kinder berücksichtigt, die einen geregelten Freiwilligendienst ableisten. Dazu gehören das freiwillige soziale Jahr und das freiwillige ökologische Jahr im Sinne des Jugendfreiwilligendienstegesetzes, der Europäische Freiwilligendienst („Jugend in Aktion“), der entwicklungspolitische Freiwilligendienst „weltwärts“, der Freiwilligendienst aller Generationen (§ 2 Absatz 1a SGB VII), der Internationale Jugendfreiwilligendienst im Sinne der Richtlinie des Bundesministeriums für Familie, Senioren, Frauen und Jugend vom 20.12.2010 (GMBI. S. 1778) und der Bundesfreiwilligendienst im Sinne des Bundesfreiwilligendienstgesetzes."
+    ],
+    [
+      "",
+      "Bitte weisen Sie die o. g. Voraussetzungen anhand geeigneter Belege (z. B. Schul- oder Immatrikulationsbescheinigung, Ausbildungsvertrag, schriftliche Vereinbarung über die Durchführung des Freiwilligendienstes, Bestätigung der Bundesagentur für Arbeit über die Meldung als arbeitsuchend, etc.) nach."
+    ],
+    [
+      "Zu 3",
+      "Angaben zur bisherigen Berufsausbildung / zum bisherigen Studium des Kindes"
+    ],
+    [
+      "",
+      "Eine Ausbildung (Berufsausbildung oder Studium) ist abgeschlossen, wenn sie zur Aus\u00fcbung eines Berufs bef\u00e4higt, auch wenn sich daran eine darauf aufbauende weitere Ausbildung anschlie\u00dft. Dies gilt auch, wenn der Abschluss noch nicht zur Ausübung des angestrebten Berufsziels berechtigt (z. B. Verkäufer, Rettungssanitäter, Lehrer oder Juristen nach Bestehen des 1. Staatsexamens)."
+    ],
+    [
+      "Zu 4",
+      "Angaben zur Erwerbst\u00e4tigkeit des Kindes"
     ],
     [
       "",
@@ -300,8 +412,8 @@
     ],
     [
       "",
-      "Bitte weisen Sie die w\u00f6chentliche Arbeitszeit anhand geeigneter Unterlagen (z. B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach."
+      "Bitte weisen Sie die w\u00f6chentliche Arbeitszeit anhand geeigneter Unterlagen (z. B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierfür durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit o. ä. mindern die vertraglich vereinbarte Arbeitszeit nicht."
     ]
   ],
-  "title": "Kindergeld: Erklärung zur abgeschlossen Erstausbildung und Erwerbstätigkeit Volljähriger"
+  "title": "Kindergeld: Erklärung zu den Verhältnissen eines über 18 Jahre alten Kindes"
 }

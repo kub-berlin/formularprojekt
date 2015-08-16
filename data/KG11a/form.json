@@ -1,6 +1,6 @@
 {
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378315.pdf",
-  "date": "1970-01-01",
+  "date": "2014-01-01",
   "rows": [
     [
       "",
@@ -20,10 +20,14 @@
     ],
     [
       "",
-      "Mitteilung \u00fcber ein Kind ohne Ausbildungs- oder Arbeitsplatz"
+      "Bitte beachten Sie die Hinweise auf der nachfolgenden Seite!"
     ],
     [
       "",
+      "Mitteilung \u00fcber ein Kind ohne Ausbildungs- oder Arbeitsplatz"
+    ],
+    [
+      "1",
       "Name und Vorname des/der Kindergeldberechtigten"
     ],
     [
@@ -35,11 +39,7 @@
       "Anschrift (Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort)"
     ],
     [
-      "",
-      "Bitte beachten Sie die Hinweise auf der nachfolgenden Seite!"
-    ],
-    [
-      "",
+      "2",
       "Name und Vorname des Kindes"
     ],
     [
@@ -83,20 +83,20 @@
       "dauernd getrennt lebend"
     ],
     [
-      "",
-      "3    Das genannte Kind ist/war ausbildungsplatzsuchend und sucht/suchte ab \u2026.  zum \u2026 einen Ausbildungsplatz f\u00fcr eine schulische Ausbildung einen Ausbildungsplatz f\u00fcr eine betriebliche Ausbildung einen Studienplatz"
+      "3",
+      "Das genannte Kind ist/war ausbildungsplatzsuchend und sucht/suchte ab \u2026. zum \u2026 einen Ausbildungsplatz f\u00fcr eine schulische Ausbildung einen Ausbildungsplatz f\u00fcr eine betriebliche Ausbildung einen Studienplatz"
     ],
     [
       "",
       "Bitte beachten Sie, dass f\u00fcr das genannte Kind gleichzeitig das Formular \u201eErkl\u00e4rung zu einer abgeschlossenen Erstausbildung und Erwerbst\u00e4tigkeit\u201c (KG 5d) oder die Anlage Kind zum Antrag auf Kindergeld (KG 1) auszuf\u00fcllen und einzureichen ist."
     ],
     [
-      "",
-      "4    Das genannte Kind ist/war arbeitsuchend und sucht/suchte einen Arbeitsplatz ab ... zum \u2026"
+      "4",
+      "Das genannte Kind ist/war arbeitsuchend und sucht/suchte einen Arbeitsplatz ab ... zum \u2026"
     ],
     [
       "",
-      "Das Kind steht bzw. stand in einem Besch\u00e4ftigungsverh\u00e4ltnis seit/von  ...               bis \u2026"
+      "Das Kind steht bzw. stand in einem Besch\u00e4ftigungsverh\u00e4ltnis seit/von ... bis \u2026"
     ],
     [
       "",
@@ -115,8 +115,8 @@
       "nein"
     ],
     [
-      "",
-      "5    Das genannte Kind ist/war"
+      "5",
+      "Das genannte Kind ist/war"
     ],
     [
       "",
@@ -173,6 +173,114 @@
     [
       "",
       "Bei fehlender Einwilligung ist der Familienkasse zus\u00e4tzlich die ausgef\u00fcllte Bescheinigung auf Seite 2 des Vordrucks vorzulegen; selbiges gilt in F\u00e4llen der Meldung bei einem kommunalen Tr\u00e4ger bzw. Jobcenter in kommunaler Tr\u00e4gerschaft."
+    ],
+    [
+      "",
+      "(Datum)"
+    ],
+    [
+      "",
+      "(Unterschrift des Kindes)"
+    ],
+    [
+      "",
+      "Alle Eingaben löschen"
+    ],
+    [
+      "",
+      "Drucken"
+    ],
+    [
+      "",
+      "Name und Vorname des/der KG-Berechtigten:"
+    ],
+    [
+      "",
+      "KG-Nr.:"
+    ],
+    [
+      "",
+      "Mitteilung der zuständigen Agentur für Arbeit bzw. des zuständigen Jobcenters"
+    ],
+    [
+      "",
+      "Bitte ausfüllen lassen, wenn das Kind bei einem Jobcenter in kommunaler Trägerschaft gemeldet ist bzw. falls die Einwilligung zum Datenzugriff auf Seite 1 verweigert wurde."
+    ],
+    [
+      "",
+      "Soweit vorhanden, bitte Kunden-Nr. angeben:"
+    ],
+    [
+      "",
+      "Das auf Seite 1 genannte Kind"
+    ],
+    [
+      "",
+      "ist bisher nicht registriert."
+    ],
+    [
+      "",
+      "hat sich bzw. wurde am ..... zur Beratung angemeldet."
+    ],
+    [
+      "",
+      "ist seit ..... noch nicht vermittelter Bewerber für eine berufliche Ausbildungsstelle."
+    ],
+    [
+      "",
+      "war bis zum ..... Bewerber für eine berufliche Ausbildungsstelle."
+    ],
+    [
+      "",
+      "hat sich – ohne Bewerber für eine berufliche Ausbildungsstelle zu sein – zum Zwecke der Erlangung einer Ausbildungsstelle beraten lassen."
+    ],
+    [
+      "",
+      "ist weiterhin als Bewerber für eine berufliche Ausbildungsstelle registriert, leistet jedoch ab ..... freiwilligen Wehrdienst."
+    ],
+    [
+      "",
+      "nimmt/nahm ab ..... eine Berufsausbildung/Erwerbstätigkeit auf."
+    ],
+    [
+      "",
+      "wurde am ..... für eine Eignungsabklärung beim Ärztlichen Dienst/Berufspsychologischen Service der Bundesagentur für Arbeit vorgesehen/angemeldet."
+    ],
+    [
+      "",
+      "Das Ergebnis der Begutachtung"
+    ],
+    [
+      "",
+      "ist dem Bewerber am ..... mitgeteilt worden."
+    ],
+    [
+      "",
+      "wird dem Bewerber am ..... mitgeteilt."
+    ],
+    [
+      "",
+      "ist seit ..... /war vom ...... bis ..... als Arbeitsuchender gemeldet."
+    ],
+    [
+      "",
+      "Sonstiges: ....."
+    ],
+    [
+      "",
+      "Dienststelle/Org.-Zeichen/Durchwahl:"
+    ],
+    [
+      "",
+      "(Stempel)"
+    ],
+    [
+      "",
+      "(Datum)"
+    ],
+    [
+      "",
+      "(Name/Unterschrift)"
     ]
   ],
   "title": "Kindergeld: Mitteilung für ein Kind ohne Ausbildungs- bzw. Arbeitsplatz"

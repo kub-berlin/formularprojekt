@@ -1,6 +1,6 @@
 {
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378303.pdf",
-  "date": "1970-01-01",
+  "date": "2012-01-01",
   "rows": [
     [
       "",
@@ -20,15 +20,19 @@
     ],
     [
       "",
-      "Erkl\u00e4rung zu den Eink\u00fcnften und Bez\u00fcgen eines \u00fcber 18 Jahre alten Kindes f\u00fcr Zeitr\u00e4ume bis 31.12.2011"
-    ],
-    [
-      "",
       "Beachten Sie bitte die beiliegenden Hinweise zum Ausf\u00fcllen des Erkl\u00e4rungsvordrucks und zu den erforderlichen Nachweisen."
     ],
     [
       "",
-      "f\u00fcr das Kalenderjahr 20                "
+      "Erkl\u00e4rung zu den Eink\u00fcnften und Bez\u00fcgen eines \u00fcber 18 Jahre alten Kindes f\u00fcr Zeitr\u00e4ume bis 31.12.2011"
+    ],
+    [
+      "",
+      "f\u00fcr das Kalenderjahr 20__"
+    ],
+    [
+      "",
+      "f\u00fcr die Kalenderjahre 20__ und 20__"
     ],
     [
       "",
@@ -36,11 +40,11 @@
     ],
     [
       "",
-      "Name "
+      "Name"
     ],
     [
       "",
-      "Vorname  "
+      "Vorname"
     ],
     [
       "",
@@ -48,19 +52,19 @@
     ],
     [
       "",
-      "Familienstand: "
+      "Familienstand:"
     ],
     [
       "",
-      "ledig    "
+      "ledig"
     ],
     [
       "",
-      "seit "
+      "seit"
     ],
     [
       "",
-      "verheiratet "
+      "verheiratet"
     ],
     [
       "",
@@ -72,19 +76,19 @@
     ],
     [
       "",
-      "geschieden "
+      "geschieden"
     ],
     [
       "",
       "dauernd getrennt lebend"
     ],
     [
-      "",
+      "1",
       "Hatte das Kind"
     ],
     [
-      "",
-      " Einnahmen aus nichtselbst\u00e4ndiger Arbeit (Arbeitnehmert\u00e4tigkeit)? "
+      "a)",
+      "Einnahmen aus nichtselbst\u00e4ndiger Arbeit (Arbeitnehmert\u00e4tigkeit)?"
     ],
     [
       "",
@@ -92,19 +96,19 @@
     ],
     [
       "",
-      "nein "
+      "nein"
     ],
     [
-      "",
+      "b)",
       "Versorgungsbez\u00fcge (z. B. Hinterbliebenenbez\u00fcge nach Beamtenrecht)?"
     ],
     [
       "",
-      "ja "
+      "ja"
     ],
     [
       "",
-      "nein "
+      "nein"
     ],
     [
       "",
@@ -120,31 +124,19 @@
     ],
     [
       "",
-      "Von  \u2026     bis"
+      "Von \u2026 bis"
     ],
     [
       "",
       "Bruttobetrag insgesamt EUR"
     ],
     [
-      "",
+      "2",
       "Hatte das Kind Einnahmen aus"
     ],
     [
-      "",
-      "selbst\u00e4ndiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft? "
-    ],
-    [
-      "",
-      "ja"
-    ],
-    [
-      "",
-      "nein  "
-    ],
-    [
-      "",
-      "Vermietung und Verpachtung? "
+      "a)",
+      "selbst\u00e4ndiger Arbeit, Gewerbebetrieb oder Land- und Forstwirtschaft?"
     ],
     [
       "",
@@ -155,8 +147,20 @@
       "nein"
     ],
     [
+      "b)",
+      "Vermietung und Verpachtung?"
+    ],
+    [
       "",
-      "Kapitalverm\u00f6gen? "
+      "ja"
+    ],
+    [
+      "",
+      "nein"
+    ],
+    [
+      "c)",
+      "Kapitalverm\u00f6gen?"
     ],
     [
       "",
@@ -172,7 +176,7 @@
     ],
     [
       "",
-      "Im Kalenderjahr                                    "
+      "Im Kalenderjahr"
     ],
     [
       "",
@@ -180,14 +184,14 @@
     ],
     [
       "",
-      "Von  \u2026   bis"
+      "Von \u2026 bis"
     ],
     [
       "",
       "Bruttobetrag insgesamt EUR"
     ],
     [
-      "",
+      "3",
       "Erhielt das Kind Leistungen von einer Agentur f\u00fcr Arbeit?"
     ],
     [
@@ -220,10 +224,10 @@
     ],
     [
       "",
-      "Fortsetzung auf der R\u00fcckseite "
+      "Fortsetzung auf der R\u00fcckseite"
     ],
     [
-      "",
+      "4",
       "Erhielt das Kind BAf\u00f6G oder andere Studienbeihilfen, Ausbildungshilfen bzw. Stipendien?"
     ],
     [
@@ -232,7 +236,7 @@
     ],
     [
       "",
-      "Im Kalenderjahr                                    "
+      "Im Kalenderjahr"
     ],
     [
       "",
@@ -240,14 +244,14 @@
     ],
     [
       "",
-      "Von \u2026   bis"
+      "Von \u2026 bis"
     ],
     [
       "",
       "Bruttobetrag insgesamt EUR"
     ],
     [
-      "",
+      "5",
       "Hatte das Kind andere als die in den Nrn. 1 bis 4 genannten Einnahmen?"
     ],
     [
@@ -272,14 +276,14 @@
     ],
     [
       "",
-      "Von \u2026   bis"
+      "Von \u2026 bis"
     ],
     [
       "",
       "Bruttobetrag insgesamt EUR"
     ],
     [
-      "",
+      "6",
       "Wurden f\u00fcr das Kind Leistungen im Sinne der Nrn. 3 bis 5 beantragt und steht die Entscheidung \u00fcber den Antrag noch aus?"
     ],
     [
@@ -303,7 +307,7 @@
       "Kundennummer/Aktenzeichen (falls bekannt):"
     ],
     [
-      "",
+      "7",
       "Nur auszuf\u00fcllen, wenn das Kind verheiratet ist oder eine eingetragene Lebenspartnerschaft begr\u00fcndet hat:"
     ],
     [
@@ -324,7 +328,7 @@
     ],
     [
       "",
-      "Im Kalenderjahr                                    "
+      "Im Kalenderjahr"
     ],
     [
       "",
@@ -332,7 +336,7 @@
     ],
     [
       "",
-      "Von  \u2026  bis"
+      "Von \u2026 bis"
     ],
     [
       "",
@@ -352,14 +356,14 @@
     ],
     [
       "",
-      "Von \u2026   bis"
+      "Von \u2026 bis"
     ],
     [
       "",
       "Nettobetrag insgesamt EUR"
     ],
     [
-      "",
+      "8",
       "Erg\u00e4nzende Angaben (z.B. zu Werbungskosten, Betriebsausgaben, besonderen Ausbildungskosten) \u2013 bei Bedarf auf besonderem Blatt -:"
     ],
     [
@@ -368,7 +372,7 @@
     ],
     [
       "",
-      "Wir versichern, dass alle Angaben wahrheitsgetreu gemacht worden sind. Die erforderlichen Nachweise sind beigef\u00fcgt. Uns ist bekannt, dass Ver\u00e4nderungen gegen\u00fcber den gemachten Angaben unverz\u00fcglich der zust\u00e4ndigen Familienkasse anzuzeigen sind. "
+      "Wir versichern, dass alle Angaben wahrheitsgetreu gemacht worden sind. Die erforderlichen Nachweise sind beigef\u00fcgt. Uns ist bekannt, dass Ver\u00e4nderungen gegen\u00fcber den gemachten Angaben unverz\u00fcglich der zust\u00e4ndigen Familienkasse anzuzeigen sind."
     ],
     [
       "",
@@ -400,7 +404,7 @@
     ],
     [
       "",
-      "Fallen Eink\u00fcnfte und Bez\u00fcge in mehreren Kalenderjahren an, sind sie f\u00fcr jedes Kalenderjahr gesondert anzugeben und nachzuweisen. "
+      "Fallen Eink\u00fcnfte und Bez\u00fcge in mehreren Kalenderjahren an, sind sie f\u00fcr jedes Kalenderjahr gesondert anzugeben und nachzuweisen."
     ],
     [
       "",
@@ -436,7 +440,7 @@
     ],
     [
       "",
-      "Anzugeben sind alle Leistungen, die das Kind von einer anderen Stelle als einer Agentur f\u00fcr Arbeit erh\u00e4lt, wie z. B. als Zuschuss gew\u00e4hrte Leistungen nach dem Bundesausbildungsf\u00f6rderungsgesetz (BAf\u00f6G), von Privatpersonen oder Stiftungen gezahlte Stipendien. Als Nachweis ist der Bewilligungsbescheid, eine Bescheinigung \u00fcber Dauer und H\u00f6he der Leistung oder \u00c4hnliches vorzulegen. "
+      "Anzugeben sind alle Leistungen, die das Kind von einer anderen Stelle als einer Agentur f\u00fcr Arbeit erh\u00e4lt, wie z. B. als Zuschuss gew\u00e4hrte Leistungen nach dem Bundesausbildungsf\u00f6rderungsgesetz (BAf\u00f6G), von Privatpersonen oder Stiftungen gezahlte Stipendien. Als Nachweis ist der Bewilligungsbescheid, eine Bescheinigung \u00fcber Dauer und H\u00f6he der Leistung oder \u00c4hnliches vorzulegen."
     ],
     [
       "",

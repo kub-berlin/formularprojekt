@@ -1,17 +1,17 @@
 {
   "Der/Die Sch\u00fcler(in) .......": "El/la alumno/a .......",
+  "Es handelt sich hierbei um Vollzeitunterricht.": "Se trata de clases a tiempo completo",
   "Hinweis: Der Besuch der Berufsschule braucht nicht nachgewiesen zu werden, wenn zeitgleich ein betriebliches Ausbildungsverh\u00e4ltnis besteht.": "Observaci\u00f3n: La asistencia a una escuela de formaci\u00f3n profesional no debe ser acreditada si est\u00e1 vinculada al sistema de formaci\u00f3n profesional dual (escuela-empresa)",
   "Kindergeld-Nr.": "C\u00f3digo identificativo (del subsidio)",
-  "besucht die Klasse ...........": "asiste al grado escolar\u2026",
-  "Ort und Datum": "Lugar y fecha",
-  "Teilzeitunterricht mit .................... Stunden w\u00f6chentlich.": "a tiempo parcial de \u2026. horas semanales",
-  "und wird die Schulausbildung - voraussichtlich - im Monat / Jahr ..... beenden.": "y tiene previsto terminar su formaci\u00f3n escolar en el mes \u2026 del a\u00f1o\u2026.",
   "Name und Vorname des/der Kindergeldberechtigten": "Apellido/s y nombre/s del solicitante del subsidio por hijos a cargo",
-  "Steuer-ID": "N\u00famero de identificaci\u00f3n fiscal",
-  "Stempel der Schule, Unterschrift": "Sello del centro del centro de ense\u00f1anza, firma",
-  "geboren am ...": "nacido/a el \u2026",
+  "Ort und Datum": "Lugar y fecha",
   "Schulbescheinigung zur Vorlage bei der Familienkasse": "Certificado de escolarirdad para su presentaci\u00f3n ante la Caja de Prestaciones Familiares",
-  "Es handelt sich hierbei um Vollzeitunterricht.": "Se trata de clases a tiempo completo",
+  "Stempel der Schule, Unterschrift": "Sello del centro del centro de ense\u00f1anza, firma",
+  "Steuer-ID": "N\u00famero de identificaci\u00f3n fiscal",
+  "Teilzeitunterricht mit .................... Stunden w\u00f6chentlich.": "a tiempo parcial de \u2026. horas semanales",
   "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:": "Tel\u00e9fono para consultas (durante el d\u00eda):",
-  "hat die Schulausbildung im Monat / Jahr..... beendet.": "ha terminado la ense\u00f1anza escolar en el mes \u2026. del a\u00f1o \u2026"
+  "besucht die Klasse ...........": "asiste al grado escolar\u2026",
+  "geboren am ...": "nacido/a el \u2026",
+  "hat die Schulausbildung im Monat / Jahr..... beendet.": "ha terminado la ense\u00f1anza escolar en el mes \u2026. del a\u00f1o \u2026",
+  "und wird die Schulausbildung - voraussichtlich - im Monat / Jahr ..... beenden.": "y tiene previsto terminar su formaci\u00f3n escolar en el mes \u2026 del a\u00f1o\u2026."
 }

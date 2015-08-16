@@ -1,5 +1,4 @@
 {
-  "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mta3/~edisp/l6019022dstbai440780.pdf",
   "date": "2015-01-01",
   "rows": [
     [
@@ -40,7 +39,7 @@
     ],
     [
       "",
-      "Bei erstmaligem Antrag notwendige Unterlagen (Geburtsurkunde bzw. -bescheinigung, Annahmebeschluss) beifügen."
+      "Bei erstmaligem Antrag notwendige Unterlagen (Geburtsurkunde bzw. -bescheinigung, Annahmebeschluss) beif\u00fcgen."
     ],
     [
       "",
@@ -132,11 +131,11 @@
     ],
     [
       "",
-      "Staatsangehörigkeit"
+      "Staatsangeh\u00f6rigkeit"
     ],
     [
       "",
-      "Ort der Tätigkeit (ggf. im Ausland)"
+      "Ort der T\u00e4tigkeit (ggf. im Ausland)"
     ],
     [
       "",
@@ -192,7 +191,7 @@
     ],
     [
       "g)",
-      "Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Erststudium abgeschlossen bzw. wird diese in Kürze abschließen"
+      "Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Erststudium abgeschlossen bzw. wird diese in K\u00fcrze abschlie\u00dfen"
     ],
     [
       "",
@@ -300,7 +299,7 @@
     ],
     [
       "5",
-      "Besteht oder bestand für Sie oder eine andere Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?"
+      "Besteht oder bestand f\u00fcr Sie oder eine andere Person f\u00fcr das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle au\u00dferhalb Deutschlands oder von einer zwischen- oder \u00fcberstaatlichen Einrichtung?"
     ],
     [
       "",
@@ -411,5 +410,6 @@
       "Anschrift des Dienstherrn/Arbeitgebers, des Unternehmens, der Dienststelle oder Einrichtung"
     ]
   ],
-  "title": "Kindergeld: Anlage Kind"
+  "title": "Kindergeld: Anlage Kind",
+  "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mta3/~edisp/l6019022dstbai440780.pdf"
 }

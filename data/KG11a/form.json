@@ -1,5 +1,4 @@
 {
-  "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378315.pdf",
   "date": "2014-01-01",
   "rows": [
     [
@@ -184,7 +183,7 @@
     ],
     [
       "",
-      "Alle Eingaben löschen"
+      "Alle Eingaben l\u00f6schen"
     ],
     [
       "",
@@ -200,11 +199,11 @@
     ],
     [
       "",
-      "Mitteilung der zuständigen Agentur für Arbeit bzw. des zuständigen Jobcenters"
+      "Mitteilung der zust\u00e4ndigen Agentur f\u00fcr Arbeit bzw. des zust\u00e4ndigen Jobcenters"
     ],
     [
       "",
-      "Bitte ausfüllen lassen, wenn das Kind bei einem Jobcenter in kommunaler Trägerschaft gemeldet ist bzw. falls die Einwilligung zum Datenzugriff auf Seite 1 verweigert wurde."
+      "Bitte ausf\u00fcllen lassen, wenn das Kind bei einem Jobcenter in kommunaler Tr\u00e4gerschaft gemeldet ist bzw. falls die Einwilligung zum Datenzugriff auf Seite 1 verweigert wurde."
     ],
     [
       "",
@@ -224,27 +223,27 @@
     ],
     [
       "",
-      "ist seit ..... noch nicht vermittelter Bewerber für eine berufliche Ausbildungsstelle."
+      "ist seit ..... noch nicht vermittelter Bewerber f\u00fcr eine berufliche Ausbildungsstelle."
     ],
     [
       "",
-      "war bis zum ..... Bewerber für eine berufliche Ausbildungsstelle."
+      "war bis zum ..... Bewerber f\u00fcr eine berufliche Ausbildungsstelle."
     ],
     [
       "",
-      "hat sich – ohne Bewerber für eine berufliche Ausbildungsstelle zu sein – zum Zwecke der Erlangung einer Ausbildungsstelle beraten lassen."
+      "hat sich \u2013 ohne Bewerber f\u00fcr eine berufliche Ausbildungsstelle zu sein \u2013 zum Zwecke der Erlangung einer Ausbildungsstelle beraten lassen."
     ],
     [
       "",
-      "ist weiterhin als Bewerber für eine berufliche Ausbildungsstelle registriert, leistet jedoch ab ..... freiwilligen Wehrdienst."
+      "ist weiterhin als Bewerber f\u00fcr eine berufliche Ausbildungsstelle registriert, leistet jedoch ab ..... freiwilligen Wehrdienst."
     ],
     [
       "",
-      "nimmt/nahm ab ..... eine Berufsausbildung/Erwerbstätigkeit auf."
+      "nimmt/nahm ab ..... eine Berufsausbildung/Erwerbst\u00e4tigkeit auf."
     ],
     [
       "",
-      "wurde am ..... für eine Eignungsabklärung beim Ärztlichen Dienst/Berufspsychologischen Service der Bundesagentur für Arbeit vorgesehen/angemeldet."
+      "wurde am ..... f\u00fcr eine Eignungsabkl\u00e4rung beim \u00c4rztlichen Dienst/Berufspsychologischen Service der Bundesagentur f\u00fcr Arbeit vorgesehen/angemeldet."
     ],
     [
       "",
@@ -283,5 +282,6 @@
       "(Name/Unterschrift)"
     ]
   ],
-  "title": "Kindergeld: Mitteilung für ein Kind ohne Ausbildungs- bzw. Arbeitsplatz"
+  "title": "Kindergeld: Mitteilung f\u00fcr ein Kind ohne Ausbildungs- bzw. Arbeitsplatz",
+  "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378315.pdf"
 }

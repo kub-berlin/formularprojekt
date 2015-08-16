@@ -1,5 +1,4 @@
 {
-  "url": "https://www.rundfunkbeitrag.de/formulare/buergerinnen_und_buerger/antrag_auf_befreiung/",
   "date": "2015-05-01",
   "rows": [
     [
@@ -531,5 +530,6 @@
       "Stempel/Unterschrift"
     ]
   ],
-  "title": "Antrag auf Befreiung vom Rundfunkbeitrag"
+  "title": "Antrag auf Befreiung vom Rundfunkbeitrag",
+  "url": "https://www.rundfunkbeitrag.de/formulare/buergerinnen_und_buerger/antrag_auf_befreiung/"
 }

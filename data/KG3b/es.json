@@ -1,5 +1,22 @@
 {
+  "(Datum)": "(Fecha)",
+  "(Ort)": "(Lugar)",
+  "(Postleitzahl, Wohnort)": "(C\u00f3digo postal, localidad)",
+  "(Stra\u00dfe/Platz, Hausnummer)": "(Calle, n\u00famero)",
+  "(Unterschrift)": "(Firma)",
+  "*) Nur bei \u00fcber 18 Jahre alten Kindern": "*) Solo para hijos mayores de 18 a\u00f1os",
+  "Bemerkungen:": "Observaciones:",
+  "Bitte Hinweise beachten!": "\u00a1Tenga en cuenta las indicaciones!",
+  "Familienstand *)": "Estado civil *)",
+  "Familienstand:": "Estado civil:",
+  "Hinweise": "Indicaciones",
+  "In Deutschland seit **)": "Estancia en Alemania desde **)",
   "Kindergeld-Nr.": "N\u00famero de Identificaci\u00f3n del subsidio familiar",
-  "Name und Vorname des/der Kindergeldberechtigten": "Apellidos, Nombre del/ de la beneficiario/a del subsidio familiar por hijos",
-  "Steuer-ID": "N\u00famero de Identificaci\u00f3n fiscal "
+  "Name und Vorname des Kindes": "Apellido/s y nombre/s del hijo",
+  "Name und Vorname des/der Kindergeldberechtigten": "Apellidos, Nombre\u00a0del/ de la beneficiario/a del subsidio familiar por hijos",
+  "Steuer-ID": "N\u00famero de Identificaci\u00f3n fiscal ",
+  "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:": "Consultas telef\u00f3nicas (durante el d\u00eda)\u00a0bajo el n\u00famero:",
+  "geboren am": "Fecha de nacimiento",
+  "geboren am:": "Fecha de nacimiento",
+  "zur Vorlage bei der Familienkasse": "para ser presentado ante la Caja de Prestaciones Familiares"
 }

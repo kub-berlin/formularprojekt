@@ -15,7 +15,6 @@
   "Bescheinigung": "Potvrda",
   "Bitte Hinweise beachten!": "Molimo vas da obratite pa\u017enju na uputstva!  ",
   "Das Vorhandensein der Kinder und ihre Unterbringung ist in der Regel durch die umseitige Lebensbescheinigung nachzuweisen.": "Dokaz da deca postoje kao i njihov sme\u0161taj, dokazuju se po pravilu putem Potvrde o identitetu na pole\u0111ini. ",
-  "Dienstsiegel": "Slu\u017ebeni pe\u010dat",
   "Erkl\u00e4rung \u00fcber Kinder, die au\u00dferhalb des Haushaltes wohnen": "Izjava o deci koja \u017eive izvan doma\u0107instva",
   "Es wird hiermit bescheinigt, dass das (die) unter lfd. Nr. .... bis lfd. Nr. \u2026 aufgef\u00fchrte(n) Kind(er) nach den hier vorhandenen Unterlagen - nach pers\u00f6nlicher Kenntnis - wie angegeben gemeldet - wohnhaft - ist (sind).": "Ovim potvr\u0111ujemo da je, pod tek.  Br... do teku\u0107eg Br. .... navedeno-/a dete/deca prema ovde prilo\u017eenim spisima - prema li\u010dnom saznanju - prijavljeno-prebiva u skladu sa podacima koji su navedeni u prijavi.",
   "Falls Sie den Nachweis \u00fcber das Vorhandensein Ihrer Kinder nicht ohne Weiteres erbringen k\u00f6nnen - dies kann z.B. bei Kindern au\u00dferhalb Deutschlands schwierig sein - wenden Sie sich bitte an die Familienkasse.": "Ukoliko niste u mogu\u0107nosti da prilo\u017eite dokaze o postojanju va\u0161e dece - \u0161to je mogu\u0107e ukoliko deca, na pr., ne \u017eive u Nema\u010dkoj - molimo vas da se obratite porodi\u010dnoj kasi. ",
@@ -39,8 +38,6 @@
   "geboren am": "ro\u0111eno dana",
   "geboren am:": "ro\u0111en-e dana:",
   "lfd. Nr.:": "Tek. Br.:",
-  "oder Stempel, falls vorhanden": "ili pe\u010dat, ako postoji",
-  "von Herrn/Frau": "od gospodina/gospo\u0111e",
   "wohnhaft:": "adresa stanovanja:",
   "wohnt / wohnen.": "stanuje/stanuju.",
   "zur Vorlage bei der Familienkasse": "Dokumenta koje treba prilo\u017eiti kod Porodi\u010dne kase"

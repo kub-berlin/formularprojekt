@@ -1,10 +1,21 @@
 import json
+import re
 import os
 
 translations = {}
 forms = {}
 
 BASEPATH = 'data'
+
+
+def normalize(s):
+    a = s\
+        .replace('\n\n', 'PARAGRAPH')\
+        .replace('\n', ' ')\
+        .replace('PARAGRAPH', '\n\n')\
+        .strip()
+    return re.sub(' +', ' ', a)
+
 
 def iter_translations():
     for dirpath, dirnames, filenames in os.walk(BASEPATH):
@@ -53,5 +64,11 @@ for form_id, form in forms.items():
 # for form_id, lang_id, path in iter_translations():
 #     with open(path) as fh:
 #         data = json.load(fh)
+#
+#     if lang_id != 'form':
+#         data = {normalize(k): normalize(v) for k, v in data.items()}
+#     else:
+#         data['rows'] = [(a, normalize(b)) for a, b in data['rows']]
+#
 #     with open(path, 'w') as fh:
 #         json.dump(data, fh, indent=2, separators=(',', ': '), sort_keys=True)

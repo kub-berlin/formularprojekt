@@ -151,7 +151,7 @@ def index_route():
     return render_template(
         'index.html',
         translations=translations,
-        lang_id='en')
+        lang_id='de')
 
 
 @formularprojekt.route('/<lang_id>/')

@@ -1,418 +1,1036 @@
 {
   "date": "2014-04-01",
   "rows": [
-    [
-      "",
-      "Name und Vorname des/der Kindergeldberechtigten"
-    ],
-    [
-      "",
-      "Kindergeld-Nr."
-    ],
-    [
-      "",
-      "Steuer-ID des/der Kindergeldberechtigten"
-    ],
-    [
-      "",
-      "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:"
-    ],
-    [
-      "",
-      "Beachten Sie bitte die Hinweise zum Ausf\u00fcllen des Erkl\u00e4rungsvordrucks und zu den erforderlichen Nachweisen."
-    ],
-    [
-      "",
-      "Erkl\u00e4rung zu den Verh\u00e4ltnissen eines \u00fcber 18 Jahre alten Kindes"
-    ],
-    [
-      "1",
-      "Angaben zur Person des Kindes"
-    ],
-    [
-      "",
-      "Name"
-    ],
-    [
-      "",
-      "Vorname"
-    ],
-    [
-      "",
-      "Geburtsdatum"
-    ],
-    [
-      "",
-      "Steuer-ID des Kindes"
-    ],
-    [
-      "",
-      "Familienstand:"
-    ],
-    [
-      "",
-      "ledig"
-    ],
-    [
-      "",
-      "seit"
-    ],
-    [
-      "",
-      "verheiratet"
-    ],
-    [
-      "",
-      "in eingetragener Lebenspartnerschaft lebend"
-    ],
-    [
-      "",
-      "verwitwet"
-    ],
-    [
-      "",
-      "geschieden"
-    ],
-    [
-      "",
-      "dauernd getrennt lebend"
-    ],
-    [
-      "",
-      "Das Kind wohnt"
-    ],
-    [
-      "",
-      "in meinem Haushalt"
-    ],
-    [
-      "",
-      "nicht in meinem Haushalt, sondern seit .... bei/in ......"
-    ],
-    [
-      "",
-      "vor\u00fcbergehend zu Ausbildungszwecken seit ... bei/in ...."
-    ],
-    [
-      "",
-      "Hat das Kind eigene Kinder?"
-    ],
-    [
-      "",
-      "ja, seit ............."
-    ],
-    [
-      "",
-      "nein"
-    ],
-    [
-      "2",
-      "Weitere Angaben zum Kind (bitte Nachweise beif\u00fcgen)"
-    ],
-    [
-      "",
-      "Zeitraum 1"
-    ],
-    [
-      "",
-      "von"
-    ],
-    [
-      "",
-      "bis"
-    ],
-    [
-      "",
-      "ggf. Zeitraum 2"
-    ],
-    [
-      "",
-      "von"
-    ],
-    [
-      "",
-      "bis"
-    ],
-    [
-      "",
-      "Mein unter 1 genanntes Kind"
-    ],
-    [
-      "",
-      "hat das 21. Lebensjahr noch nicht vollendet, steht/stand nicht in einem Besch\u00e4ftigungsverh\u00e4ltnis und ist/war bei der Bundesagentur f\u00fcr Arbeit als arbeitsuchend registriert."
-    ],
-    [
-      "",
-      "kann/konnte eine Ausbildung bzw. ein Studium mangels Ausbildungsplatz bzw. Studienplatz (noch) nicht beginnen oder fortsetzen."
-    ],
-    [
-      "",
-      "Mein unter 1 genanntes Kind befindet/befand sich"
-    ],
-    [
-      "",
-      "in Schulausbildung."
-    ],
-    [
-      "",
-      "in Berufsausbildung."
-    ],
-    [
-      "",
-      "im Studium."
-    ],
-    [
-      "",
-      "in einer sonstigen Ausbildungsma\u00dfnahme:"
-    ],
-    [
-      "",
-      "in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten (siehe Hinweise)."
-    ],
-    [
-      "",
-      "in einem Freiwilligendienst nach \u00a7 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d EStG bzw. \u00a7 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d BKGG (siehe Hinweise)."
-    ],
-    [
-      "",
-      "Mein unter 1 genanntes Kind"
-    ],
-    [
-      "",
-      "kann/konnte sich aufgrund einer k\u00f6rperlichen/geistigen/seelischen Behinderung nicht selbst unterhalten."
-    ],
-    [
-      "",
-      "Weiter bei Punkt 5; bitte f\u00fcllen Sie zus\u00e4tzlich das Formular KG 5f aus."
-    ],
-    [
-      "3",
-      "Angaben zur bisherigen Berufsausbildung / zum bisherigen Studium des Kindes (auch f\u00fcr Zeitr\u00e4ume vor Vollendung des 18. Lebensjahres)"
-    ],
-    [
-      "",
-      "Mein unter 1 genanntes Kind"
-    ],
-    [
-      "",
-      "hat bereits eine Ausbildung abgeschlossen/wird in K\u00fcrze eine Ausbildung abschlie\u00dfen."
-    ],
-    [
-      "",
-      "Berufsabschluss:"
-    ],
-    [
-      "",
-      "Ausbildungsende:"
-    ],
-    [
-      "",
-      "hat bereits ein Studium abgeschlossen/wird in K\u00fcrze ein Studium abschlie\u00dfen."
-    ],
-    [
-      "",
-      "im Fach/in den F\u00e4chern:"
-    ],
-    [
-      "",
-      "Ende des Studiums:"
-    ],
-    [
-      "",
-      "hat/wird folgenden akademischen Grad erhalten:"
-    ],
-    [
-      "",
-      "Bachelor"
-    ],
-    [
-      "",
-      "Master"
-    ],
-    [
-      "",
-      "Diplom"
-    ],
-    [
-      "",
-      "Zeitpunkt:"
-    ],
-    [
-      "",
-      "hat bisher noch keine Berufsausbildung bzw. noch kein Studium abgeschlossen."
-    ],
-    [
-      "4",
-      "Angaben zur Erwerbst\u00e4tigkeit des Kindes"
-    ],
-    [
-      "",
-      "(nur ausf\u00fcllen, wenn bereits eine Ausbildung/ein Studium abgeschlossen wurde)"
-    ],
-    [
-      "",
-      "Die der Familienkasse vorliegenden Angaben zur Erwerbst\u00e4tigkeit haben sich nicht ge\u00e4ndert."
-    ],
-    [
-      "",
-      "Die der Familienkasse vorliegenden Angaben zur Erwerbst\u00e4tigkeit werden sich voraussichtlich nicht \u00e4ndern."
-    ],
-    [
-      "",
-      "Mein unter 1 genanntes Kind"
-    ],
-    [
-      "",
-      "\u00fcbt keine Erwerbst\u00e4tigkeit aus/wird voraussichtlich keine Erwerbst\u00e4tigkeit aus\u00fcben."
-    ],
-    [
-      "",
-      "\u00fcbt eine geringf\u00fcgige Besch\u00e4ftigung (Minijob) aus/wird voraussichtlich eine geringf\u00fcgige Besch\u00e4ftigung aus\u00fcben:"
-    ],
-    [
-      "",
-      "von"
-    ],
-    [
-      "",
-      "bis"
-    ],
-    [
-      "",
-      "(bitte Nachweise beif\u00fcgen)"
-    ],
-    [
-      "",
-      "\u00fcbt folgende (weitere) Erwerbst\u00e4tigkeit aus/wird voraussichtlich folgende (weitere) Erwerbst\u00e4tigkeit aus\u00fcben:"
-    ],
-    [
-      "",
-      "(bitte Vertr\u00e4ge/Nachweise beif\u00fcgen; ggf. Angaben auf einem gesonderten Blatt)"
-    ],
-    [
-      "",
-      "(voraussichtliche) Dauer von \u2013 bis:"
-    ],
-    [
-      "",
-      "Art der T\u00e4tigkeit"
-    ],
-    [
-      "",
-      "Dienstherr/Arbeitgeber Anschrift"
-    ],
-    [
-      "",
-      "regelm\u00e4\u00dfige w\u00f6chentliche Arbeitszeit"
-    ],
-    [
-      "5",
-      "Au\u00dferdem teile ich Folgendes mit:"
-    ],
-    [
-      "",
-      "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der \u00a7\u00a7 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt."
-    ],
-    [
-      "",
-      "Wir versichern, dass alle Angaben wahrheitsgetreu gemacht worden sind. Die erforderlichen Nachweise sind beigef\u00fcgt. Uns ist bekannt, dass Ver\u00e4nderungen gegen\u00fcber den gemachten Angaben unverz\u00fcglich der zust\u00e4ndigen Familienkasse anzuzeigen sind."
-    ],
-    [
-      "",
-      "Datum"
-    ],
-    [
-      "",
-      "(Unterschrift des/der Berechtigten)"
-    ],
-    [
-      "",
-      "(Unterschrift des Kindes)"
-    ],
-    [
-      "",
-      "Hinweise zur Erkl\u00e4rung zu den Verh\u00e4ltnissen eines \u00fcber 18 Jahre alten Kindes"
-    ],
-    [
-      "",
-      "Allgemeine Hinweise"
-    ],
-    [
-      "",
-      "Kindergeld wird f\u00fcr alle Kinder bis zum vollendeten 18. Lebensjahr gezahlt. Die Ber\u00fccksichtigung eines vollj\u00e4hrigen Kindes ist m\u00f6glich, wenn es"
-    ],
-    [
-      "",
-      "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Besch\u00e4ftigungsverh\u00e4ltnis steht und bei einer Agentur f\u00fcr Arbeit im Inland als Arbeitsuchender gemeldet ist oder"
-    ],
-    [
-      "",
-      "2. noch nicht das 25. Lebensjahr vollendet hat und"
-    ],
-    [
-      "",
-      "a) f\u00fcr einen Beruf ausgebildet wird oder"
-    ],
-    [
-      "",
-      "b) sich in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten befindet (siehe auch zu 2.) oder"
-    ],
-    [
-      "",
-      "c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder"
-    ],
-    [
-      "",
-      "d) einen geregelten Freiwilligendienst leistet oder"
-    ],
-    [
-      "",
-      "3. wegen k\u00f6rperlicher, geistiger oder seelischer Behinderung au\u00dferstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze)."
-    ],
-    [
-      "",
-      "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den F\u00e4llen der Nummer 2 (a bis d) nur ber\u00fccksichtigt, wenn das Kind keiner (sch\u00e4dlichen) Erwerbst\u00e4tigkeit nachgeht."
-    ],
-    [
-      "",
-      "Zu Unrecht erhaltenes Kindergeld muss zur\u00fcckgezahlt werden."
-    ],
-    [
-      "Zu 2",
-      "Weitere Angaben zum Kind"
-    ],
-    [
-      "",
-      "F\u00fcr ein vollj\u00e4hriges, noch nicht 25 Jahre altes Kind besteht auch dann Anspruch auf Kindergeld, wenn es sich in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten befindet, die zwischen zwei Ausbildungsabschnitten oder zwischen einem Ausbildungsabschnitt und der Ableistung eines geregelten Freiwilligendienstes im Sinne des \u00a7 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d Einkommensteuergesetz (EStG) bzw. \u00a7 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d Bundeskindergeldgesetz (BKGG) liegt (siehe unten)."
-    ],
-    [
-      "",
-      "Nach \u00a7 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d EStG bzw. \u00a7 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d BKGG werden Kinder ber\u00fccksichtigt, die einen geregelten Freiwilligendienst ableisten. Dazu geh\u00f6ren das freiwillige soziale Jahr und das freiwillige \u00f6kologische Jahr im Sinne des Jugendfreiwilligendienstegesetzes, der Europ\u00e4ische Freiwilligendienst (\u201eJugend in Aktion\u201c), der entwicklungspolitische Freiwilligendienst \u201eweltw\u00e4rts\u201c, der Freiwilligendienst aller Generationen (\u00a7 2 Absatz 1a SGB VII), der Internationale Jugendfreiwilligendienst im Sinne der Richtlinie des Bundesministeriums f\u00fcr Familie, Senioren, Frauen und Jugend vom 20.12.2010 (GMBI. S. 1778) und der Bundesfreiwilligendienst im Sinne des Bundesfreiwilligendienstgesetzes."
-    ],
-    [
-      "",
-      "Bitte weisen Sie die o. g. Voraussetzungen anhand geeigneter Belege (z. B. Schul- oder Immatrikulationsbescheinigung, Ausbildungsvertrag, schriftliche Vereinbarung \u00fcber die Durchf\u00fchrung des Freiwilligendienstes, Best\u00e4tigung der Bundesagentur f\u00fcr Arbeit \u00fcber die Meldung als arbeitsuchend, etc.) nach."
-    ],
-    [
-      "Zu 3",
-      "Angaben zur bisherigen Berufsausbildung / zum bisherigen Studium des Kindes"
-    ],
-    [
-      "",
-      "Eine Ausbildung (Berufsausbildung oder Studium) ist abgeschlossen, wenn sie zur Aus\u00fcbung eines Berufs bef\u00e4higt, auch wenn sich daran eine darauf aufbauende weitere Ausbildung anschlie\u00dft. Dies gilt auch, wenn der Abschluss noch nicht zur Aus\u00fcbung des angestrebten Berufsziels berechtigt (z. B. Verk\u00e4ufer, Rettungssanit\u00e4ter, Lehrer oder Juristen nach Bestehen des 1. Staatsexamens)."
-    ],
-    [
-      "Zu 4",
-      "Angaben zur Erwerbst\u00e4tigkeit des Kindes"
-    ],
-    [
-      "",
-      "Ein Kind ist erwerbst\u00e4tig, wenn es einer auf die Erzielung von Eink\u00fcnften gerichteten Besch\u00e4ftigung nachgeht, die den Einsatz seiner pers\u00f6nlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff \u201eErwerbst\u00e4tigkeit\u201c durch eine nichtselbst\u00e4ndige T\u00e4tigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbst\u00e4ndige T\u00e4tigkeit erf\u00fcllt werden kann. Die Verwaltung eigenen Verm\u00f6gens ist demgegen\u00fcber keine Erwerbst\u00e4tigkeit."
-    ],
-    [
-      "",
-      "Bitte weisen Sie die w\u00f6chentliche Arbeitszeit anhand geeigneter Unterlagen (z. B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierf\u00fcr durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit o. \u00e4. mindern die vertraglich vereinbarte Arbeitszeit nicht."
-    ]
+    {
+      "align": "left",
+      "content": "Name und Vorname des/der Kindergeldberechtigten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kindergeld-Nr.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Steuer-ID des/der Kindergeldberechtigten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Beachten Sie bitte die Hinweise zum Ausf\u00fcllen des Erkl\u00e4rungsvordrucks und zu den erforderlichen Nachweisen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Erkl\u00e4rung zu den Verh\u00e4ltnissen eines \u00fcber 18 Jahre alten Kindes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Angaben zur Person des Kindes",
+      "page": 0,
+      "structure": "1",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vorname",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geburtsdatum",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Steuer-ID des Kindes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienstand:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ledig",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "seit",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "verheiratet",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in eingetragener Lebenspartnerschaft lebend",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "verwitwet",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "geschieden",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "dauernd getrennt lebend",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das Kind wohnt",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in meinem Haushalt",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "nicht in meinem Haushalt, sondern seit .... bei/in ......",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "vor\u00fcbergehend zu Ausbildungszwecken seit ... bei/in ....",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Hat das Kind eigene Kinder?",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ja, seit .............",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "nein",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Weitere Angaben zum Kind (bitte Nachweise beif\u00fcgen)",
+      "page": 0,
+      "structure": "2",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zeitraum 1",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "von",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ggf. Zeitraum 2",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "von",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mein unter 1 genanntes Kind",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "hat das 21. Lebensjahr noch nicht vollendet, steht/stand nicht in einem Besch\u00e4ftigungsverh\u00e4ltnis und ist/war bei der Bundesagentur f\u00fcr Arbeit als arbeitsuchend registriert.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "kann/konnte eine Ausbildung bzw. ein Studium mangels Ausbildungsplatz bzw. Studienplatz (noch) nicht beginnen oder fortsetzen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mein unter 1 genanntes Kind befindet/befand sich",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in Schulausbildung.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in Berufsausbildung.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "im Studium.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in einer sonstigen Ausbildungsma\u00dfnahme:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten (siehe Hinweise).",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in einem Freiwilligendienst nach \u00a7 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d EStG bzw. \u00a7 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d BKGG (siehe Hinweise).",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mein unter 1 genanntes Kind",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "kann/konnte sich aufgrund einer k\u00f6rperlichen/geistigen/seelischen Behinderung nicht selbst unterhalten.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Weiter bei Punkt 5; bitte f\u00fcllen Sie zus\u00e4tzlich das Formular KG 5f aus.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Angaben zur bisherigen Berufsausbildung / zum bisherigen Studium des Kindes (auch f\u00fcr Zeitr\u00e4ume vor Vollendung des 18. Lebensjahres)",
+      "page": 0,
+      "structure": "3",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mein unter 1 genanntes Kind",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "hat bereits eine Ausbildung abgeschlossen/wird in K\u00fcrze eine Ausbildung abschlie\u00dfen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Berufsabschluss:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ausbildungsende:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "hat bereits ein Studium abgeschlossen/wird in K\u00fcrze ein Studium abschlie\u00dfen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "im Fach/in den F\u00e4chern:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ende des Studiums:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "hat/wird folgenden akademischen Grad erhalten:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bachelor",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Master",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Diplom",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zeitpunkt:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "hat bisher noch keine Berufsausbildung bzw. noch kein Studium abgeschlossen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Angaben zur Erwerbst\u00e4tigkeit des Kindes",
+      "page": 0,
+      "structure": "4",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(nur ausf\u00fcllen, wenn bereits eine Ausbildung/ein Studium abgeschlossen wurde)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Die der Familienkasse vorliegenden Angaben zur Erwerbst\u00e4tigkeit haben sich nicht ge\u00e4ndert.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Die der Familienkasse vorliegenden Angaben zur Erwerbst\u00e4tigkeit werden sich voraussichtlich nicht \u00e4ndern.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mein unter 1 genanntes Kind",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "\u00fcbt keine Erwerbst\u00e4tigkeit aus/wird voraussichtlich keine Erwerbst\u00e4tigkeit aus\u00fcben.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "\u00fcbt eine geringf\u00fcgige Besch\u00e4ftigung (Minijob) aus/wird voraussichtlich eine geringf\u00fcgige Besch\u00e4ftigung aus\u00fcben:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "von",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(bitte Nachweise beif\u00fcgen)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "\u00fcbt folgende (weitere) Erwerbst\u00e4tigkeit aus/wird voraussichtlich folgende (weitere) Erwerbst\u00e4tigkeit aus\u00fcben:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(bitte Vertr\u00e4ge/Nachweise beif\u00fcgen; ggf. Angaben auf einem gesonderten Blatt)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(voraussichtliche) Dauer von \u2013 bis:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Art der T\u00e4tigkeit",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Dienstherr/Arbeitgeber Anschrift",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "regelm\u00e4\u00dfige w\u00f6chentliche Arbeitszeit",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Au\u00dferdem teile ich Folgendes mit:",
+      "page": 0,
+      "structure": "5",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der \u00a7\u00a7 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wir versichern, dass alle Angaben wahrheitsgetreu gemacht worden sind. Die erforderlichen Nachweise sind beigef\u00fcgt. Uns ist bekannt, dass Ver\u00e4nderungen gegen\u00fcber den gemachten Angaben unverz\u00fcglich der zust\u00e4ndigen Familienkasse anzuzeigen sind.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Datum",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Unterschrift des/der Berechtigten)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Unterschrift des Kindes)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Hinweise zur Erkl\u00e4rung zu den Verh\u00e4ltnissen eines \u00fcber 18 Jahre alten Kindes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Allgemeine Hinweise",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kindergeld wird f\u00fcr alle Kinder bis zum vollendeten 18. Lebensjahr gezahlt. Die Ber\u00fccksichtigung eines vollj\u00e4hrigen Kindes ist m\u00f6glich, wenn es",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Besch\u00e4ftigungsverh\u00e4ltnis steht und bei einer Agentur f\u00fcr Arbeit im Inland als Arbeitsuchender gemeldet ist oder",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "2. noch nicht das 25. Lebensjahr vollendet hat und",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "a) f\u00fcr einen Beruf ausgebildet wird oder",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "b) sich in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten befindet (siehe auch zu 2.) oder",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "d) einen geregelten Freiwilligendienst leistet oder",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "3. wegen k\u00f6rperlicher, geistiger oder seelischer Behinderung au\u00dferstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze).",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den F\u00e4llen der Nummer 2 (a bis d) nur ber\u00fccksichtigt, wenn das Kind keiner (sch\u00e4dlichen) Erwerbst\u00e4tigkeit nachgeht.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zu Unrecht erhaltenes Kindergeld muss zur\u00fcckgezahlt werden.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Weitere Angaben zum Kind",
+      "page": 0,
+      "structure": "Zu 2",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "F\u00fcr ein vollj\u00e4hriges, noch nicht 25 Jahre altes Kind besteht auch dann Anspruch auf Kindergeld, wenn es sich in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten befindet, die zwischen zwei Ausbildungsabschnitten oder zwischen einem Ausbildungsabschnitt und der Ableistung eines geregelten Freiwilligendienstes im Sinne des \u00a7 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d Einkommensteuergesetz (EStG) bzw. \u00a7 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d Bundeskindergeldgesetz (BKGG) liegt (siehe unten).",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nach \u00a7 32 Abs. 4 Satz 1 Nr. 2 Buchstabe d EStG bzw. \u00a7 2 Abs. 2 Satz 1 Nr. 2 Buchstabe d BKGG werden Kinder ber\u00fccksichtigt, die einen geregelten Freiwilligendienst ableisten. Dazu geh\u00f6ren das freiwillige soziale Jahr und das freiwillige \u00f6kologische Jahr im Sinne des Jugendfreiwilligendienstegesetzes, der Europ\u00e4ische Freiwilligendienst (\u201eJugend in Aktion\u201c), der entwicklungspolitische Freiwilligendienst \u201eweltw\u00e4rts\u201c, der Freiwilligendienst aller Generationen (\u00a7 2 Absatz 1a SGB VII), der Internationale Jugendfreiwilligendienst im Sinne der Richtlinie des Bundesministeriums f\u00fcr Familie, Senioren, Frauen und Jugend vom 20.12.2010 (GMBI. S. 1778) und der Bundesfreiwilligendienst im Sinne des Bundesfreiwilligendienstgesetzes.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte weisen Sie die o. g. Voraussetzungen anhand geeigneter Belege (z. B. Schul- oder Immatrikulationsbescheinigung, Ausbildungsvertrag, schriftliche Vereinbarung \u00fcber die Durchf\u00fchrung des Freiwilligendienstes, Best\u00e4tigung der Bundesagentur f\u00fcr Arbeit \u00fcber die Meldung als arbeitsuchend, etc.) nach.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Angaben zur bisherigen Berufsausbildung / zum bisherigen Studium des Kindes",
+      "page": 0,
+      "structure": "Zu 3",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Eine Ausbildung (Berufsausbildung oder Studium) ist abgeschlossen, wenn sie zur Aus\u00fcbung eines Berufs bef\u00e4higt, auch wenn sich daran eine darauf aufbauende weitere Ausbildung anschlie\u00dft. Dies gilt auch, wenn der Abschluss noch nicht zur Aus\u00fcbung des angestrebten Berufsziels berechtigt (z. B. Verk\u00e4ufer, Rettungssanit\u00e4ter, Lehrer oder Juristen nach Bestehen des 1. Staatsexamens).",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Angaben zur Erwerbst\u00e4tigkeit des Kindes",
+      "page": 0,
+      "structure": "Zu 4",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ein Kind ist erwerbst\u00e4tig, wenn es einer auf die Erzielung von Eink\u00fcnften gerichteten Besch\u00e4ftigung nachgeht, die den Einsatz seiner pers\u00f6nlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff \u201eErwerbst\u00e4tigkeit\u201c durch eine nichtselbst\u00e4ndige T\u00e4tigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbst\u00e4ndige T\u00e4tigkeit erf\u00fcllt werden kann. Die Verwaltung eigenen Verm\u00f6gens ist demgegen\u00fcber keine Erwerbst\u00e4tigkeit.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte weisen Sie die w\u00f6chentliche Arbeitszeit anhand geeigneter Unterlagen (z. B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierf\u00fcr durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit o. \u00e4. mindern die vertraglich vereinbarte Arbeitszeit nicht.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    }
   ],
   "title": "Kindergeld: Erkl\u00e4rung zu den Verh\u00e4ltnissen eines \u00fcber 18 Jahre alten Kindes",
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mtay/~edisp/l6019022dstbai408118.pdf"

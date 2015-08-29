@@ -50,7 +50,7 @@ for form_id, form in forms.items():
     for lang_id, translation in translations.items():
         data = {}
 
-        keys = set([r[1] for r in form['rows']])
+        keys = set([r['content'] for r in form['rows']])
         for key in keys:
             if key in translation:
                 data[key] = translation[key]
@@ -67,8 +67,9 @@ for form_id, form in forms.items():
 #
 #     if lang_id != 'form':
 #         data = {normalize(k): normalize(v) for k, v in data.items()}
-#     else:
-#         data['rows'] = [(a, normalize(b)) for a, b in data['rows']]
+#    else:
+#        for row in data['rows']:
+#            row['content'] = normalize(row['content'])
 #
 #     with open(path, 'w') as fh:
 #         json.dump(data, fh, indent=2, separators=(',', ': '), sort_keys=True)

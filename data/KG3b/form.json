@@ -1,194 +1,476 @@
 {
   "date": "2009-05-01",
   "rows": [
-    [
-      "",
-      "Name und Vorname des/der Kindergeldberechtigten"
-    ],
-    [
-      "",
-      "Kindergeld-Nr."
-    ],
-    [
-      "",
-      "Steuer-ID"
-    ],
-    [
-      "",
-      "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:"
-    ],
-    [
-      "",
-      "Bitte Hinweise beachten!"
-    ],
-    [
-      "",
-      "Lebensbescheinigung"
-    ],
-    [
-      "",
-      "zur Vorlage bei der Familienkasse"
-    ],
-    [
-      "A.",
-      "Erkl\u00e4rung \u00fcber Kinder, die au\u00dferhalb des Haushaltes wohnen"
-    ],
-    [
-      "",
-      "von Herrn/Frau"
-    ],
-    [
-      "",
-      "(Name)"
-    ],
-    [
-      "",
-      "(Vorname)"
-    ],
-    [
-      "",
-      "geboren am:"
-    ],
-    [
-      "",
-      "Familienstand:"
-    ],
-    [
-      "",
-      "wohnhaft:"
-    ],
-    [
-      "",
-      "(Stra\u00dfe/Platz, Hausnummer)"
-    ],
-    [
-      "",
-      "(Postleitzahl, Wohnort)"
-    ],
-    [
-      "",
-      "Ich erkl\u00e4re hiermit, dass folgendes Kind/ folgende Kinder"
-    ],
-    [
-      "",
-      "lfd. Nr.:"
-    ],
-    [
-      "",
-      "Name und Vorname des Kindes"
-    ],
-    [
-      "",
-      "geboren am"
-    ],
-    [
-      "",
-      "Familienstand *)"
-    ],
-    [
-      "",
-      "In Deutschland seit **)"
-    ],
-    [
-      "",
-      "*) Nur bei \u00fcber 18 Jahre alten Kindern"
-    ],
-    [
-      "",
-      "**) Bei nichtdeutschen Kindern ist hier anzugeben, seit wann sie sich in Deutschland ununterbrochen aufhalten."
-    ],
-    [
-      "",
-      "In \u2026"
-    ],
-    [
-      "",
-      "(Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort)"
-    ],
-    [
-      "",
-      "Bei \u2026"
-    ],
-    [
-      "",
-      "wohnt / wohnen."
-    ],
-    [
-      "",
-      "(Person oder Institution, bei der das Kind/die Kinder lebt/leben)"
-    ],
-    [
-      "",
-      "(Ort)"
-    ],
-    [
-      "",
-      "(Datum)"
-    ],
-    [
-      "",
-      "(Unterschrift)"
-    ],
-    [
-      "B.",
-      "Bescheinigung"
-    ],
-    [
-      "",
-      "Es wird hiermit bescheinigt, dass das (die) unter lfd. Nr. .... bis lfd. Nr. \u2026 aufgef\u00fchrte(n) Kind(er) nach den hier vorhandenen Unterlagen - nach pers\u00f6nlicher Kenntnis - wie angegeben gemeldet - wohnhaft - ist (sind)."
-    ],
-    [
-      "",
-      "Bemerkungen:"
-    ],
-    [
-      "",
-      "Dienstsiegel oder Stempel, falls vorhanden"
-    ],
-    [
-      "",
-      "(Ort)"
-    ],
-    [
-      "",
-      "(Datum)"
-    ],
-    [
-      "",
-      "(Unterschrift)"
-    ],
-    [
-      "",
-      "Hinweise"
-    ],
-    [
-      "",
-      "Kindergeld kann grunds\u00e4tzlich nur f\u00fcr die Kinder gezahlt werden, die im Haushalt des Antragstellers leben. Unter bestimmten Voraussetzungen k\u00f6nnen aber auch Kinder ber\u00fccksichtigt werden, die au\u00dferhalb des Haushalts leben, z.B. Kinder, die in einem Heim untergebracht sind."
-    ],
-    [
-      "",
-      "N\u00e4heres findet sich dazu im Merkblatt \u00fcber Kindergeld."
-    ],
-    [
-      "",
-      "Das Vorhandensein der Kinder und ihre Unterbringung ist in der Regel durch die umseitige Lebensbescheinigung nachzuweisen."
-    ],
-    [
-      "",
-      "F\u00fcllen Sie bitte den Abschnitt A gut leserlich aus. Im Abschnitt B sind Ihre Angaben durch die zust\u00e4ndige Meldebeh\u00f6rde (Einwohnermeldeamt) oder eine andere \u00f6ffentliche Stelle zu bescheinigen und mit dem Dienstsiegel oder Dienststempel zu versehen."
-    ],
-    [
-      "",
-      "F\u00fcr Kinder, die in einem Heim untergebracht sind, kann die Bescheinigung von der Heimleitung ausgestellt werden."
-    ],
-    [
-      "",
-      "F\u00fcr Kinder in Schul- oder Berufsausbildung kann anstelle einer Lebensbescheinigung auch eine Schul- oder Ausbildungsbescheinigung vorgelegt werden, die jedoch nicht \u00e4lter als sechs Monate sein darf. Die entsprechenden Bescheinigungsvordrucke sind bei der Familienkasse erh\u00e4ltlich."
-    ],
-    [
-      "",
-      "Falls Sie den Nachweis \u00fcber das Vorhandensein Ihrer Kinder nicht ohne Weiteres erbringen k\u00f6nnen - dies kann z.B. bei Kindern au\u00dferhalb Deutschlands schwierig sein - wenden Sie sich bitte an die Familienkasse."
-    ]
+    {
+      "align": "left",
+      "content": "Name und Vorname des/der Kindergeldberechtigten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kindergeld-Nr.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Steuer-ID",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Hinweise beachten!",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Lebensbescheinigung",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "zur Vorlage bei der Familienkasse",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Erkl\u00e4rung \u00fcber Kinder, die au\u00dferhalb des Haushaltes wohnen",
+      "page": 0,
+      "structure": "A.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "von Herrn/Frau",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Name)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Vorname)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "geboren am:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienstand:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "wohnhaft:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Stra\u00dfe/Platz, Hausnummer)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Postleitzahl, Wohnort)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ich erkl\u00e4re hiermit, dass folgendes Kind/ folgende Kinder",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "lfd. Nr.:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name und Vorname des Kindes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "geboren am",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienstand *)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "In Deutschland seit **)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "*) Nur bei \u00fcber 18 Jahre alten Kindern",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "**) Bei nichtdeutschen Kindern ist hier anzugeben, seit wann sie sich in Deutschland ununterbrochen aufhalten.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "In \u2026",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bei \u2026",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "wohnt / wohnen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Person oder Institution, bei der das Kind/die Kinder lebt/leben)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Ort)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Datum)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Unterschrift)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bescheinigung",
+      "page": 0,
+      "structure": "B.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Es wird hiermit bescheinigt, dass das (die) unter lfd. Nr. .... bis lfd. Nr. \u2026 aufgef\u00fchrte(n) Kind(er) nach den hier vorhandenen Unterlagen - nach pers\u00f6nlicher Kenntnis - wie angegeben gemeldet - wohnhaft - ist (sind).",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bemerkungen:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Dienstsiegel oder Stempel, falls vorhanden",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Ort)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Datum)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Unterschrift)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Hinweise",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kindergeld kann grunds\u00e4tzlich nur f\u00fcr die Kinder gezahlt werden, die im Haushalt des Antragstellers leben. Unter bestimmten Voraussetzungen k\u00f6nnen aber auch Kinder ber\u00fccksichtigt werden, die au\u00dferhalb des Haushalts leben, z.B. Kinder, die in einem Heim untergebracht sind.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "N\u00e4heres findet sich dazu im Merkblatt \u00fcber Kindergeld.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das Vorhandensein der Kinder und ihre Unterbringung ist in der Regel durch die umseitige Lebensbescheinigung nachzuweisen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "F\u00fcllen Sie bitte den Abschnitt A gut leserlich aus. Im Abschnitt B sind Ihre Angaben durch die zust\u00e4ndige Meldebeh\u00f6rde (Einwohnermeldeamt) oder eine andere \u00f6ffentliche Stelle zu bescheinigen und mit dem Dienstsiegel oder Dienststempel zu versehen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "F\u00fcr Kinder, die in einem Heim untergebracht sind, kann die Bescheinigung von der Heimleitung ausgestellt werden.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "F\u00fcr Kinder in Schul- oder Berufsausbildung kann anstelle einer Lebensbescheinigung auch eine Schul- oder Ausbildungsbescheinigung vorgelegt werden, die jedoch nicht \u00e4lter als sechs Monate sein darf. Die entsprechenden Bescheinigungsvordrucke sind bei der Familienkasse erh\u00e4ltlich.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Falls Sie den Nachweis \u00fcber das Vorhandensein Ihrer Kinder nicht ohne Weiteres erbringen k\u00f6nnen - dies kann z.B. bei Kindern au\u00dferhalb Deutschlands schwierig sein - wenden Sie sich bitte an die Familienkasse.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    }
   ],
   "title": "Kindergeld: Lebensbescheinigung f\u00fcr Familienkasse",
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378299.pdf"

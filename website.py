@@ -38,7 +38,7 @@ def load_data(top):
                     with open(path) as fh:
                         form = json.load(fh)
 
-                        keys = set([r[1] for r in form['rows']])
+                        keys = set([r['content'] for r in form['rows']])
                         if '' in keys:
                             keys.remove('')
                         form['keys'] = keys

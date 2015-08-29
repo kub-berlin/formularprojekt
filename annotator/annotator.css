@@ -1,0 +1,76 @@
+/* layout */
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 3em;
+}
+.sidebar,
+.canvas {
+	position: fixed;
+	top: 3em;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	overflow-y: auto;
+}
+.sidebar {
+	left: 50%;
+}
+.canvas {
+	right: 50%;
+}
+
+/* basics */
+a {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+/* canvas */
+.row.selected {
+	background: #333;
+	color: #f2f2f2;
+}
+
+/* sidebar */
+.sidebar {
+	margin: 0;
+	padding: 1em 0;
+	list-style: none;
+	background: #f2f2f2;
+	color: #333;
+}
+.sidebar .selected {
+	font-weight: bold;
+}
+.sidebar li {
+	position: relative;
+	padding: 0.2em 1em;
+	border-bottom: 1px solid;
+}
+.sidebar li .unselect {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+/* header */
+.header {
+	background: #333;
+	color: #f2f2f2;
+}
+.header h1 {
+	font-size: 200%;
+	line-height: 1.5;
+	margin: 0;
+	display: inline;
+}
+.header .export,
+.header .force-update,
+.header input,
+.header select {
+	float: right;
+	margin: 1em;
+}

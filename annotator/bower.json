@@ -1,0 +1,22 @@
+{
+  "name": "formularprojekt annotator",
+  "main": "annotator.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/xi/formularprojekt",
+  "authors": [
+    "Tobias Bengfort <tobias.bengfort@posteo.de>"
+  ],
+  "description": "GUI for annotating forms for formularprojekt",
+  "license": "GPLv2+",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "muu": "xi/muu#~0.1.0",
+    "promise-xhr": "wildlyinaccurate/promise-xhr#~0.0.1"
+  }
+}

@@ -1,0 +1,51 @@
+<header class="header">
+	<h1>formularprojekt</h1>
+	<select name="formId" data-onchange="change-form">
+		<option></option>
+		<option value="KG">KG</option>
+		<option value="KG1">KG1</option>
+		<option value="KG11a">KG11a</option>
+		<option value="KG3a">KG3a</option>
+		<option value="KG3b">KG3b</option>
+		<option value="KG5">KG5</option>
+		<option value="KG5a">KG5a</option>
+		<option value="KG5d">KG5d</option>
+		<option value="Rundfunkbeitrag_Befreiung">Rundfunkbeitrag_Befreiung</option>
+	</select>
+	<input type="number" name="page" data-onchange="change-page" />
+	<a href="#" class="force-update" data-onclick="force-update">update</a>
+	<a href="#" class="export" data-onclick="export">export</a>
+</header>
+
+<div class="canvas">
+	<div class="page" data-onclick="canvas-click">
+		<img class="page-bg" src="{{bg}}" alt="" />
+		{{#rows}}
+			{{#size}}
+			<span
+				class="row {{selected: selected}}"
+				style="top: {{y1}}px; left: {{x1}}px; text-align: {{align}}; width: {{width}}px; font-size: {{size}}px;"
+			>{{content}}</span>
+			{{/size}}
+		{{/rows}}
+	</div>
+</div>
+
+<ul class="sidebar">
+{{#rows}}
+	<li>
+		<a href="#" data-onclick="select-row" class="{{selected: selected}}">{{content}}</a>
+		{{#selected}}
+		<div class="inputs">
+			<input type="number" name="x1" title="x1" data-onchange="update-selected" />
+			<input type="number" name="x2" title="x2" data-onchange="update-selected-2" />
+			<input type="number" name="width" title="width" data-onchange="update-selected" />
+			<input type="number" name="y1" title="y1" data-onchange="update-selected" />
+			<input type="number" name="y2" title="y2" data-onchange="update-selected-2" />
+			<input type="number" name="size" title="size" data-onchange="update-selected" />
+		</div>
+		<a href="#" class="unselect" data-onclick="unselect-row">X</a>
+		{{/selected}}
+	</li>
+{{/rows}}
+</ul>

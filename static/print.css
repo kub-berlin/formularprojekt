@@ -1,0 +1,40 @@
+body {
+	margin: 8px;
+	font-family: Arial, sans-serif;
+}
+.page,
+.disclaimer {
+	width: 640px;
+}
+.page {
+	height: 905px;
+	position: relative;
+	page-break-after: always;
+	margin: 0 auto 2em;
+}
+.page:last-of-type {
+	page-break-after: auto;
+}
+.row {
+	position: absolute;
+}
+.disclaimer p,
+.row p {
+	margin: 0;
+}
+
+.disclaimer {
+	color: darkred;
+	border: 1px solid;
+	padding: 0.2em 0.5em;
+	font-size: 11px;
+	box-sizing: border-box;
+	margin: 2em auto 1em;
+}
+
+@media print {
+	body {
+		/* force firefox to scale on print */
+		min-width: 740px;
+	}
+}

@@ -204,6 +204,35 @@ def translation_route(lang_id, form_id):
         available_languages=available_languages)
 
 
+@formularprojekt.route('/<lang_id>/<form_id>/print/')
+def print_route(lang_id, form_id):
+    if lang_id not in translations:
+        abort(404)
+    if form_id not in forms:
+        abort(404)
+    if form_id not in translations[lang_id]:
+        abort(404)
+
+    page_n = max((row['page'] for row in forms[form_id]['rows']))
+    pages = []
+    bg_template = 'static/forms/%s/bg-%i.png'
+    for i in range(page_n + 1):
+        pages.append({
+            'bg': os.path.exists(bg_template % (form_id, i)),
+            'rows': []
+        })
+    for row in forms[form_id]['rows']:
+        n = int(row['page'])
+        pages[n]['rows'].append(row)
+
+    return render_template(
+        'print.html',
+        forms=forms,
+        pages=pages,
+        lang_id=lang_id,
+        form_id=form_id)
+
+
 def create_app(settings=None):
     app = Flask(__name__)
     app.config.from_object(settings)

@@ -2,6 +2,7 @@
 
 {% block head %}
 <title>{{ 'Formularprojekt' | translate(lang_id, 'meta') }} - {{ forms[form_id].title }}</title>
+<link rel="alternate" href="{{ url_for('formularprojekt.print_route', lang_id=lang_id, form_id=form_id) }}" />
 {% endblock %}
 
 {% block main %}

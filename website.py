@@ -10,6 +10,7 @@ import argparse
 
 from flask import Flask, Blueprint, render_template
 from flask import abort
+from flask.helpers import send_from_directory
 from flask_frozen import Freezer
 from flask.ext.markdown import Markdown
 
@@ -233,6 +234,29 @@ def print_route(lang_id, form_id):
         form_id=form_id)
 
 
+def send_annotator_file(filename='index.html'):
+    return send_from_directory('annotator', filename)
+
+
+def send_data_file(filename):
+    return send_from_directory('data', filename)
+
+
+def add_annotator_rules(app):
+    app.add_url_rule(
+        '/annotator/',
+        endpoint='annotator',
+        view_func=send_annotator_file)
+    app.add_url_rule(
+        '/annotator/<path:filename>',
+        endpoint='annotator_static',
+        view_func=send_annotator_file)
+    app.add_url_rule(
+        '/data/<path:filename>',
+        endpoint='data',
+        view_func=send_data_file)
+
+
 def create_app(settings=None):
     app = Flask(__name__)
     app.config.from_object(settings)
@@ -279,6 +303,7 @@ def main():  # pragma: no cover
     app = create_app(args)
 
     if args.cmd == 'serve':
+        add_annotator_rules(app)
         app.run(port=args.port)
     elif args.cmd == 'check':
         check_translations(args.form, args.lang, args.verbose)

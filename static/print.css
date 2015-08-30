@@ -4,10 +4,10 @@ body {
 }
 .page,
 .disclaimer {
-	width: 640px;
+	width: 616px;
 }
 .page {
-	height: 905px;
+	height: 900px;
 	position: relative;
 	page-break-after: always;
 	margin: 0 auto 2em;

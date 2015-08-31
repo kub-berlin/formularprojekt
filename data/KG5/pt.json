@@ -1,17 +1,17 @@
 {
   "Geburtsdatum": "Data de nascimento",
-  "Kindergeld-Nr.": "N.\u00ba do abono de fam\u00edlia",
+  "Kindergeld-Nr.": "N.º do abono de família",
   "Name": "Apelido(s)",
-  "Name und Vorname des/der Kindergeldberechtigten": "Apelido e nome da/do benefici\u00e1ria/o do abono de fam\u00edlia",
+  "Name und Vorname des/der Kindergeldberechtigten": "Apelido e nome da/do beneficiária/o do abono de família",
   "Ort und Datum": "Local e data",
-  "Steuer-ID": "N\u00famero de identifica\u00e7\u00e3o fiscal",
-  "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:": "Pedidos de informa\u00e7\u00e3o por telefone para o n.\u00ba:",
+  "Steuer-ID": "Número de identificação fiscal",
+  "Telefonische Rückfrage tagsüber unter Nr.:": "Pedidos de informação por telefone para o n.º:",
   "Vorname": "Nome(s)",
   "dauernd getrennt lebend": "separada/o de facto",
   "geschieden": "divorciada/o",
   "ledig": "solteira/o",
-  "nein": "n\u00e3o",
+  "nein": "não",
   "seit": "desde",
   "verheiratet": "casada/o",
-  "verwitwet": "vi\u00fava/o"
+  "verwitwet": "viúva/o"
 }

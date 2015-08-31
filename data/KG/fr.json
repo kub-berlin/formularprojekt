@@ -1,10 +1,10 @@
 {
-  "Anschrift (Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort)": "Adresse (rue/place, num\u00e9ro, code postal, localit\u00e9)",
-  "Kindergeld-Nr.": "N\u00b0 d'allocataire",
-  "dauernd getrennt lebend": "durablement s\u00e9par\u00e9(e)",
-  "geschieden": "divorc\u00e9(e)",
-  "in eingetragener Lebenspartnerschaft lebend": "en partenariat enregistr\u00e9",
-  "ledig": "c\u00e9libataire",
-  "verheiratet": "mari\u00e9(e)",
+  "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort)": "Adresse (rue/place, numéro, code postal, localité)",
+  "Kindergeld-Nr.": "N° d'allocataire",
+  "dauernd getrennt lebend": "durablement séparé(e)",
+  "geschieden": "divorcé(e)",
+  "in eingetragener Lebenspartnerschaft lebend": "en partenariat enregistré",
+  "ledig": "célibataire",
+  "verheiratet": "marié(e)",
   "verwitwet": "veuf(ve)"
 }

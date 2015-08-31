@@ -1,9 +1,11 @@
 {
   "(Datum)": "(Date)",
+  "(Name)": "(Nom)",
   "(Ort)": "(Lieu)",
   "(Postleitzahl, Wohnort)": "(Code postal, localité)",
   "(Straße/Platz, Hausnummer)": "(Rue/place, numéro)",
   "(Unterschrift)": "(Signature)",
+  "(Vorname)": "(Prénom)",
   "*) Nur bei über 18 Jahre alten Kindern": "*) Uniquement pour les enfants âgés de plus de 18 ans",
   "Bemerkungen:": "Remarques :",
   "Bitte Hinweise beachten!": "Merci de lire la note explicative",
@@ -18,5 +20,7 @@
   "Telefonische Rückfrage tagsüber unter Nr.:": "Pour toute question, téléphonez pendant la journée au :",
   "geboren am": "Né(e) le",
   "geboren am:": "Né(e) le :",
+  "lfd. Nr.": "N°",
+  "wohnhaft:": "Domicilié(e) :",
   "zur Vorlage bei der Familienkasse": "à présenter à la caisse d'allocations familiales"
 }

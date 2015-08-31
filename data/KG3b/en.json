@@ -15,6 +15,7 @@
   "Bescheinigung": "Confirmation",
   "Bitte Hinweise beachten!": "Please consider the comments!",
   "Das Vorhandensein der Kinder und ihre Unterbringung ist in der Regel durch die umseitige Lebensbescheinigung nachzuweisen.": "The existence of the children as well as their placement has to be proven by the life certificate overleaf.",
+  "Dienstsiegel oder Stempel, falls vorhanden": "Official seal or stamp, if available",
   "Erklärung über Kinder, die außerhalb des Haushaltes wohnen": "Information concerning the children that live outside of the household",
   "Es wird hiermit bescheinigt, dass das (die) unter lfd. Nr. .... bis lfd. Nr. … aufgeführte(n) Kind(er) nach den hier vorhandenen Unterlagen - nach persönlicher Kenntnis - wie angegeben gemeldet - wohnhaft - ist (sind).": "This is to certify that according to present documents – to personal state of knowledge – the child/children of consecutive number .... to consecutive number ..... is/are residing as stated.",
   "Falls Sie den Nachweis über das Vorhandensein Ihrer Kinder nicht ohne Weiteres erbringen können - dies kann z.B. bei Kindern außerhalb Deutschlands schwierig sein - wenden Sie sich bitte an die Familienkasse.": "In case you can't prove the existence of your children – e.g. it might be difficult in the case of children abroad – please contact the Cild Benefits Office.",
@@ -37,7 +38,7 @@
   "Telefonische Rückfrage tagsüber unter Nr.:": "Telephone number during the day in case of query:",
   "geboren am": "born on",
   "geboren am:": "born on:",
-  "lfd. Nr.:": "Consecutive number:",
+  "lfd. Nr.": "Consecutive number",
   "von Herrn/Frau": "by Mr/Mrs/Ms",
   "wohnhaft:": "resident at:",
   "zur Vorlage bei der Familienkasse": "For submission to the Family Benefits Office"

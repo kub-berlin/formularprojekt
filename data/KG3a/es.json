@@ -1,10 +1,11 @@
 {
   "(Datum)": "(Fecha)",
-  "(Name) (Vorname)": "(Apellido/s) (Nombre/s)",
+  "(Name)": "(Apellido/s)",
   "(Ort)": "(Lugar)",
   "(Postleitzahl, Wohnort)": "(Código postal, localidad)",
   "(Straße/Platz, Hausnummer)": "(Calle, número)",
   "(Unterschrift)": "(Firma)",
+  "(Vorname)": "(Nombre/s)",
   "*) Nur bei über 18 Jahre alten Kindern": "*) Solo para hijos mayores de 18 años",
   "**) Nur sofern ein Zuzug aus dem Ausland erfolgte, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.": "**) Si el/la hijo/a llegó posteriormente del extranjero, se ha de indicar desde qué fecha reside de forma permanente en Alemania.",
   "Amtliche Bescheinigung der Angaben": "Confirmación oficial de los datos",
@@ -24,6 +25,7 @@
   "In Deutschland seit **)": "Estancia en Alemania desde **)",
   "Kindergeld kann Ihnen grundsätzlich für die Kinder gezahlt werden, die zu Ihrem Haushalt gehören. Eine Haushaltszugehörigkeit liegt nur vor, wenn das Kind ständig in Ihrem Haushalt lebt, von Ihnen betreut und erzogen wird und aus den Mitteln Ihres Haushalts versorgt wird. Allein die bloße Anmeldung eines Kindes bei einer Meldebehörde führt nicht zur Haushaltszugehörigkeit. Während einer zeitweiligen auswärtigen Unterbringung zur Schul- oder Berufsausbildung bleibt eine bestehende Haushaltszugehörigkeit erhalten.": "El derecho al subsidio por hijos a cargo le corresponde a aquellos que forman parte del hogar, circunstancia que se da por cumplida si es su residencia habitual, el núcleo de su cuidado y educación y si se financia por las rentas y los ingresos que se generan en el propio hogar. El mero empadronamiento no significa necesariamente que un/a hijo/a forme parte del hogar. En cambio, el alojamiento temporal fuera del hogar a efectos de la educación escolar o profesional no interrumpe la composición del hogar familiar.",
   "Kindergeld-Nr.": "Número de Identificación del subsidio familiar",
+  "Name und Vorname des Kindes": "Apellido/s y nombre/s del hijo",
   "Name und Vorname des/der Kindergeldberechtigten": "Apellidos, Nombre del/ de la beneficiario/a del subsidio familiar por hijos",
   "Näheres finden Sie dazu im Merkblatt über Kindergeld.": "Encontrará información detallada en el folleto explicativo sobre el subsidio por hijos a cargo.",
   "Steuer-ID": "Número de Identificación fiscal",
@@ -32,7 +34,7 @@
   "durch Herrn/Frau": "Por el/la señor/a",
   "geboren am": "Fecha de nacimiento",
   "geboren am:": "Fecha de nacimiento",
-  "lfd.": "Número de orden",
-  "wohnhaft": "Domicilio",
+  "lfd. Nr.": "Número de orden",
+  "wohnhaft:": "domicilio:",
   "zur Vorlage bei der Familienkasse": "para ser presentado ante la Caja de Prestaciones Familiares"
 }

@@ -1,10 +1,11 @@
 {
   "(Datum)": "التاريخ",
-  "(Name) (Vorname)": "(اسم العائلة) (الاسم الشخصي)",
+  "(Name)": "اللقب",
   "(Ort)": "المكان",
   "(Postleitzahl, Wohnort)": "رمز البريدي، المدينة",
   "(Straße/Platz, Hausnummer)": "شارع، ساحة، رقم المنزل",
   "(Unterschrift)": "التوقيع",
+  "(Vorname)": "الاسم",
   "*) Nur bei über 18 Jahre alten Kindern": "*) فقط للاطفال فوق ال١٨ سنة",
   "**) Nur sofern ein Zuzug aus dem Ausland erfolgte, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.": "",
   "Amtliche Bescheinigung der Angaben": "إثبات رسمي للبيانات",
@@ -19,6 +20,7 @@
   "Hinweise": "الملاحظات",
   "In Deutschland seit **)": "وخود في ألمانيا منذ **)",
   "Kindergeld-Nr.": "رقم الكيندرغيلد",
+  "Name und Vorname des Kindes": "اللقب",
   "Name und Vorname des/der Kindergeldberechtigten": "اسم و لقب المطالب بدعم الطفل",
   "Näheres finden Sie dazu im Merkblatt über Kindergeld.": "تجد المزيد من المعلومات في نشرة عن إعانة رعاية الطفل",
   "Steuer-ID": "رقم التعريف الضريبي",
@@ -28,7 +30,7 @@
   "durch Herrn/Frau": "من قبل السيد/السيدة",
   "geboren am": "تاريخ الميلاد:",
   "geboren am:": "تاريخ الميلاد:",
-  "lfd.": "العدد",
-  "wohnhaft": "العنوان",
+  "lfd. Nr.": "العدد",
+  "wohnhaft:": "مقيم:",
   "zur Vorlage bei der Familienkasse": "لتقديم إلى صندوق العائلة"
 }

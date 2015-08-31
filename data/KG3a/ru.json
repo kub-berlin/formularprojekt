@@ -1,9 +1,11 @@
 {
   "(Datum)": "(дата)",
+  "(Name)": "(Фамилия)",
   "(Ort)": "(место)",
   "(Postleitzahl, Wohnort)": "(почтовый индекс, населенный пункт)",
   "(Straße/Platz, Hausnummer)": "(улица, номер дома)",
   "(Unterschrift)": "(подпись)",
+  "(Vorname)": "(Имя)",
   "*) Nur bei über 18 Jahre alten Kindern": "*) только для детей старше 18 лет",
   "Bemerkungen:": "Примечания:",
   "Bitte Hinweise beachten!": "Пожалуйста, обратите внимание на указания по заполнению бланка!",
@@ -12,10 +14,13 @@
   "Hinweise": "Указания",
   "In Deutschland seit **)": "Проживает в Германии с (указать дату) **)",
   "Kindergeld-Nr.": "номер детского пособия",
+  "Name und Vorname des Kindes": "Фамилия и имя ребенка",
   "Name und Vorname des/der Kindergeldberechtigten": "Фамилия и имя лица, пользующегося правом на получение детского пособия",
   "Steuer-ID": "Налоговый идентификационный номер",
   "Telefonische Rückfrage tagsüber unter Nr.:": "Укажите номер телефона для связи в дневное время в случае возникновения вопросов:",
   "geboren am": "Дата рождения",
   "geboren am:": "дата рождения:",
+  "lfd. Nr.": "Номер п/п",
+  "wohnhaft:": "адрес проживания:",
   "zur Vorlage bei der Familienkasse": "для предъявления в отделение социальной службы по защите семьи (\"семейную кассу\")"
 }

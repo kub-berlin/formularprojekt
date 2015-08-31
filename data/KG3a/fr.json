@@ -1,10 +1,11 @@
 {
   "(Datum)": "(Date)",
-  "(Name) (Vorname)": "(Nom) (Prénom)",
+  "(Name)": "(Nom)",
   "(Ort)": "(Lieu)",
   "(Postleitzahl, Wohnort)": "(Code postal, localité)",
   "(Straße/Platz, Hausnummer)": "(Rue/place, numéro)",
   "(Unterschrift)": "(Signature)",
+  "(Vorname)": "(Prénom)",
   "*) Nur bei über 18 Jahre alten Kindern": "*) Uniquement pour les enfants âgés de plus de 18 ans",
   "**) Nur sofern ein Zuzug aus dem Ausland erfolgte, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.": "**) Uniquement en cas d'arrivée d'un pays étranger, indiquez ici depuis quand l'enfant séjourne en Allemagne sans interruption.",
   "Amtliche Bescheinigung der Angaben": "Attestation officielle des informations",
@@ -24,6 +25,7 @@
   "In Deutschland seit **)": "En Allemagne depuis **)",
   "Kindergeld kann Ihnen grundsätzlich für die Kinder gezahlt werden, die zu Ihrem Haushalt gehören. Eine Haushaltszugehörigkeit liegt nur vor, wenn das Kind ständig in Ihrem Haushalt lebt, von Ihnen betreut und erzogen wird und aus den Mitteln Ihres Haushalts versorgt wird. Allein die bloße Anmeldung eines Kindes bei einer Meldebehörde führt nicht zur Haushaltszugehörigkeit. Während einer zeitweiligen auswärtigen Unterbringung zur Schul- oder Berufsausbildung bleibt eine bestehende Haushaltszugehörigkeit erhalten.": "En principe, des allocations familiales peuvent vous être versées pour les enfants appartenant à votre foyer. Un enfant appartient seulement à votre foyer s'il y vit en permanence, si vous l'encadrez et l'éduquez et s'il vit des ressources de votre foyer. Le seul enregistrement d'un enfant auprès d'une autorité d'enregistrement des résidents ne signifie pas qu'il fait partie du foyer. L'appartenance au foyer est maintenue pendant un séjour extérieur temporaire pour la scolarité ou la formation professionnelle.",
   "Kindergeld-Nr.": "N° d'allocataire",
+  "Name und Vorname des Kindes": "Nom et prénom de l'enfant",
   "Name und Vorname des/der Kindergeldberechtigten": "Nom et prénom du(des) bénéficiaire(s) des prestations pour enfant",
   "Näheres finden Sie dazu im Merkblatt über Kindergeld.": "Vous trouverez des informations complémentaires dans la notice relative aux allocations familiales.",
   "Steuer-ID": "Numéro fiscal",
@@ -33,7 +35,7 @@
   "durch Herrn/Frau": "Par Monsieur/Madame",
   "geboren am": "Né(e) le",
   "geboren am:": "Né(e) le :",
-  "lfd.": "N°",
-  "wohnhaft": "Domicilié(e) :",
+  "lfd. Nr.": "N°",
+  "wohnhaft:": "Domicilié(e) :",
   "zur Vorlage bei der Familienkasse": "à présenter à la caisse d'allocations familiales"
 }

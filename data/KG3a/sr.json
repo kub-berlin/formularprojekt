@@ -1,10 +1,11 @@
 {
   "(Datum)": "(Datum)",
-  "(Name) (Vorname)": "( Prezime ) ( Ime )",
+  "(Name)": "(Ime)",
   "(Ort)": "(Mesto)",
   "(Postleitzahl, Wohnort)": "(poštanski broj, grad/mesto)",
   "(Straße/Platz, Hausnummer)": "(ulica/trg, broj zgrade)",
   "(Unterschrift)": "(Potpis)",
+  "(Vorname)": "(Prezime)",
   "*) Nur bei über 18 Jahre alten Kindern": "*) samo ako se radi o deci preko 18 godina",
   "**) Nur sofern ein Zuzug aus dem Ausland erfolgte, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.": "**) Od kada se dete stalno ( bez prekida )nalazi u nemackoj - samo ispunite ako su deca dosla iz inostranstva -",
   "Amtliche Bescheinigung der Angaben": "Sluzbena potvrda o podacima",
@@ -24,6 +25,7 @@
   "In Deutschland seit **)": "U Nemačkoj od **)",
   "Kindergeld kann Ihnen grundsätzlich für die Kinder gezahlt werden, die zu Ihrem Haushalt gehören. Eine Haushaltszugehörigkeit liegt nur vor, wenn das Kind ständig in Ihrem Haushalt lebt, von Ihnen betreut und erzogen wird und aus den Mitteln Ihres Haushalts versorgt wird. Allein die bloße Anmeldung eines Kindes bei einer Meldebehörde führt nicht zur Haushaltszugehörigkeit. Während einer zeitweiligen auswärtigen Unterbringung zur Schul- oder Berufsausbildung bleibt eine bestehende Haushaltszugehörigkeit erhalten.": "Decji dodatak moze se isplatiti samo za decu koja zive u vasem domacinstvu. Pripadnost domacinstvu postoji samo ako dete stalno zivi u vasem domacinstvu, ako ga vi vaspitavate i o njemu brinete i sa sredstvima vaseg domacinstva ga zbrinjavate. Samo jedna prijava deteta kod nadlestva / nemacke vlasti ne znaci da dete vasem domacinstvu pripada. U slucaju privremenog skolovanja izvan domacinstva ostaje pripadnost domacinstvu vazeca.",
   "Kindergeld-Nr.": "Dečiji dodatak-Br.",
+  "Name und Vorname des Kindes": "Ime i prezime deteta",
   "Name und Vorname des/der Kindergeldberechtigten": "Ime i prezime lica koje/koja imaju pravo na dodelu dečijeg dodatka",
   "Näheres finden Sie dazu im Merkblatt über Kindergeld.": "Vise o tome cete naci u stampanom uputstvu za decji dodatak.",
   "Steuer-ID": "Poreski identifikacioni broj",
@@ -33,7 +35,7 @@
   "durch Herrn/Frau": "kroz g-a / gdje / gdjice",
   "geboren am": "rođeno dana",
   "geboren am:": "rođen-e dana:",
-  "lfd.": "( nabrajanje )",
-  "wohnhaft": "Prebivaliste / Adresa",
+  "lfd. Nr.": "Tek. Br.",
+  "wohnhaft:": "adresa stanovanja:",
   "zur Vorlage bei der Familienkasse": "Dokumenta koje treba priložiti kod Porodične kase"
 }

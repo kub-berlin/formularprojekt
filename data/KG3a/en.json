@@ -1,10 +1,11 @@
 {
   "(Datum)": "(date)",
-  "(Name) (Vorname)": "(Last Name) (First Name)",
+  "(Name)": "Surname",
   "(Ort)": "(place)",
   "(Postleitzahl, Wohnort)": "(postcode, city)",
   "(Straße/Platz, Hausnummer)": "(Street/place, street number)",
   "(Unterschrift)": "(signature)",
+  "(Vorname)": "First name",
   "*) Nur bei über 18 Jahre alten Kindern": "*) Only if child is over 18",
   "**) Nur sofern ein Zuzug aus dem Ausland erfolgte, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.": "**) Only in cases where the child has moved to Germany from abroad. Please enter here the date from which the child has been living in Germany uninterrupted.",
   "Amtliche Bescheinigung der Angaben": "Official Confirmation of Certificate",
@@ -24,6 +25,7 @@
   "In Deutschland seit **)": "In Germany since **)",
   "Kindergeld kann Ihnen grundsätzlich für die Kinder gezahlt werden, die zu Ihrem Haushalt gehören. Eine Haushaltszugehörigkeit liegt nur vor, wenn das Kind ständig in Ihrem Haushalt lebt, von Ihnen betreut und erzogen wird und aus den Mitteln Ihres Haushalts versorgt wird. Allein die bloße Anmeldung eines Kindes bei einer Meldebehörde führt nicht zur Haushaltszugehörigkeit. Während einer zeitweiligen auswärtigen Unterbringung zur Schul- oder Berufsausbildung bleibt eine bestehende Haushaltszugehörigkeit erhalten.": "Child Benefit can in principle be paid to you for each of the children belonging to your household. A child qualifies as a member of your household if the child is living in your household continuously, is raised and cared for by you, and is provided for out of your household's means. The registration of a child at a registering authority does not in itself prove that the child belongs to your household. The child still qualifies as a member of your household during temporary periods spent living outside the home for educational or vocational training purposes.",
   "Kindergeld-Nr.": "Child benefit-Number",
+  "Name und Vorname des Kindes": "Surname and first name of the child",
   "Name und Vorname des/der Kindergeldberechtigten": "Surname and first name of the person entitled to child allowance",
   "Näheres finden Sie dazu im Merkblatt über Kindergeld.": "You can find more detailed information regarding this in the Child Benefit pamphlet.",
   "Steuer-ID": "Tax identification number",
@@ -33,7 +35,7 @@
   "durch Herrn/Frau": "by Mr./Ms.",
   "geboren am": "born on",
   "geboren am:": "born on:",
-  "lfd.": "Reg.",
-  "wohnhaft": "Resident at",
+  "lfd. Nr.": "Consecutive number",
+  "wohnhaft:": "resident at:",
   "zur Vorlage bei der Familienkasse": "For submission to the Family Benefits Office"
 }

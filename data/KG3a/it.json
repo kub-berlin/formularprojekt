@@ -1,10 +1,11 @@
 {
   "(Datum)": "(Data)",
-  "(Name) (Vorname)": "(Cognome) (Nome)",
+  "(Name)": "(Cognome)",
   "(Ort)": "(Luogo)",
   "(Postleitzahl, Wohnort)": "(codice postale, città)",
   "(Straße/Platz, Hausnummer)": "(via/piazza, numero civico)",
   "(Unterschrift)": "(Firma)",
+  "(Vorname)": "(Nome)",
   "*) Nur bei über 18 Jahre alten Kindern": "*) Solo per i figli in età maggiore di 18 anni",
   "**) Nur sofern ein Zuzug aus dem Ausland erfolgte, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.": "**) Solo in caso di immigrazione dall’estero: indicare da quando il figlio soggiorna ininterrottamente in Germania.",
   "Amtliche Bescheinigung der Angaben": "Certificazione ufficiale dei dati",
@@ -24,6 +25,7 @@
   "In Deutschland seit **)": "In Germania dal **)",
   "Kindergeld kann Ihnen grundsätzlich für die Kinder gezahlt werden, die zu Ihrem Haushalt gehören. Eine Haushaltszugehörigkeit liegt nur vor, wenn das Kind ständig in Ihrem Haushalt lebt, von Ihnen betreut und erzogen wird und aus den Mitteln Ihres Haushalts versorgt wird. Allein die bloße Anmeldung eines Kindes bei einer Meldebehörde führt nicht zur Haushaltszugehörigkeit. Während einer zeitweiligen auswärtigen Unterbringung zur Schul- oder Berufsausbildung bleibt eine bestehende Haushaltszugehörigkeit erhalten.": "Gli assegni familiari di norma possono essere corrisposti solo per i figli che vivono all’interno del vostro stesso nucleo familiare. Un figlio appartiene al vostro nucleo familiare solo quando vive stabilmente con voi, è assistito e allevato da voi ed è mantenuto con i fondi del vostro nucleo familiare. La semplice iscrizione di un figlio all’anagrafe comunale non equivale all’appartenenza al nucleo familiare. L’appartenenza al nucleo familiare resta invariata anche durante un periodo temporaneo di soggiorno all’estero per l’istruzione scolastica o la formazione professionale.",
   "Kindergeld-Nr.": "Numero di riferimento dell’assegno familiare",
+  "Name und Vorname des Kindes": "Cognome e nome del/la figlio/a",
   "Name und Vorname des/der Kindergeldberechtigten": "Cognome e nome della persona avente diritto agli assegni familiari",
   "Näheres finden Sie dazu im Merkblatt über Kindergeld.": "Potete trovare altri dettagli nel foglio informativo sugli assegni familiari (Merkblatt über Kindergeld).",
   "Steuer-ID": "Codice fiscale",
@@ -33,7 +35,7 @@
   "durch Herrn/Frau": "di sig./ra",
   "geboren am": "data di nascita",
   "geboren am:": "data di nascita:",
-  "lfd.": "n.",
-  "wohnhaft": "residente in",
+  "lfd. Nr.": "Codice n.",
+  "wohnhaft:": "residente in:",
   "zur Vorlage bei der Familienkasse": "da presentare alla Familienkasse (Cassa per la famiglia)"
 }

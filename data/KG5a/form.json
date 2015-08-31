@@ -1,67 +1,157 @@
 {
   "date": "2011-12-01",
   "rows": [
-    [
-      "",
-      "Name und Vorname des/der Kindergeldberechtigten"
-    ],
-    [
-      "",
-      "Kindergeld-Nr."
-    ],
-    [
-      "",
-      "Steuer-ID"
-    ],
-    [
-      "",
-      "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:"
-    ],
-    [
-      "",
-      "Schulbescheinigung zur Vorlage bei der Familienkasse"
-    ],
-    [
-      "",
-      "Hinweis: Der Besuch der Berufsschule braucht nicht nachgewiesen zu werden, wenn zeitgleich ein betriebliches Ausbildungsverh\u00e4ltnis besteht."
-    ],
-    [
-      "",
-      "Der/Die Sch\u00fcler(in) ......."
-    ],
-    [
-      "",
-      "geboren am ..."
-    ],
-    [
-      "",
-      "besucht die Klasse ..........."
-    ],
-    [
-      "",
-      "und wird die Schulausbildung - voraussichtlich - im Monat / Jahr ..... beenden."
-    ],
-    [
-      "",
-      "Es handelt sich hierbei um Vollzeitunterricht."
-    ],
-    [
-      "",
-      "Teilzeitunterricht mit .................... Stunden w\u00f6chentlich."
-    ],
-    [
-      "",
-      "hat die Schulausbildung im Monat / Jahr..... beendet."
-    ],
-    [
-      "",
-      "Ort und Datum"
-    ],
-    [
-      "",
-      "Stempel der Schule, Unterschrift"
-    ]
+    {
+      "align": "left",
+      "content": "Name und Vorname des/der Kindergeldberechtigten",
+      "page": 0,
+      "structure": "",
+      "x1": 12,
+      "x2": 250,
+      "y1": 3,
+      "y2": 11
+    },
+    {
+      "align": "left",
+      "content": "Kindergeld-Nr.",
+      "page": 0,
+      "structure": "",
+      "x1": 12,
+      "x2": 250,
+      "y1": 40,
+      "y2": 48
+    },
+    {
+      "align": "left",
+      "content": "Steuer-ID",
+      "page": 0,
+      "structure": "",
+      "x1": 12,
+      "x2": 254,
+      "y1": 73,
+      "y2": 81
+    },
+    {
+      "align": "left",
+      "content": "Telefonische Rückfrage tagsüber unter Nr.:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Schulbescheinigung zur Vorlage bei der Familienkasse",
+      "page": 0,
+      "structure": "",
+      "x1": 6,
+      "x2": 608,
+      "y1": 130,
+      "y2": 148
+    },
+    {
+      "align": "left",
+      "content": "Hinweis: Der Besuch der Berufsschule braucht nicht nachgewiesen zu werden, wenn zeitgleich ein betriebliches Ausbildungsverhältnis besteht.",
+      "page": 0,
+      "structure": "",
+      "x1": 6,
+      "x2": 608,
+      "y1": 244,
+      "y2": 254
+    },
+    {
+      "align": "left",
+      "content": "Der/Die Schüler(in) .......",
+      "page": 0,
+      "structure": "",
+      "x1": 10,
+      "x2": 603,
+      "y1": 295,
+      "y2": 305
+    },
+    {
+      "align": "left",
+      "content": "geboren am ...",
+      "page": 0,
+      "structure": "",
+      "x1": 10,
+      "x2": 585,
+      "y1": 309,
+      "y2": 319
+    },
+    {
+      "align": "left",
+      "content": "besucht die Klasse ...........",
+      "page": 0,
+      "structure": "",
+      "x1": 30,
+      "x2": 160,
+      "y1": 356,
+      "y2": 366
+    },
+    {
+      "align": "left",
+      "content": "und wird die Schulausbildung - voraussichtlich - im Monat / Jahr ..... beenden.",
+      "page": 0,
+      "structure": "",
+      "x1": 30,
+      "x2": 606,
+      "y1": 372,
+      "y2": 382
+    },
+    {
+      "align": "left",
+      "content": "Es handelt sich hierbei um Vollzeitunterricht.",
+      "page": 0,
+      "structure": "",
+      "x1": 8,
+      "x2": 606,
+      "y1": 416,
+      "y2": 426
+    },
+    {
+      "align": "left",
+      "content": "Teilzeitunterricht mit .................... Stunden wöchentlich.",
+      "page": 0,
+      "structure": "",
+      "x1": 209,
+      "x2": 604,
+      "y1": 439,
+      "y2": 449
+    },
+    {
+      "align": "left",
+      "content": "hat die Schulausbildung im Monat / Jahr..... beendet.",
+      "page": 0,
+      "structure": "",
+      "x1": 30,
+      "x2": 600,
+      "y1": 490,
+      "y2": 501
+    },
+    {
+      "align": "center",
+      "content": "Ort und Datum",
+      "page": 0,
+      "structure": "",
+      "x1": 10,
+      "x2": 315,
+      "y1": 579,
+      "y2": 587
+    },
+    {
+      "align": "center",
+      "content": "Stempel der Schule, Unterschrift",
+      "page": 0,
+      "structure": "",
+      "x1": 347,
+      "x2": 595,
+      "y1": 578,
+      "y2": 586
+    }
   ],
-  "title": "Kindergeld: Schulbescheinigung f\u00fcr Familienkasse",
+  "title": "Kindergeld: Schulbescheinigung für Familienkasse",
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378307.pdf"
 }

@@ -10,6 +10,7 @@ import argparse
 
 from flask import Flask, Blueprint, render_template
 from flask import abort
+from flask.helpers import send_from_directory
 from flask_frozen import Freezer
 from flask.ext.markdown import Markdown
 
@@ -38,7 +39,7 @@ def load_data(top):
                     with open(path) as fh:
                         form = json.load(fh)
 
-                        keys = set([r[1] for r in form['rows']])
+                        keys = set([r['content'] for r in form['rows']])
                         if '' in keys:
                             keys.remove('')
                         form['keys'] = keys
@@ -204,6 +205,58 @@ def translation_route(lang_id, form_id):
         available_languages=available_languages)
 
 
+@formularprojekt.route('/<lang_id>/<form_id>/print/')
+def print_route(lang_id, form_id):
+    if lang_id not in translations:
+        abort(404)
+    if form_id not in forms:
+        abort(404)
+    if form_id not in translations[lang_id]:
+        abort(404)
+
+    page_n = max((row['page'] for row in forms[form_id]['rows']))
+    pages = []
+    bg_template = 'static/forms/%s/bg-%i.png'
+    for i in range(page_n + 1):
+        pages.append({
+            'bg': os.path.exists(bg_template % (form_id, i)),
+            'rows': []
+        })
+    for row in forms[form_id]['rows']:
+        n = int(row['page'])
+        pages[n]['rows'].append(row)
+
+    return render_template(
+        'print.html',
+        forms=forms,
+        pages=pages,
+        lang_id=lang_id,
+        form_id=form_id)
+
+
+def send_annotator_file(filename='index.html'):
+    return send_from_directory('annotator', filename)
+
+
+def send_data_file(filename):
+    return send_from_directory('data', filename)
+
+
+def add_annotator_rules(app):
+    app.add_url_rule(
+        '/annotator/',
+        endpoint='annotator',
+        view_func=send_annotator_file)
+    app.add_url_rule(
+        '/annotator/<path:filename>',
+        endpoint='annotator_static',
+        view_func=send_annotator_file)
+    app.add_url_rule(
+        '/data/<path:filename>',
+        endpoint='data',
+        view_func=send_data_file)
+
+
 def create_app(settings=None):
     app = Flask(__name__)
     app.config.from_object(settings)
@@ -250,6 +303,7 @@ def main():  # pragma: no cover
     app = create_app(args)
 
     if args.cmd == 'serve':
+        add_annotator_rules(app)
         app.run(port=args.port)
     elif args.cmd == 'check':
         check_translations(args.form, args.lang, args.verbose)

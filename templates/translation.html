@@ -2,6 +2,7 @@
 
 {% block head %}
 <title>{{ 'Formularprojekt' | translate(lang_id, 'meta') }} - {{ forms[form_id].title }}</title>
+<link rel="alternate" href="{{ url_for('formularprojekt.print_route', lang_id=lang_id, form_id=form_id) }}" />
 {% endblock %}
 
 {% block main %}
@@ -41,10 +42,10 @@
         </tr>
 
         {% for row in forms[form_id].rows %}
-        <tr class="{% if row[0] %}structure{% endif %}">
-            <td dir="{{ lang_id | text_direction }}">{{ row[0] }}</td>
-            <td dir="ltr" lang="de">{{ row[1] | markdown }}</td>
-            <td dir="{{ lang_id | text_direction }}">{{ row[1] | translate(lang_id, form_id, default='') | markdown }}</td>
+        <tr class="{% if row.structure %}structure{% endif %}">
+            <td dir="{{ lang_id | text_direction }}">{{ row.structure }}</td>
+            <td dir="ltr" lang="de">{{ row.content | markdown }}</td>
+            <td dir="{{ lang_id | text_direction }}">{{ row.content | translate(lang_id, form_id, default='') | markdown }}</td>
         </tr>
         {% endfor %}
     </tbody>

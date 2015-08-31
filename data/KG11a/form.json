@@ -1,286 +1,706 @@
 {
   "date": "2014-01-01",
   "rows": [
-    [
-      "",
-      "Name und Vorname des/der Kindergeldberechtigten"
-    ],
-    [
-      "",
-      "Kindergeld-Nr."
-    ],
-    [
-      "",
-      "Steuer-ID"
-    ],
-    [
-      "",
-      "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:"
-    ],
-    [
-      "",
-      "Bitte beachten Sie die Hinweise auf der nachfolgenden Seite!"
-    ],
-    [
-      "",
-      "Mitteilung \u00fcber ein Kind ohne Ausbildungs- oder Arbeitsplatz"
-    ],
-    [
-      "1",
-      "Name und Vorname des/der Kindergeldberechtigten"
-    ],
-    [
-      "",
-      "geboren am"
-    ],
-    [
-      "",
-      "Anschrift (Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort)"
-    ],
-    [
-      "2",
-      "Name und Vorname des Kindes"
-    ],
-    [
-      "",
-      "geboren am"
-    ],
-    [
-      "",
-      "Anschrift (Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort) - sofern abweichend von der Anschrift des Kindergeldberechtigten"
-    ],
-    [
-      "",
-      "Familienstand:"
-    ],
-    [
-      "",
-      "ledig"
-    ],
-    [
-      "",
-      "seit ...."
-    ],
-    [
-      "",
-      "verheiratet"
-    ],
-    [
-      "",
-      "in eingetragener Lebenspartnerschaft lebend"
-    ],
-    [
-      "",
-      "geschieden"
-    ],
-    [
-      "",
-      "verwitwet"
-    ],
-    [
-      "",
-      "dauernd getrennt lebend"
-    ],
-    [
-      "3",
-      "Das genannte Kind ist/war ausbildungsplatzsuchend und sucht/suchte ab \u2026. zum \u2026 einen Ausbildungsplatz f\u00fcr eine schulische Ausbildung einen Ausbildungsplatz f\u00fcr eine betriebliche Ausbildung einen Studienplatz"
-    ],
-    [
-      "",
-      "Bitte beachten Sie, dass f\u00fcr das genannte Kind gleichzeitig das Formular \u201eErkl\u00e4rung zu einer abgeschlossenen Erstausbildung und Erwerbst\u00e4tigkeit\u201c (KG 5d) oder die Anlage Kind zum Antrag auf Kindergeld (KG 1) auszuf\u00fcllen und einzureichen ist."
-    ],
-    [
-      "4",
-      "Das genannte Kind ist/war arbeitsuchend und sucht/suchte einen Arbeitsplatz ab ... zum \u2026"
-    ],
-    [
-      "",
-      "Das Kind steht bzw. stand in einem Besch\u00e4ftigungsverh\u00e4ltnis seit/von ... bis \u2026"
-    ],
-    [
-      "",
-      "monatliches Arbeitsentgelt:"
-    ],
-    [
-      "",
-      "Sozialversicherungspflicht:"
-    ],
-    [
-      "",
-      "ja"
-    ],
-    [
-      "",
-      "nein"
-    ],
-    [
-      "5",
-      "Das genannte Kind ist/war"
-    ],
-    [
-      "",
-      "bei keiner Stelle registriert."
-    ],
-    [
-      "",
-      "bei keiner Stelle registriert, bem\u00fcht/bem\u00fchte sich jedoch selbst um einen Ausbildungsplatz und kann dies im Falle einer Ausbildungsplatzsuche nachweisen; siehe Hinweise."
-    ],
-    [
-      "",
-      "registriert bei:"
-    ],
-    [
-      "",
-      "Agentur f\u00fcr Arbeit"
-    ],
-    [
-      "",
-      "Jobcenter"
-    ],
-    [
-      "",
-      "Name und Anschrift der zust\u00e4ndigen Stelle:"
-    ],
-    [
-      "",
-      "Kunden-Nr. / Aktenzeichen (soweit bekannt):"
-    ],
-    [
-      "",
-      "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der \u00a7\u00a7 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt. Wir versichern, dass wir alle Angaben wahrheitsgetreu gemacht haben. Uns ist bekannt, dass wir alle \u00c4nderungen, die f\u00fcr den Anspruch auf Kindergeld von Bedeutung sind, unverz\u00fcglich der Familienkasse mitzuteilen haben."
-    ],
-    [
-      "",
-      "(Datum)"
-    ],
-    [
-      "",
-      "(Unterschrift des/der Kindergeldberechtigten)"
-    ],
-    [
-      "",
-      "(Unterschrift des Kindes)"
-    ],
-    [
-      "",
-      "Einwilligung zum Zugriff und zur Verarbeitung der bei den zust\u00e4ndigen Tr\u00e4gern (Agentur f\u00fcr Arbeit bzw. Jobcenter als gemeinsame Einrichtung) gespeicherten Daten des Kindes"
-    ],
-    [
-      "",
-      "Ich bin damit einverstanden, dass die Familienkasse meine bei dem zust\u00e4ndigen Tr\u00e4ger (Agentur f\u00fcr Arbeit bzw. Jobcenter) gespeicherten Daten, die f\u00fcr die Entscheidung \u00fcber den Kindergeldanspruch ma\u00dfgeblich sind, verwenden darf und diese \u2013 sofern m\u00f6glich \u2013 durch einen direkten Zugriff \u00fcbernimmt. Die Einwilligung kann jederzeit f\u00fcr die Zukunft widerrufen werden."
-    ],
-    [
-      "",
-      "Bei fehlender Einwilligung ist der Familienkasse zus\u00e4tzlich die ausgef\u00fcllte Bescheinigung auf Seite 2 des Vordrucks vorzulegen; selbiges gilt in F\u00e4llen der Meldung bei einem kommunalen Tr\u00e4ger bzw. Jobcenter in kommunaler Tr\u00e4gerschaft."
-    ],
-    [
-      "",
-      "(Datum)"
-    ],
-    [
-      "",
-      "(Unterschrift des Kindes)"
-    ],
-    [
-      "",
-      "Alle Eingaben l\u00f6schen"
-    ],
-    [
-      "",
-      "Drucken"
-    ],
-    [
-      "",
-      "Name und Vorname des/der KG-Berechtigten:"
-    ],
-    [
-      "",
-      "KG-Nr.:"
-    ],
-    [
-      "",
-      "Mitteilung der zust\u00e4ndigen Agentur f\u00fcr Arbeit bzw. des zust\u00e4ndigen Jobcenters"
-    ],
-    [
-      "",
-      "Bitte ausf\u00fcllen lassen, wenn das Kind bei einem Jobcenter in kommunaler Tr\u00e4gerschaft gemeldet ist bzw. falls die Einwilligung zum Datenzugriff auf Seite 1 verweigert wurde."
-    ],
-    [
-      "",
-      "Soweit vorhanden, bitte Kunden-Nr. angeben:"
-    ],
-    [
-      "",
-      "Das auf Seite 1 genannte Kind"
-    ],
-    [
-      "",
-      "ist bisher nicht registriert."
-    ],
-    [
-      "",
-      "hat sich bzw. wurde am ..... zur Beratung angemeldet."
-    ],
-    [
-      "",
-      "ist seit ..... noch nicht vermittelter Bewerber f\u00fcr eine berufliche Ausbildungsstelle."
-    ],
-    [
-      "",
-      "war bis zum ..... Bewerber f\u00fcr eine berufliche Ausbildungsstelle."
-    ],
-    [
-      "",
-      "hat sich \u2013 ohne Bewerber f\u00fcr eine berufliche Ausbildungsstelle zu sein \u2013 zum Zwecke der Erlangung einer Ausbildungsstelle beraten lassen."
-    ],
-    [
-      "",
-      "ist weiterhin als Bewerber f\u00fcr eine berufliche Ausbildungsstelle registriert, leistet jedoch ab ..... freiwilligen Wehrdienst."
-    ],
-    [
-      "",
-      "nimmt/nahm ab ..... eine Berufsausbildung/Erwerbst\u00e4tigkeit auf."
-    ],
-    [
-      "",
-      "wurde am ..... f\u00fcr eine Eignungsabkl\u00e4rung beim \u00c4rztlichen Dienst/Berufspsychologischen Service der Bundesagentur f\u00fcr Arbeit vorgesehen/angemeldet."
-    ],
-    [
-      "",
-      "Das Ergebnis der Begutachtung"
-    ],
-    [
-      "",
-      "ist dem Bewerber am ..... mitgeteilt worden."
-    ],
-    [
-      "",
-      "wird dem Bewerber am ..... mitgeteilt."
-    ],
-    [
-      "",
-      "ist seit ..... /war vom ...... bis ..... als Arbeitsuchender gemeldet."
-    ],
-    [
-      "",
-      "Sonstiges: ....."
-    ],
-    [
-      "",
-      "Dienststelle/Org.-Zeichen/Durchwahl:"
-    ],
-    [
-      "",
-      "(Stempel)"
-    ],
-    [
-      "",
-      "(Datum)"
-    ],
-    [
-      "",
-      "(Name/Unterschrift)"
-    ]
+    {
+      "align": "left",
+      "content": "Name und Vorname des/der Kindergeldberechtigten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kindergeld-Nr.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Steuer-ID",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Telefonische R\u00fcckfrage tags\u00fcber unter Nr.:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte beachten Sie die Hinweise auf der nachfolgenden Seite!",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mitteilung \u00fcber ein Kind ohne Ausbildungs- oder Arbeitsplatz",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name und Vorname des/der Kindergeldberechtigten",
+      "page": 0,
+      "structure": "1",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "geboren am",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Anschrift (Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name und Vorname des Kindes",
+      "page": 0,
+      "structure": "2",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "geboren am",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Anschrift (Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort) - sofern abweichend von der Anschrift des Kindergeldberechtigten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienstand:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ledig",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "seit ....",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "verheiratet",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in eingetragener Lebenspartnerschaft lebend",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "geschieden",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "verwitwet",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "dauernd getrennt lebend",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das genannte Kind ist/war ausbildungsplatzsuchend und sucht/suchte ab \u2026. zum \u2026 einen Ausbildungsplatz f\u00fcr eine schulische Ausbildung einen Ausbildungsplatz f\u00fcr eine betriebliche Ausbildung einen Studienplatz",
+      "page": 0,
+      "structure": "3",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte beachten Sie, dass f\u00fcr das genannte Kind gleichzeitig das Formular \u201eErkl\u00e4rung zu einer abgeschlossenen Erstausbildung und Erwerbst\u00e4tigkeit\u201c (KG 5d) oder die Anlage Kind zum Antrag auf Kindergeld (KG 1) auszuf\u00fcllen und einzureichen ist.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das genannte Kind ist/war arbeitsuchend und sucht/suchte einen Arbeitsplatz ab ... zum \u2026",
+      "page": 0,
+      "structure": "4",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das Kind steht bzw. stand in einem Besch\u00e4ftigungsverh\u00e4ltnis seit/von ... bis \u2026",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "monatliches Arbeitsentgelt:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sozialversicherungspflicht:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ja",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "nein",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das genannte Kind ist/war",
+      "page": 0,
+      "structure": "5",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bei keiner Stelle registriert.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bei keiner Stelle registriert, bem\u00fcht/bem\u00fchte sich jedoch selbst um einen Ausbildungsplatz und kann dies im Falle einer Ausbildungsplatzsuche nachweisen; siehe Hinweise.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "registriert bei:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Agentur f\u00fcr Arbeit",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Jobcenter",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name und Anschrift der zust\u00e4ndigen Stelle:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kunden-Nr. / Aktenzeichen (soweit bekannt):",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der \u00a7\u00a7 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt. Wir versichern, dass wir alle Angaben wahrheitsgetreu gemacht haben. Uns ist bekannt, dass wir alle \u00c4nderungen, die f\u00fcr den Anspruch auf Kindergeld von Bedeutung sind, unverz\u00fcglich der Familienkasse mitzuteilen haben.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Datum)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Unterschrift des/der Kindergeldberechtigten)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Unterschrift des Kindes)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Einwilligung zum Zugriff und zur Verarbeitung der bei den zust\u00e4ndigen Tr\u00e4gern (Agentur f\u00fcr Arbeit bzw. Jobcenter als gemeinsame Einrichtung) gespeicherten Daten des Kindes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ich bin damit einverstanden, dass die Familienkasse meine bei dem zust\u00e4ndigen Tr\u00e4ger (Agentur f\u00fcr Arbeit bzw. Jobcenter) gespeicherten Daten, die f\u00fcr die Entscheidung \u00fcber den Kindergeldanspruch ma\u00dfgeblich sind, verwenden darf und diese \u2013 sofern m\u00f6glich \u2013 durch einen direkten Zugriff \u00fcbernimmt. Die Einwilligung kann jederzeit f\u00fcr die Zukunft widerrufen werden.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bei fehlender Einwilligung ist der Familienkasse zus\u00e4tzlich die ausgef\u00fcllte Bescheinigung auf Seite 2 des Vordrucks vorzulegen; selbiges gilt in F\u00e4llen der Meldung bei einem kommunalen Tr\u00e4ger bzw. Jobcenter in kommunaler Tr\u00e4gerschaft.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Datum)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Unterschrift des Kindes)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Alle Eingaben l\u00f6schen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Drucken",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name und Vorname des/der KG-Berechtigten:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "KG-Nr.:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mitteilung der zust\u00e4ndigen Agentur f\u00fcr Arbeit bzw. des zust\u00e4ndigen Jobcenters",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte ausf\u00fcllen lassen, wenn das Kind bei einem Jobcenter in kommunaler Tr\u00e4gerschaft gemeldet ist bzw. falls die Einwilligung zum Datenzugriff auf Seite 1 verweigert wurde.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Soweit vorhanden, bitte Kunden-Nr. angeben:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das auf Seite 1 genannte Kind",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ist bisher nicht registriert.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "hat sich bzw. wurde am ..... zur Beratung angemeldet.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ist seit ..... noch nicht vermittelter Bewerber f\u00fcr eine berufliche Ausbildungsstelle.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "war bis zum ..... Bewerber f\u00fcr eine berufliche Ausbildungsstelle.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "hat sich \u2013 ohne Bewerber f\u00fcr eine berufliche Ausbildungsstelle zu sein \u2013 zum Zwecke der Erlangung einer Ausbildungsstelle beraten lassen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ist weiterhin als Bewerber f\u00fcr eine berufliche Ausbildungsstelle registriert, leistet jedoch ab ..... freiwilligen Wehrdienst.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "nimmt/nahm ab ..... eine Berufsausbildung/Erwerbst\u00e4tigkeit auf.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "wurde am ..... f\u00fcr eine Eignungsabkl\u00e4rung beim \u00c4rztlichen Dienst/Berufspsychologischen Service der Bundesagentur f\u00fcr Arbeit vorgesehen/angemeldet.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das Ergebnis der Begutachtung",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ist dem Bewerber am ..... mitgeteilt worden.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "wird dem Bewerber am ..... mitgeteilt.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ist seit ..... /war vom ...... bis ..... als Arbeitsuchender gemeldet.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sonstiges: .....",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Dienststelle/Org.-Zeichen/Durchwahl:",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Stempel)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Datum)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Name/Unterschrift)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    }
   ],
   "title": "Kindergeld: Mitteilung f\u00fcr ein Kind ohne Ausbildungs- bzw. Arbeitsplatz",
   "url": "http://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mdk1/~edisp/l6019022dstbai378315.pdf"

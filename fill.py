@@ -50,7 +50,7 @@ for form_id, form in forms.items():
     for lang_id, translation in translations.items():
         data = {}
 
-        keys = set([r[1] for r in form['rows']])
+        keys = set([r['content'] for r in form['rows']])
         for key in keys:
             if key in translation:
                 data[key] = translation[key]
@@ -58,7 +58,8 @@ for form_id, form in forms.items():
         if data:
             path = os.path.join(BASEPATH, form_id, lang_id + '.json')
             with open(path, 'w') as fh:
-                json.dump(data, fh, indent=2, separators=(',', ': '), sort_keys=True)
+                s = json.dumps(data, indent=2, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
+                fh.write(s.encode('utf8'))
 
 
 # for form_id, lang_id, path in iter_translations():
@@ -67,8 +68,10 @@ for form_id, form in forms.items():
 #
 #     if lang_id != 'form':
 #         data = {normalize(k): normalize(v) for k, v in data.items()}
-#     else:
-#         data['rows'] = [(a, normalize(b)) for a, b in data['rows']]
+#    else:
+#        for row in data['rows']:
+#            row['content'] = normalize(row['content'])
 #
 #     with open(path, 'w') as fh:
-#         json.dump(data, fh, indent=2, separators=(',', ': '), sort_keys=True)
+#         s = json.dumps(data, indent=2, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
+#         fh.write(s.encode('utf8'))

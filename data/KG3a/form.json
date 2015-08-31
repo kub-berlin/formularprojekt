@@ -93,10 +93,20 @@
     },
     {
       "align": "center",
-      "content": "(Name) (Vorname)",
+      "content": "(Name)",
       "page": 0,
       "structure": "",
       "x1": 120,
+      "x2": 363,
+      "y1": 234,
+      "y2": 242
+    },
+    {
+      "align": "center",
+      "content": "(Vorname)",
+      "page": 0,
+      "structure": "",
+      "x1": 364,
       "x2": 607,
       "y1": 234,
       "y2": 242
@@ -123,7 +133,7 @@
     },
     {
       "align": "left",
-      "content": "wohnhaft",
+      "content": "wohnhaft:",
       "page": 0,
       "structure": "",
       "x1": 16,
@@ -173,11 +183,21 @@
     },
     {
       "align": "center",
-      "content": "lfd.",
+      "content": "lfd. Nr.",
       "page": 0,
       "structure": "",
       "x1": 19,
       "x2": 44,
+      "y1": 368,
+      "y2": 377
+    },
+    {
+      "align": "center",
+      "content": "Name und Vorname des Kindes",
+      "page": 0,
+      "structure": "",
+      "x1": 46,
+      "x2": 255,
       "y1": 368,
       "y2": 377
     },

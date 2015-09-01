@@ -72,12 +72,7 @@ web application contained in this repository
 
     git https://github.com/xi/formularprojekt.git
     cd formularprojekt
-    virtualenv .env
-    . .env/bin/activate
-    cd annotator
-    bower install
-    cd ..
-    python website.py serve
+    make serve
 
 Now you can go to <http://localhost:8000/> in your webbrowser. You should see
 the formularprojekt website.  On <http://localhost:8000/annotator/> you can now

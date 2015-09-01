@@ -1,3 +1,5 @@
 build
-static_src/bower_components
 static/style.css
+static_src/bower_components
+annotator/bower_components
+.env

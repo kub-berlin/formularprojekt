@@ -1,0 +1,13 @@
+{
+  "Anschrift": "Adresa",
+  "Geburtsdatum": "Datum rođenja",
+  "Geschlecht": "Pol",
+  "Ja": "Da",
+  "Vorname": "Prezime",
+  "dauernd getrennt lebend": "živi trajno razdvojeno",
+  "geschieden": "razveden/razvedena",
+  "ledig": "neoženjen/neudata",
+  "seit": "od",
+  "verheiratet": "oženjen/udata",
+  "verwitwet": "udovac/udovica"
+}

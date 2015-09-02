@@ -1,0 +1,17 @@
+{
+  "Anschrift": "Adres",
+  "BIC": "BIC",
+  "Familienstand": "Medeni durumu",
+  "Geburtsdatum": "Dogum tarihi",
+  "Geschlecht": "Cinsiyet",
+  "IBAN": "IBAN",
+  "Ja": "Evet",
+  "Staatsangehörigkeit": "Vatandaşlık",
+  "Vorname": "Adı",
+  "dauernd getrennt lebend": "ayrı yaşamak",
+  "geschieden": "boşanmış",
+  "ledig": "bekar",
+  "seit": "...itibaren",
+  "verheiratet": "evli",
+  "verwitwet": "dul"
+}

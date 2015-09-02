@@ -1,0 +1,5257 @@
+{
+  "date": "2014-01-01",
+  "rows": [
+    {
+      "align": "left",
+      "content": "Bezirksamt",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Charlottenburg-Wilmersdorf von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Friedrichshain-Kreuzberg von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Lichtenberg von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Marzahn-Hellersdorf von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mitte von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Neukölln von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Pankow von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Reinickendorf von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Spandau von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Steglitz-Zehlendorf von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Tempelhof-Schöneberg von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Treptow-Köpenick von Berlin",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geschäftsbereich",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sozialwesen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Landesamt für Gesundheit und Soziales Berlin - ZLA -",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Die Beantwortung aller Fragen ist für die Bearbeitung Ihres Antrags notwendig. Die gesetzlichen Grundlagen für die Erhebung der Daten entnehmen Sie bitte dem beigefügten Merkblatt.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Antrag auf",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sozialhilfe nach SGB XII",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Leistungen nach AsylbLG",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zutreffendes bitte ankreuzen und ausfüllen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sofern der vorgegebene Raum nicht ausreicht, machen Sie bitte Ihre Angaben\n\n- unter XI des Antrages oder\n\n- auf einem gesonderten Blatt",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Art der Hilfe",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "innerhalb einer Einrichtung",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "außerhalb einer Einrichtung",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Antragsteller/in (Personenziffer 1)",
+      "page": 0,
+      "structure": "I.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ehegatte/Lebenspartner/in (Personenziffer 2)",
+      "page": 0,
+      "structure": "I.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name, ggf. Geburtsname, Vorname",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geburtsdatum",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geburtsort/Kreis/Land",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "männl.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "weibl.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "nicht im gemeinsamen Haushalt",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "keine weiteren Angaben auf dieser Seite; nur Anlage 1 Buchstabe A ausfüllen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "im gemeinsamen Haushalt",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "minderjährig",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Anlage 1 Buchstabe B ausfüllen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name, ggf. Geburtsname, Vorname",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienstand",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ledig",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "eheähnliche Gemeinschaft",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "eingetragene Lebenspartnerschaft",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "verheiratet",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "dauernd getrennt lebend",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "geschieden",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "verwitwet",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Seit",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bitte Anlage 1 Buchstabe A ausfüllen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geburtsdatum",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geburtsort/Kreis/Land",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Staatsangehörigkeit",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "deutsch",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bitte Anlage 2 ausfüllen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Staatsangehörigkeit",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "deutsch",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bitte Anlage 2 ausfüllen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personaldokument bitte vorlegen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ausgestellt von (Dienststelle)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "gültig bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personaldokument bitte vorlegen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ausgestellt von (Dienststelle)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "gültig bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bisher keine Leistungen erhalten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bereits Leistungen erhalten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "von (Dienststelle)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geschäftszeichen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bisher keine Leistungen erhalten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bereits Leistungen erhalten",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "von (Dienststelle)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geschäftszeichen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "es besteht eine Betreuung nach dem Betreuungsgesetz",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "es besteht Beistandschaft",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bitte Bestallung beifügen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "es besteht eine Betreuung nach dem Betreuungsgesetz",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "es besteht Beistandschaft",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bitte Bestallung beifügen",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Heimatvertriebene/r (Aussiedler/in) - Ausweis A -",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vertriebene/r (Aussiedler/in) - Ausweis B -",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Spätaussiedler/in - Bescheinigung (nach § 15 Abs. 1 BVFG) und Registrierschein des Bundesverwaltungsamtes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ehegatte oder Abkömmling eines Spätaussiedlers / einer Spätaussiedlerin - Bescheinigung (nach § 15 Abs. 2 BFVG) und Registrierschein des Bundesverwaltungsamtes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sowjetzonenflüchtling - Ausweis C -",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ausgestellt am",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ausgestellt von (Dienststelle)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Heimatvertriebene/r (Aussiedler/in) - Ausweis A -",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vertriebene/r (Aussiedler/in) - Ausweis B -",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Spätaussiedler/in - Bescheinigung (nach § 15 Abs. 1 BVFG) und Registrierschein des Bundesverwaltungsamtes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ehegatte oder Abkömmling eines Spätaussiedlers / einer Spätaussiedlerin - Bescheinigung (nach § 15 Abs. 2 BFVG) und Registrierschein des Bundesverwaltungsamtes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sowjetzonenflüchtling - Ausweis C -",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ausgestellt am",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ausgestellt von (Dienststelle)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Schwerbehindertenausweis (Kopie des Ausweises beifügen)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "gültig bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Merkzeichen (G, aG)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Antrag gestellt?",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "gültig bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Merkzeichen (G, aG)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Antrag gestellt?",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sozialversicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "keine (Begründung auf Seite 4 -XI-)",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Rentenversicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Pflegeversicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Krankenversichert bei",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Rentenversichert bei",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Rentenversicherungsnummer",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Krankenversicherung:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Pflichtversicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Freiwillige Versicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienversicherung *",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Private Versicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Betreuung der Krankenkassen nach § 264 SGB V",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sozialversicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "keine (Begründung auf Seite 4 -XI-)",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Rentenversicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Pflegeversicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Krankenversichert bei",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Rentenversichert bei",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Rentenversicherungsnummer",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Krankenversicherung:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Pflichtversicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Freiwillige Versicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienversicherung *",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Private Versicherung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Betreuung der Krankenkassen nach § 264 SGB V",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Umfang bzw. Ausschluss der Erwerbsfähigkeit",
+      "page": 1,
+      "structure": "II.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 1",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 2",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sind Sie zurzeit erwerbstätig?",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Tätigkeit:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Arbeitgeber:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Tätigkeit:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Arbeitgeber:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Umfang der Erwerbsfähigkeit",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein, weil",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kann es/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein, weil",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor?\n\n(EU-Rente)",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "unbefristet:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "für welchen Zeitraum?",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "unbefristet:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "für welchen Zeitraum?",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sind Sie pflegebedürftig im Sinne des SGB XI Pflegeversicherungsgesetz?",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Stufe:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Stufe:",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Auszubildender/Student - auch in Schulausbildung -",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja, in Ausbildung / Studium als ...",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja, in Ausbildung / Studium als ...",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name und Anschrift des derzeitigen Arbeitgebers bzw. Angabe der Schule",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Unterbringung in einer stationären Einrichtung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja, Zuweisung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "vom ... bis ...",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja, Zuweisung",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "vom ... bis ...",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "\\* **Wichtige Hinweise:** Wenn Sie oder Ihr Partner/Ihre Partnerin **das 23. Lebensjahr noch nicht vollendet haben**, können Sie oder Ihr Partner/Ihre Partnerin bei einem Elternteil **familienversichert** werden. Wenn Sie oder Ihr Partner/Ihre Partnerin von Ihrem Ehegatten/eingetragenen Lebenspartner **getrennt** leben, ist zu prüfen, ob Sie dennoch über diesen **familienversichert** werden können.",
+      "page": 1,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Haben Sie Leistungen nach dem SGB II beantragt?",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kunden-Nr. der Agentur für Arbeit (falls vorhanden)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mögliche Ausschlussgründe für die Hilfe zum Lebensunterhalt",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bankverbindung",
+      "page": 2,
+      "structure": "III.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geldinstitut",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bankleitzahl",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kontonummer",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kontoinhaber/in",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "IBAN",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "BIC",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Aufenthalt",
+      "page": 2,
+      "structure": "IV.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Anschrift",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Lage der Wohnung/Etage",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Telefonnummer (freiwillige Angabe)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "in Berlin seit",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "im Bezirk seit",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "zuletzt wohnhaft",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Unterkunft",
+      "page": 2,
+      "structure": "V.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mietwohnung",
+      "page": 2,
+      "structure": "V.1",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Hauptmieter/in",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Untermieter/in",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name und Anschrift des Vermieters",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name des Hauptmieters",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Eigenheim",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Eigentumswohnung",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "verwandt",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wirtschaftsgemeinschaft",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Anlage 3 ausfüllen, dann weiter bei V.2",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Miete insgesamt (EUR/mtl.)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Warmwasserkosten",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(EUR/mtl.)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Heizkostenvorschuss (EUR/mtl.)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kabelfernsehen (EUR/mtl.)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Miete bezahlt bis",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Nachweis beifügen",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mietrückstände (von/bis/EUR)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Gekündigt zum",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Anlage 6 ausfüllen",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Größe der Unterkunft des Antragstellers",
+      "page": 2,
+      "structure": "V.2",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Anzahl der Zimmer ohne Küche/Bad",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Gesamtwohnfläche (m2)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wohngeld wird gezahlt",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wohngeld wird nicht gezahlt",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Bescheid beifügen",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Heizungsart/Warmwasser",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sammelheizung",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zentrale Warmwasserversorgung",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ofenheizung",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Gasheizung",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nachtstromspeicherheizung",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wohnraum wird untervermietet",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wohnraum kann untervermietet werden",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wohnraum kann nicht untervermietet werden",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zahl vermieteter Leerzimmer",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Miete (EUR/mtl.)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zahl vermieteter möblierter Zimmer",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Miete (EUR/mtl.)",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Grund",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ich/Wir habe/n freies Wohnrecht bei:",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name:",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wenn Sie in einer stationären Einrichtung (z. B. Heim, Betreute Wohngemeinschaft, Krankenhaus) leben: **Wo haben Sie vorher gewohnt** (gewöhnlicher Aufenthaltsort)?",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Anschrift der Wohnung **vor der Aufnahme** in die Einrichtung",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Anschrift der Wohnung **vor der Aufnahme** in die Einrichtung",
+      "page": 2,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Persönliche Verhältnisse der mit dem Antragsteller/der Antragstellerin in einem Haushalt lebenden weiteren Personen",
+      "page": 3,
+      "structure": "VI.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Leben weitere Personen im gemeinsamen Haushalt?",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "**Wenn Ja, tragen Sie bitte die weiteren Personen in der Reihenfolge des Geburtsdatums ein.**",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bei vier oder mehr Personen bitte **Zusatzblatt** verwenden.",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 3",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 4",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 5",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name (ggf. Geburtsname)",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vorname",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Verwandtschaftsverhältnis zum/zur Antragsteller/in / Partner/in",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geschlecht",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "weiblich",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "männlich",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "weiblich",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "männlich",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "weiblich",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "männlich",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geburtsdatum",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geburtsort",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienstand",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ledig",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "seit",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ledig",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "seit",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ledig",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "seit",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Staatsangehörigkeit",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "deutsch",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "andere",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(sofern bereits eine Arbeitsgenehmigung erteilt wurde, bitte beifügen)",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "deutsch",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "andere",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(sofern bereits eine Arbeitsgenehmigung erteilt wurde, bitte beifügen)",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "deutsch",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "andere",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(sofern bereits eine Arbeitsgenehmigung erteilt wurde, bitte beifügen)",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kunden-Nr. der Agentur für Arbeit (falls vorhanden)",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Erwerbsfähigkeit (Angabe nur ab vollendetem 15. Lebensjahr erforderlich)",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein, weil",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein, weil",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein, weil",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Haben die o.g. Personen Leistungen nach dem SGB II beantragt?",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kunden-Nr. der Agentur für Arbeit (falls vorhanden)",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mögliche Ausschlussgründe für die Hilfe zum Lebensunterhalt",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 3,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Unterhaltspflichtige Angehörige außerhalb des Haushalts (Kinder, Eltern)",
+      "page": 4,
+      "structure": "VII.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name, ggf. Geburtsname, Vorname",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geburtstag, bzw. Alter",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Familienstand",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Verwandtschaftsverhältnis zum Antragsteller",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ausgeübte Tätigkeit",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Anschrift",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Art und Höhe des Unterhaltsbeitrages",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Einkünfte aller Haushaltsangehörigen",
+      "page": 4,
+      "structure": "VIII.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Nachweise beifügen",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bezeichnung",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bewilligungsstelle",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 1",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 2",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 3",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 4",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nichtselbständige Tätigkeit",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(Erwerbseinkommen, Ausbildungsvergütung, Entgelt der Werkstatt für behinderte Menschen)",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Leistungen der Krankenkasse",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(einschl. Arbeitgeberzuschuss)",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Gewerbebetrieb",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Land- und Forstwirtschaft",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sonstige selbständige Tätigkeiten",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vermietung und Verpachtung",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wohngeld/Lastenzuschuss",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Renten/Pensionen",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(z. B. Rente wg. Erwerbsminderung, Altersrente, Unfallrente, landwirtschaftliches Altersgeld, Witwen- oder Waisenrente, Erziehungsrente, Kinderzuschuss /-zulage, Pflegegeld zur Rente, Werksrente, Kindererziehungsleistung, Sonstige Renten / Pensionen)",
+      "page": 4,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bezeichnung",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bewilligungsstelle",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 1",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 2",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 3",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 4",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Nachweise beifügen",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sozialhilfeleistungen",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Grundsicherungsleistungen",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Asylbewerberleistung",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Leistungen nach dem Bundesversorgungsgesetz",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Leistungen des Lastenausgleichsamtes",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(z. B. Unterhaltshilfe, Pflegegeld, Entschädigungsrente)",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Leistungen der Agentur für Arbeit",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(z. B. Arbeitslosengeld, Arbeitslosengeld II, Eingliederungshilfe, Berufsausbildungsbeihilfe, Arbeitsförderungsgeld u. a.)",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kindergeld",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kindergeldzuschlag",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Elterngeld",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ausbildungsförderung",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Unterhalt",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Unterhaltsvorschuss",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Privatrechtliche geldwerte Ansprüche",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(z. B. Beköstigung, Wohnrecht, Taschengeld, Leibrente, Pflegegeld)",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Steuererstattung",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kapitalerträge (z. B. Zinsen)",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sonstige Einkünfte",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "(z.B. Schadensersatzansprüche)",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kein Einkommen",
+      "page": 5,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sind Leistungen nach Nr. VIII. beantragt, über die noch nicht entschieden wurde?",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Antragsdatum",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Art der Leistung",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Dienststelle und Geschäftszeichen",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Werden einmalige Einnahmen erwartet, z. B. eine Steuerrückzahlung?",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Art der Leistung",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zeitpunkt",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "EUR",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vom Einkommen evtl. absetzbare Beträge",
+      "page": 6,
+      "structure": "IX.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "**Keine absetzbaren Beträge**",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 1",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 2",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 3",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 4",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 5",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ausgaben mtl. Betrag",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Einkommensteuer*",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Krankenversicherung*",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Pflegeversicherung*",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Arbeitslosenversicherung*",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Rentenversicherung*",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kirchensteuer*",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Unfallversicherung",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Altersvorsorgebeiträge",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Hausratsversicherung",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sterbeversicherung",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Lebensversicherung",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Haftpflichtversicherung",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Aufwendungen für Arbeitsmittel",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Beiträge für Berufsverbände",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mehraufwendungen für doppelte Haushaltsführung",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "\\* Angabe nicht erforderlich soweit die Beträge bereits vom Arbeitgeber oder Rententräger abgesetzt wurden",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 1",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 2",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 3",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 4",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 5",
+      "page": 6,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "km",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "km",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "km",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "km",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "km",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "öffentlichen Verkehrsmitteln",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "PKW",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kleinst-PKW (bis 500 ccm)",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Motorrad",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Mofa",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sonstiges",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nähere Begründung zu „Sonstiges“",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vermögensverhältnisse (ggf. auf gesondertem Blatt fortsetzen)",
+      "page": 7,
+      "structure": "X.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zutreffendes bitte ankreuzen und ausfüllen",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 1",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 2",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 3",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 4",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sparguthaben / Bargeld",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Wertpapiere",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sachwerte von besonderem Wert",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Art",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "sonstiges Vermögen (Forderungen und anderes)",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Art",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Verschenktes Vermögen innerhalb der letzten 10 Jahre (auch Grundvermögen)",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Art",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kraftfahrzeug",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "amtl. Kennzeichen",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Fabrikat",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Baujahr",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Halter",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Hauseigentum oder Grundbesitz",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte Anlage 3 ausfüllen",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Staatlich geförderte private Altersvorsorge",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 7,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zutreffendes bitte ankreuzen und ausfüllen",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 1",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 2",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 3",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Personenziffer 4",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ansprüche aus Übertragsverträgen (z. B. Wohnrecht, Nießbrauch, Altenteilsrechte)",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sonstiges Vermögen",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Ja",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nein",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Sonstige Angaben",
+      "page": 8,
+      "structure": "XI.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "z. B. über persönliche, familiäre, gesundheitliche Verhältnisse",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Leistungen für besondere Mehrbedarfe",
+      "page": 8,
+      "structure": "XII.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Unter bestimmten Voraussetzungen können Leistungen für Mehrbedarfe erbracht werden, die nicht durch die Regelleistung abgedeckt sind und aus den vorgenannten Angaben nicht zu beurteilen sind. Dies gilt für alle Personen innerhalb des Haushalts.",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Folgende Mehrbedarfe werden geltend gemacht:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Für werdende Mütter nach der 12. Schwangerschaftswoche",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vorlage Mutterschaftspass erforderlich",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vorname:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Voraussichtlicher Geburtstermin",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten ",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vorlage des Bewilligungsbescheides",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vorname:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Kostenaufwendige Ernährung aus medizinischen Gründen",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "vom Sozialamt erhältlicher Vordruck ist vom behandelnden Arzt auszufüllen",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vorname:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Vorname:",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bestandteile des Antrages sind die Anlagen",
+      "page": 8,
+      "structure": "XIII.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "1 - Unterhalt",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "2 - Ausländer",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "3 - Grundbesitz",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "4 – Eingliederungshilfe",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "6 – Mietschulden",
+      "page": 8,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Dem Antrag sind folgende Unterlagen beigefügt",
+      "page": 8,
+      "structure": "XIV.",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.\n\nIch werde den Träger der Leistungen (Land Berlin, vertreten durch die Bezirksämter v. Berlin, Geschäftsbereich Sozialwesen / Geschäftsbereich Jugend und Sport bzw. Landesamt für Gesundheit und Soziales Berlin / ZLA) gem. § 60 Abs. 1 Ziff. 2 SGB I unverzüglich informieren, wenn\n\n- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.\n- sich die Verhältnisse meiner Haushaltsangehörigen ändern.\n- ich Renten oder ähnliche Leistungen beantrage.\n\nDes Weiteren bin ich hinreichend darüber informiert worden, dass im Falle eines konkreten Betrugsverdachts die Ermittlungen des Sachverhalts gemäß §§ 20, 21, 69 und 71 SGB X von Amts wegen – ohne meine Beteiligung – erfolgen können.\n\nLeistungen werden von mir zurückgefordert, sofern ich sie zu Unrecht erhalten habe, z. B. weil ich vorsätzlich oder grob fahrlässig falsche Angaben gemacht habe.\n\nDer Träger der Leistungen nach SGB XII bzw. AsylbLG kann für die Zeit, für die ich Leistungen erhalte, meine Ansprüche gegen einen anderen auf entsprechende Leistungen in Höhe seiner Aufwendungen auf sich überleiten.\n\nDer Sozialhilfeträger behält sich vor, bei Vorliegen des entsprechenden Sachverhalts Aufwendungsersatz nach den §§ 19 Abs. 5, 27 Abs. 3 oder § 92 Abs. 1 SGB XII bzw. §§ 7, 9 AsylbLG geltend zu machen. In diesem Umfang habe ich dem Träger der Leistungen die Aufwendungen zu ersetzen. Dies gilt auch, wenn der Erstattungsanspruch des Trägers der Sozialleistung gegen andere vorrangig verpflichtete Leistungsträger (z.B. Rententräger, Krankenkasse) aus Verfahrensgründen nicht befriedigt werden kann und ich für den gleichen Zeitraum von beiden Leistungsträgern Aufwendungen erhalten habe. In diesen Fällen sind die gewährten Leistungen nach SGB XII / AsylbLG von mir zu erstatten.\n\nIch bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.",
+      "page": 9,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Unterschrift des Antragstellers/Datum",
+      "page": 9,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ggf. Unterschrift des nicht getrennt lebenden Ehegatten",
+      "page": 9,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Falls vom Antragsteller nicht selbst oder nicht vollständig ausgefüllt",
+      "page": 9,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Name, Anschrift, ggf. Dienststelle und Unterschrift des Aufnehmenden/Datum",
+      "page": 9,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG",
+      "page": 10,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Nach § 60 SGB I muss der Antragsteller / die Antragstellerin bei der Aufklärung des Sachverhaltes und der Feststellung der für die Sozialleistung bestehenden Voraussetzungen mitwirken. Die Nichtbeantwortung von Fragen kann im Einzelfall zur Folge haben, dass die beantragte Leistung nicht gewährt werden kann. Die Grenzen der Mitwirkung sind in § 65 SGB I geregelt.",
+      "page": 10,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:",
+      "page": 10,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    }
+  ],
+  "title": "Antrag auf Sozialhilfe - Antragsbogen A",
+  "url": "https://www.berlin.de/formularserver/formular.php?51699&typ=.pdf"
+}

@@ -137,11 +137,12 @@ def check_translations(form_id=None, lang_id=None, verbose=False):
     if lang_id is None:
         langs = _translations.keys()
         langs.remove('de')
+        langs.sort()
     else:
         langs = [lang_id]
 
     if form_id is None:
-        for form_id in forms.keys():
+        for form_id in sorted(forms.keys()):
             _check_form(form_id, langs, verbose)
     else:
         _check_form(form_id, langs, verbose)

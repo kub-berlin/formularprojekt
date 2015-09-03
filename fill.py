@@ -51,6 +51,8 @@ for form_id, form in forms.items():
         data = {}
 
         keys = set([r['content'] for r in form['rows']])
+        if '' in keys:
+            keys.remove('')
         for key in keys:
             if key in translation:
                 data[key] = translation[key]

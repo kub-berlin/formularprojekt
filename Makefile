@@ -20,4 +20,4 @@ annotator/bower_components:
 
 .env:
 	virtualenv .env
-	. .env/bin/activate && pip install Flask Flask-Markdown Frozen-Flask
+	. .env/bin/activate && pip install Flask Flask-Markdown Frozen-Flask colorama

@@ -16,9 +16,11 @@ from flask.ext.markdown import Markdown
 
 from colorama import Fore
 
-INCOMPLETE = 1
-MISSING = 2
-EXTRA = 3
+NEAR_COMPLETE = 1
+INCOMPLETE = 2
+NEAR_MISSING = 3
+MISSING = 4
+EXTRA = 5
 
 formularprojekt = Blueprint('formularprojekt', __name__)
 forms = {}
@@ -67,12 +69,16 @@ def log(s, style=None, indent=0):
     if sys.stdout.isatty():
         reset = Fore.RESET
 
-        if style == INCOMPLETE:
-            color = Fore.GREEN
-        elif style == MISSING:
-            color = Fore.YELLOW
-        elif style == EXTRA:
+        if style == EXTRA:
             color = Fore.RED
+        elif style == MISSING:
+            color = Fore.MAGENTA
+        elif style == NEAR_MISSING:
+            color = Fore.YELLOW
+        elif style == INCOMPLETE:
+            color = Fore.CYAN
+        elif style == NEAR_COMPLETE:
+            color = Fore.GREEN
         else:
             color = ''
     else:
@@ -106,8 +112,12 @@ def _check_form(form_id, langs, verbose):
                 style = EXTRA
             elif len(translated) == 0:
                 style = MISSING
-            elif len(translated) < n:
+            elif len(translated) < n * 0.2:
+                style = NEAR_MISSING
+            elif len(translated) < n * 0.8:
                 style = INCOMPLETE
+            elif len(translated) < n:
+                style = NEAR_COMPLETE
             else:
                 style = None
 

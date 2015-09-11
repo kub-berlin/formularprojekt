@@ -4,7 +4,7 @@
 	var registry = new muu.Registry();
 
 	xhr.get('template.html').then(function(template) {
-		registry.registerDirective('forms', template, function(self, element) {
+		registry.registerDirective('forms', template, function(self) {
 			var data = {};
 
 			var update = function() {
@@ -101,8 +101,8 @@
 
 			self.on('canvas-click', function(event) {
 				if (data.selected !== void 0) {
-					var container = element.querySelector('.canvas');
-					var page = element.querySelector('.page');
+					var container = self.querySelector('.canvas');
+					var page = self.querySelector('.page');
 					var x = Math.round(event.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft);
 					var y = Math.round(event.clientY - page.offsetTop - container.offsetTop + container.scrollTop);
 

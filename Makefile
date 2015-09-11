@@ -16,7 +16,7 @@ static_src/bower_components:
 	cd static_src && bower install mfbs
 
 annotator/bower_components:
-	cd annotator && bower install "xi/muu#~0.1.1" "wildlyinaccurate/promise-xhr#~0.0.1"
+	cd annotator && bower install "xi/muu#~0.1.2" "wildlyinaccurate/promise-xhr#~0.0.1"
 
 .env:
 	virtualenv .env

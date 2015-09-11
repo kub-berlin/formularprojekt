@@ -81,10 +81,10 @@
 				});
 			};
 
-			muu.$.on(element, 'muu-select-row', function(event) {
-				event.detail.preventDefault();
+			self.on('select-row', function(event) {
+				event.preventDefault();
 
-				var li = event.detail.target.parentElement;
+				var li = event.target.parentElement;
 				var list = li.parentElement.children;
 
 				var i = list.length;
@@ -93,22 +93,22 @@
 				update();
 			});
 
-			muu.$.on(element, 'muu-unselect-row', function(event) {
-				event.detail.preventDefault();
+			self.on('unselect-row', function(event) {
+				event.preventDefault();
 				select();
 				update();
 			});
 
-			muu.$.on(element, 'muu-canvas-click', function(event) {
+			self.on('canvas-click', function(event) {
 				if (data.selected !== void 0) {
 					var container = element.querySelector('.canvas');
 					var page = element.querySelector('.page');
-					var x = Math.round(event.detail.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft);
-					var y = Math.round(event.detail.clientY - page.offsetTop - container.offsetTop + container.scrollTop);
+					var x = Math.round(event.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft);
+					var y = Math.round(event.clientY - page.offsetTop - container.offsetTop + container.scrollTop);
 
 					var row = data.rows[data.selected];
 
-					if (event.detail.ctrlKey) {
+					if (event.ctrlKey) {
 						row.x2 = x;
 						row.y2 = y;
 						row.width = row.x2 - row.x1;
@@ -124,7 +124,7 @@
 				}
 			});
 
-			muu.$.on(element, 'muu-update-selected', function(event) {
+			self.on('update-selected', function(event) {
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];
 
@@ -139,7 +139,7 @@
 				}
 			});
 
-			muu.$.on(element, 'muu-update-selected-2', function(event) {
+			self.on('update-selected-2', function(event) {
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];
 
@@ -152,7 +152,7 @@
 				}
 			});
 
-			muu.$.on(element, 'muu-change-form', function(event) {
+			self.on('change-form', function(event) {
 				var formId = self.getModel('formId');
 
 				select();
@@ -164,21 +164,21 @@
 				});
 			});
 
-			muu.$.on(element, 'muu-change-page', function(event) {
+			self.on('change-page', function(event) {
 				select();
 				data.page = parseInt(self.getModel('page'), 10);
 				update();
 			});
 
-			muu.$.on(element, 'muu-force-update', function(event) {
-				event.detail.preventDefault();
+			self.on('force-update', function(event) {
+				event.preventDefault();
 				var formId = self.getModel('formId');
 				select();
 				getForm(formId, true).then(update);
 			});
 
-			muu.$.on(element, 'muu-export', function(event) {
-				event.detail.preventDefault();
+			self.on('export', function(event) {
+				event.preventDefault();
 
 				var clone = JSON.parse(JSON.stringify(data.form));
 				for (var i = 0; i < clone.rows.length; i++) {

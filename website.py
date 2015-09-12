@@ -266,6 +266,19 @@ def print_route(lang_id, form_id):
         form_id=form_id)
 
 
+@formularprojekt.route('/stats/')
+def stats_route():
+    langs = stats.keys()
+    langs.remove('de')
+    langs.sort()
+
+    return render_template(
+        'stats.html',
+        stats=stats,
+        langs=langs,
+        forms=forms)
+
+
 def send_annotator_file(filename='index.html'):
     return send_from_directory('annotator', filename)
 

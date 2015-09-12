@@ -26,6 +26,7 @@ formularprojekt = Blueprint('formularprojekt', __name__)
 forms = {}
 _translations = {}
 translations = {}
+stats = {}
 
 
 def load_data(top):
@@ -52,6 +53,48 @@ def load_data(top):
                         _translations[lang_id] = {}
                     with open(path) as fh:
                         _translations[lang_id][form_id] = json.load(fh)
+
+    for lang_id in _translations:
+        stats[lang_id] = {}
+
+        for form_id in forms.keys() + ['meta']:
+            if form_id == 'meta':
+                keys = set(_translations['en']['meta'].keys())
+            else:
+                keys = forms[form_id]['keys']
+
+            n = len(keys)
+
+            if form_id in _translations[lang_id]:
+                translation = _translations[lang_id][form_id]
+                tkeys = set(translation.keys())
+
+                data = {
+                    'translated': tkeys.intersection(keys),
+                    'untranslated': keys.difference(tkeys),
+                    'extra': tkeys.difference(keys),
+                }
+            else:
+                data = {
+                    'translated': [],
+                    'untranslated': keys,
+                    'extra': [],
+                }
+
+            if len(data['extra']) > 0:
+                data['style'] = EXTRA
+            elif len(data['translated']) == 0:
+                data['style'] = MISSING
+            elif len(data['translated']) < n * 0.2:
+                data['style'] = NEAR_MISSING
+            elif len(data['translated']) < n * 0.8:
+                data['style'] = INCOMPLETE
+            elif len(data['translated']) < n:
+                data['style'] = NEAR_COMPLETE
+            else:
+                data['style'] = None
+
+            stats[lang_id][form_id] = data
 
     for lang_id in _translations:
         if 'meta' in _translations[lang_id]:
@@ -91,36 +134,13 @@ def log(s, style=None, indent=0):
 def _check_form(form_id, langs, verbose):
     print(form_id)
 
-    form = forms[form_id]
-    keys = form['keys']
-    n = len(keys)
-
     for lang_id in langs:
-        if form_id in _translations[lang_id]:
-            translation = _translations[lang_id][form_id]
-            tkeys = set(translation.keys())
+        translated = stats[lang_id][form_id]['translated']
+        untranslated = stats[lang_id][form_id]['untranslated']
+        extra = stats[lang_id][form_id]['extra']
+        style = stats[lang_id][form_id]['style']
 
-            translated = tkeys.intersection(keys)
-            untranslated = keys.difference(tkeys)
-            extra = tkeys.difference(keys)
-        else:
-            translated = []
-            untranslated = []
-            extra = []
-
-        if len(extra) > 0:
-            style = EXTRA
-        elif len(translated) == 0:
-            style = MISSING
-        elif len(translated) < n * 0.2:
-            style = NEAR_MISSING
-        elif len(translated) < n * 0.8:
-            style = INCOMPLETE
-        elif len(translated) < n:
-            style = NEAR_COMPLETE
-        else:
-            style = None
-
+        n = len(translated) + len(untranslated)
         s = '%s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
         log(s, style, 2)
 
@@ -135,13 +155,14 @@ def _check_form(form_id, langs, verbose):
 
 def check_translations(form_id=None, lang_id=None, verbose=False):
     if lang_id is None:
-        langs = _translations.keys()
+        langs = stats.keys()
         langs.remove('de')
         langs.sort()
     else:
         langs = [lang_id]
 
     if form_id is None:
+        _check_form('meta', langs, verbose)
         for form_id in sorted(forms.keys()):
             _check_form(form_id, langs, verbose)
     else:

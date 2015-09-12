@@ -89,48 +89,48 @@ def log(s, style=None, indent=0):
 
 
 def _check_form(form_id, langs, verbose):
-        print(form_id)
+    print(form_id)
 
-        form = forms[form_id]
-        keys = form['keys']
-        n = len(keys)
+    form = forms[form_id]
+    keys = form['keys']
+    n = len(keys)
 
-        for lang_id in langs:
-            if form_id in _translations[lang_id]:
-                translation = _translations[lang_id][form_id]
-                tkeys = set(translation.keys())
+    for lang_id in langs:
+        if form_id in _translations[lang_id]:
+            translation = _translations[lang_id][form_id]
+            tkeys = set(translation.keys())
 
-                translated = tkeys.intersection(keys)
-                untranslated = keys.difference(tkeys)
-                extra = tkeys.difference(keys)
-            else:
-                translated = []
-                untranslated = []
-                extra = []
+            translated = tkeys.intersection(keys)
+            untranslated = keys.difference(tkeys)
+            extra = tkeys.difference(keys)
+        else:
+            translated = []
+            untranslated = []
+            extra = []
 
-            if len(extra) > 0:
-                style = EXTRA
-            elif len(translated) == 0:
-                style = MISSING
-            elif len(translated) < n * 0.2:
-                style = NEAR_MISSING
-            elif len(translated) < n * 0.8:
-                style = INCOMPLETE
-            elif len(translated) < n:
-                style = NEAR_COMPLETE
-            else:
-                style = None
+        if len(extra) > 0:
+            style = EXTRA
+        elif len(translated) == 0:
+            style = MISSING
+        elif len(translated) < n * 0.2:
+            style = NEAR_MISSING
+        elif len(translated) < n * 0.8:
+            style = INCOMPLETE
+        elif len(translated) < n:
+            style = NEAR_COMPLETE
+        else:
+            style = None
 
-            s = '%s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
-            log(s, style, 2)
+        s = '%s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
+        log(s, style, 2)
 
-            if verbose:
-                for s in untranslated:
-                    log(s, MISSING, 4)
-                for s in extra:
-                    log(s, EXTRA, 4)
+        if verbose:
+            for s in untranslated:
+                log(s, MISSING, 4)
+            for s in extra:
+                log(s, EXTRA, 4)
 
-        print('')
+    print('')
 
 
 def check_translations(form_id=None, lang_id=None, verbose=False):

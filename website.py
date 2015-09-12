@@ -131,7 +131,7 @@ def log(s, style=None, indent=0):
     print(' ' * indent + color + s + reset)
 
 
-def _check_form(form_id, langs, verbose):
+def _form_stats(form_id, langs, verbose):
     print(form_id)
 
     for lang_id in langs:
@@ -153,7 +153,7 @@ def _check_form(form_id, langs, verbose):
     print('')
 
 
-def check_translations(form_id=None, lang_id=None, verbose=False):
+def print_stats(form_id=None, lang_id=None, verbose=False):
     if lang_id is None:
         langs = stats.keys()
         langs.remove('de')
@@ -162,11 +162,11 @@ def check_translations(form_id=None, lang_id=None, verbose=False):
         langs = [lang_id]
 
     if form_id is None:
-        _check_form('meta', langs, verbose)
+        _form_stats('meta', langs, verbose)
         for form_id in sorted(forms.keys()):
-            _check_form(form_id, langs, verbose)
+            _form_stats(form_id, langs, verbose)
     else:
-        _check_form(form_id, langs, verbose)
+        _form_stats(form_id, langs, verbose)
 
 
 @formularprojekt.app_template_filter('translate')
@@ -328,11 +328,11 @@ def parse_args(argv=None):
     parser_build = subparsers.add_parser('build', help='generate static HTML')
     parser_build.set_defaults(cmd='build')
 
-    parser_check = subparsers.add_parser('check', help='validate translations')
-    parser_check.add_argument('--verbose', '-v', action='store_true')
-    parser_check.add_argument('--lang', '-l')
-    parser_check.add_argument('form', nargs='?')
-    parser_check.set_defaults(cmd='check')
+    parser_stats = subparsers.add_parser('stats', help='validate translations')
+    parser_stats.add_argument('--verbose', '-v', action='store_true')
+    parser_stats.add_argument('--lang', '-l')
+    parser_stats.add_argument('form', nargs='?')
+    parser_stats.set_defaults(cmd='stats')
 
     parser_serve = subparsers.add_parser('serve', help='run a test server')
     parser_serve.add_argument('--port', '-p', type=int, default=8000)
@@ -350,8 +350,8 @@ def main():  # pragma: no cover
     if args.cmd == 'serve':
         add_annotator_rules(app)
         app.run(port=args.port)
-    elif args.cmd == 'check':
-        check_translations(args.form, args.lang, args.verbose)
+    elif args.cmd == 'stats':
+        print_stats(args.form, args.lang, args.verbose)
     else:
         freezer = create_freezer(app)
         freezer.freeze()

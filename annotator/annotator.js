@@ -21,7 +21,7 @@
 				self.update(data);
 
 				self.setModel('formId', data.formId);
-				self.setModel('page', data.page);
+				self.setModel('page', data.page + 1);
 
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];
@@ -166,7 +166,7 @@
 
 			self.on('change-page', function(event) {
 				select();
-				data.page = parseInt(self.getModel('page'), 10);
+				data.page = parseInt(self.getModel('page'), 10) - 1;
 				update();
 			});
 

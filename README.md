@@ -11,6 +11,8 @@ This repository contains
 -   translations in JSON format (`data/`)
 -   a python tool to create a website from those translations. (If you have
     virtualenv and lessc install, you can simply run `make`.)
+-   a web application that aides in annotationg forms (see [Annotate
+    forms](#annotate-forms))
 
 # How to contribute
 
@@ -35,7 +37,7 @@ please provide that separately (in the JSON files this is called `structure`).
 Please also note down on which page a row is (starting with 0).
 
 You do not need to provide any of `align`, `x1`, `x2`, `y1`, or `y2`. This will
-be handled in the step "annotate forms".
+be handled in the step [annotate forms](#annotate-forms).
 
 Here are some more tipps for transcription:
 

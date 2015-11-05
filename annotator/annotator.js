@@ -59,7 +59,13 @@
 				var formPromise;
 
 				var cached = localStorage.getItem(formId);
-				if (cached && !force) {
+				if (
+					cached &&
+					!force &&
+					cached !== 'null' &&
+					cached !== 'undefined' &&
+					cached !== 'NaN'
+				) {
 					formPromise = new Promise(function(resolve) {
 						resolve(JSON.parse(cached));
 					});
@@ -204,9 +210,12 @@
 			});
 
 			data.formId = localStorage.getItem('formId');
+			if (data.formId === "null") {
+				data.formId = null;
+			}
 			data.page = parseInt(localStorage.getItem('page'), 10);
 			data.selected = localStorage.getItem('selected');
-			if (data.selected === "undefined" || data.selected === void 0 || data.selected === null) {
+			if (data.selected === "undefined" || data.selected === null) {
 				data.selected = void 0;
 			}
 			getForm(data.formId).then(update);

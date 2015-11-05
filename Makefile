@@ -7,7 +7,7 @@ serve: .env static/style.css static/* templates/* annotator/bower_components
 	. .env/bin/activate && python website.py serve
 
 push: build
-	rsync -rv --delete build/ spline:public_html/webroot/formularprojekt/
+	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
 
 static/style.css: static_src/style.less static_src/bower_components
 	lessc $< $@

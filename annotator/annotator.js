@@ -16,7 +16,7 @@
 					data.rows = void 0;
 					data.selected = void 0;
 				}
-				data.bg = '/static/forms/' + data.formId + '/bg-' + data.page + '.png';
+				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.png';
 
 				self.update(data);
 
@@ -64,7 +64,7 @@
 						resolve(JSON.parse(cached));
 					});
 				} else {
-					var url = '/data/' + formId + '/form.json';
+					var url = '../data/' + formId + '/form.json';
 					formPromise = xhr.getJSON(url).then(function(form) {
 						for (var i = 0; i < form.rows.length; i++) {
 							var row = form.rows[i];

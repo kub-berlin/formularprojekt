@@ -1,3 +1,5 @@
+"""Helper script to automatically fill corresponding terms in all forms."""
+
 import json
 import re
 import os
@@ -70,7 +72,7 @@ for form_id, form in forms.items():
 #
 #     if lang_id != 'form':
 #         data = {normalize(k): normalize(v) for k, v in data.items()}
-#    else:
+#     else:
 #        for row in data['rows']:
 #            row['content'] = normalize(row['content'])
 #

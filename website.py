@@ -302,6 +302,18 @@ def add_annotator_rules(app):
         view_func=send_data_file)
 
 
+def register_annotator_files():
+    yield '/annotator/annotator.css'
+    yield '/annotator/annotator.js'
+    yield '/annotator/template.html'
+    yield '/annotator/bower_components/muu/dist/muu.min.js'
+    yield '/annotator/bower_components/promise-xhr/promise-xhr.js'
+
+    for form_id in forms:
+        for filename in os.listdir(os.path.join('data', form_id)):
+            yield '/data/%s/%s' % (form_id, filename)
+
+
 def create_app(settings=None):
     app = Flask(__name__)
     app.config.from_object(settings)
@@ -346,14 +358,15 @@ def main():  # pragma: no cover
     load_data('data')
 
     app = create_app(args)
+    add_annotator_rules(app)
 
     if args.cmd == 'serve':
-        add_annotator_rules(app)
         app.run(port=args.port)
     elif args.cmd == 'stats':
         print_stats(args.form, args.lang, args.verbose)
     else:
         freezer = create_freezer(app)
+        freezer.register_generator(register_annotator_files)
         freezer.freeze()
 
 

@@ -49,6 +49,7 @@
 					self.setModel('y2', get('y2'));
 					self.setModel('width', get('width'));
 					self.setModel('size', get('size'));
+					self.setModel('align', get('align'));
 				}
 
 				localStorage.setItem('formId', data.formId);

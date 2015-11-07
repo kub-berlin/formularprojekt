@@ -158,10 +158,10 @@
 					var get = rget(row);
 					var set = rset(row);
 
-					set('x1', parseInt(self.getModel('x1'), 10));
-					set('y1', parseInt(self.getModel('y1'), 10));
-					set('width', parseInt(self.getModel('width'), 10));
-					set('size', parseInt(self.getModel('size'), 10));
+					set('x1', self.getModel('x1'));
+					set('y1', self.getModel('y1'));
+					set('width', self.getModel('width'));
+					set('size', self.getModel('size'));
 					set('x2', get('x1') + get('width'));
 					set('y2', get('y1') + get('size'));
 					set('align', self.getModel('align'));
@@ -176,8 +176,8 @@
 					var get = rget(row);
 					var set = rset(row);
 
-					set('x2', parseInt(self.getModel('x2'), 10));
-					set('y2', parseInt(self.getModel('y2'), 10));
+					set('x2', self.getModel('x2'));
+					set('y2', self.getModel('y2'));
 					set('width', get('x2') - get('x1'));
 					set('size', get('y2') - get('y1'));
 

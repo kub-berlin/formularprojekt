@@ -29,6 +29,10 @@ a {
 }
 
 /* canvas */
+.canvas.is-layer1 .row.layer2,
+.canvas.is-layer2 .row.layer1 {
+	opacity: 0.5;
+}
 .row.selected {
 	background: #333;
 	color: #f2f2f2;
@@ -49,10 +53,10 @@ a {
 	position: relative;
 	padding: 0.2em 1em;
 	border-bottom: 1px solid;
-	font-style: italic;
 }
-.sidebar li.defined {
-	font-style: inherit;
+.sidebar.is-layer1 li:not(.defined),
+.sidebar.is-layer2 li:not(.defined2) {
+	font-style: italic;
 }
 .sidebar li .unselect {
 	position: absolute;
@@ -73,8 +77,9 @@ a {
 }
 .header .export,
 .header .force-update,
-.header input,
-.header select {
+.header .change-layer,
+.header input[name=page],
+.header select[name=formId] {
 	float: right;
 	margin: 1em;
 }

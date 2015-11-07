@@ -15,27 +15,34 @@
 		<option value="SozIIIB1">SozIIIB1</option>
 	</select>
 	<input type="number" name="page" min="1" data-onchange="change-page" />
+	<label class="change-layer"><input type="checkbox" name="layer2" data-onchange="change-layer" /> layer2</label>
 	<a href="#" class="force-update" data-onclick="force-update">update</a>
 	<a href="#" class="export" data-onclick="export">export</a>
 </header>
 
-<div class="canvas">
+<div class="canvas {{is-layer1: layer1, is-layer2: layer2}}">
 	<div class="page" data-onclick="canvas-click">
 		<img class="page-bg" src="{{bg}}" alt="" />
 		{{#rows}}
 			{{#size}}
 			<span
-				class="row {{selected: selected}}"
+				class="row layer1 {{selected: selected}}"
 				style="top: {{y1}}px; left: {{x1}}px; text-align: {{align}}; width: {{width}}px; font-size: {{size}}px;"
 			>{{content}}</span>
 			{{/size}}
+			{{#size2}}
+			<span
+				class="row layer2 {{selected: selected}}"
+				style="top: {{y12}}px; left: {{x12}}px; text-align: {{align2}}; width: {{width2}}px; font-size: {{size2}}px;"
+			>{{content}}</span>
+			{{/size2}}
 		{{/rows}}
 	</div>
 </div>
 
-<ul class="sidebar">
+<ul class="sidebar {{is-layer1: layer1, is-layer2: layer2}}">
 {{#rows}}
-	<li class="{{selected: selected, defined: size}}">
+	<li class="{{selected: selected, defined: size, defined2: size2}}">
 		<a href="#" data-onclick="select-row">{{content}}</a>
 		{{#selected}}
 		<div class="inputs">

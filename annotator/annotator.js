@@ -7,6 +7,22 @@
 		registry.registerDirective('forms', template, function(self) {
 			var data = {};
 
+			var rget = function(row) {
+				return function(key) {
+					return data.layer2 ? row[key + '2'] : row[key];
+				};
+			};
+
+			var rset = function(row) {
+				return function(key, value) {
+					if (data.layer2) {
+						row[key + '2'] = value;
+					} else {
+						row[key] = value;
+					}
+				};
+			};
+
 			var update = function() {
 				if (data.form) {
 					data.rows = data.form.rows.filter(function(row) {
@@ -17,6 +33,7 @@
 					data.selected = void 0;
 				}
 				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.png';
+				data.layer1 = !data.layer2;
 
 				self.update(data);
 
@@ -25,12 +42,13 @@
 
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];
-					self.setModel('x1', row.x1);
-					self.setModel('x2', row.x2);
-					self.setModel('y1', row.y1);
-					self.setModel('y2', row.y2);
-					self.setModel('width', row.width);
-					self.setModel('size', row.size);
+					var get = rget(row);
+					self.setModel('x1', get('x1'));
+					self.setModel('x2', get('x2'));
+					self.setModel('y1', get('y1'));
+					self.setModel('y2', get('y2'));
+					self.setModel('width', get('width'));
+					self.setModel('size', get('size'));
 				}
 
 				localStorage.setItem('formId', data.formId);
@@ -76,6 +94,8 @@
 							var row = form.rows[i];
 							row.width = row.x2 - row.x1;
 							row.size = row.y2 - row.y1;
+							row.width2 = row.x22 - row.x12;
+							row.size2 = row.y22 - row.y12;
 						}
 						return form;
 					});
@@ -113,17 +133,19 @@
 					var y = Math.round(event.clientY - page.offsetTop - container.offsetTop + container.scrollTop);
 
 					var row = data.rows[data.selected];
+					var get = rget(row);
+					var set = rset(row);
 
 					if (event.ctrlKey) {
-						row.x2 = x;
-						row.y2 = y;
-						row.width = row.x2 - row.x1;
-						row.size = row.y2 - row.y1;
+						set('x2', x);
+						set('y2', y);
+						set('width', get('x2') - get('x1'));
+						set('size', get('y2') - get('y1'));
 					} else {
-						row.x1 = x;
-						row.y1 = y;
-						row.x2 = row.x1 + row.width;
-						row.y2 = row.y1 + row.size;
+						set('x1', x);
+						set('y1', y);
+						set('x2', get('x1') + get('width'));
+						set('y2', get('y1') + get('size'));
 					}
 
 					update();
@@ -133,13 +155,15 @@
 			self.on('update-selected', function(event) {
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];
+					var get = rget(row);
+					var set = rset(row);
 
-					row.x1 = parseInt(self.getModel('x1'), 10);
-					row.y1 = parseInt(self.getModel('y1'), 10);
-					row.width = parseInt(self.getModel('width'), 10);
-					row.size = parseInt(self.getModel('size'), 10);
-					row.x2 = row.x1 + row.width;
-					row.y2 = row.y1 + row.size;
+					set('x1', parseInt(self.getModel('x1'), 10));
+					set('y1', parseInt(self.getModel('y1'), 10));
+					set('width', parseInt(self.getModel('width'), 10));
+					set('size', parseInt(self.getModel('size'), 10));
+					set('x2', get('x1') + get('width'));
+					set('y2', get('y1') + get('size'));
 
 					update();
 				}
@@ -148,11 +172,13 @@
 			self.on('update-selected-2', function(event) {
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];
+					var get = rget(row);
+					var set = rset(row);
 
-					row.x2 = parseInt(self.getModel('x2'), 10);
-					row.y2 = parseInt(self.getModel('y2'), 10);
-					row.width = row.x2 - row.x1;
-					row.size = row.y2 - row.y1;
+					set('x2', parseInt(self.getModel('x2'), 10));
+					set('y2', parseInt(self.getModel('y2'), 10));
+					set('width', get('x2') - get('x1'));
+					set('size', get('y2') - get('y1'));
 
 					update();
 				}
@@ -176,6 +202,11 @@
 				update();
 			});
 
+			self.on('change-layer', function(event) {
+				data.layer2 = self.getModel('layer2');
+				update();
+			});
+
 			self.on('force-update', function(event) {
 				event.preventDefault();
 				var formId = self.getModel('formId');
@@ -192,6 +223,8 @@
 
 					delete row.width;
 					delete row.size;
+					delete row.width2;
+					delete row.size2;
 					if (row.hasOwnProperty('selected')) {
 						delete row.selected;
 					}

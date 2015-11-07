@@ -164,6 +164,7 @@
 					set('size', parseInt(self.getModel('size'), 10));
 					set('x2', get('x1') + get('width'));
 					set('y2', get('y1') + get('size'));
+					set('align', self.getModel('align'));
 
 					update();
 				}

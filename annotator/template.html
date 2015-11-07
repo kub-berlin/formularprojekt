@@ -52,6 +52,14 @@
 			<input type="number" name="y1" title="y1" data-onchange="update-selected" />
 			<input type="number" name="y2" title="y2" data-onchange="update-selected-2" />
 			<input type="number" name="size" title="size" data-onchange="update-selected" />
+			<select name="align" title="align" data-onchange="update-selected">
+				<option value="left">left</option>
+				<option value="right">right</option>
+				<option value="center">center</option>
+				<option value="justify">justify</option>
+				<option value="start">start</option>
+				<option value="end">end</option>
+			</select>
 		</div>
 		<a href="#" class="unselect" data-onclick="unselect-row">X</a>
 		{{/selected}}

@@ -35,8 +35,8 @@
 
 <ul class="sidebar">
 {{#rows}}
-	<li>
-		<a href="#" data-onclick="select-row" class="{{selected: selected}}">{{content}}</a>
+	<li class="{{selected: selected, defined: size}}">
+		<a href="#" data-onclick="select-row">{{content}}</a>
 		{{#selected}}
 		<div class="inputs">
 			<input type="number" name="x1" title="x1" data-onchange="update-selected" />

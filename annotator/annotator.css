@@ -49,6 +49,10 @@ a {
 	position: relative;
 	padding: 0.2em 1em;
 	border-bottom: 1px solid;
+	font-style: italic;
+}
+.sidebar li.defined {
+	font-style: inherit;
 }
 .sidebar li .unselect {
 	position: absolute;

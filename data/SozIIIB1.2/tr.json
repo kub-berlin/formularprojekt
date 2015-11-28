@@ -1,5 +1,10 @@
 {
   "Datum": "Tarih",
+  "Geschäftszeichen": "Dosya numarası",
   "Ja": "Evet",
-  "Name, Vorname": "Soyadi, Adi"
+  "Name, Vorname": "Soyadi, Adi",
+  "Nein": "Hayır",
+  "ausgestellt am": "verildiği tarih",
+  "gültig bis": "geçerlilik süresi",
+  "von (Dienststelle)": "(Daire) tarafından"
 }

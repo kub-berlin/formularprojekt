@@ -1,6 +1,8 @@
 {
   "Anschrift": "Adres",
   "Geburtsdatum": "Dogum tarihi",
+  "Geschäftszeichen": "Dosya numarası",
   "Ja": "Evet",
-  "Name, Vorname": "Soyadi, Adi"
+  "Name, Vorname": "Soyadi, Adi",
+  "Nein": "Hayır"
 }

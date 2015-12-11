@@ -78,8 +78,8 @@
       "structure": "A.",
       "x1": 19,
       "x2": 607,
-      "y1": 189,
-      "y2": 202
+      "y1": 188,
+      "y2": 201
     },
     {
       "align": "left",
@@ -178,8 +178,8 @@
       "structure": "",
       "x1": 16,
       "x2": 608,
-      "y1": 348,
-      "y2": 358
+      "y1": 345,
+      "y2": 355
     },
     {
       "align": "center",
@@ -298,8 +298,8 @@
       "structure": "B,",
       "x1": 19,
       "x2": 607,
-      "y1": 700,
-      "y2": 713
+      "y1": 690,
+      "y2": 703
     },
     {
       "align": "left",
@@ -308,8 +308,8 @@
       "structure": "",
       "x1": 18,
       "x2": 607,
-      "y1": 726,
-      "y2": 736
+      "y1": 714,
+      "y2": 724
     },
     {
       "align": "left",
@@ -326,10 +326,10 @@
       "content": "Dienstsiegel oder Stempel",
       "page": 0,
       "structure": "",
-      "x1": 64,
-      "x2": 175,
-      "y1": 859,
-      "y2": 869
+      "x1": 93,
+      "x2": 179,
+      "y1": 845,
+      "y2": 855
     },
     {
       "align": "center",
@@ -372,7 +372,7 @@
       "y2": 180
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Kindergeld kann Ihnen grundsätzlich für die Kinder gezahlt werden, die zu Ihrem Haushalt gehören. Eine Haushaltszugehörigkeit liegt nur vor, wenn das Kind ständig in Ihrem Haushalt lebt, von Ihnen betreut und erzogen wird und aus den Mitteln Ihres Haushalts versorgt wird. Allein die bloße Anmeldung eines Kindes bei einer Meldebehörde führt nicht zur Haushaltszugehörigkeit. Während einer zeitweiligen auswärtigen Unterbringung zur Schul- oder Berufsausbildung bleibt eine bestehende Haushaltszugehörigkeit erhalten.",
       "page": 1,
       "structure": "",
@@ -382,7 +382,7 @@
       "y2": 211
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Näheres finden Sie dazu im Merkblatt über Kindergeld.",
       "page": 1,
       "structure": "",
@@ -392,7 +392,7 @@
       "y2": 290
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Das Vorhandensein der Kinder und ihre Zugehörigkeit zum Haushalt sind amtlich nachzuweisen. Diesem Zweck dient die umseitige Haushaltsbescheinigung.",
       "page": 1,
       "structure": "",
@@ -402,7 +402,7 @@
       "y2": 321
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Füllen Sie deshalb bitte den Abschnitt A gut leserlich aus. Im Abschnitt B sind Ihre Angaben durch die zuständige Meldebehörde (Einwohnermeldeamt) oder eine andere öffentliche Stelle zu bescheinigen und mit dem Dienstsiegel oder Dienststempel zu versehen.",
       "page": 1,
       "structure": "",
@@ -412,7 +412,7 @@
       "y2": 365
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Haben Sie Kinder in Ihrem Antrag auf Kindergeld aufgeführt, die dauerhaft (nicht nur vorübergehend) außerhalb Ihres Haushaltes leben, reichen Sie bitte eine »Lebensbescheinigung« ein. Falls solche Kinder in Schul- oder Berufsausbildung stehen, kann anstelle einer Lebensbescheinigung auch eine Schul- oder Ausbildungsbescheinigung eingereicht werden, die jedoch nicht älter als sechs Monate sein darf. Die entsprechenden Bescheinigungsvordrucke erhalten Sie bei Ihrer Familienkasse.",
       "page": 1,
       "structure": "",

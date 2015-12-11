@@ -33,7 +33,7 @@
     },
     {
       "align": "left",
-      "content": "Beachten Sie bitte die anh\u00e4ngenden Hinweise und das Merkblatt Kindergeld.",
+      "content": "Beachten Sie bitte die anhängenden Hinweise und das Merkblatt Kindergeld.",
       "page": 0,
       "structure": "",
       "x1": 413,
@@ -53,7 +53,7 @@
     },
     {
       "align": "left",
-      "content": "Bitte f\u00fcgen Sie f\u00fcr jedes Kind, f\u00fcr das Kindergeld beantragt wird, eine \u201eAnlage Kind\u201c bei.",
+      "content": "Bitte fügen Sie für jedes Kind, für das Kindergeld beantragt wird, eine „Anlage Kind“ bei.",
       "page": 0,
       "structure": "",
       "x1": 2,
@@ -63,7 +63,7 @@
     },
     {
       "align": "left",
-      "content": "Anzahl der beigef\u00fcgten \"Anlage Kind\"",
+      "content": "Anzahl der beigefügten \"Anlage Kind\"",
       "page": 0,
       "structure": "",
       "x1": 2,
@@ -113,7 +113,7 @@
     },
     {
       "align": "left",
-      "content": "ggf. Geburtsname und Name aus fr\u00fcherer Ehe",
+      "content": "ggf. Geburtsname und Name aus früherer Ehe",
       "page": 0,
       "structure": "",
       "x1": 331,
@@ -143,7 +143,7 @@
     },
     {
       "align": "left",
-      "content": "Staatsangeh\u00f6rigkeit (bei nicht EU-/EWR-Staatsangeh\u00f6rigkeit bitte Nachweis Aufenthaltstitel beif\u00fcgen)",
+      "content": "Staatsangehörigkeit (bei nicht EU-/EWR-Staatsangehörigkeit bitte Nachweis Aufenthaltstitel beifügen)",
       "page": 0,
       "structure": "",
       "x1": 217,
@@ -153,7 +153,7 @@
     },
     {
       "align": "left",
-      "content": "telefonische R\u00fcckfrage tags\u00fcber unter Nr.:",
+      "content": "telefonische Rückfrage tagsüber unter Nr.:",
       "page": 0,
       "structure": "",
       "x1": 461,
@@ -163,7 +163,7 @@
     },
     {
       "align": "left",
-      "content": "Anschrift (Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort)",
+      "content": "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort)",
       "page": 0,
       "structure": "",
       "x1": 5,
@@ -303,7 +303,7 @@
     },
     {
       "align": "left",
-      "content": "Staatsangeh\u00f6rigkeit",
+      "content": "Staatsangehörigkeit",
       "page": 0,
       "structure": "",
       "x1": 117,
@@ -313,7 +313,7 @@
     },
     {
       "align": "left",
-      "content": "ggf. Geburtsname und Name aus fr\u00fcherer Ehe",
+      "content": "ggf. Geburtsname und Name aus früherer Ehe",
       "page": 0,
       "structure": "",
       "x1": 331,
@@ -323,7 +323,7 @@
     },
     {
       "align": "left",
-      "content": "Anschrift, wenn abweichend vom Antragsteller (Stra\u00dfe/Platz, Hausnummer, Poszleitzahl, Wohnort)",
+      "content": "Anschrift, wenn abweichend vom Antragsteller (Straße/Platz, Hausnummer, Poszleitzahl, Wohnort)",
       "page": 0,
       "structure": "",
       "x1": 5,
@@ -443,7 +443,7 @@
     },
     {
       "align": "left",
-      "content": "Anschrift, wenn abweichend vom Antragsteller (Stra\u00dfe/Platz, Hausnummer, Postleitzahl, Wohnort)",
+      "content": "Anschrift, wenn abweichend vom Antragsteller (Straße/Platz, Hausnummer, Postleitzahl, Wohnort)",
       "page": 0,
       "structure": "",
       "x1": 6,
@@ -463,7 +463,7 @@
     },
     {
       "align": "left",
-      "content": "Laut beigef\u00fcgter/n \u201eAnlage(n) Kind\u201c. F\u00fcr jedes Kind, f\u00fcr das Kindergeld neu beantragt wird, ist eine gesonderte \u201eAnlage Kind\u201c ausgef\u00fcllt einzureichen.",
+      "content": "Laut beigefügter/n „Anlage(n) Kind“. Für jedes Kind, für das Kindergeld neu beantragt wird, ist eine gesonderte „Anlage Kind“ ausgefüllt einzureichen.",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -473,7 +473,7 @@
     },
     {
       "align": "left",
-      "content": "F\u00fcr folgende Kinder beziehe ich bereits Kindergeld:",
+      "content": "Für folgende Kinder beziehe ich bereits Kindergeld:",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -523,7 +523,7 @@
     },
     {
       "align": "left",
-      "content": "Folgende Z\u00e4hlkinder sollen ber\u00fccksichtigt werden:",
+      "content": "Folgende Zählkinder sollen berücksichtigt werden:",
       "page": 1,
       "structure": "6",
       "x1": 23,
@@ -583,7 +583,7 @@
     },
     {
       "align": "left",
-      "content": "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der \u00a7\u00a7 31, 62 bis 78 Einkommenssteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
+      "content": "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommenssteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -593,7 +593,7 @@
     },
     {
       "align": "left",
-      "content": "Ich versichere, dass ich alle Angaben (auch in den Anlagen) vollst\u00e4ndig und wahrheitsgetreu gemacht habe. Mir ist bekannt, dass ich alle \u00c4nderungen, die f\u00fcr den Anspruch auf Kindergeld von Bedeutung sind, unverz\u00fcglich der Familienkasse mitzuteilen habe. Das Merkblatt \u00fcber Kindergeld habe ich erhalten und von seinem Inhalt Kenntnis genommen.",
+      "content": "Ich versichere, dass ich alle Angaben (auch in den Anlagen) vollständig und wahrheitsgetreu gemacht habe. Mir ist bekannt, dass ich alle Änderungen, die für den Anspruch auf Kindergeld von Bedeutung sind, unverzüglich der Familienkasse mitzuteilen habe. Das Merkblatt über Kindergeld habe ich erhalten und von seinem Inhalt Kenntnis genommen.",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -607,7 +607,7 @@
       "page": 1,
       "structure": "",
       "x1": 6,
-      "x2": 6,
+      "x2": 184,
       "y1": 590,
       "y2": 598
     },
@@ -643,7 +643,7 @@
     },
     {
       "align": "left",
-      "content": "Alle Eingaben l\u00f6schen",
+      "content": "Alle Eingaben löschen",
       "page": 1,
       "structure": "",
       "x1": 156,
@@ -673,7 +673,7 @@
     },
     {
       "align": "center",
-      "content": "Nur von der Familienkasse auszuf\u00fcllen",
+      "content": "Nur von der Familienkasse auszufüllen",
       "page": 1,
       "structure": "",
       "x1": 7,
@@ -692,8 +692,8 @@
       "y2": 33
     },
     {
-      "align": "left",
-      "content": "F\u00fcllen Sie bitte den Antragsvordruck und die Anlage Kind sorgf\u00e4ltig und gut leserlich aus und kreuzen Sie das Zutreffende an. Vergessen Sie Ihre Unterschrift nicht! Sofern Sie minderj\u00e4hrig sind, muss Ihr gesetzlicher Vertreter f\u00fcr Sie unterschreiben.",
+      "align": "start",
+      "content": "Füllen Sie bitte den Antragsvordruck und die Anlage Kind sorgfältig und gut leserlich aus und kreuzen Sie das Zutreffende an. Vergessen Sie Ihre Unterschrift nicht! Sofern Sie minderjährig sind, muss Ihr gesetzlicher Vertreter für Sie unterschreiben.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -702,8 +702,8 @@
       "y2": 68
     },
     {
-      "align": "left",
-      "content": "Lassen Sie den Antrag auch von dem mit Ihnen gemeinsam in ein em Haushalt lebenden Ehegatten bzw. Lebenspartner/anderen Elternteil unterschreiben, wenn er damit einverstanden ist, dass Sie das Kindergeld erhalten. Wenn kein Einvernehmen besteht, teilen Sie dies bitte der Familienkasse mit. Wurde der Berechtigte gerichtlich bestimmt, f\u00fcgen Sie bitte den Beschluss bei.",
+      "align": "start",
+      "content": "Lassen Sie den Antrag auch von dem mit Ihnen gemeinsam in ein em Haushalt lebenden Ehegatten bzw. Lebenspartner/anderen Elternteil unterschreiben, wenn er damit einverstanden ist, dass Sie das Kindergeld erhalten. Wenn kein Einvernehmen besteht, teilen Sie dies bitte der Familienkasse mit. Wurde der Berechtigte gerichtlich bestimmt, fügen Sie bitte den Beschluss bei.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -712,8 +712,8 @@
       "y2": 103
     },
     {
-      "align": "left",
-      "content": "Bitte beachten Sie, dass Ihr Antrag nur bearbeitet werden kann, wenn er vollst\u00e4ndig ausgef\u00fcllt wurde.",
+      "align": "start",
+      "content": "Bitte beachten Sie, dass Ihr Antrag nur bearbeitet werden kann, wenn er vollständig ausgefüllt wurde.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -722,7 +722,7 @@
       "y2": 150
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Antrag auf Kindergeld",
       "page": 2,
       "structure": "",
@@ -732,7 +732,7 @@
       "y2": 186
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Zu 1 und 2: Angaben zur antragstellenden Person und zum Ehegatten bzw Lebenspartner",
       "page": 2,
       "structure": "",
@@ -742,8 +742,8 @@
       "y2": 213
     },
     {
-      "align": "left",
-      "content": "Wenn beide Elternteile eines Kindes die Voraussetzungen f\u00fcr den Anspruch auf Kindergeld erf\u00fcllen, ist als antragstellende Person der Elternteil einzutragen, der nach dem Willen beider Elternteile das Kindergeld erhalten soll. Beim Familienstand ist nur dann \"dauernd getrennt lebend\" anzukreuzen wenn bei Ehepaaren mindestens ein Ehepartner die Absicht hat, die Trennung staendig aufrechtzuerhalten. Sofern Sie nicht verheiratet oder Ihr Ehegatee bzw. Lebenspartner nicht zugleich der andere leibliche Elternteil mindestens eines der in der/den \u201eAnlage/n Kind\u201c aufgef\u00fchrten Kinder ist, teilen Sie die Angaben zum anderen leiblichen Elternteil (bei Pflege- oder Enkelkindern zu beiden leiblichen Elternteilen) bitte auf der jeweiligen \u201eAnlage Kind\u201c mit.",
+      "align": "start",
+      "content": "Wenn beide Elternteile eines Kindes die Voraussetzungen für den Anspruch auf Kindergeld erfüllen, ist als antragstellende Person der Elternteil einzutragen, der nach dem Willen beider Elternteile das Kindergeld erhalten soll. Beim Familienstand ist nur dann \"dauernd getrennt lebend\" anzukreuzen wenn bei Ehepaaren mindestens ein Ehepartner die Absicht hat, die Trennung staendig aufrechtzuerhalten. Sofern Sie nicht verheiratet oder Ihr Ehegatee bzw. Lebenspartner nicht zugleich der andere leibliche Elternteil mindestens eines der in der/den „Anlage/n Kind“ aufgeführten Kinder ist, teilen Sie die Angaben zum anderen leiblichen Elternteil (bei Pflege- oder Enkelkindern zu beiden leiblichen Elternteilen) bitte auf der jeweiligen „Anlage Kind“ mit.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -752,8 +752,8 @@
       "y2": 234
     },
     {
-      "align": "left",
-      "content": "Sofern Sie nicht die deutsche Staatsangeh\u00f6rigkeit oder die Staatsangeh\u00f6rigkeit eines EU-/EWR-Staates bzw. der Schweiz besitzen, f\u00fcgen Sie bitte einen Nachweis \u00fcber den Aufenthaltstitel bei (z.B. Passkopie).",
+      "align": "start",
+      "content": "Sofern Sie nicht die deutsche Staatsangehörigkeit oder die Staatsangehörigkeit eines EU-/EWR-Staates bzw. der Schweiz besitzen, fügen Sie bitte einen Nachweis über den Aufenthaltstitel bei (z.B. Passkopie).",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -762,7 +762,7 @@
       "y2": 324
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Zu 3: Angaben zum Zahlungsweg",
       "page": 2,
       "structure": "",
@@ -772,8 +772,8 @@
       "y2": 374
     },
     {
-      "align": "left",
-      "content": "Geben Sie bitte das Konto an, auf welches das Kindergeld \u00fcberwiesen werden soll. Die IBAN (internationale Bankkontonummer) und der BIC (internationaler, standardisierter Bank-Code) ersetzen die bisherigen nationalen Kontoangaben und k\u00f6nnen Ihrem Kontoauszug entnommen werden.",
+      "align": "start",
+      "content": "Geben Sie bitte das Konto an, auf welches das Kindergeld überwiesen werden soll. Die IBAN (internationale Bankkontonummer) und der BIC (internationaler, standardisierter Bank-Code) ersetzen die bisherigen nationalen Kontoangaben und können Ihrem Kontoauszug entnommen werden.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -782,8 +782,8 @@
       "y2": 391
     },
     {
-      "align": "left",
-      "content": "Zu 6: Folgende Z\u00e4hlkinder sollen ber\u00fccksichtigt werden",
+      "align": "start",
+      "content": "Zu 6: Folgende Zählkinder sollen berücksichtigt werden",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -792,8 +792,8 @@
       "y2": 450
     },
     {
-      "align": "left",
-      "content": "Kinder, f\u00fcr die eine andere Person Kindergeld erh\u00e4lt, k\u00f6nnen sich bei Ihnen kindergelderh\u00f6hend auswirken (Z\u00e4hlkinder). Sofern Sie die Ber\u00fccksichtigung von Z\u00e4hlkindern geltend machen wollen, geben Sie bitte in jedem Fall an, wer f\u00fcr die Z\u00e4hlkinder das Kindergeld bei welcher Familienkasse bezieht.",
+      "align": "start",
+      "content": "Kinder, für die eine andere Person Kindergeld erhält, können sich bei Ihnen kindergelderhöhend auswirken (Zählkinder). Sofern Sie die Berücksichtigung von Zählkindern geltend machen wollen, geben Sie bitte in jedem Fall an, wer für die Zählkinder das Kindergeld bei welcher Familienkasse bezieht.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -802,7 +802,7 @@
       "y2": 469
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Anlage Kind",
       "page": 2,
       "structure": "",
@@ -812,7 +812,7 @@
       "y2": 522
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Allgemeines",
       "page": 2,
       "structure": "",
@@ -822,8 +822,8 @@
       "y2": 548
     },
     {
-      "align": "left",
-      "content": "Bitte f\u00fcllen Sie die \u201eAnlage Kind\u201c vollst\u00e4ndig aus. Bei einem erstmaligen Antrag auf Kindergeld nach Geburt ist die \u201eGeburtsbescheinigung f\u00fcr Kindergeld\u201c im Original beizuf\u00fcgen. Bei einem im Ausland geborenen Kind ist als Nachweis die Geburtsurkunde ausreichend. F\u00fcr \u00fcber 18 Jahre alte Kinder ist die Anlage nur auszuf\u00fcllen, wenn sie eine der im Kindergeldmerkblatt genannten besonderen Voraussetzungen erf\u00fcllen.",
+      "align": "start",
+      "content": "Bitte füllen Sie die „Anlage Kind“ vollständig aus. Bei einem erstmaligen Antrag auf Kindergeld nach Geburt ist die „Geburtsbescheinigung für Kindergeld“ im Original beizufügen. Bei einem im Ausland geborenen Kind ist als Nachweis die Geburtsurkunde ausreichend. Für über 18 Jahre alte Kinder ist die Anlage nur auszufüllen, wenn sie eine der im Kindergeldmerkblatt genannten besonderen Voraussetzungen erfüllen.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -832,8 +832,8 @@
       "y2": 558
     },
     {
-      "align": "left",
-      "content": "Entsprechende Nachweise (z.B. \u00fcber die Schul- oder Berufsausbildung) sind beizuf\u00fcgen.",
+      "align": "start",
+      "content": "Entsprechende Nachweise (z.B. über die Schul- oder Berufsausbildung) sind beizufügen.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -842,8 +842,8 @@
       "y2": 611
     },
     {
-      "align": "left",
-      "content": "Ist Ihr Kind behindert, f\u00fcllen Sie bitte zus\u00e4tzlich den Vordruck \u201eAnlage f\u00fcr das vollj\u00e4hrige behinderte Kind\u201c aus. Bei angenommenen Kindern bitte den Annahmebeschluss des Familiengerichts beif\u00fcgen.",
+      "align": "start",
+      "content": "Ist Ihr Kind behindert, füllen Sie bitte zusätzlich den Vordruck „Anlage für das volljährige behinderte Kind“ aus. Bei angenommenen Kindern bitte den Annahmebeschluss des Familiengerichts beifügen.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -852,8 +852,8 @@
       "y2": 630
     },
     {
-      "align": "left",
-      "content": "\u201eAndere Personen\u201c, zu denen ein Kindschaftsverh\u00e4ltnis besteht, sind: Eltern, Stiefeltern, Adoptiveltern, Pflegeeltern, Gro\u00dfeltern.",
+      "align": "start",
+      "content": "„Andere Personen“, zu denen ein Kindschaftsverhältnis besteht, sind: Eltern, Stiefeltern, Adoptiveltern, Pflegeeltern, Großeltern.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -862,7 +862,7 @@
       "y2": 659
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Zu 1: Angaben zum Kind",
       "page": 2,
       "structure": "",
@@ -872,8 +872,8 @@
       "y2": 710
     },
     {
-      "align": "left",
-      "content": "Wenn Kinder au\u00dferhalb Ihres Haushalts leben, geben Sie den Grund an (z.B. Unterbringung bei Gro\u00dfeltern / in einer Pflegestelle/ in einem Heim, wegen Schul- oder Berufsausbildung).",
+      "align": "start",
+      "content": "Wenn Kinder außerhalb Ihres Haushalts leben, geben Sie den Grund an (z.B. Unterbringung bei Großeltern / in einer Pflegestelle/ in einem Heim, wegen Schul- oder Berufsausbildung).",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -882,8 +882,8 @@
       "y2": 728
     },
     {
-      "align": "left",
-      "content": "Zu 2: Kindschaftsverh\u00e4ltnis zur antragstellenden Person, zum Ehegatten bzw. Lebenspartner und zu anderen Personen",
+      "align": "start",
+      "content": "Zu 2: Kindschaftsverhältnis zur antragstellenden Person, zum Ehegatten bzw. Lebenspartner und zu anderen Personen",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -892,8 +892,8 @@
       "y2": 785
     },
     {
-      "align": "left",
-      "content": "Die Eintragung der hier abgefragten Angaben ist in jedem Fall erforderlich. Wenn der andere Elternteil / die Eltern des Kindes verstorben sind, ist dies durch den Zusatz \u201everstorben\u201c anzugeben. Ist f\u00fcr ein Kind die Vaterschaft nicht rechtswirksam festgestellt worden, ist \u201eunbekannt\u201c bzw. \u201eVaterschaft nicht festgestellt\u201c einzutragen.",
+      "align": "start",
+      "content": "Die Eintragung der hier abgefragten Angaben ist in jedem Fall erforderlich. Wenn der andere Elternteil / die Eltern des Kindes verstorben sind, ist dies durch den Zusatz „verstorben“ anzugeben. Ist für ein Kind die Vaterschaft nicht rechtswirksam festgestellt worden, ist „unbekannt“ bzw. „Vaterschaft nicht festgestellt“ einzutragen.",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -902,8 +902,8 @@
       "y2": 812
     },
     {
-      "align": "left",
-      "content": "Zu 3: Angaben f\u00fcr ein vollj\u00e4hriges Kind",
+      "align": "start",
+      "content": "Zu 3: Angaben für ein volljähriges Kind",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -912,7 +912,7 @@
       "y2": 37
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Besondere Anspruchsvoraussetzungen",
       "page": 3,
       "structure": "",
@@ -922,8 +922,8 @@
       "y2": 63
     },
     {
-      "align": "left",
-      "content": "Die Ber\u00fccksichtigung eines vollj\u00e4hrigen Kindes ist m\u00f6glich, wenn es",
+      "align": "start",
+      "content": "Die Berücksichtigung eines volljährigen Kindes ist möglich, wenn es",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -932,8 +932,8 @@
       "y2": 80
     },
     {
-      "align": "left",
-      "content": "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Besch\u00e4ftigungsverh\u00e4ltnis steht und bei einer Agentur f\u00fcr Arbeit im Inland als Arbeitsuchender gemeldet ist oder",
+      "align": "start",
+      "content": "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -942,7 +942,7 @@
       "y2": 96
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "2. noch nicht das 25. Lebensjahr vollendet hat und",
       "page": 3,
       "structure": "",
@@ -952,8 +952,8 @@
       "y2": 124
     },
     {
-      "align": "left",
-      "content": "a) f\u00fcr einen Beruf ausgebildet wird oder",
+      "align": "start",
+      "content": "a) für einen Beruf ausgebildet wird oder",
       "page": 3,
       "structure": "",
       "x1": 11,
@@ -962,8 +962,8 @@
       "y2": 142
     },
     {
-      "align": "left",
-      "content": "b) sich in einer \u00dcbergangszeit von h\u00f6chstens vier Monaten befindet oder",
+      "align": "start",
+      "content": "b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder",
       "page": 3,
       "structure": "",
       "x1": 11,
@@ -972,7 +972,7 @@
       "y2": 161
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder",
       "page": 3,
       "structure": "",
@@ -982,7 +982,7 @@
       "y2": 178
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "d) einen geregelten Freiwilligendienst leistet oder",
       "page": 3,
       "structure": "",
@@ -992,8 +992,8 @@
       "y2": 195
     },
     {
-      "align": "left",
-      "content": "wegen k\u00f6rperlicher, geistiger oder seelischer Behinderung au\u00dferstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze).",
+      "align": "start",
+      "content": "wegen körperlicher, geistiger oder seelischer Behinderung außerstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze).",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1002,7 +1002,7 @@
       "y2": 211
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Rechtslage ab 2012",
       "page": 3,
       "structure": "",
@@ -1012,8 +1012,8 @@
       "y2": 247
     },
     {
-      "align": "left",
-      "content": "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den F\u00e4llen der Nummer 2 (a bis d) nur ber\u00fccksichtigt, wenn das Kind keiner (sch\u00e4dlichen) Erwerbst\u00e4tigkeit nachgeht. Eine Ausbildung (Berufsausbildung oder Studium) ist abgeschlossen, wenn sie zur Aus\u00fcbung eines Berufs bef\u00e4higt, auch wenn sich daran eine darauf aufbauende weitere Ausbildung anschlie\u00dft. Dies gilt auch, wenn der Abschluss noch nicht zur Aus\u00fcbung des angestrebten Berufsziels berechtigt (z.B. Verk\u00e4ufer, Rettungssanit\u00e4ter, Lehrer oder Juristen nach Bestehen des 1. Staatsexamens).",
+      "align": "start",
+      "content": "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den Fällen der Nummer 2 (a bis d) nur berücksichtigt, wenn das Kind keiner (schädlichen) Erwerbstätigkeit nachgeht. Eine Ausbildung (Berufsausbildung oder Studium) ist abgeschlossen, wenn sie zur Ausübung eines Berufs befähigt, auch wenn sich daran eine darauf aufbauende weitere Ausbildung anschließt. Dies gilt auch, wenn der Abschluss noch nicht zur Ausübung des angestrebten Berufsziels berechtigt (z.B. Verkäufer, Rettungssanitäter, Lehrer oder Juristen nach Bestehen des 1. Staatsexamens).",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1022,8 +1022,8 @@
       "y2": 262
     },
     {
-      "align": "left",
-      "content": "Ein Kind ist erwerbst\u00e4tig, wenn es einer auf die Erzielung von Eink\u00fcnften gerichteten Besch\u00e4ftigung nachgeht, die den Einsatz seiner pers\u00f6nlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff \u201eErwerbst\u00e4tigkeit\u201c durch eine nichtselbst\u00e4ndige T\u00e4tigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbst\u00e4ndige T\u00e4tigkeit erf\u00fcllt werden kann. Die Verwaltung eigenen Verm\u00f6gens ist demgegen\u00fcber keine Erwerbst\u00e4tigkeit.",
+      "align": "start",
+      "content": "Ein Kind ist erwerbstätig, wenn es einer auf die Erzielung von Einkünften gerichteten Beschäftigung nachgeht, die den Einsatz seiner persönlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff „Erwerbstätigkeit“ durch eine nichtselbständige Tätigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbständige Tätigkeit erfüllt werden kann. Die Verwaltung eigenen Vermögens ist demgegenüber keine Erwerbstätigkeit.",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1032,8 +1032,8 @@
       "y2": 333
     },
     {
-      "align": "left",
-      "content": "Bitte weisen Sie die w\u00f6chentliche Arbeitszeit anhand geeigneter Unterlagen (z.B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierf\u00fcr durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit o.\u00e4. mindern die vertraglich vereinbarte Arbeitszeit nicht.",
+      "align": "start",
+      "content": "Bitte weisen Sie die wöchentliche Arbeitszeit anhand geeigneter Unterlagen (z.B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierfür durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit o.ä. mindern die vertraglich vereinbarte Arbeitszeit nicht.",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1042,7 +1042,7 @@
       "y2": 381
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Rechtslage bis 2011",
       "page": 3,
       "structure": "",
@@ -1052,8 +1052,8 @@
       "y2": 445
     },
     {
-      "align": "left",
-      "content": "Die Ber\u00fccksichtigung eines \u00fcber 18 Jahre alten Kindes hinsichtlich der Zahlung von Kindergeld ist ausgeschlossen, wenn das Kind Eink\u00fcnfte und Bez\u00fcge von mehr als 8.004 Euro hat, die zur Bestreitung seines Unterhalts oder seiner Berufsausbildung bestimmt oder geeignet sind. Aus diesem Grund ist der Antrag auf Kindergeld f\u00fcr ein vollj\u00e4hriges Kind immer um die \u201eErkl\u00e4rung zu den Eink\u00fcnften und Bez\u00fcgen\u201c und ggf. die \u201eErkl\u00e4rung zu den Werbungskosten\u201c zu erg\u00e4nzen.",
+      "align": "start",
+      "content": "Die Berücksichtigung eines über 18 Jahre alten Kindes hinsichtlich der Zahlung von Kindergeld ist ausgeschlossen, wenn das Kind Einkünfte und Bezüge von mehr als 8.004 Euro hat, die zur Bestreitung seines Unterhalts oder seiner Berufsausbildung bestimmt oder geeignet sind. Aus diesem Grund ist der Antrag auf Kindergeld für ein volljähriges Kind immer um die „Erklärung zu den Einkünften und Bezügen“ und ggf. die „Erklärung zu den Werbungskosten“ zu ergänzen.",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1062,8 +1062,8 @@
       "y2": 461
     },
     {
-      "align": "left",
-      "content": "Zu 5: Anspruch auf eine Geldleistung von einer Stelle au\u00dferhalb Deutschlands / von einer zwischen- oder \u00fcberstaatlichen Stelle",
+      "align": "start",
+      "content": "Zu 5: Anspruch auf eine Geldleistung von einer Stelle außerhalb Deutschlands / von einer zwischen- oder überstaatlichen Stelle",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1072,8 +1072,8 @@
       "y2": 533
     },
     {
-      "align": "left",
-      "content": "Hier sind beispielsweise Anspr\u00fcche auf Familienleistungen f\u00fcr Kinder, die im Ausland bestehen oder Anspr\u00fcche auf kindbezogene Leistungen von einer Besch\u00e4ftigungsbeh\u00f6rde (z.B. der Europ\u00e4ischen Union) einzutragen.",
+      "align": "start",
+      "content": "Hier sind beispielsweise Ansprüche auf Familienleistungen für Kinder, die im Ausland bestehen oder Ansprüche auf kindbezogene Leistungen von einer Beschäftigungsbehörde (z.B. der Europäischen Union) einzutragen.",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1082,8 +1082,8 @@
       "y2": 560
     },
     {
-      "align": "left",
-      "content": "Zu 6: Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverh\u00e4ltnis steht, in den letzten 5 Jahren vor der Antragstellung: (...)",
+      "align": "start",
+      "content": "Zu 6: Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung: (...)",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1092,8 +1092,8 @@
       "y2": 607
     },
     {
-      "align": "left",
-      "content": "\u201eT\u00e4tigkeit im \u00f6ffentlichen Dienst\u201c bedeutet eine T\u00e4tigkeit als Beamter / Versorgungsempf\u00e4nger / (Tarif-)Besch\u00e4ftigte des Bundes, eines Landes, einer Gemeinde, eines Gemeindeverbandes oder einer sonstigen K\u00f6rperschaft, Anstalt oder Stiftung des \u00f6ffentlichen Rechts oder als Richter, Berufssoldat oder Soldat auf Zeit.",
+      "align": "start",
+      "content": "„Tätigkeit im öffentlichen Dienst“ bedeutet eine Tätigkeit als Beamter / Versorgungsempfänger / (Tarif-)Beschäftigte des Bundes, eines Landes, einer Gemeinde, eines Gemeindeverbandes oder einer sonstigen Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts oder als Richter, Berufssoldat oder Soldat auf Zeit.",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1102,8 +1102,8 @@
       "y2": 638
     },
     {
-      "align": "left",
-      "content": "Hierzu z\u00e4hlt auch die bei einem privaten Arbeitgeber ausge\u00fcbte T\u00e4tigkeit, soweit Angeh\u00f6rige des \u00f6ffentlichen Dienstes hierf\u00fcr beurlaubt worden sind. Nicht zum \u00f6ffentlichen Dienst z\u00e4hlen Religionsgemeinschaften des \u00f6ffentlichen Rechts (Kirchen einschl. der Ordensgemeinschaften, kirchlichen Krankenh\u00e4user, Schulen, Kinderg\u00e4rten u. \u00e4.) sowie die Spitzen-/ Mitgliedsverb\u00e4nde der freien Wohlfahrtspflege und die ihnen angeschlossenen Einrichtungen.",
+      "align": "start",
+      "content": "Hierzu zählt auch die bei einem privaten Arbeitgeber ausgeübte Tätigkeit, soweit Angehörige des öffentlichen Dienstes hierfür beurlaubt worden sind. Nicht zum öffentlichen Dienst zählen Religionsgemeinschaften des öffentlichen Rechts (Kirchen einschl. der Ordensgemeinschaften, kirchlichen Krankenhäuser, Schulen, Kindergärten u. ä.) sowie die Spitzen-/ Mitgliedsverbände der freien Wohlfahrtspflege und die ihnen angeschlossenen Einrichtungen.",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1112,8 +1112,8 @@
       "y2": 679
     },
     {
-      "align": "left",
-      "content": "Die Fragen 6b bzw. 6c sind auch dann mit \u201eja\u201c zu beantworten, wenn Sie, Ihr Ehegatte bzw. Lebenspartner oder eine andere Person, zu der eines der Kinder in einem Kindschaftsverh\u00e4ltnis steht, im diplomatischen oder konsularischen Dienst t\u00e4tig sind oder waren.",
+      "align": "start",
+      "content": "Die Fragen 6b bzw. 6c sind auch dann mit „ja“ zu beantworten, wenn Sie, Ihr Ehegatte bzw. Lebenspartner oder eine andere Person, zu der eines der Kinder in einem Kindschaftsverhältnis steht, im diplomatischen oder konsularischen Dienst tätig sind oder waren.",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1122,8 +1122,8 @@
       "y2": 739
     },
     {
-      "align": "left",
-      "content": "Ausf\u00fchrliche Informationen zum Kindergeld finden Sie im Internet unter",
+      "align": "start",
+      "content": "Ausführliche Informationen zum Kindergeld finden Sie im Internet unter",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1132,7 +1132,7 @@
       "y2": 780
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "bzw. unter",
       "page": 3,
       "structure": "",

@@ -15,6 +15,9 @@ body {
 .page:last-of-type {
 	page-break-after: auto;
 }
+.page-bg {
+	height: 900px;
+}
 .row {
 	position: absolute;
 }

@@ -32,7 +32,7 @@
 					data.rows = void 0;
 					data.selected = void 0;
 				}
-				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.png';
+				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.svg';
 				data.layer1 = !data.layer2;
 
 				self.update(data);

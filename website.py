@@ -248,7 +248,7 @@ def print_route(lang_id, form_id):
 
     page_n = max((row['page'] for row in forms[form_id]['rows']))
     pages = []
-    bg_template = 'static/forms/%s/bg-%i.png'
+    bg_template = 'static/forms/%s/bg-%i.svg'
     for i in range(page_n + 1):
         pages.append({
             'bg': os.path.exists(bg_template % (form_id, i)),

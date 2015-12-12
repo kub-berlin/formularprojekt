@@ -132,8 +132,8 @@
 				if (data.selected !== void 0) {
 					var container = self.querySelector('.canvas');
 					var page = self.querySelector('.page');
-					var x = Math.round(event.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft);
-					var y = Math.round(event.clientY - page.offsetTop - container.offsetTop + container.scrollTop);
+					var x = Math.round((event.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft) / data.zoom);
+					var y = Math.round((event.clientY - page.offsetTop - container.offsetTop + container.scrollTop) / data.zoom);
 
 					var row = data.rows[data.selected];
 					var get = rget(row);

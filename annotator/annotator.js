@@ -3,9 +3,60 @@
 
 	var registry = new muu.Registry();
 
+	var clone = function(obj) {
+		return JSON.parse(JSON.stringify(obj));
+	};
+
+	var History = function(length) {
+		var buffer = [];
+		var index = 0;
+		var start = 0;
+		var end = 0;
+
+		this.canBack = function() {
+			return index !== start;
+		};
+
+		this.canForward = function() {
+			return index !== end;
+		};
+
+		this.push = function(data) {
+			buffer[index] = data;
+			index = (index + 1) % length;
+			end = index;
+			if (start === end) {
+				start = (start + 1) % length;
+			}
+		};
+
+		this.back = function(data) {
+			if (this.canBack()) {
+				buffer[index] = data;
+				index = (index + length - 1) % length;
+				return buffer[index];
+			}
+		};
+
+		this.forward = function() {
+			if (this.canForward()) {
+				index = (index + 1) % length;
+				return buffer[index];
+			}
+		};
+
+		this.clear = function() {
+			buffer = [];
+			index = 0;
+			start = 0;
+			end = 0;
+		};
+	};
+
 	xhr.get('template.html').then(function(template) {
 		registry.registerDirective('forms', template, function(self) {
 			var data = {};
+			var history = new History(100);
 
 			var rget = function(row) {
 				return function(key) {
@@ -23,7 +74,7 @@
 				};
 			};
 
-			var update = function() {
+			var update = function(undoable) {
 				if (data.form) {
 					data.rows = data.form.rows.filter(function(row) {
 						return row.page === data.page;
@@ -35,6 +86,8 @@
 				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.svg';
 				data.layer1 = !data.layer2;
 				data.zoom = data.zoom || 1;
+				data.canUndo = history.canBack();
+				data.canRedo = history.canForward();
 
 				self.update(data);
 
@@ -130,6 +183,8 @@
 
 			self.on('canvas-click', function(event) {
 				if (data.selected !== void 0) {
+					history.push(clone(data.form));
+
 					var container = self.querySelector('.canvas');
 					var page = self.querySelector('.page');
 					var x = Math.round((event.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft) / data.zoom);
@@ -163,6 +218,8 @@
 
 			self.on('update-selected', function(event) {
 				if (data.selected !== void 0) {
+					history.push(clone(data.form));
+
 					var row = data.rows[data.selected];
 					var get = rget(row);
 					var set = rset(row);
@@ -181,6 +238,8 @@
 
 			self.on('update-selected-2', function(event) {
 				if (data.selected !== void 0) {
+					history.push(clone(data.form));
+
 					var row = data.rows[data.selected];
 					var get = rget(row);
 					var set = rset(row);
@@ -202,6 +261,7 @@
 
 				getForm(formId).then(function() {
 					data.page = 0;
+					history.clear();
 					update();
 				});
 			});
@@ -209,11 +269,13 @@
 			self.on('change-page', function(event) {
 				select();
 				data.page = parseInt(self.getModel('page'), 10) - 1;
+				history.clear();
 				update();
 			});
 
 			self.on('change-layer', function(event) {
 				data.layer2 = self.getModel('layer2');
+				history.clear();
 				update();
 			});
 
@@ -224,6 +286,7 @@
 
 			self.on('force-update', function(event) {
 				event.preventDefault();
+				history.push(clone(data.form));
 				var formId = self.getModel('formId');
 				select();
 				getForm(formId, true).then(update);
@@ -255,6 +318,28 @@
 				document.body.appendChild(download);
 				download.click();
 				document.body.removeChild(download);
+			});
+
+			self.on('undo', function(event) {
+				event.preventDefault();
+				if (history.canBack()) {
+					data.form = history.back(clone(data.form));
+					data.form.rows.forEach(function(row, key) {
+						row.selected = key === data.selected;
+					});
+					update();
+				}
+			});
+
+			self.on('redo', function(event) {
+				event.preventDefault();
+				if (history.canForward()) {
+					data.form = history.forward();
+					data.form.rows.forEach(function(row, key) {
+						row.selected = key === data.selected;
+					});
+					update();
+				}
 			});
 
 			data.formId = localStorage.getItem('formId');

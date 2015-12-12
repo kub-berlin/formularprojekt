@@ -79,7 +79,6 @@ a {
 .header .export,
 .header .force-update,
 .header .change-layer,
-.header .history,
 .header input[name=zoom],
 .header input[name=page],
 .header select[name=formId] {
@@ -94,11 +93,4 @@ a {
 }
 .header select[name=formId] {
 	width: 8em;
-}
-
-.history a {
-	color: grey;
-}
-.history a.enabled {
-	color: inherit;
 }

@@ -7,7 +7,7 @@ import os
 translations = {}
 forms = {}
 
-BASEPATH = 'data'
+BASEPATH = os.path.abspath('data')
 
 
 def normalize(s):

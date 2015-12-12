@@ -34,11 +34,13 @@
 				}
 				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.svg';
 				data.layer1 = !data.layer2;
+				data.zoom = data.zoom || 100;
 
 				self.update(data);
 
 				self.setModel('formId', data.formId);
 				self.setModel('page', data.page + 1);
+				self.setModel('zoom', data.zoom);
 
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];
@@ -212,6 +214,11 @@
 
 			self.on('change-layer', function(event) {
 				data.layer2 = self.getModel('layer2');
+				update();
+			});
+
+			self.on('change-zoom', function(event) {
+				data.zoom = self.getModel('zoom');
 				update();
 			});
 

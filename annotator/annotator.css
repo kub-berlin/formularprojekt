@@ -10,6 +10,7 @@
 .canvas {
 	position: fixed;
 	top: 3em;
+	top: 3rem;
 	bottom: 0;
 	left: 0;
 	right: 0;
@@ -78,10 +79,14 @@ a {
 .header .export,
 .header .force-update,
 .header .change-layer,
+.header input[name=zoom],
 .header input[name=page],
 .header select[name=formId] {
 	float: right;
 	margin: 1em;
+}
+.header input[name=zoom] {
+	width: 4em;
 }
 .header input[name=page] {
 	width: 4em;

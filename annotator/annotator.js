@@ -40,7 +40,7 @@
 
 				self.setModel('formId', data.formId);
 				self.setModel('page', data.page + 1);
-				self.setModel('zoom', data.zoom * 100);
+				self.setModel('zoom', Math.round(data.zoom * 100));
 
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];

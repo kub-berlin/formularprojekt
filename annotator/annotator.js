@@ -34,13 +34,13 @@
 				}
 				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.svg';
 				data.layer1 = !data.layer2;
-				data.zoom = data.zoom || 100;
+				data.zoom = data.zoom || 1;
 
 				self.update(data);
 
 				self.setModel('formId', data.formId);
 				self.setModel('page', data.page + 1);
-				self.setModel('zoom', data.zoom);
+				self.setModel('zoom', data.zoom * 100);
 
 				if (data.selected !== void 0) {
 					var row = data.rows[data.selected];
@@ -218,7 +218,7 @@
 			});
 
 			self.on('change-zoom', function(event) {
-				data.zoom = self.getModel('zoom');
+				data.zoom = self.getModel('zoom') / 100;
 				update();
 			});
 

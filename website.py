@@ -51,8 +51,9 @@ def load_data(top):
                 else:
                     if lang_id not in _translations:
                         _translations[lang_id] = {}
-                    with open(path) as fh:
-                        _translations[lang_id][form_id] = json.load(fh)
+                    if lang_id != 'de' or form_id == 'meta':
+                        with open(path) as fh:
+                            _translations[lang_id][form_id] = json.load(fh)
 
     for lang_id in _translations:
         stats[lang_id] = {}

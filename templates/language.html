@@ -6,6 +6,7 @@
 
 {{ 'about' | translate(lang_id, 'meta') | markdown}}
 
+{% if lang_id != 'de' %}
 <h2>{{ 'Übersetzte Dokumente' | translate(lang_id, 'meta') }}</h2>
 
 {% if any_translations %}
@@ -20,6 +21,7 @@
 </ul>
 {% else %}
 <p>{{ 'Bisher keine Übersetzungen in dieser Sprache.' | translate(lang_id, 'meta') }}</p>
+{% endif %}
 {% endif %}
 
 <footer class="language-footer">

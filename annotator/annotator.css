@@ -83,3 +83,9 @@ a {
 	float: right;
 	margin: 1em;
 }
+.header input[name=page] {
+	width: 4em;
+}
+.header select[name=formId] {
+	width: 8em;
+}

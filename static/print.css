@@ -11,6 +11,7 @@ body {
 	position: relative;
 	page-break-after: always;
 	margin: 0 auto 2em;
+	text-align: left;
 }
 .page:last-of-type {
 	page-break-after: auto;

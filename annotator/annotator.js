@@ -143,6 +143,12 @@
 						set('width', get('x2') - get('x1'));
 						set('size', get('y2') - get('y1'));
 					} else {
+						if (get('width') === 0) {
+							set('width', 100);
+						}
+						if (get('size') === 0) {
+							set('size', 10);
+						}
 						set('x1', x);
 						set('y1', y);
 						set('x2', get('x1') + get('width'));

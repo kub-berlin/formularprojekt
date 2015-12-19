@@ -1,0 +1,75 @@
+[main]
+host = https://www.transifex.com
+lang_map = de_x_simple: de-x-simple
+
+[formulare.meta]
+source_file = data/meta/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/meta/<lang>.json
+
+[formulare.KG]
+source_file = data/KG/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/KG/<lang>.json
+
+[formulare.KG1]
+source_file = data/KG1/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/KG1/<lang>.json
+
+[formulare.KG11a]
+source_file = data/KG11a/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/KG11a/<lang>.json
+
+[formulare.KG3a]
+source_file = data/KG3a/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/KG3a/<lang>.json
+
+[formulare.KG3b]
+source_file = data/KG3b/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/KG3b/<lang>.json
+
+[formulare.KG5]
+source_file = data/KG5/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/KG5/<lang>.json
+
+[formulare.KG5a]
+source_file = data/KG5a/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/KG5a/<lang>.json
+
+[formulare.KG5d]
+source_file = data/KG5d/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/KG5d/<lang>.json
+
+[formulare.Rundfunkbeitrag_Befreiung]
+source_file = data/Rundfunkbeitrag_Befreiung/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/Rundfunkbeitrag_Befreiung/<lang>.json
+
+[formulare.SozIIIB1]
+source_file = data/SozIIIB1/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/SozIIIB1/<lang>.json
+
+[formulare.SozIIIB1-2]
+source_file = data/SozIIIB1.2/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/SozIIIB1.2/<lang>.json

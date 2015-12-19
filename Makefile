@@ -24,4 +24,4 @@ data/%/de.json: data/%/form.json scripts/de.py
 
 .env:
 	virtualenv .env
-	. .env/bin/activate && pip install Flask Flask-Markdown Frozen-Flask colorama
+	. .env/bin/activate && pip install Flask Flask-Markdown Frozen-Flask colorama transifex-client

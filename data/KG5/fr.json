@@ -1,16 +1,21 @@
 {
   "(Unterschrift des Kindes)": "(Signature de l'enfant)",
+  "Art der Leistung": "Type de prestations",
   "Familienstand:": "Situation de famille :",
+  "Geburtsdatum": "date de naissance",
   "Kindergeld-Nr.": "N° d'allocataire",
   "Name und Vorname des/der Kindergeldberechtigten": "Nom et prénom du(des) bénéficiaire(s) des prestations pour enfant",
   "Ort und Datum": "Lieu et date",
   "Steuer-ID": "Numéro fiscal",
   "Telefonische Rückfrage tagsüber unter Nr.:": "Pour toute question, téléphonez pendant la journée au :",
+  "Vorname": "Prénom",
   "dauernd getrennt lebend": "durablement séparé(e)",
+  "eingetragene Lebenspartnerschaft": "partenariat enregistré",
   "geschieden": "divorcé(e)",
   "ja": "oui",
   "ledig": "célibataire",
   "nein": "non",
+  "seit": "depuis",
   "verheiratet": "marié(e)",
   "verwitwet": "veuf(ve)"
 }

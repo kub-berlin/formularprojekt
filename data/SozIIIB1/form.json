@@ -1453,7 +1453,7 @@
     },
     {
       "align": "left",
-      "content": "Kann es/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
+      "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -1483,7 +1483,7 @@
     },
     {
       "align": "left",
-      "content": "Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor?\n\n(EU-Rente)",
+      "content": "Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor? (EU-Rente)",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -4283,7 +4283,7 @@
     },
     {
       "align": "left",
-      "content": "Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit",
+      "content": "Entfernung zwischen Wohnung und Arbeitsstelle und Fahrkosten zur Arbeitsstelle mit",
       "page": 7,
       "structure": "",
       "x1": 0,
@@ -5003,7 +5003,7 @@
     },
     {
       "align": "left",
-      "content": "Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten ",
+      "content": "Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten",
       "page": 8,
       "structure": "",
       "x1": 0,

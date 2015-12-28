@@ -1,6 +1,9 @@
 {
+  "Geburtsdatum": "date de naissance",
+  "Geschlecht": "Sexe",
   "Kindergeld-Nr.": "N° d'allocataire",
   "Staatsangehörigkeit": "Nationalité",
+  "Vorname": "Prénom",
   "geboren am": "Né(e) le",
   "ja": "oui",
   "nein": "non"

@@ -1,11 +1,7 @@
 {
-    "Datum": "Datum",
     "Familienstand": "Stan cywilny",
     "Geburtsdatum": "Data urodzenia",
-    "Kindergeld-Nr.": "Kindergeld-Nr.",
     "Name": "Nazwisko",
-    "Name, Vorname": "Name, Vorname",
-    "Titel": "Titel",
     "Vorname": "Imię",
     "seit": "od"
 }

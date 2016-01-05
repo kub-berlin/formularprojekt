@@ -1,12 +1,6 @@
 {
     "Familienstand": "Stan cywilny",
     "Geburtsdatum": "Data urodzenia",
-    "Geschäftszeichen": "Geschäftszeichen",
-    "Ja": "Ja",
-    "Nein": "Nein",
     "Vorname": "Imię",
-    "ausgestellt am": "ausgestellt am",
-    "gültig bis": "gültig bis",
-    "seit": "od",
-    "von (Dienststelle)": "von (Dienststelle)"
+    "seit": "od"
 }

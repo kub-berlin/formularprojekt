@@ -1,4 +1,12 @@
 {
-  "ja": "Tak",
-  "nein": "Nie"
+    "(Datum)": "(Datum)",
+    "Familienstand:": "Familienstand:",
+    "Kindergeld-Nr.": "Kindergeld-Nr.",
+    "Name und Vorname des Kindes": "Name und Vorname des Kindes",
+    "Name und Vorname des/der Kindergeldberechtigten": "Name und Vorname des/der Kindergeldberechtigten",
+    "Steuer-ID": "Steuer-ID",
+    "Telefonische Rückfrage tagsüber unter Nr.:": "Telefonische Rückfrage tagsüber unter Nr.:",
+    "geboren am": "geboren am",
+    "ja": "Tak",
+    "nein": "Nie"
 }

@@ -1,10 +1,10 @@
 {
-  "Aktenzeichen": "Numéro de dossier",
-  "Anschrift": "Adresse",
-  "Art": "nature",
-  "Geburtsdatum": "date de naissance",
-  "Geschäftszeichen": "référence",
-  "Grund": "Raison",
-  "Ja": "Oui",
-  "Nein": "Non"
+    "Aktenzeichen": "Numéro de dossier",
+    "Anschrift": "Adresse",
+    "Art": "nature",
+    "Geburtsdatum": "date de naissance",
+    "Geschäftszeichen": "référence",
+    "Grund": "Raison",
+    "Ja": "Oui",
+    "Nein": "Non"
 }

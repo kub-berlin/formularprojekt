@@ -1,7 +1,12 @@
 {
-  "Geburtsdatum": "Data urodzenia",
-  "Name": "Nazwisko",
-  "Vorname": "Imię",
-  "nein": "Nie",
-  "seit": "od"
+    "Datum": "Datum",
+    "Familienstand:": "Familienstand:",
+    "Geburtsdatum": "Data urodzenia",
+    "Kindergeld-Nr.": "Kindergeld-Nr.",
+    "Name": "Nazwisko",
+    "Name und Vorname des/der Kindergeldberechtigten": "Name und Vorname des/der Kindergeldberechtigten",
+    "Telefonische Rückfrage tagsüber unter Nr.:": "Telefonische Rückfrage tagsüber unter Nr.:",
+    "Vorname": "Imię",
+    "nein": "Nie",
+    "seit": "od"
 }

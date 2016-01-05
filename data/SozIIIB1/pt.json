@@ -1,15 +1,15 @@
 {
-  "BIC": "BIC",
-  "Familienstand": "Estado civil",
-  "Geburtsdatum": "Data de nascimento",
-  "Geschlecht": "Sexo",
-  "IBAN": "IBAN",
-  "Staatsangehörigkeit": "Nacionalidade",
-  "Vorname": "Nome(s)",
-  "dauernd getrennt lebend": "separada/o de facto",
-  "geschieden": "divorciada/o",
-  "ledig": "solteira/o",
-  "seit": "desde",
-  "verheiratet": "casada/o",
-  "verwitwet": "viúva/o"
+    "BIC": "BIC",
+    "Familienstand": "Estado civil",
+    "Geburtsdatum": "Data de nascimento",
+    "Geschlecht": "Sexo",
+    "IBAN": "IBAN",
+    "Staatsangehörigkeit": "Nacionalidade",
+    "Vorname": "Nome(s)",
+    "dauernd getrennt lebend": "separada/o de facto",
+    "geschieden": "divorciada/o",
+    "ledig": "solteira/o",
+    "seit": "desde",
+    "verheiratet": "casada/o",
+    "verwitwet": "viúva/o"
 }

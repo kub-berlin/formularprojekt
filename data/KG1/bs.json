@@ -1,8 +1,10 @@
 {
-  "Anlage Kind": "Predmet Dete",
-  "Geburtsdatum": "Datum rođenja",
-  "Geschlecht": "Pol",
-  "Name, Vorname": "Ime, prezime",
-  "Vorname": "Prezime",
-  "ggf. abweichender Familienname": "evtl. odstupajuće prezime"
+    "Anlage Kind": "Predmet Dete",
+    "Geburtsdatum": "Datum rođenja",
+    "Geschlecht": "Pol",
+    "Kindergeld-Nr.": "Kindergeld-Nr.",
+    "Name, Vorname": "Ime, prezime",
+    "Vorname": "Prezime",
+    "geboren am": "geboren am",
+    "ggf. abweichender Familienname": "evtl. odstupajuće prezime"
 }

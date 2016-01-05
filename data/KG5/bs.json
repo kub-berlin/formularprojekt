@@ -1,5 +1,11 @@
 {
-  "Geburtsdatum": "Datum rođenja",
-  "Name": "Ime",
-  "Vorname": "Prezime"
+    "Familienstand:": "Familienstand:",
+    "Geburtsdatum": "Datum rođenja",
+    "Kindergeld-Nr.": "Kindergeld-Nr.",
+    "Name": "Ime",
+    "Name und Vorname des/der Kindergeldberechtigten": "Name und Vorname des/der Kindergeldberechtigten",
+    "Ort und Datum": "Ort und Datum",
+    "Steuer-ID": "Steuer-ID",
+    "Telefonische Rückfrage tagsüber unter Nr.:": "Telefonische Rückfrage tagsüber unter Nr.:",
+    "Vorname": "Prezime"
 }

@@ -1,6 +1,6 @@
 {
-  "Anschrift": "Address",
-  "Geburtsdatum": "Date of birth",
-  "Ja": "Yes",
-  "Name, Vorname": "Surname, first name"
+    "Anschrift": "Address",
+    "Geburtsdatum": "Date of birth",
+    "Ja": "Yes",
+    "Name, Vorname": "Surname, first name"
 }

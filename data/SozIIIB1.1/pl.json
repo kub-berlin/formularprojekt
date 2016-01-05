@@ -1,3 +1,8 @@
 {
-  "Geburtsdatum": "Data urodzenia"
+    "Geburtsdatum": "Data urodzenia",
+    "Geschäftszeichen": "Geschäftszeichen",
+    "Ja": "Ja",
+    "Name, Vorname": "Name, Vorname",
+    "Nein": "Nein",
+    "Zum Antrag vom": "Zum Antrag vom"
 }

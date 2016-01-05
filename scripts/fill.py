@@ -62,7 +62,7 @@ for form_id, form in forms.items():
         if data:
             path = os.path.join(BASEPATH, form_id, lang_id + '.json')
             with open(path, 'wb') as fh:
-                s = json.dumps(data, indent=2, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
+                s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
                 fh.write(s.encode('utf8'))
 
 
@@ -77,5 +77,5 @@ for form_id, form in forms.items():
 #            row['content'] = normalize(row['content'])
 #
 #     with open(path, 'w') as fh:
-#         s = json.dumps(data, indent=2, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
+#         s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
 #         fh.write(s.encode('utf8'))

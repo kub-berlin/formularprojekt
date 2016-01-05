@@ -11,4 +11,4 @@ if __name__ == '__main__':
     odata = {f(row): f(row) for row in data['rows'] if row['content']}
 
     with open(sys.argv[2], 'w') as fh:
-        json.dump(odata, fh, indent=2, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
+        json.dump(odata, fh, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)

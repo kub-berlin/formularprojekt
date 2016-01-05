@@ -19,7 +19,7 @@ def csv2json(fh):
         key = row[0].decode('utf8')
         value = row[1].decode('utf8')
         data[key] = value
-    s = json.dumps(data, indent=2, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
+    s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
     print(s.encode('utf8'))
 
 

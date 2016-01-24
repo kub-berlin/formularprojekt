@@ -1,0 +1,15 @@
+{
+    "BIC": "BIC (die Nummer finden Sie auf Ihrer EC-Karte)",
+    "Familienstand": "Familienstand",
+    "Geburtsdatum": "Geburtsdatum (Wann ist die Person geboren?)",
+    "Geschlecht": "Geschlecht",
+    "IBAN": "IBAN (die Nummer finden Sie auf Ihrer EC-Karte)",
+    "Staatsangehörigkeit": "Staatsangehörigkeit (Von welchem Land hat die Person einen Pass?)",
+    "Vorname": "Vorname",
+    "dauernd getrennt lebend": "Sie sind verheiratet, aber Sie leben nicht zusammen",
+    "geschieden": "geschieden",
+    "ledig": "ledig (Die Person ist nicht verheiratet und nicht geschieden)",
+    "seit": "seit",
+    "verheiratet": "verheiratet",
+    "verwitwet": "verwitwet (Ihr_e Partner_in ist gestorben)"
+}

@@ -1,0 +1,11 @@
+{
+    "Geburtsdatum": "Geburtsdatum (Wann ist die Person geboren?)",
+    "Vorname": "Vorname",
+    "bis": "bis",
+    "dauernd getrennt lebend": "Sie sind verheiratet, aber Sie leben nicht zusammen",
+    "geschieden": "geschieden",
+    "ledig": "ledig (Die Person ist nicht verheiratet und nicht geschieden)",
+    "seit": "seit",
+    "verheiratet": "verheiratet",
+    "verwitwet": "verwitwet (Ihr_e Partner_in ist gestorben)"
+}

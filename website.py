@@ -309,6 +309,7 @@ def register_annotator_files():
     yield '/annotator/template.html'
     yield '/annotator/bower_components/muu/dist/muu.min.js'
     yield '/annotator/bower_components/promise-xhr/promise-xhr.js'
+    yield '/annotator/bower_components/markdown-it/dist/markdown-it.min.js'
 
     for form_id in forms:
         for filename in os.listdir(os.path.join('data', form_id)):

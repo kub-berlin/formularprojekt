@@ -1,4 +1,4 @@
-(function(xhr, muu) {
+(function(xhr, muu, markdown) {
 	'use strict';
 
 	var registry = new muu.Registry();
@@ -283,8 +283,23 @@
 			});
 		});
 
+		registry.registerDirective('markdown', '', function(self, element) {
+			var oldValue = null;
+
+			var update = function() {
+				var value = element.dataset.value;
+				if (value !== oldValue) {
+					oldValue = value;
+					element.innerHTML = markdown.render(value);
+				}
+			};
+
+			self.on('parent-update', update);
+			update();
+		});
+
 		muu.$.ready(function() {
 			registry.linkAll(document);
 		});
 	});
-})(PromiseXHR, muu);
+})(PromiseXHR, muu, new markdownit());

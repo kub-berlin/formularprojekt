@@ -1,5 +1,10 @@
 {
     "Datum": "Fecha",
+    "Geschäftszeichen": "referencia",
     "Ja": "Sí",
-    "Name, Vorname": "Apellidos, Nombre"
+    "Name, Vorname": "Apellidos, Nombre",
+    "Nein": "No",
+    "ausgestellt am": "expedido el",
+    "gültig bis": "válido hasta",
+    "von (Dienststelle)": "de (autoridad)"
 }

@@ -1,6 +1,10 @@
 {
     "Anschrift": "Dirección",
+    "Art": "tipo",
     "Geburtsdatum": "Fecha de nacimiento",
+    "Geschäftszeichen": "referencia",
+    "Grund": "superficie",
     "Ja": "Sí",
-    "Name, Vorname": "Apellidos, Nombre"
+    "Name, Vorname": "Apellidos, Nombre",
+    "Nein": "No"
 }

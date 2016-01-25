@@ -1,6 +1,10 @@
 {
     "Anschrift": "Адрес",
+    "Art": "вид",
     "Geburtsdatum": "Дата рождения",
+    "Geschäftszeichen": "номер документа",
+    "Grund": "земля",
     "Ja": "да",
-    "Name, Vorname": "Фамилия, имя"
+    "Name, Vorname": "Фамилия, имя",
+    "Nein": "нет"
 }

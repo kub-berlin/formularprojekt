@@ -1,5 +1,10 @@
 {
     "Datum": "Дата",
+    "Geschäftszeichen": "номер документа",
     "Ja": "да",
-    "Name, Vorname": "Фамилия, имя"
+    "Name, Vorname": "Фамилия, имя",
+    "Nein": "нет",
+    "ausgestellt am": "дата выдачи",
+    "gültig bis": "действителен до",
+    "von (Dienststelle)": "от (учреждения)"
 }

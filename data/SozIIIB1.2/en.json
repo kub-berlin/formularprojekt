@@ -1,5 +1,4 @@
 {
-    "- unbefristet -": "- no time limit -",
     "Andere Aufenthaltserlaubnis i.S. des AufenthG": "Other type of residence permit under German Residence Law (AufenthG)",
     "Anlage 2 - Ausländer -": "Annex 2 - Foreign citizen -",
     "Asyl": "Asylum",
@@ -9,5 +8,6 @@
     "Aussetzung der Abschiebung (Duldung)": "Suspended deportation (Duldung)",
     "Datum": "Date",
     "Ja": "Yes",
-    "Name, Vorname": "Surname, first name"
+    "Name, Vorname": "Surname, first name",
+    "\\- unbefristet -": "\\- no time limit -"
 }

@@ -6,8 +6,8 @@
       "content": "Bezirksamt",
       "page": 0,
       "structure": "",
-      "x1": 44,
-      "x2": 135,
+      "x1": 49,
+      "x2": 334,
       "y1": 0,
       "y2": 13
     },
@@ -136,8 +136,8 @@
       "content": "Geschäftsbereich",
       "page": 0,
       "structure": "",
-      "x1": 44,
-      "x2": 171,
+      "x1": 49,
+      "x2": 182,
       "y1": 14,
       "y2": 27
     },
@@ -146,20 +146,20 @@
       "content": "Sozialwesen",
       "page": 0,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 199,
+      "x2": 337,
+      "y1": 14,
+      "y2": 27
     },
     {
       "align": "left",
       "content": "Landesamt für Gesundheit und Soziales Berlin - ZLA -",
       "page": 0,
       "structure": "",
-      "x1": 44,
-      "x2": 271,
-      "y1": 26,
-      "y2": 37
+      "x1": 49,
+      "x2": 338,
+      "y1": 28,
+      "y2": 39
     },
     {
       "align": "left",
@@ -177,7 +177,7 @@
       "page": 0,
       "structure": "",
       "x1": 33,
-      "x2": 133,
+      "x2": 153,
       "y1": 60,
       "y2": 79
     },
@@ -187,7 +187,7 @@
       "page": 0,
       "structure": "",
       "x1": 175,
-      "x2": 317,
+      "x2": 336,
       "y1": 59,
       "y2": 72
     },
@@ -197,7 +197,7 @@
       "page": 0,
       "structure": "",
       "x1": 175,
-      "x2": 328,
+      "x2": 337,
       "y1": 85,
       "y2": 98
     },
@@ -217,9 +217,9 @@
       "page": 0,
       "structure": "",
       "x1": 415,
-      "x2": 627,
+      "x2": 629,
       "y1": 59,
-      "y2": 70
+      "y2": 69
     },
     {
       "align": "left",
@@ -227,7 +227,7 @@
       "page": 0,
       "structure": "",
       "x1": 33,
-      "x2": 133,
+      "x2": 337,
       "y1": 121,
       "y2": 133
     },
@@ -237,7 +237,7 @@
       "page": 0,
       "structure": "",
       "x1": 49,
-      "x2": 207,
+      "x2": 338,
       "y1": 133,
       "y2": 145
     },
@@ -247,7 +247,7 @@
       "page": 0,
       "structure": "",
       "x1": 49,
-      "x2": 225,
+      "x2": 337,
       "y1": 146,
       "y2": 158
     },
@@ -257,7 +257,7 @@
       "page": 0,
       "structure": "I.",
       "x1": 33,
-      "x2": 239,
+      "x2": 338,
       "y1": 163,
       "y2": 176
     },
@@ -267,7 +267,7 @@
       "page": 0,
       "structure": "I.",
       "x1": 342,
-      "x2": 635,
+      "x2": 629,
       "y1": 163,
       "y2": 176
     },
@@ -277,7 +277,7 @@
       "page": 0,
       "structure": "",
       "x1": 33,
-      "x2": 225,
+      "x2": 337,
       "y1": 184,
       "y2": 194
     },
@@ -297,7 +297,7 @@
       "page": 0,
       "structure": "",
       "x1": 101,
-      "x2": 201,
+      "x2": 269,
       "y1": 217,
       "y2": 227
     },
@@ -307,7 +307,7 @@
       "page": 0,
       "structure": "",
       "x1": 289,
-      "x2": 325,
+      "x2": 337,
       "y1": 221,
       "y2": 231
     },
@@ -317,7 +317,7 @@
       "page": 0,
       "structure": "",
       "x1": 289,
-      "x2": 334,
+      "x2": 337,
       "y1": 234,
       "y2": 244
     },
@@ -327,7 +327,7 @@
       "page": 0,
       "structure": "",
       "x1": 357,
-      "x2": 505,
+      "x2": 509,
       "y1": 180,
       "y2": 193
     },
@@ -337,7 +337,7 @@
       "page": 0,
       "structure": "",
       "x1": 513,
-      "x2": 613,
+      "x2": 629,
       "y1": 183,
       "y2": 194
     },
@@ -347,7 +347,7 @@
       "page": 0,
       "structure": "",
       "x1": 357,
-      "x2": 507,
+      "x2": 510,
       "y1": 215,
       "y2": 228
     },
@@ -357,7 +357,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 148,
+      "x2": 221,
       "y1": 265,
       "y2": 275
     },
@@ -377,7 +377,7 @@
       "page": 0,
       "structure": "",
       "x1": 344,
-      "x2": 515,
+      "x2": 630,
       "y1": 258,
       "y2": 268
     },
@@ -387,7 +387,7 @@
       "page": 0,
       "structure": "",
       "x1": 33,
-      "x2": 110,
+      "x2": 125,
       "y1": 297,
       "y2": 307
     },
@@ -397,7 +397,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 121,
+      "x2": 126,
       "y1": 309,
       "y2": 319
     },
@@ -407,7 +407,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 125,
+      "x2": 126,
       "y1": 321,
       "y2": 331
     },
@@ -437,7 +437,7 @@
       "page": 0,
       "structure": "",
       "x1": 147,
-      "x2": 220,
+      "x2": 204,
       "y1": 315,
       "y2": 325
     },
@@ -447,7 +447,7 @@
       "page": 0,
       "structure": "",
       "x1": 148,
-      "x2": 248,
+      "x2": 205,
       "y1": 356,
       "y2": 366
     },
@@ -457,7 +457,7 @@
       "page": 0,
       "structure": "",
       "x1": 148,
-      "x2": 248,
+      "x2": 203,
       "y1": 369,
       "y2": 379
     },
@@ -467,7 +467,7 @@
       "page": 0,
       "structure": "",
       "x1": 230,
-      "x2": 269,
+      "x2": 272,
       "y1": 316,
       "y2": 326
     },
@@ -477,7 +477,7 @@
       "page": 0,
       "structure": "",
       "x1": 278,
-      "x2": 335,
+      "x2": 337,
       "y1": 301,
       "y2": 311
     },
@@ -487,7 +487,7 @@
       "page": 0,
       "structure": "",
       "x1": 341,
-      "x2": 408,
+      "x2": 411,
       "y1": 298,
       "y2": 308
     },
@@ -497,7 +497,7 @@
       "page": 0,
       "structure": "",
       "x1": 415,
-      "x2": 515,
+      "x2": 629,
       "y1": 298,
       "y2": 308
     },
@@ -507,7 +507,7 @@
       "page": 0,
       "structure": "",
       "x1": 33,
-      "x2": 133,
+      "x2": 255,
       "y1": 392,
       "y2": 402
     },
@@ -517,7 +517,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 103,
+      "x2": 115,
       "y1": 408,
       "y2": 418
     },
@@ -527,7 +527,7 @@
       "page": 0,
       "structure": "",
       "x1": 259,
-      "x2": 337,
+      "x2": 338,
       "y1": 392,
       "y2": 402
     },
@@ -537,7 +537,7 @@
       "page": 0,
       "structure": "",
       "x1": 344,
-      "x2": 444,
+      "x2": 557,
       "y1": 392,
       "y2": 402
     },
@@ -547,7 +547,7 @@
       "page": 0,
       "structure": "",
       "x1": 358,
-      "x2": 415,
+      "x2": 425,
       "y1": 408,
       "y2": 418
     },
@@ -577,7 +577,7 @@
       "page": 0,
       "structure": "",
       "x1": 406,
-      "x2": 541,
+      "x2": 558,
       "y1": 441,
       "y2": 451
     },
@@ -587,7 +587,7 @@
       "page": 0,
       "structure": "",
       "x1": 561,
-      "x2": 627,
+      "x2": 629,
       "y1": 441,
       "y2": 451
     },
@@ -607,7 +607,7 @@
       "page": 0,
       "structure": "",
       "x1": 98,
-      "x2": 240,
+      "x2": 254,
       "y1": 441,
       "y2": 451
     },
@@ -617,7 +617,7 @@
       "page": 0,
       "structure": "",
       "x1": 259,
-      "x2": 334,
+      "x2": 337,
       "y1": 441,
       "y2": 451
     },
@@ -627,7 +627,7 @@
       "page": 0,
       "structure": "",
       "x1": 49,
-      "x2": 203,
+      "x2": 338,
       "y1": 496,
       "y2": 506
     },
@@ -637,7 +637,7 @@
       "page": 0,
       "structure": "",
       "x1": 49,
-      "x2": 200,
+      "x2": 339,
       "y1": 512,
       "y2": 522
     },
@@ -657,7 +657,7 @@
       "page": 0,
       "structure": "",
       "x1": 98,
-      "x2": 221,
+      "x2": 255,
       "y1": 539,
       "y2": 549
     },
@@ -667,7 +667,7 @@
       "page": 0,
       "structure": "",
       "x1": 258,
-      "x2": 358,
+      "x2": 337,
       "y1": 539,
       "y2": 548
     },
@@ -677,7 +677,7 @@
       "page": 0,
       "structure": "",
       "x1": 359,
-      "x2": 573,
+      "x2": 629,
       "y1": 496,
       "y2": 506
     },
@@ -687,7 +687,7 @@
       "page": 0,
       "structure": "",
       "x1": 359,
-      "x2": 499,
+      "x2": 629,
       "y1": 512,
       "y2": 522
     },
@@ -707,7 +707,7 @@
       "page": 0,
       "structure": "",
       "x1": 393,
-      "x2": 493,
+      "x2": 549,
       "y1": 539,
       "y2": 549
     },
@@ -717,7 +717,7 @@
       "page": 0,
       "structure": "",
       "x1": 551,
-      "x2": 651,
+      "x2": 629,
       "y1": 539,
       "y2": 548
     },
@@ -727,7 +727,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 201,
+      "x2": 204,
       "y1": 572,
       "y2": 582
     },
@@ -737,7 +737,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 199,
+      "x2": 204,
       "y1": 601,
       "y2": 611
     },
@@ -767,7 +767,7 @@
       "page": 0,
       "structure": "",
       "x1": 358,
-      "x2": 501,
+      "x2": 504,
       "y1": 604,
       "y2": 614
     },
@@ -787,7 +787,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 223,
+      "x2": 225,
       "y1": 621,
       "y2": 631
     },
@@ -797,7 +797,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 217,
+      "x2": 230,
       "y1": 648,
       "y2": 658
     },
@@ -807,7 +807,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 231,
+      "x2": 230,
       "y1": 674,
       "y2": 684
     },
@@ -817,7 +817,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 231,
+      "x2": 230,
       "y1": 726,
       "y2": 736
     },
@@ -827,7 +827,7 @@
       "page": 0,
       "structure": "",
       "x1": 48,
-      "x2": 176,
+      "x2": 228,
       "y1": 805,
       "y2": 815
     },
@@ -867,7 +867,7 @@
       "page": 0,
       "structure": "",
       "x1": 358,
-      "x2": 492,
+      "x2": 541,
       "y1": 648,
       "y2": 658
     },
@@ -897,7 +897,7 @@
       "page": 0,
       "structure": "",
       "x1": 358,
-      "x2": 458,
+      "x2": 539,
       "y1": 805,
       "y2": 815
     },
@@ -927,7 +927,7 @@
       "page": 0,
       "structure": "",
       "x1": 33,
-      "x2": 133,
+      "x2": 163,
       "y1": 836,
       "y2": 848
     },
@@ -947,7 +947,7 @@
       "page": 0,
       "structure": "",
       "x1": 285,
-      "x2": 396,
+      "x2": 399,
       "y1": 836,
       "y2": 846
     },
@@ -957,7 +957,7 @@
       "page": 0,
       "structure": "",
       "x1": 175,
-      "x2": 275,
+      "x2": 291,
       "y1": 874,
       "y2": 884
     },
@@ -977,7 +977,7 @@
       "page": 0,
       "structure": "",
       "x1": 349,
-      "x2": 396,
+      "x2": 400,
       "y1": 874,
       "y2": 884
     },
@@ -997,7 +997,7 @@
       "page": 0,
       "structure": "",
       "x1": 512,
-      "x2": 612,
+      "x2": 628,
       "y1": 836,
       "y2": 846
     },
@@ -1007,7 +1007,7 @@
       "page": 0,
       "structure": "",
       "x1": 408,
-      "x2": 518,
+      "x2": 527,
       "y1": 874,
       "y2": 884
     },
@@ -1017,7 +1017,7 @@
       "page": 0,
       "structure": "",
       "x1": 543,
-      "x2": 565,
+      "x2": 567,
       "y1": 874,
       "y2": 884
     },
@@ -1027,7 +1027,7 @@
       "page": 0,
       "structure": "",
       "x1": 583,
-      "x2": 610,
+      "x2": 629,
       "y1": 874,
       "y2": 884
     },
@@ -1036,810 +1036,810 @@
       "content": "Sozialversicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 213,
+      "y1": 22,
+      "y2": 32
     },
     {
       "align": "left",
       "content": "keine (Begründung auf Seite 4 -XI-)",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 52,
+      "x2": 213,
+      "y1": 37,
+      "y2": 47
     },
     {
       "align": "left",
       "content": "Rentenversicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 52,
+      "x2": 213,
+      "y1": 68,
+      "y2": 78
     },
     {
       "align": "left",
       "content": "Pflegeversicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 52,
+      "x2": 213,
+      "y1": 85,
+      "y2": 95
     },
     {
       "align": "left",
       "content": "Krankenversichert bei",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 216,
+      "x2": 347,
+      "y1": 35,
+      "y2": 45
     },
     {
       "align": "left",
       "content": "Rentenversichert bei",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 216,
+      "x2": 346,
+      "y1": 72,
+      "y2": 82
     },
     {
       "align": "left",
       "content": "Rentenversicherungsnummer",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 216,
+      "x2": 347,
+      "y1": 106,
+      "y2": 116
     },
     {
       "align": "left",
       "content": "Krankenversicherung:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 346,
+      "y1": 144,
+      "y2": 154
     },
     {
       "align": "left",
       "content": "Pflichtversicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 52,
+      "x2": 346,
+      "y1": 158,
+      "y2": 168
     },
     {
       "align": "left",
       "content": "Freiwillige Versicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 52,
+      "x2": 346,
+      "y1": 178,
+      "y2": 188
     },
     {
       "align": "left",
       "content": "Familienversicherung *",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 52,
+      "x2": 345,
+      "y1": 198,
+      "y2": 208
     },
     {
       "align": "left",
       "content": "Private Versicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 52,
+      "x2": 345,
+      "y1": 218,
+      "y2": 228
     },
     {
       "align": "left",
       "content": "Betreuung der Krankenkassen nach § 264 SGB V",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 52,
+      "x2": 345,
+      "y1": 238,
+      "y2": 248
     },
     {
       "align": "left",
       "content": "Sozialversicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 351,
+      "x2": 526,
+      "y1": 22,
+      "y2": 32
     },
     {
       "align": "left",
       "content": "keine (Begründung auf Seite 4 -XI-)",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 527,
+      "y1": 37,
+      "y2": 47
     },
     {
       "align": "left",
       "content": "Rentenversicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 527,
+      "y1": 68,
+      "y2": 78
     },
     {
       "align": "left",
       "content": "Pflegeversicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 527,
+      "y1": 86,
+      "y2": 96
     },
     {
       "align": "left",
       "content": "Krankenversichert bei",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 531,
+      "x2": 659,
+      "y1": 36,
+      "y2": 46
     },
     {
       "align": "left",
       "content": "Rentenversichert bei",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 531,
+      "x2": 659,
+      "y1": 72,
+      "y2": 82
     },
     {
       "align": "left",
       "content": "Rentenversicherungsnummer",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 531,
+      "x2": 631,
+      "y1": 106,
+      "y2": 116
     },
     {
       "align": "left",
       "content": "Krankenversicherung:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 352,
+      "x2": 452,
+      "y1": 145,
+      "y2": 155
     },
     {
       "align": "left",
       "content": "Pflichtversicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 659,
+      "y1": 158,
+      "y2": 168
     },
     {
       "align": "left",
       "content": "Freiwillige Versicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 659,
+      "y1": 178,
+      "y2": 188
     },
     {
       "align": "left",
       "content": "Familienversicherung *",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 659,
+      "y1": 197,
+      "y2": 207
     },
     {
       "align": "left",
       "content": "Private Versicherung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 659,
+      "y1": 217,
+      "y2": 227
     },
     {
       "align": "left",
       "content": "Betreuung der Krankenkassen nach § 264 SGB V",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 659,
+      "y1": 238,
+      "y2": 248
     },
     {
       "align": "left",
       "content": "Umfang bzw. Ausschluss der Erwerbsfähigkeit",
       "page": 1,
       "structure": "II.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 656,
+      "y1": 261,
+      "y2": 274
     },
     {
       "align": "left",
       "content": "Personenziffer 1",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 250,
+      "x2": 447,
+      "y1": 283,
+      "y2": 293
     },
     {
       "align": "left",
       "content": "Personenziffer 2",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 455,
+      "x2": 664,
+      "y1": 283,
+      "y2": 293
     },
     {
       "align": "left",
       "content": "Sind Sie zurzeit erwerbstätig?",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 244,
+      "y1": 304,
+      "y2": 314
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 265,
+      "x2": 365,
+      "y1": 312,
+      "y2": 322
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 381,
+      "x2": 448,
+      "y1": 312,
+      "y2": 322
     },
     {
       "align": "left",
       "content": "Tätigkeit:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 249,
+      "x2": 449,
+      "y1": 338,
+      "y2": 348
     },
     {
       "align": "left",
       "content": "Arbeitgeber:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 249,
+      "x2": 449,
+      "y1": 367,
+      "y2": 377
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 469,
+      "x2": 569,
+      "y1": 312,
+      "y2": 322
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 586,
+      "x2": 666,
+      "y1": 312,
+      "y2": 322
     },
     {
       "align": "left",
       "content": "Tätigkeit:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 454,
+      "x2": 667,
+      "y1": 338,
+      "y2": 348
     },
     {
       "align": "left",
       "content": "Arbeitgeber:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 454,
+      "x2": 665,
+      "y1": 367,
+      "y2": 377
     },
     {
       "align": "left",
       "content": "Umfang der Erwerbsfähigkeit",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 244,
+      "y1": 396,
+      "y2": 406
     },
     {
       "align": "left",
       "content": "Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 249,
+      "x2": 449,
+      "y1": 394,
+      "y2": 404
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 264,
+      "x2": 449,
+      "y1": 474,
+      "y2": 484
     },
     {
       "align": "left",
       "content": "Nein, weil",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 264,
+      "x2": 364,
+      "y1": 502,
+      "y2": 512
     },
     {
       "align": "left",
       "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 453,
+      "x2": 667,
+      "y1": 394,
+      "y2": 404
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 468,
+      "x2": 666,
+      "y1": 474,
+      "y2": 484
     },
     {
       "align": "left",
       "content": "Nein, weil",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 468,
+      "x2": 667,
+      "y1": 501,
+      "y2": 511
     },
     {
       "align": "left",
       "content": "Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor? (EU-Rente)",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 243,
+      "y1": 526,
+      "y2": 536
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 264,
+      "x2": 447,
+      "y1": 528,
+      "y2": 538
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 264,
+      "x2": 318,
+      "y1": 546,
+      "y2": 556
     },
     {
       "align": "left",
       "content": "unbefristet:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 323,
+      "x2": 448,
+      "y1": 546,
+      "y2": 556
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 356,
+      "x2": 447,
+      "y1": 567,
+      "y2": 577
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 356,
+      "x2": 448,
+      "y1": 588,
+      "y2": 598
     },
     {
       "align": "left",
       "content": "für welchen Zeitraum?",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 249,
+      "x2": 448,
+      "y1": 610,
+      "y2": 620
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 468,
+      "x2": 666,
+      "y1": 528,
+      "y2": 538
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 470,
+      "x2": 515,
+      "y1": 549,
+      "y2": 559
     },
     {
       "align": "left",
       "content": "unbefristet:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 524,
+      "x2": 651,
+      "y1": 549,
+      "y2": 559
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 511,
+      "x2": 666,
+      "y1": 568,
+      "y2": 578
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 511,
+      "x2": 611,
+      "y1": 588,
+      "y2": 598
     },
     {
       "align": "left",
       "content": "für welchen Zeitraum?",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 454,
+      "x2": 666,
+      "y1": 610,
+      "y2": 620
     },
     {
       "align": "left",
       "content": "Sind Sie pflegebedürftig im Sinne des SGB XI Pflegeversicherungsgesetz?",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 244,
+      "y1": 631,
+      "y2": 641
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 264,
+      "x2": 448,
+      "y1": 635,
+      "y2": 645
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 264,
+      "x2": 306,
+      "y1": 656,
+      "y2": 666
     },
     {
       "align": "left",
       "content": "Stufe:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 335,
+      "x2": 448,
+      "y1": 656,
+      "y2": 666
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 469,
+      "x2": 667,
+      "y1": 635,
+      "y2": 645
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 471,
+      "x2": 536,
+      "y1": 656,
+      "y2": 666
     },
     {
       "align": "left",
       "content": "Stufe:",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 544,
+      "x2": 665,
+      "y1": 656,
+      "y2": 666
     },
     {
       "align": "left",
       "content": "Auszubildender/Student - auch in Schulausbildung -",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 244,
+      "y1": 678,
+      "y2": 688
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 263,
+      "x2": 306,
+      "y1": 682,
+      "y2": 692
     },
     {
       "align": "left",
       "content": "Ja, in Ausbildung / Studium als ...",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 321,
+      "x2": 449,
+      "y1": 682,
+      "y2": 692
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 469,
+      "x2": 509,
+      "y1": 682,
+      "y2": 692
     },
     {
       "align": "left",
       "content": "Ja, in Ausbildung / Studium als ...",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 526,
+      "x2": 667,
+      "y1": 682,
+      "y2": 692
     },
     {
       "align": "left",
       "content": "Name und Anschrift des derzeitigen Arbeitgebers bzw. Angabe der Schule",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 244,
+      "y1": 737,
+      "y2": 747
     },
     {
       "align": "left",
       "content": "Unterbringung in einer stationären Einrichtung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 244,
+      "y1": 778,
+      "y2": 788
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 264,
+      "x2": 298,
+      "y1": 782,
+      "y2": 792
     },
     {
       "align": "left",
       "content": "Ja, Zuweisung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 315,
+      "x2": 449,
+      "y1": 782,
+      "y2": 792
     },
     {
       "align": "left",
       "content": "vom ... bis ...",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 250,
+      "x2": 447,
+      "y1": 804,
+      "y2": 814
     },
     {
       "align": "left",
       "content": "Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 250,
+      "x2": 449,
+      "y1": 823,
+      "y2": 833
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 469,
+      "x2": 504,
+      "y1": 782,
+      "y2": 792
     },
     {
       "align": "left",
       "content": "Ja, Zuweisung",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 519,
+      "x2": 665,
+      "y1": 782,
+      "y2": 792
     },
     {
       "align": "left",
       "content": "vom ... bis ...",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 456,
+      "x2": 665,
+      "y1": 804,
+      "y2": 814
     },
     {
       "align": "left",
       "content": "Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 455,
+      "x2": 667,
+      "y1": 823,
+      "y2": 833
     },
     {
       "align": "left",
       "content": "\\* **Wichtige Hinweise:** Wenn Sie oder Ihr Partner/Ihre Partnerin **das 23. Lebensjahr noch nicht vollendet haben**, können Sie oder Ihr Partner/Ihre Partnerin bei einem Elternteil **familienversichert** werden. Wenn Sie oder Ihr Partner/Ihre Partnerin von Ihrem Ehegatten/eingetragenen Lebenspartner **getrennt** leben, ist zu prüfen, ob Sie dennoch über diesen **familienversichert** werden können.",
       "page": 1,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 664,
+      "y1": 863,
+      "y2": 873
     },
     {
       "align": "left",

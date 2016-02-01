@@ -137,9 +137,9 @@
       "page": 0,
       "structure": "",
       "x1": 49,
-      "x2": 182,
+      "x2": 187,
       "y1": 14,
-      "y2": 27
+      "y2": 26
     },
     {
       "align": "left",
@@ -149,7 +149,7 @@
       "x1": 199,
       "x2": 337,
       "y1": 14,
-      "y2": 27
+      "y2": 26
     },
     {
       "align": "left",
@@ -158,8 +158,8 @@
       "structure": "",
       "x1": 49,
       "x2": 338,
-      "y1": 28,
-      "y2": 39
+      "y1": 29,
+      "y2": 40
     },
     {
       "align": "left",
@@ -168,8 +168,8 @@
       "structure": "",
       "x1": 342,
       "x2": 630,
-      "y1": 0,
-      "y2": 11
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
@@ -189,7 +189,7 @@
       "x1": 175,
       "x2": 336,
       "y1": 59,
-      "y2": 72
+      "y2": 71
     },
     {
       "align": "left",
@@ -199,7 +199,7 @@
       "x1": 175,
       "x2": 337,
       "y1": 85,
-      "y2": 98
+      "y2": 97
     },
     {
       "align": "left",
@@ -218,8 +218,8 @@
       "structure": "",
       "x1": 415,
       "x2": 629,
-      "y1": 59,
-      "y2": 69
+      "y1": 58,
+      "y2": 68
     },
     {
       "align": "left",
@@ -229,7 +229,7 @@
       "x1": 33,
       "x2": 337,
       "y1": 121,
-      "y2": 133
+      "y2": 132
     },
     {
       "align": "left",
@@ -238,8 +238,8 @@
       "structure": "",
       "x1": 49,
       "x2": 338,
-      "y1": 133,
-      "y2": 145
+      "y1": 135,
+      "y2": 146
     },
     {
       "align": "left",
@@ -248,8 +248,8 @@
       "structure": "",
       "x1": 49,
       "x2": 337,
-      "y1": 146,
-      "y2": 158
+      "y1": 148,
+      "y2": 159
     },
     {
       "align": "left",
@@ -259,7 +259,7 @@
       "x1": 33,
       "x2": 338,
       "y1": 163,
-      "y2": 176
+      "y2": 175
     },
     {
       "align": "left",
@@ -269,7 +269,7 @@
       "x1": 342,
       "x2": 629,
       "y1": 163,
-      "y2": 176
+      "y2": 175
     },
     {
       "align": "left",
@@ -328,8 +328,8 @@
       "structure": "",
       "x1": 357,
       "x2": 509,
-      "y1": 180,
-      "y2": 193
+      "y1": 181,
+      "y2": 192
     },
     {
       "align": "left",
@@ -348,7 +348,7 @@
       "structure": "",
       "x1": 357,
       "x2": 510,
-      "y1": 215,
+      "y1": 217,
       "y2": 228
     },
     {
@@ -789,7 +789,7 @@
       "x1": 48,
       "x2": 225,
       "y1": 621,
-      "y2": 631
+      "y2": 630
     },
     {
       "align": "left",
@@ -799,7 +799,7 @@
       "x1": 48,
       "x2": 230,
       "y1": 648,
-      "y2": 658
+      "y2": 657
     },
     {
       "align": "left",
@@ -809,7 +809,7 @@
       "x1": 48,
       "x2": 230,
       "y1": 674,
-      "y2": 684
+      "y2": 683
     },
     {
       "align": "left",
@@ -819,7 +819,7 @@
       "x1": 48,
       "x2": 230,
       "y1": 726,
-      "y2": 736
+      "y2": 735
     },
     {
       "align": "left",
@@ -828,7 +828,7 @@
       "structure": "",
       "x1": 48,
       "x2": 228,
-      "y1": 805,
+      "y1": 806,
       "y2": 815
     },
     {
@@ -859,7 +859,7 @@
       "x1": 358,
       "x2": 532,
       "y1": 621,
-      "y2": 631
+      "y2": 630
     },
     {
       "align": "left",
@@ -869,7 +869,7 @@
       "x1": 358,
       "x2": 541,
       "y1": 648,
-      "y2": 658
+      "y2": 657
     },
     {
       "align": "left",
@@ -879,7 +879,7 @@
       "x1": 358,
       "x2": 542,
       "y1": 674,
-      "y2": 684
+      "y2": 683
     },
     {
       "align": "left",
@@ -889,7 +889,7 @@
       "x1": 358,
       "x2": 540,
       "y1": 726,
-      "y2": 736
+      "y2": 735
     },
     {
       "align": "left",
@@ -898,7 +898,7 @@
       "structure": "",
       "x1": 358,
       "x2": 539,
-      "y1": 805,
+      "y1": 806,
       "y2": 815
     },
     {
@@ -929,7 +929,7 @@
       "x1": 33,
       "x2": 163,
       "y1": 836,
-      "y2": 848
+      "y2": 847
     },
     {
       "align": "left",
@@ -968,8 +968,8 @@
       "structure": "",
       "x1": 307,
       "x2": 331,
-      "y1": 874,
-      "y2": 884
+      "y1": 875,
+      "y2": 885
     },
     {
       "align": "left",
@@ -978,8 +978,8 @@
       "structure": "",
       "x1": 349,
       "x2": 400,
-      "y1": 874,
-      "y2": 884
+      "y1": 875,
+      "y2": 885
     },
     {
       "align": "left",
@@ -1018,8 +1018,8 @@
       "structure": "",
       "x1": 543,
       "x2": 567,
-      "y1": 874,
-      "y2": 884
+      "y1": 875,
+      "y2": 885
     },
     {
       "align": "left",
@@ -1028,8 +1028,8 @@
       "structure": "",
       "x1": 583,
       "x2": 629,
-      "y1": 874,
-      "y2": 884
+      "y1": 875,
+      "y2": 885
     },
     {
       "align": "left",
@@ -1422,7 +1422,7 @@
       "y2": 406
     },
     {
-      "align": "left",
+      "align": "justify",
       "content": "Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
       "page": 1,
       "structure": "",
@@ -1438,8 +1438,8 @@
       "structure": "",
       "x1": 264,
       "x2": 449,
-      "y1": 474,
-      "y2": 484
+      "y1": 475,
+      "y2": 485
     },
     {
       "align": "left",
@@ -1452,7 +1452,7 @@
       "y2": 512
     },
     {
-      "align": "left",
+      "align": "justify",
       "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
       "page": 1,
       "structure": "",
@@ -1468,8 +1468,8 @@
       "structure": "",
       "x1": 468,
       "x2": 666,
-      "y1": 474,
-      "y2": 484
+      "y1": 475,
+      "y2": 485
     },
     {
       "align": "left",
@@ -1478,8 +1478,8 @@
       "structure": "",
       "x1": 468,
       "x2": 667,
-      "y1": 501,
-      "y2": 511
+      "y1": 502,
+      "y2": 512
     },
     {
       "align": "left",
@@ -1498,8 +1498,8 @@
       "structure": "",
       "x1": 264,
       "x2": 447,
-      "y1": 528,
-      "y2": 538
+      "y1": 529,
+      "y2": 539
     },
     {
       "align": "left",
@@ -1508,8 +1508,8 @@
       "structure": "",
       "x1": 264,
       "x2": 318,
-      "y1": 546,
-      "y2": 556
+      "y1": 547,
+      "y2": 557
     },
     {
       "align": "left",
@@ -1518,8 +1518,8 @@
       "structure": "",
       "x1": 323,
       "x2": 448,
-      "y1": 546,
-      "y2": 556
+      "y1": 547,
+      "y2": 557
     },
     {
       "align": "left",
@@ -1528,8 +1528,8 @@
       "structure": "",
       "x1": 356,
       "x2": 447,
-      "y1": 567,
-      "y2": 577
+      "y1": 568,
+      "y2": 578
     },
     {
       "align": "left",
@@ -1538,8 +1538,8 @@
       "structure": "",
       "x1": 356,
       "x2": 448,
-      "y1": 588,
-      "y2": 598
+      "y1": 589,
+      "y2": 599
     },
     {
       "align": "left",
@@ -1558,8 +1558,8 @@
       "structure": "",
       "x1": 468,
       "x2": 666,
-      "y1": 528,
-      "y2": 538
+      "y1": 529,
+      "y2": 539
     },
     {
       "align": "left",
@@ -1588,8 +1588,8 @@
       "structure": "",
       "x1": 511,
       "x2": 666,
-      "y1": 568,
-      "y2": 578
+      "y1": 569,
+      "y2": 579
     },
     {
       "align": "left",
@@ -1598,8 +1598,8 @@
       "structure": "",
       "x1": 511,
       "x2": 611,
-      "y1": 588,
-      "y2": 598
+      "y1": 589,
+      "y2": 599
     },
     {
       "align": "left",
@@ -1922,8 +1922,8 @@
       "y2": 73
     },
     {
-      "align": "left",
-      "content": "- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde",
+      "align": "center",
+      "content": "\\- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde",
       "page": 2,
       "structure": "",
       "x1": 38,
@@ -2292,7 +2292,7 @@
       "y2": 453
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Bitte Nachweis beifügen",
       "page": 2,
       "structure": "",
@@ -2642,7 +2642,7 @@
       "y2": 76
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 3",
       "page": 3,
       "structure": "",
@@ -2652,7 +2652,7 @@
       "y2": 105
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 4",
       "page": 3,
       "structure": "",
@@ -2662,7 +2662,7 @@
       "y2": 105
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 5",
       "page": 3,
       "structure": "",
@@ -2982,12 +2982,12 @@
       "y2": 506
     },
     {
-      "align": "left",
+      "align": "justify",
       "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
       "page": 3,
       "structure": "",
       "x1": 198,
-      "x2": 355,
+      "x2": 354,
       "y1": 496,
       "y2": 506
     },
@@ -3012,12 +3012,12 @@
       "y2": 635
     },
     {
-      "align": "left",
+      "align": "justify",
       "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
       "page": 3,
       "structure": "",
       "x1": 359,
-      "x2": 516,
+      "x2": 515,
       "y1": 496,
       "y2": 506
     },
@@ -3042,12 +3042,12 @@
       "y2": 635
     },
     {
-      "align": "left",
+      "align": "justify",
       "content": "Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?",
       "page": 3,
       "structure": "",
       "x1": 520,
-      "x2": 677,
+      "x2": 675,
       "y1": 496,
       "y2": 506
     },
@@ -3182,7 +3182,7 @@
       "y2": 748
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "\\- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde",
       "page": 3,
       "structure": "",
@@ -3352,7 +3352,7 @@
       "y2": 301
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)",
       "page": 4,
       "structure": "",
@@ -3362,7 +3362,7 @@
       "y2": 301
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Bitte Nachweise beifügen",
       "page": 4,
       "structure": "",
@@ -3382,17 +3382,17 @@
       "y2": 330
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Bewilligungsstelle",
       "page": 4,
       "structure": "",
-      "x1": 125,
-      "x2": 209,
+      "x1": 126,
+      "x2": 208,
       "y1": 320,
       "y2": 330
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.",
       "page": 4,
       "structure": "",
@@ -3402,42 +3402,42 @@
       "y2": 331
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 1",
       "page": 4,
       "structure": "",
       "x1": 302,
-      "x2": 388,
+      "x2": 387,
       "y1": 321,
       "y2": 331
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 2",
       "page": 4,
       "structure": "",
       "x1": 390,
-      "x2": 476,
+      "x2": 475,
       "y1": 321,
       "y2": 331
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 3",
       "page": 4,
       "structure": "",
       "x1": 478,
-      "x2": 564,
+      "x2": 563,
       "y1": 321,
       "y2": 331
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 4",
       "page": 4,
       "structure": "",
       "x1": 566,
-      "x2": 651,
+      "x2": 650,
       "y1": 321,
       "y2": 331
     },
@@ -3562,67 +3562,67 @@
       "y2": 13
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Bewilligungsstelle",
       "page": 5,
       "structure": "",
       "x1": 93,
-      "x2": 178,
-      "y1": 2,
-      "y2": 12
+      "x2": 177,
+      "y1": 3,
+      "y2": 13
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.",
       "page": 5,
       "structure": "",
       "x1": 180,
       "x2": 266,
-      "y1": 2,
-      "y2": 12
+      "y1": 3,
+      "y2": 13
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 1",
       "page": 5,
       "structure": "",
       "x1": 269,
       "x2": 355,
-      "y1": 2,
-      "y2": 12
+      "y1": 3,
+      "y2": 13
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 2",
       "page": 5,
       "structure": "",
       "x1": 357,
       "x2": 443,
-      "y1": 2,
-      "y2": 12
+      "y1": 3,
+      "y2": 13
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 3",
       "page": 5,
       "structure": "",
       "x1": 446,
-      "x2": 532,
-      "y1": 2,
-      "y2": 12
+      "x2": 531,
+      "y1": 3,
+      "y2": 13
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 4",
       "page": 5,
       "structure": "",
       "x1": 534,
       "x2": 620,
-      "y1": 2,
-      "y2": 12
+      "y1": 3,
+      "y2": 13
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)",
       "page": 5,
       "structure": "",
@@ -3632,7 +3632,7 @@
       "y2": 40
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Bitte Nachweise beifügen",
       "page": 5,
       "structure": "",
@@ -4232,54 +4232,54 @@
       "y2": 872
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 1",
-      "page": 6,
+      "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 142,
+      "x2": 231,
+      "y1": 2,
+      "y2": 12
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 2",
-      "page": 6,
+      "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 234,
+      "x2": 332,
+      "y1": 2,
+      "y2": 12
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 3",
-      "page": 6,
+      "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 335,
+      "x2": 433,
+      "y1": 2,
+      "y2": 12
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 4",
-      "page": 6,
+      "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 436,
+      "x2": 534,
+      "y1": 2,
+      "y2": 12
     },
     {
-      "align": "left",
+      "align": "center",
       "content": "Personenziffer 5",
-      "page": 6,
+      "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 537,
+      "x2": 632,
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
@@ -5172,7 +5172,7 @@
       "y2": 621
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.\n\nIch werde den Träger der Leistungen (Land Berlin, vertreten durch die Bezirksämter v. Berlin, Geschäftsbereich Sozialwesen / Geschäftsbereich Jugend und Sport bzw. Landesamt für Gesundheit und Soziales Berlin / ZLA) gem. § 60 Abs. 1 Ziff. 2 SGB I unverzüglich informieren, wenn\n\n- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.\n- sich die Verhältnisse meiner Haushaltsangehörigen ändern.\n- ich Renten oder ähnliche Leistungen beantrage.\n\nDes Weiteren bin ich hinreichend darüber informiert worden, dass im Falle eines konkreten Betrugsverdachts die Ermittlungen des Sachverhalts gemäß §§ 20, 21, 69 und 71 SGB X von Amts wegen – ohne meine Beteiligung – erfolgen können.\n\nLeistungen werden von mir zurückgefordert, sofern ich sie zu Unrecht erhalten habe, z. B. weil ich vorsätzlich oder grob fahrlässig falsche Angaben gemacht habe.\n\nDer Träger der Leistungen nach SGB XII bzw. AsylbLG kann für die Zeit, für die ich Leistungen erhalte, meine Ansprüche gegen einen anderen auf entsprechende Leistungen in Höhe seiner Aufwendungen auf sich überleiten.\n\nDer Sozialhilfeträger behält sich vor, bei Vorliegen des entsprechenden Sachverhalts Aufwendungsersatz nach den §§ 19 Abs. 5, 27 Abs. 3 oder § 92 Abs. 1 SGB XII bzw. §§ 7, 9 AsylbLG geltend zu machen. In diesem Umfang habe ich dem Träger der Leistungen die Aufwendungen zu ersetzen. Dies gilt auch, wenn der Erstattungsanspruch des Trägers der Sozialleistung gegen andere vorrangig verpflichtete Leistungsträger (z.B. Rententräger, Krankenkasse) aus Verfahrensgründen nicht befriedigt werden kann und ich für den gleichen Zeitraum von beiden Leistungsträgern Aufwendungen erhalten habe. In diesen Fällen sind die gewährten Leistungen nach SGB XII / AsylbLG von mir zu erstatten.\n\nIch bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.",
       "page": 9,
       "structure": "",
@@ -5222,7 +5222,7 @@
       "y2": 548
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG",
       "page": 10,
       "structure": "",
@@ -5232,7 +5232,7 @@
       "y2": 24
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Nach § 60 SGB I muss der Antragsteller / die Antragstellerin bei der Aufklärung des Sachverhaltes und der Feststellung der für die Sozialleistung bestehenden Voraussetzungen mitwirken. Die Nichtbeantwortung von Fragen kann im Einzelfall zur Folge haben, dass die beantragte Leistung nicht gewährt werden kann. Die Grenzen der Mitwirkung sind in § 65 SGB I geregelt.",
       "page": 10,
       "structure": "",
@@ -5242,7 +5242,7 @@
       "y2": 49
     },
     {
-      "align": "left",
+      "align": "start",
       "content": "Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:",
       "page": 10,
       "structure": "",

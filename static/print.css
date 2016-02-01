@@ -22,9 +22,14 @@ body {
 .row {
 	position: absolute;
 }
-.disclaimer p,
-.row p {
+.disclaimer p {
 	margin: 0;
+}
+.row p:first-child {
+	margin-top: 0;
+}
+.row p:last-child {
+	margin-bottom: 0;
 }
 
 .disclaimer {

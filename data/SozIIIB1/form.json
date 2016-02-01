@@ -1427,7 +1427,7 @@
       "page": 1,
       "structure": "",
       "x1": 249,
-      "x2": 449,
+      "x2": 448,
       "y1": 394,
       "y2": 404
     },
@@ -1457,7 +1457,7 @@
       "page": 1,
       "structure": "",
       "x1": 453,
-      "x2": 667,
+      "x2": 666,
       "y1": 394,
       "y2": 404
     },
@@ -3266,970 +3266,970 @@
       "content": "Unterhaltspflichtige Angehörige außerhalb des Haushalts (Kinder, Eltern)",
       "page": 4,
       "structure": "VII.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 636,
+      "y1": 3,
+      "y2": 17
     },
     {
       "align": "left",
       "content": "Name, ggf. Geburtsname, Vorname",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 141,
+      "y1": 29,
+      "y2": 39
     },
     {
       "align": "left",
       "content": "Geburtstag, bzw. Alter",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 146,
+      "x2": 208,
+      "y1": 29,
+      "y2": 39
     },
     {
       "align": "left",
       "content": "Familienstand",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 212,
+      "x2": 280,
+      "y1": 29,
+      "y2": 39
     },
     {
       "align": "left",
       "content": "Verwandtschaftsverhältnis zum Antragsteller",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 283,
+      "x2": 364,
+      "y1": 29,
+      "y2": 39
     },
     {
       "align": "left",
       "content": "ausgeübte Tätigkeit",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 436,
+      "y1": 29,
+      "y2": 39
     },
     {
       "align": "left",
       "content": "Anschrift",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 439,
+      "x2": 562,
+      "y1": 29,
+      "y2": 39
     },
     {
       "align": "left",
       "content": "Art und Höhe des Unterhaltsbeitrages",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 568,
+      "x2": 650,
+      "y1": 29,
+      "y2": 39
     },
     {
       "align": "left",
       "content": "Einkünfte aller Haushaltsangehörigen",
       "page": 4,
       "structure": "VIII.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 299,
+      "y1": 291,
+      "y2": 301
     },
     {
       "align": "left",
       "content": "Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 302,
+      "x2": 651,
+      "y1": 291,
+      "y2": 301
     },
     {
       "align": "left",
       "content": "Bitte Nachweise beifügen",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 302,
+      "x2": 651,
+      "y1": 304,
+      "y2": 314
     },
     {
       "align": "left",
       "content": "Bezeichnung",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 320,
+      "y2": 330
     },
     {
       "align": "left",
       "content": "Bewilligungsstelle",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 125,
+      "x2": 209,
+      "y1": 320,
+      "y2": 330
     },
     {
       "align": "left",
       "content": "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 211,
+      "x2": 299,
+      "y1": 321,
+      "y2": 331
     },
     {
       "align": "left",
       "content": "Personenziffer 1",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 302,
+      "x2": 388,
+      "y1": 321,
+      "y2": 331
     },
     {
       "align": "left",
       "content": "Personenziffer 2",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 390,
+      "x2": 476,
+      "y1": 321,
+      "y2": 331
     },
     {
       "align": "left",
       "content": "Personenziffer 3",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 478,
+      "x2": 564,
+      "y1": 321,
+      "y2": 331
     },
     {
       "align": "left",
       "content": "Personenziffer 4",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 566,
+      "x2": 651,
+      "y1": 321,
+      "y2": 331
     },
     {
       "align": "left",
       "content": "Nichtselbständige Tätigkeit",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 376,
+      "y2": 386
     },
     {
       "align": "left",
       "content": "(Erwerbseinkommen, Ausbildungsvergütung, Entgelt der Werkstatt für behinderte Menschen)",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 405,
+      "y2": 414
     },
     {
       "align": "left",
       "content": "Leistungen der Krankenkasse",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 479,
+      "y2": 489
     },
     {
       "align": "left",
       "content": "(einschl. Arbeitgeberzuschuss)",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 124,
+      "y1": 505,
+      "y2": 514
     },
     {
       "align": "left",
       "content": "Gewerbebetrieb",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 537,
+      "y2": 547
     },
     {
       "align": "left",
       "content": "Land- und Forstwirtschaft",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 124,
+      "y1": 565,
+      "y2": 575
     },
     {
       "align": "left",
       "content": "Sonstige selbständige Tätigkeiten",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 593,
+      "y2": 603
     },
     {
       "align": "left",
       "content": "Vermietung und Verpachtung",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 635,
+      "y2": 645
     },
     {
       "align": "left",
       "content": "Wohngeld/Lastenzuschuss",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 676,
+      "y2": 686
     },
     {
       "align": "left",
       "content": "Renten/Pensionen",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 124,
+      "y1": 704,
+      "y2": 714
     },
     {
       "align": "left",
       "content": "(z. B. Rente wg. Erwerbsminderung, Altersrente, Unfallrente, landwirtschaftliches Altersgeld, Witwen- oder Waisenrente, Erziehungsrente, Kinderzuschuss /-zulage, Pflegegeld zur Rente, Werksrente, Kindererziehungsleistung, Sonstige Renten / Pensionen)",
       "page": 4,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 123,
+      "y1": 718,
+      "y2": 727
     },
     {
       "align": "left",
       "content": "Bezeichnung",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 3,
+      "y2": 13
     },
     {
       "align": "left",
       "content": "Bewilligungsstelle",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 93,
+      "x2": 178,
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
       "content": "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 180,
+      "x2": 266,
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
       "content": "Personenziffer 1",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 269,
+      "x2": 355,
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
       "content": "Personenziffer 2",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 357,
+      "x2": 443,
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
       "content": "Personenziffer 3",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 446,
+      "x2": 532,
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
       "content": "Personenziffer 4",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 534,
+      "x2": 620,
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
       "content": "Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 269,
+      "x2": 621,
+      "y1": 30,
+      "y2": 40
     },
     {
       "align": "left",
       "content": "Bitte Nachweise beifügen",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 269,
+      "x2": 620,
+      "y1": 47,
+      "y2": 57
     },
     {
       "align": "left",
       "content": "Sozialhilfeleistungen",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 71,
+      "y2": 81
     },
     {
       "align": "left",
       "content": "Grundsicherungsleistungen",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 98,
+      "y2": 108
     },
     {
       "align": "left",
       "content": "Asylbewerberleistung",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 129,
+      "y2": 139
     },
     {
       "align": "left",
       "content": "Leistungen nach dem Bundesversorgungsgesetz",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 154,
+      "y2": 164
     },
     {
       "align": "left",
       "content": "Leistungen des Lastenausgleichsamtes",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 215,
+      "y2": 225
     },
     {
       "align": "left",
       "content": "(z. B. Unterhaltshilfe, Pflegegeld, Entschädigungsrente)",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 251,
+      "y2": 260
     },
     {
       "align": "left",
       "content": "Leistungen der Agentur für Arbeit",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 316,
+      "y2": 326
     },
     {
       "align": "left",
       "content": "(z. B. Arbeitslosengeld, Arbeitslosengeld II, Eingliederungshilfe, Berufsausbildungsbeihilfe, Arbeitsförderungsgeld u. a.)",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 344,
+      "y2": 353
     },
     {
       "align": "left",
       "content": "Kindergeld",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 453,
+      "y2": 463
     },
     {
       "align": "left",
       "content": "Kindergeldzuschlag",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 478,
+      "y2": 488
     },
     {
       "align": "left",
       "content": "Elterngeld",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 512,
+      "y2": 522
     },
     {
       "align": "left",
       "content": "Ausbildungsförderung",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 536,
+      "y2": 546
     },
     {
       "align": "left",
       "content": "Unterhalt",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 570,
+      "y2": 580
     },
     {
       "align": "left",
       "content": "Unterhaltsvorschuss",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 595,
+      "y2": 605
     },
     {
       "align": "left",
       "content": "Privatrechtliche geldwerte Ansprüche",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 629,
+      "y2": 639
     },
     {
       "align": "left",
       "content": "(z. B. Beköstigung, Wohnrecht, Taschengeld, Leibrente, Pflegegeld)",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 667,
+      "y2": 676
     },
     {
       "align": "left",
       "content": "Steuererstattung",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 737,
+      "y2": 747
     },
     {
       "align": "left",
       "content": "Kapitalerträge (z. B. Zinsen)",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 771,
+      "y2": 781
     },
     {
       "align": "left",
       "content": "Sonstige Einkünfte",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 806,
+      "y2": 816
     },
     {
       "align": "left",
       "content": "(z.B. Schadensersatzansprüche)",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 831,
+      "y2": 840
     },
     {
       "align": "left",
       "content": "Kein Einkommen",
       "page": 5,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 90,
+      "y1": 867,
+      "y2": 877
     },
     {
       "align": "left",
       "content": "Sind Leistungen nach Nr. VIII. beantragt, über die noch nicht entschieden wurde?",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 688,
+      "y1": 1,
+      "y2": 11
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 54,
+      "x2": 85,
+      "y1": 15,
+      "y2": 25
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 99,
+      "x2": 206,
+      "y1": 15,
+      "y2": 25
     },
     {
       "align": "left",
       "content": "Personenziffer",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 144,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "Antragsdatum",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 146,
+      "x2": 236,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "Art der Leistung",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 238,
+      "x2": 407,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "Dienststelle und Geschäftszeichen",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 408,
+      "x2": 687,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "Werden einmalige Einnahmen erwartet, z. B. eine Steuerrückzahlung?",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 688,
+      "y1": 111,
+      "y2": 121
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 54,
+      "x2": 85,
+      "y1": 125,
+      "y2": 135
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 98,
+      "x2": 298,
+      "y1": 125,
+      "y2": 135
     },
     {
       "align": "left",
       "content": "Personenziffer",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 144,
+      "y1": 151,
+      "y2": 161
     },
     {
       "align": "left",
       "content": "Art der Leistung",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 146,
+      "x2": 499,
+      "y1": 151,
+      "y2": 161
     },
     {
       "align": "left",
       "content": "Zeitpunkt",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 501,
+      "x2": 591,
+      "y1": 151,
+      "y2": 161
     },
     {
       "align": "left",
       "content": "EUR",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 593,
+      "x2": 688,
+      "y1": 151,
+      "y2": 161
     },
     {
       "align": "left",
       "content": "Vom Einkommen evtl. absetzbare Beträge",
       "page": 6,
       "structure": "IX.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 688,
+      "y1": 208,
+      "y2": 218
     },
     {
       "align": "left",
       "content": "**Keine absetzbaren Beträge**",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 54,
+      "x2": 162,
+      "y1": 240,
+      "y2": 250
     },
     {
       "align": "left",
       "content": "Personenziffer 1",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 164,
+      "x2": 266,
+      "y1": 234,
+      "y2": 244
     },
     {
       "align": "left",
       "content": "Personenziffer 2",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 269,
+      "x2": 371,
+      "y1": 234,
+      "y2": 244
     },
     {
       "align": "left",
       "content": "Personenziffer 3",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 374,
+      "x2": 476,
+      "y1": 234,
+      "y2": 244
     },
     {
       "align": "left",
       "content": "Personenziffer 4",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 479,
+      "x2": 581,
+      "y1": 234,
+      "y2": 244
     },
     {
       "align": "left",
       "content": "Personenziffer 5",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 583,
+      "x2": 688,
+      "y1": 234,
+      "y2": 244
     },
     {
       "align": "left",
       "content": "Ausgaben mtl. Betrag",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 277,
+      "y2": 287
     },
     {
       "align": "left",
       "content": "Einkommensteuer*",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 318,
+      "y2": 328
     },
     {
       "align": "left",
       "content": "Krankenversicherung*",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 346,
+      "y2": 356
     },
     {
       "align": "left",
       "content": "Pflegeversicherung*",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 387,
+      "y2": 397
     },
     {
       "align": "left",
       "content": "Arbeitslosenversicherung*",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 415,
+      "y2": 425
     },
     {
       "align": "left",
       "content": "Rentenversicherung*",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 161,
+      "y1": 457,
+      "y2": 467
     },
     {
       "align": "left",
       "content": "Kirchensteuer*",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 161,
+      "y1": 485,
+      "y2": 495
     },
     {
       "align": "left",
       "content": "Unfallversicherung",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 512,
+      "y2": 522
     },
     {
       "align": "left",
       "content": "Altersvorsorgebeiträge",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 540,
+      "y2": 550
     },
     {
       "align": "left",
       "content": "Hausratsversicherung",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 161,
+      "y1": 582,
+      "y2": 592
     },
     {
       "align": "left",
       "content": "Sterbeversicherung",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 161,
+      "y1": 623,
+      "y2": 633
     },
     {
       "align": "left",
       "content": "Lebensversicherung",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 651,
+      "y2": 661
     },
     {
       "align": "left",
       "content": "Haftpflichtversicherung",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 679,
+      "y2": 689
     },
     {
       "align": "left",
       "content": "Aufwendungen für Arbeitsmittel",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 720,
+      "y2": 730
     },
     {
       "align": "left",
       "content": "Beiträge für Berufsverbände",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 163,
+      "y1": 762,
+      "y2": 772
     },
     {
       "align": "left",
       "content": "Mehraufwendungen für doppelte Haushaltsführung",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 162,
+      "y1": 804,
+      "y2": 814
     },
     {
       "align": "left",
       "content": "\\* Angabe nicht erforderlich soweit die Beträge bereits vom Arbeitgeber oder Rententräger abgesetzt wurden",
       "page": 6,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 38,
+      "x2": 688,
+      "y1": 862,
+      "y2": 872
     },
     {
       "align": "left",
@@ -4286,970 +4286,970 @@
       "content": "Entfernung zwischen Wohnung und Arbeitsstelle und Fahrkosten zur Arbeitsstelle mit",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 139,
+      "y1": 26,
+      "y2": 36
     },
     {
       "align": "left",
       "content": "km",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 185,
+      "x2": 231,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "km",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 284,
+      "x2": 333,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "km",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 380,
+      "x2": 434,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "km",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 491,
+      "x2": 534,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "km",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 589,
+      "x2": 633,
+      "y1": 40,
+      "y2": 50
     },
     {
       "align": "left",
       "content": "öffentlichen Verkehrsmitteln",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 139,
+      "y1": 118,
+      "y2": 128
     },
     {
       "align": "left",
       "content": "PKW",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 139,
+      "y1": 151,
+      "y2": 161
     },
     {
       "align": "left",
       "content": "Kleinst-PKW (bis 500 ccm)",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 140,
+      "y1": 175,
+      "y2": 185
     },
     {
       "align": "left",
       "content": "Motorrad",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 140,
+      "y1": 208,
+      "y2": 218
     },
     {
       "align": "left",
       "content": "Mofa",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 140,
+      "y1": 234,
+      "y2": 244
     },
     {
       "align": "left",
       "content": "Sonstiges",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 140,
+      "y1": 259,
+      "y2": 269
     },
     {
       "align": "left",
       "content": "Nähere Begründung zu „Sonstiges“",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 139,
+      "y1": 284,
+      "y2": 294
     },
     {
       "align": "left",
       "content": "Vermögensverhältnisse (ggf. auf gesondertem Blatt fortsetzen)",
       "page": 7,
       "structure": "X.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 633,
+      "y1": 332,
+      "y2": 342
     },
     {
       "align": "left",
       "content": "Zutreffendes bitte ankreuzen und ausfüllen",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 276,
+      "y1": 357,
+      "y2": 367
     },
     {
       "align": "left",
       "content": "Personenziffer 1",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 277,
+      "x2": 364,
+      "y1": 357,
+      "y2": 367
     },
     {
       "align": "left",
       "content": "Personenziffer 2",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 367,
+      "x2": 454,
+      "y1": 357,
+      "y2": 367
     },
     {
       "align": "left",
       "content": "Personenziffer 3",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 456,
+      "x2": 543,
+      "y1": 357,
+      "y2": 367
     },
     {
       "align": "left",
       "content": "Personenziffer 4",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 546,
+      "x2": 633,
+      "y1": 358,
+      "y2": 368
     },
     {
       "align": "left",
       "content": "Sparguthaben / Bargeld",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 132,
+      "y1": 397,
+      "y2": 407
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 251,
+      "y1": 402,
+      "y2": 412
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 250,
+      "y1": 421,
+      "y2": 431
     },
     {
       "align": "left",
       "content": "Wertpapiere",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 132,
+      "y1": 441,
+      "y2": 451
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 251,
+      "y1": 447,
+      "y2": 457
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 251,
+      "y1": 465,
+      "y2": 475
     },
     {
       "align": "left",
       "content": "Sachwerte von besonderem Wert",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 133,
+      "y1": 485,
+      "y2": 495
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 179,
+      "y1": 491,
+      "y2": 501
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 195,
+      "y1": 510,
+      "y2": 520
     },
     {
       "align": "left",
       "content": "Art",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 198,
+      "x2": 275,
+      "y1": 485,
+      "y2": 495
     },
     {
       "align": "left",
       "content": "sonstiges Vermögen (Forderungen und anderes)",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 133,
+      "y1": 530,
+      "y2": 540
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 179,
+      "y1": 535,
+      "y2": 545
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 195,
+      "y1": 554,
+      "y2": 564
     },
     {
       "align": "left",
       "content": "Art",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 198,
+      "x2": 275,
+      "y1": 530,
+      "y2": 540
     },
     {
       "align": "left",
       "content": "Verschenktes Vermögen innerhalb der letzten 10 Jahre (auch Grundvermögen)",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 132,
+      "y1": 595,
+      "y2": 605
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 180,
+      "y1": 600,
+      "y2": 610
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 196,
+      "y1": 619,
+      "y2": 629
     },
     {
       "align": "left",
       "content": "Art",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 198,
+      "x2": 275,
+      "y1": 595,
+      "y2": 605
     },
     {
       "align": "left",
       "content": "Kraftfahrzeug",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 132,
+      "y1": 688,
+      "y2": 698
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 196,
+      "y1": 693,
+      "y2": 703
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 195,
+      "y1": 711,
+      "y2": 721
     },
     {
       "align": "left",
       "content": "amtl. Kennzeichen",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 198,
+      "x2": 275,
+      "y1": 687,
+      "y2": 697
     },
     {
       "align": "left",
       "content": "Fabrikat",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 133,
+      "y1": 745,
+      "y2": 755
     },
     {
       "align": "left",
       "content": "Baujahr",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 135,
+      "x2": 196,
+      "y1": 745,
+      "y2": 755
     },
     {
       "align": "left",
       "content": "Halter",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 198,
+      "x2": 275,
+      "y1": 745,
+      "y2": 755
     },
     {
       "align": "left",
       "content": "Hauseigentum oder Grundbesitz",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 132,
+      "y1": 784,
+      "y2": 794
     },
     {
       "align": "left",
       "content": "Bitte Anlage 3 ausfüllen",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 132,
+      "y1": 813,
+      "y2": 823
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 251,
+      "y1": 789,
+      "y2": 799
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 251,
+      "y1": 808,
+      "y2": 818
     },
     {
       "align": "left",
       "content": "Staatlich geförderte private Altersvorsorge",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 34,
+      "x2": 133,
+      "y1": 849,
+      "y2": 859
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 251,
+      "y1": 858,
+      "y2": 868
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 7,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 151,
+      "x2": 251,
+      "y1": 877,
+      "y2": 887
     },
     {
       "align": "left",
       "content": "Zutreffendes bitte ankreuzen und ausfüllen",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 293,
+      "y1": 1,
+      "y2": 11
     },
     {
       "align": "left",
       "content": "Personenziffer 1",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 294,
+      "x2": 389,
+      "y1": 1,
+      "y2": 11
     },
     {
       "align": "left",
       "content": "Personenziffer 2",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 389,
+      "x2": 483,
+      "y1": 1,
+      "y2": 11
     },
     {
       "align": "left",
       "content": "Personenziffer 3",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 485,
+      "x2": 577,
+      "y1": 1,
+      "y2": 11
     },
     {
       "align": "left",
       "content": "Personenziffer 4",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 580,
+      "x2": 670,
+      "y1": 1,
+      "y2": 11
     },
     {
       "align": "left",
       "content": "Ansprüche aus Übertragsverträgen (z. B. Wohnrecht, Nießbrauch, Altenteilsrechte)",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 141,
+      "y1": 41,
+      "y2": 51
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 160,
+      "x2": 245,
+      "y1": 73,
+      "y2": 83
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 160,
+      "x2": 282,
+      "y1": 93,
+      "y2": 103
     },
     {
       "align": "left",
       "content": "Sonstiges Vermögen",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 141,
+      "y1": 139,
+      "y2": 149
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 160,
+      "x2": 244,
+      "y1": 145,
+      "y2": 155
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 160,
+      "x2": 260,
+      "y1": 165,
+      "y2": 175
     },
     {
       "align": "left",
       "content": "Sonstige Angaben",
       "page": 8,
       "structure": "XI.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 671,
+      "y1": 186,
+      "y2": 196
     },
     {
       "align": "left",
       "content": "z. B. über persönliche, familiäre, gesundheitliche Verhältnisse",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 671,
+      "y1": 199,
+      "y2": 209
     },
     {
       "align": "left",
       "content": "Leistungen für besondere Mehrbedarfe",
       "page": 8,
       "structure": "XII.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 672,
+      "y1": 290,
+      "y2": 300
     },
     {
       "align": "left",
       "content": "Unter bestimmten Voraussetzungen können Leistungen für Mehrbedarfe erbracht werden, die nicht durch die Regelleistung abgedeckt sind und aus den vorgenannten Angaben nicht zu beurteilen sind. Dies gilt für alle Personen innerhalb des Haushalts.",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 671,
+      "y1": 318,
+      "y2": 328
     },
     {
       "align": "left",
       "content": "Folgende Mehrbedarfe werden geltend gemacht:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 669,
+      "y1": 371,
+      "y2": 381
     },
     {
       "align": "left",
       "content": "Für werdende Mütter nach der 12. Schwangerschaftswoche",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 55,
+      "x2": 387,
+      "y1": 388,
+      "y2": 398
     },
     {
       "align": "left",
       "content": "Vorlage Mutterschaftspass erforderlich",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 55,
+      "x2": 386,
+      "y1": 418,
+      "y2": 428
     },
     {
       "align": "left",
       "content": "Name:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 389,
+      "x2": 535,
+      "y1": 388,
+      "y2": 398
     },
     {
       "align": "left",
       "content": "Vorname:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 536,
+      "x2": 671,
+      "y1": 388,
+      "y2": 398
     },
     {
       "align": "left",
       "content": "Voraussichtlicher Geburtstermin",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 389,
+      "x2": 671,
+      "y1": 414,
+      "y2": 424
     },
     {
       "align": "left",
       "content": "Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 55,
+      "x2": 387,
+      "y1": 443,
+      "y2": 453
     },
     {
       "align": "left",
       "content": "Vorlage des Bewilligungsbescheides",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 55,
+      "x2": 386,
+      "y1": 478,
+      "y2": 488
     },
     {
       "align": "left",
       "content": "Name:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 389,
+      "x2": 534,
+      "y1": 443,
+      "y2": 453
     },
     {
       "align": "left",
       "content": "Vorname:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 536,
+      "x2": 671,
+      "y1": 443,
+      "y2": 453
     },
     {
       "align": "left",
       "content": "Kostenaufwendige Ernährung aus medizinischen Gründen",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 55,
+      "x2": 387,
+      "y1": 506,
+      "y2": 516
     },
     {
       "align": "left",
       "content": "vom Sozialamt erhältlicher Vordruck ist vom behandelnden Arzt auszufüllen",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 55,
+      "x2": 386,
+      "y1": 524,
+      "y2": 534
     },
     {
       "align": "left",
       "content": "Name:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 389,
+      "x2": 535,
+      "y1": 506,
+      "y2": 516
     },
     {
       "align": "left",
       "content": "Vorname:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 536,
+      "x2": 671,
+      "y1": 506,
+      "y2": 516
     },
     {
       "align": "left",
       "content": "Name:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 389,
+      "x2": 535,
+      "y1": 536,
+      "y2": 546
     },
     {
       "align": "left",
       "content": "Vorname:",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 536,
+      "x2": 670,
+      "y1": 536,
+      "y2": 546
     },
     {
       "align": "left",
       "content": "Bestandteile des Antrages sind die Anlagen",
       "page": 8,
       "structure": "XIII.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 671,
+      "y1": 555,
+      "y2": 565
     },
     {
       "align": "left",
       "content": "1 - Unterhalt",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 53,
+      "x2": 135,
+      "y1": 590,
+      "y2": 600
     },
     {
       "align": "left",
       "content": "2 - Ausländer",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 149,
+      "x2": 235,
+      "y1": 590,
+      "y2": 600
     },
     {
       "align": "left",
       "content": "3 - Grundbesitz",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 249,
+      "x2": 342,
+      "y1": 590,
+      "y2": 600
     },
     {
       "align": "left",
       "content": "4 – Eingliederungshilfe",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 357,
+      "x2": 486,
+      "y1": 590,
+      "y2": 600
     },
     {
       "align": "left",
       "content": "6 – Mietschulden",
       "page": 8,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 501,
+      "x2": 600,
+      "y1": 590,
+      "y2": 600
     },
     {
       "align": "left",
       "content": "Dem Antrag sind folgende Unterlagen beigefügt",
       "page": 8,
       "structure": "XIV.",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 36,
+      "x2": 671,
+      "y1": 611,
+      "y2": 621
     },
     {
       "align": "left",
       "content": "Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.\n\nIch werde den Träger der Leistungen (Land Berlin, vertreten durch die Bezirksämter v. Berlin, Geschäftsbereich Sozialwesen / Geschäftsbereich Jugend und Sport bzw. Landesamt für Gesundheit und Soziales Berlin / ZLA) gem. § 60 Abs. 1 Ziff. 2 SGB I unverzüglich informieren, wenn\n\n- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.\n- sich die Verhältnisse meiner Haushaltsangehörigen ändern.\n- ich Renten oder ähnliche Leistungen beantrage.\n\nDes Weiteren bin ich hinreichend darüber informiert worden, dass im Falle eines konkreten Betrugsverdachts die Ermittlungen des Sachverhalts gemäß §§ 20, 21, 69 und 71 SGB X von Amts wegen – ohne meine Beteiligung – erfolgen können.\n\nLeistungen werden von mir zurückgefordert, sofern ich sie zu Unrecht erhalten habe, z. B. weil ich vorsätzlich oder grob fahrlässig falsche Angaben gemacht habe.\n\nDer Träger der Leistungen nach SGB XII bzw. AsylbLG kann für die Zeit, für die ich Leistungen erhalte, meine Ansprüche gegen einen anderen auf entsprechende Leistungen in Höhe seiner Aufwendungen auf sich überleiten.\n\nDer Sozialhilfeträger behält sich vor, bei Vorliegen des entsprechenden Sachverhalts Aufwendungsersatz nach den §§ 19 Abs. 5, 27 Abs. 3 oder § 92 Abs. 1 SGB XII bzw. §§ 7, 9 AsylbLG geltend zu machen. In diesem Umfang habe ich dem Träger der Leistungen die Aufwendungen zu ersetzen. Dies gilt auch, wenn der Erstattungsanspruch des Trägers der Sozialleistung gegen andere vorrangig verpflichtete Leistungsträger (z.B. Rententräger, Krankenkasse) aus Verfahrensgründen nicht befriedigt werden kann und ich für den gleichen Zeitraum von beiden Leistungsträgern Aufwendungen erhalten habe. In diesen Fällen sind die gewährten Leistungen nach SGB XII / AsylbLG von mir zu erstatten.\n\nIch bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.",
       "page": 9,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 625,
+      "y1": 2,
+      "y2": 12
     },
     {
       "align": "left",
       "content": "Unterschrift des Antragstellers/Datum",
       "page": 9,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 296,
+      "y1": 469,
+      "y2": 479
     },
     {
       "align": "left",
       "content": "ggf. Unterschrift des nicht getrennt lebenden Ehegatten",
       "page": 9,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 299,
+      "x2": 627,
+      "y1": 469,
+      "y2": 479
     },
     {
       "align": "left",
       "content": "Falls vom Antragsteller nicht selbst oder nicht vollständig ausgefüllt",
       "page": 9,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 3,
+      "x2": 126,
+      "y1": 538,
+      "y2": 548
     },
     {
       "align": "left",
       "content": "Name, Anschrift, ggf. Dienststelle und Unterschrift des Aufnehmenden/Datum",
       "page": 9,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 129,
+      "x2": 627,
+      "y1": 538,
+      "y2": 548
     },
     {
       "align": "left",
       "content": "Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG",
       "page": 10,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 1,
+      "x2": 601,
+      "y1": 11,
+      "y2": 24
     },
     {
       "align": "left",
       "content": "Nach § 60 SGB I muss der Antragsteller / die Antragstellerin bei der Aufklärung des Sachverhaltes und der Feststellung der für die Sozialleistung bestehenden Voraussetzungen mitwirken. Die Nichtbeantwortung von Fragen kann im Einzelfall zur Folge haben, dass die beantragte Leistung nicht gewährt werden kann. Die Grenzen der Mitwirkung sind in § 65 SGB I geregelt.",
       "page": 10,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 1,
+      "x2": 601,
+      "y1": 39,
+      "y2": 49
     },
     {
       "align": "left",
       "content": "Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:",
       "page": 10,
       "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
+      "x1": 1,
+      "x2": 601,
+      "y1": 86,
+      "y2": 96
     }
   ],
   "title": "Antrag auf Sozialhilfe - Antragsbogen A",

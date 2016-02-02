@@ -4733,7 +4733,7 @@
     },
     {
       "align": "left",
-      "content": "Bitte Anlage 3 ausfüllen",
+      "content": "**Bitte Anlage 3 ausfüllen**",
       "page": 7,
       "structure": "",
       "x1": 34,
@@ -4903,7 +4903,7 @@
     },
     {
       "align": "left",
-      "content": "Sonstige Angaben",
+      "content": "**Sonstige Angaben**",
       "page": 8,
       "structure": "XI.",
       "x1": 36,

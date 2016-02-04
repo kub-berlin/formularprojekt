@@ -6,30 +6,30 @@
       "content": "Name und Vorname des/der Kindergeldberechtigten",
       "page": 0,
       "structure": "",
-      "x1": 12,
-      "x2": 250,
+      "x1": 11,
+      "x2": 232,
       "y1": 3,
-      "y2": 11
+      "y2": 10
     },
     {
       "align": "left",
       "content": "Kindergeld-Nr.",
       "page": 0,
       "structure": "",
-      "x1": 12,
-      "x2": 250,
-      "y1": 40,
-      "y2": 48
+      "x1": 11,
+      "x2": 232,
+      "y1": 37,
+      "y2": 44
     },
     {
       "align": "left",
       "content": "Steuer-ID",
       "page": 0,
       "structure": "",
-      "x1": 12,
-      "x2": 254,
-      "y1": 73,
-      "y2": 81
+      "x1": 11,
+      "x2": 235,
+      "y1": 68,
+      "y2": 75
     },
     {
       "align": "left",
@@ -47,9 +47,9 @@
       "page": 0,
       "structure": "",
       "x1": 6,
-      "x2": 608,
-      "y1": 130,
-      "y2": 148
+      "x2": 563,
+      "y1": 120,
+      "y2": 137
     },
     {
       "align": "left",
@@ -57,99 +57,99 @@
       "page": 0,
       "structure": "",
       "x1": 6,
-      "x2": 608,
-      "y1": 244,
-      "y2": 254
+      "x2": 563,
+      "y1": 226,
+      "y2": 235
     },
     {
       "align": "left",
       "content": "Der/Die Schüler(in) .......",
       "page": 0,
       "structure": "",
-      "x1": 10,
-      "x2": 603,
-      "y1": 295,
-      "y2": 305
+      "x1": 9,
+      "x2": 559,
+      "y1": 273,
+      "y2": 283
     },
     {
       "align": "left",
       "content": "geboren am ...",
       "page": 0,
       "structure": "",
-      "x1": 10,
-      "x2": 585,
-      "y1": 309,
-      "y2": 319
+      "x1": 9,
+      "x2": 542,
+      "y1": 286,
+      "y2": 296
     },
     {
       "align": "left",
       "content": "besucht die Klasse ...........",
       "page": 0,
       "structure": "",
-      "x1": 30,
-      "x2": 160,
-      "y1": 356,
-      "y2": 366
+      "x1": 28,
+      "x2": 148,
+      "y1": 330,
+      "y2": 339
     },
     {
       "align": "left",
       "content": "und wird die Schulausbildung - voraussichtlich - im Monat / Jahr ..... beenden.",
       "page": 0,
       "structure": "",
-      "x1": 30,
-      "x2": 606,
-      "y1": 372,
-      "y2": 382
+      "x1": 28,
+      "x2": 562,
+      "y1": 345,
+      "y2": 354
     },
     {
       "align": "left",
       "content": "Es handelt sich hierbei um Vollzeitunterricht.",
       "page": 0,
       "structure": "",
-      "x1": 8,
-      "x2": 606,
-      "y1": 416,
-      "y2": 426
+      "x1": 7,
+      "x2": 562,
+      "y1": 385,
+      "y2": 395
     },
     {
       "align": "left",
       "content": "Teilzeitunterricht mit .................... Stunden wöchentlich.",
       "page": 0,
       "structure": "",
-      "x1": 209,
-      "x2": 604,
-      "y1": 439,
-      "y2": 449
+      "x1": 194,
+      "x2": 560,
+      "y1": 407,
+      "y2": 416
     },
     {
       "align": "left",
       "content": "hat die Schulausbildung im Monat / Jahr..... beendet.",
       "page": 0,
       "structure": "",
-      "x1": 30,
-      "x2": 600,
-      "y1": 490,
-      "y2": 501
+      "x1": 28,
+      "x2": 556,
+      "y1": 454,
+      "y2": 464
     },
     {
       "align": "center",
       "content": "Ort und Datum",
       "page": 0,
       "structure": "",
-      "x1": 10,
-      "x2": 315,
-      "y1": 579,
-      "y2": 587
+      "x1": 9,
+      "x2": 292,
+      "y1": 537,
+      "y2": 544
     },
     {
       "align": "center",
       "content": "Stempel der Schule, Unterschrift",
       "page": 0,
       "structure": "",
-      "x1": 347,
-      "x2": 595,
-      "y1": 578,
-      "y2": 586
+      "x1": 322,
+      "x2": 551,
+      "y1": 536,
+      "y2": 543
     }
   ],
   "title": "Kindergeld: Schulbescheinigung für Familienkasse",

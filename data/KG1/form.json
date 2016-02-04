@@ -6,40 +6,40 @@
       "content": "Name und Vorname der antragstellenden Person",
       "page": 0,
       "structure": "",
-      "x1": 9,
-      "x2": 246,
-      "y1": 6,
-      "y2": 15
+      "x1": 8,
+      "x2": 224,
+      "y1": 5,
+      "y2": 14
     },
     {
       "align": "left",
       "content": "Kindergeld-Nr.",
       "page": 0,
       "structure": "",
-      "x1": 15,
-      "x2": 247,
-      "y1": 41,
-      "y2": 52
+      "x1": 14,
+      "x2": 225,
+      "y1": 37,
+      "y2": 47
     },
     {
       "align": "left",
       "content": "Familienkasse",
       "page": 0,
       "structure": "",
-      "x1": 393,
-      "x2": 610,
-      "y1": 7,
-      "y2": 47
+      "x1": 358,
+      "x2": 556,
+      "y1": 6,
+      "y2": 43
     },
     {
       "align": "left",
       "content": "Bitte beachten Sie die Hinweise zum Antrag auf Kindergeld und das Merkblatt Kindergeld.",
       "page": 0,
       "structure": "",
-      "x1": 373,
-      "x2": 611,
-      "y1": 114,
-      "y2": 127
+      "x1": 340,
+      "x2": 557,
+      "y1": 104,
+      "y2": 116
     },
     {
       "align": "left",
@@ -47,9 +47,9 @@
       "page": 0,
       "structure": "",
       "x1": 2,
-      "x2": 231,
-      "y1": 102,
-      "y2": 122
+      "x2": 210,
+      "y1": 93,
+      "y2": 111
     },
     {
       "align": "left",
@@ -57,9 +57,9 @@
       "page": 0,
       "structure": "",
       "x1": 2,
-      "x2": 350,
-      "y1": 131,
-      "y2": 148
+      "x2": 319,
+      "y1": 119,
+      "y2": 135
     },
     {
       "align": "left",
@@ -67,49 +67,49 @@
       "page": 0,
       "structure": "",
       "x1": 2,
-      "x2": 93,
-      "y1": 161,
-      "y2": 176
+      "x2": 85,
+      "y1": 147,
+      "y2": 160
     },
     {
       "align": "left",
       "content": "Erstantrag bei Geburt",
       "page": 0,
       "structure": "",
-      "x1": 514,
-      "x2": 601,
-      "y1": 194,
-      "y2": 209
+      "x1": 468,
+      "x2": 548,
+      "y1": 177,
+      "y2": 190
     },
     {
       "align": "left",
       "content": "Angaben zum Kind",
       "page": 0,
       "structure": "1",
-      "x1": 25,
-      "x2": 478,
-      "y1": 195,
-      "y2": 210
+      "x1": 23,
+      "x2": 436,
+      "y1": 178,
+      "y2": 191
     },
     {
       "align": "left",
       "content": "Bei erstmaligem Antrag notwendige Unterlagen (Geburtsurkunde bzw. -bescheinigung, Annahmebeschluss) beifügen.",
       "page": 0,
       "structure": "",
-      "x1": 23,
-      "x2": 464,
-      "y1": 205,
-      "y2": 213
+      "x1": 21,
+      "x2": 423,
+      "y1": 187,
+      "y2": 194
     },
     {
       "align": "left",
       "content": "Steuerliche Identifikationsnummer des Kindes",
       "page": 0,
       "structure": "",
-      "x1": 6,
-      "x2": 234,
-      "y1": 226,
-      "y2": 236
+      "x1": 5,
+      "x2": 213,
+      "y1": 206,
+      "y2": 215
     },
     {
       "align": "left",
@@ -117,39 +117,39 @@
       "page": 0,
       "structure": "",
       "x1": 3,
-      "x2": 302,
-      "y1": 266,
-      "y2": 273
+      "x2": 275,
+      "y1": 242,
+      "y2": 249
     },
     {
       "align": "left",
       "content": "ggf. abweichender Familienname",
       "page": 0,
       "structure": "",
-      "x1": 321,
-      "x2": 612,
-      "y1": 263,
-      "y2": 278
+      "x1": 293,
+      "x2": 558,
+      "y1": 240,
+      "y2": 253
     },
     {
       "align": "left",
       "content": "Geburtsdatum",
       "page": 0,
       "structure": "",
-      "x1": 7,
-      "x2": 131,
-      "y1": 301,
-      "y2": 307
+      "x1": 6,
+      "x2": 119,
+      "y1": 274,
+      "y2": 280
     },
     {
       "align": "left",
       "content": "Geschlecht",
       "page": 0,
       "structure": "",
-      "x1": 156,
-      "x2": 300,
-      "y1": 303,
-      "y2": 309
+      "x1": 142,
+      "x2": 273,
+      "y1": 276,
+      "y2": 282
     },
     {
       "align": "left",
@@ -157,309 +157,309 @@
       "page": 0,
       "structure": "",
       "x1": 4,
-      "x2": 616,
-      "y1": 340,
-      "y2": 344
+      "x2": 561,
+      "y1": 310,
+      "y2": 313
     },
     {
       "align": "left",
       "content": "Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern/in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)",
       "page": 0,
       "structure": "",
-      "x1": 8,
-      "x2": 611,
-      "y1": 375,
-      "y2": 381
+      "x1": 7,
+      "x2": 557,
+      "y1": 342,
+      "y2": 347
     },
     {
       "align": "left",
       "content": "Kindschaftsverhältnis zur antragstellenden Person, zum/zur Ehepartner/in und zu anderen Personen",
       "page": 0,
       "structure": "2",
-      "x1": 27,
-      "x2": 605,
-      "y1": 417,
-      "y2": 429
+      "x1": 25,
+      "x2": 551,
+      "y1": 380,
+      "y2": 391
     },
     {
       "align": "left",
       "content": "Kindschaftsverhältnis zur antragstellenden Person:",
       "page": 0,
       "structure": "",
-      "x1": 27,
-      "x2": 276,
-      "y1": 445,
-      "y2": 456
+      "x1": 25,
+      "x2": 252,
+      "y1": 406,
+      "y2": 416
     },
     {
       "align": "left",
       "content": "leibliches Kind/Adoptivkind",
       "page": 0,
       "structure": "",
-      "x1": 299,
-      "x2": 420,
-      "y1": 441,
-      "y2": 452
+      "x1": 272,
+      "x2": 383,
+      "y1": 402,
+      "y2": 412
     },
     {
       "align": "left",
       "content": "Pflegekind",
       "page": 0,
       "structure": "",
-      "x1": 441,
-      "x2": 513,
-      "y1": 445,
-      "y2": 456
+      "x1": 402,
+      "x2": 467,
+      "y1": 406,
+      "y2": 416
     },
     {
       "align": "left",
       "content": "Enkelkind/Stiefkind",
       "page": 0,
       "structure": "",
-      "x1": 537,
-      "x2": 607,
-      "y1": 443,
-      "y2": 456
+      "x1": 489,
+      "x2": 553,
+      "y1": 404,
+      "y2": 416
     },
     {
       "align": "left",
       "content": "Kindschaftsverhältnis zum/zur Ehepartner/in:",
       "page": 0,
       "structure": "",
-      "x1": 29,
-      "x2": 278,
-      "y1": 460,
-      "y2": 473
+      "x1": 26,
+      "x2": 253,
+      "y1": 419,
+      "y2": 431
     },
     {
       "align": "left",
       "content": "leibliches Kind/Adoptivkind",
       "page": 0,
       "structure": "",
-      "x1": 300,
-      "x2": 415,
-      "y1": 463,
-      "y2": 477
+      "x1": 273,
+      "x2": 378,
+      "y1": 422,
+      "y2": 435
     },
     {
       "align": "left",
       "content": "Pflegekind",
       "page": 0,
       "structure": "",
-      "x1": 441,
-      "x2": 508,
-      "y1": 461,
-      "y2": 473
+      "x1": 402,
+      "x2": 463,
+      "y1": 420,
+      "y2": 431
     },
     {
       "align": "left",
       "content": "Enkelkind/Stiefkind",
       "page": 0,
       "structure": "",
-      "x1": 539,
-      "x2": 614,
-      "y1": 461,
-      "y2": 472
+      "x1": 491,
+      "x2": 560,
+      "y1": 420,
+      "y2": 430
     },
     {
       "align": "left",
       "content": "Kindschaftsverhältnis zu anderen Personen:",
       "page": 0,
       "structure": "",
-      "x1": 28,
-      "x2": 275,
-      "y1": 493,
-      "y2": 494
+      "x1": 26,
+      "x2": 251,
+      "y1": 449,
+      "y2": 450
     },
     {
       "align": "left",
       "content": "ja, bitte hier Angaben machen",
       "page": 0,
       "structure": "",
-      "x1": 300,
-      "x2": 412,
-      "y1": 485,
-      "y2": 494
+      "x1": 273,
+      "x2": 375,
+      "y1": 442,
+      "y2": 450
     },
     {
       "align": "left",
       "content": "nein",
       "page": 0,
       "structure": "",
-      "x1": 538,
-      "x2": 598,
-      "y1": 483,
-      "y2": 498
+      "x1": 490,
+      "x2": 545,
+      "y1": 440,
+      "y2": 454
     },
     {
       "align": "left",
       "content": "Name, Vorname",
       "page": 0,
       "structure": "",
-      "x1": 28,
-      "x2": 338,
-      "y1": 525,
-      "y2": 529
+      "x1": 26,
+      "x2": 308,
+      "y1": 478,
+      "y2": 482
     },
     {
       "align": "left",
       "content": "Geburtsdatum",
       "page": 0,
       "structure": "",
-      "x1": 352,
-      "x2": 456,
-      "y1": 526,
-      "y2": 531
+      "x1": 321,
+      "x2": 416,
+      "y1": 479,
+      "y2": 484
     },
     {
       "align": "left",
       "content": "Art des Kindschaftsverhältnisses",
       "page": 0,
       "structure": "",
-      "x1": 472,
-      "x2": 613,
-      "y1": 524,
-      "y2": 531
+      "x1": 430,
+      "x2": 559,
+      "y1": 477,
+      "y2": 484
     },
     {
       "align": "left",
       "content": "letzte bekannte Anschrift",
       "page": 0,
       "structure": "",
-      "x1": 28,
-      "x2": 617,
-      "y1": 559,
-      "y2": 561
+      "x1": 26,
+      "x2": 562,
+      "y1": 509,
+      "y2": 511
     },
     {
       "align": "left",
       "content": "Staatsangehörigkeit",
       "page": 0,
       "structure": "",
-      "x1": 29,
-      "x2": 200,
-      "y1": 588,
-      "y2": 594
+      "x1": 26,
+      "x2": 182,
+      "y1": 536,
+      "y2": 541
     },
     {
       "align": "left",
       "content": "Ort der Tätigkeit (ggf. im Ausland)",
       "page": 0,
       "structure": "",
-      "x1": 219,
-      "x2": 607,
-      "y1": 587,
-      "y2": 598
+      "x1": 200,
+      "x2": 553,
+      "y1": 535,
+      "y2": 545
     },
     {
       "align": "left",
       "content": "Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,",
       "page": 0,
       "structure": "3",
-      "x1": 27,
-      "x2": 597,
-      "y1": 612,
-      "y2": 634
+      "x1": 25,
+      "x2": 544,
+      "y1": 558,
+      "y2": 578
     },
     {
       "align": "left",
       "content": "sonst weiter bei Punkt 4:",
       "page": 0,
       "structure": "",
-      "x1": 25,
-      "x2": 603,
-      "y1": 640,
-      "y2": 653
+      "x1": 23,
+      "x2": 549,
+      "y1": 583,
+      "y2": 595
     },
     {
       "align": "left",
       "content": "Das Kind",
       "page": 0,
       "structure": "",
-      "x1": 24,
-      "x2": 413,
-      "y1": 654,
-      "y2": 669
+      "x1": 22,
+      "x2": 376,
+      "y1": 596,
+      "y2": 610
     },
     {
       "align": "left",
       "content": "von/ab … bis",
       "page": 0,
       "structure": "",
-      "x1": 439,
-      "x2": 609,
-      "y1": 645,
-      "y2": 657
+      "x1": 400,
+      "x2": 555,
+      "y1": 588,
+      "y2": 599
     },
     {
       "align": "left",
       "content": "befindet sich in Schul-, Hochschul- oder Berufsausbildung",
       "page": 0,
       "structure": "a)",
-      "x1": 42,
-      "x2": 430,
-      "y1": 674,
-      "y2": 686
+      "x1": 38,
+      "x2": 392,
+      "y1": 614,
+      "y2": 625
     },
     {
       "align": "left",
       "content": "Bezeichnung der Schul-, Hochschul- oder Berufsausbildung:",
       "page": 0,
       "structure": "",
-      "x1": 44,
-      "x2": 359,
-      "y1": 691,
-      "y2": 700
+      "x1": 40,
+      "x2": 327,
+      "y1": 630,
+      "y2": 638
     },
     {
       "align": "left",
       "content": "kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen",
       "page": 0,
       "structure": "b)",
-      "x1": 41,
-      "x2": 430,
-      "y1": 741,
-      "y2": 752
+      "x1": 37,
+      "x2": 392,
+      "y1": 675,
+      "y2": 685
     },
     {
       "align": "left",
       "content": "leistet ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen (§ 2 Abs. 1a SGB VII), einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz)",
       "page": 0,
       "structure": "c)",
-      "x1": 45,
-      "x2": 441,
-      "y1": 768,
-      "y2": 780
+      "x1": 41,
+      "x2": 402,
+      "y1": 700,
+      "y2": 711
     },
     {
       "align": "left",
       "content": "befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten)",
       "page": 0,
       "structure": "d)",
-      "x1": 42,
-      "x2": 430,
-      "y1": 831,
-      "y2": 851
+      "x1": 38,
+      "x2": 392,
+      "y1": 757,
+      "y2": 775
     },
     {
       "align": "left",
       "content": "ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet",
       "page": 0,
       "structure": "e)",
-      "x1": 40,
-      "x2": 431,
-      "y1": 860,
-      "y2": 875
+      "x1": 36,
+      "x2": 393,
+      "y1": 784,
+      "y2": 797
     },
     {
       "align": "left",
       "content": "ist wegen einer vor Vollendung des 25. Lebensjahres eingetretenen Behinderung außerstande, sich selbst finanziell zu unterhalten",
       "page": 0,
       "structure": "f)",
-      "x1": 33,
-      "x2": 430,
-      "y1": 887,
-      "y2": 898
+      "x1": 30,
+      "x2": 392,
+      "y1": 808,
+      "y2": 818
     },
     {
       "align": "left",

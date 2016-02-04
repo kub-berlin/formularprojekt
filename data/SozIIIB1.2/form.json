@@ -6,780 +6,780 @@
       "content": "Anlage 2 - Ausländer -",
       "page": 0,
       "structure": "",
-      "x1": 358,
-      "x2": 681,
-      "y1": 30,
-      "y2": 48
+      "x1": 295,
+      "x2": 562,
+      "y1": 25,
+      "y2": 40
     },
     {
       "align": "left",
       "content": "Name, Vorname",
       "page": 0,
       "structure": "",
-      "x1": 26,
-      "x2": 331,
-      "y1": 3,
-      "y2": 13
+      "x1": 21,
+      "x2": 273,
+      "y1": 2,
+      "y2": 11
     },
     {
       "align": "left",
       "content": "Geschäftszeichen",
       "page": 0,
       "structure": "",
-      "x1": 26,
-      "x2": 331,
-      "y1": 35,
-      "y2": 45
+      "x1": 21,
+      "x2": 273,
+      "y1": 29,
+      "y2": 37
     },
     {
       "align": "left",
       "content": "Zum Antrag vom",
       "page": 0,
       "structure": "",
-      "x1": 26,
-      "x2": 332,
-      "y1": 68,
-      "y2": 78
+      "x1": 21,
+      "x2": 274,
+      "y1": 56,
+      "y2": 64
     },
     {
       "align": "left",
       "content": "Pass-Nr.:",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 199,
-      "y1": 107,
-      "y2": 117
+      "x1": 34,
+      "x2": 164,
+      "y1": 88,
+      "y2": 97
     },
     {
       "align": "left",
       "content": "ausgestellt am",
       "page": 0,
       "structure": "",
-      "x1": 204,
-      "x2": 332,
-      "y1": 99,
-      "y2": 109
+      "x1": 168,
+      "x2": 274,
+      "y1": 82,
+      "y2": 90
     },
     {
       "align": "left",
       "content": "gültig bis",
       "page": 0,
       "structure": "",
-      "x1": 336,
-      "x2": 463,
-      "y1": 99,
-      "y2": 109
+      "x1": 277,
+      "x2": 382,
+      "y1": 82,
+      "y2": 90
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 685,
-      "y1": 99,
-      "y2": 109
+      "x1": 385,
+      "x2": 565,
+      "y1": 82,
+      "y2": 90
     },
     {
       "align": "left",
       "content": "Passeinzugsbescheinigung",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 201,
-      "y1": 137,
-      "y2": 147
+      "x1": 34,
+      "x2": 166,
+      "y1": 113,
+      "y2": 121
     },
     {
       "align": "left",
       "content": "ausgestellt am",
       "page": 0,
       "structure": "",
-      "x1": 204,
-      "x2": 331,
-      "y1": 129,
-      "y2": 139
+      "x1": 168,
+      "x2": 273,
+      "y1": 106,
+      "y2": 115
     },
     {
       "align": "left",
       "content": "gültig bis",
       "page": 0,
       "structure": "",
-      "x1": 336,
-      "x2": 463,
-      "y1": 129,
-      "y2": 139
+      "x1": 277,
+      "x2": 382,
+      "y1": 106,
+      "y2": 115
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 685,
-      "y1": 129,
-      "y2": 139
+      "x1": 385,
+      "x2": 565,
+      "y1": 106,
+      "y2": 115
     },
     {
       "align": "left",
       "content": "Grenzübertrittsbescheinigung",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 201,
-      "y1": 163,
-      "y2": 173
+      "x1": 34,
+      "x2": 166,
+      "y1": 135,
+      "y2": 143
     },
     {
       "align": "left",
       "content": "mit Ausreisefrist bis zum",
       "page": 0,
       "structure": "",
-      "x1": 204,
-      "x2": 463,
-      "y1": 159,
-      "y2": 169
+      "x1": 168,
+      "x2": 382,
+      "y1": 131,
+      "y2": 139
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 684,
-      "y1": 159,
-      "y2": 169
+      "x1": 385,
+      "x2": 564,
+      "y1": 131,
+      "y2": 139
     },
     {
       "align": "left",
       "content": "Aufenthaltsdokumente",
       "page": 0,
       "structure": "A",
-      "x1": 26,
-      "x2": 626,
-      "y1": 198,
-      "y2": 211
+      "x1": 21,
+      "x2": 517,
+      "y1": 163,
+      "y2": 174
     },
     {
       "align": "left",
       "content": "Niederlassungserlaubnis",
       "page": 0,
       "structure": "8",
-      "x1": 41,
-      "x2": 277,
-      "y1": 222,
-      "y2": 232
+      "x1": 34,
+      "x2": 229,
+      "y1": 183,
+      "y2": 191
     },
     {
       "align": "left",
       "content": "\\- unbefristet -",
       "page": 0,
       "structure": "",
-      "x1": 280,
-      "x2": 464,
-      "y1": 215,
-      "y2": 223
+      "x1": 231,
+      "x2": 383,
+      "y1": 177,
+      "y2": 184
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 685,
-      "y1": 215,
-      "y2": 225
+      "x1": 385,
+      "x2": 565,
+      "y1": 177,
+      "y2": 186
     },
     {
       "align": "left",
       "content": "Visum auf Einladung von",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 277,
-      "y1": 247,
-      "y2": 257
+      "x1": 34,
+      "x2": 229,
+      "y1": 204,
+      "y2": 212
     },
     {
       "align": "left",
       "content": "befristet bis",
       "page": 0,
       "structure": "",
-      "x1": 280,
-      "x2": 463,
-      "y1": 247,
-      "y2": 257
+      "x1": 231,
+      "x2": 382,
+      "y1": 204,
+      "y2": 212
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 683,
-      "y1": 247,
-      "y2": 257
+      "x1": 385,
+      "x2": 564,
+      "y1": 204,
+      "y2": 212
     },
     {
       "align": "left",
       "content": "Aufenthaltserlaubnis wg. des Krieges im Heimatland nach § 23 Abs. 1 oder § 24 oder nach § 25 Abs. 4 Satz1, Abs. 4 a, 4 b oder Abs.5 AufenthG",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 277,
-      "y1": 269,
-      "y2": 279
+      "x1": 34,
+      "x2": 229,
+      "y1": 222,
+      "y2": 230
     },
     {
       "align": "left",
       "content": "befristet bis",
       "page": 0,
       "structure": "",
-      "x1": 280,
-      "x2": 464,
-      "y1": 269,
-      "y2": 279
+      "x1": 231,
+      "x2": 383,
+      "y1": 222,
+      "y2": 230
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 685,
-      "y1": 269,
-      "y2": 279
+      "x1": 385,
+      "x2": 565,
+      "y1": 222,
+      "y2": 230
     },
     {
       "align": "left",
       "content": "Andere Aufenthaltserlaubnis i.S. des AufenthG",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 277,
-      "y1": 333,
-      "y2": 343
+      "x1": 34,
+      "x2": 229,
+      "y1": 275,
+      "y2": 283
     },
     {
       "align": "left",
       "content": "befristet bis",
       "page": 0,
       "structure": "",
-      "x1": 280,
-      "x2": 464,
-      "y1": 333,
-      "y2": 343
+      "x1": 231,
+      "x2": 383,
+      "y1": 275,
+      "y2": 283
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 685,
-      "y1": 333,
-      "y2": 343
+      "x1": 385,
+      "x2": 565,
+      "y1": 275,
+      "y2": 283
     },
     {
       "align": "left",
       "content": "Aufenthaltsgestattung zur Durchführung eines Asylverfahrens",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 277,
-      "y1": 369,
-      "y2": 379
+      "x1": 34,
+      "x2": 229,
+      "y1": 304,
+      "y2": 313
     },
     {
       "align": "left",
       "content": "befristet bis",
       "page": 0,
       "structure": "",
-      "x1": 280,
-      "x2": 463,
-      "y1": 369,
-      "y2": 379
+      "x1": 231,
+      "x2": 382,
+      "y1": 304,
+      "y2": 313
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 684,
-      "y1": 369,
-      "y2": 379
+      "x1": 385,
+      "x2": 564,
+      "y1": 304,
+      "y2": 313
     },
     {
       "align": "left",
       "content": "Aussetzung der Abschiebung (Duldung)",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 277,
-      "y1": 407,
-      "y2": 417
+      "x1": 34,
+      "x2": 229,
+      "y1": 336,
+      "y2": 344
     },
     {
       "align": "left",
       "content": "befristet bis",
       "page": 0,
       "structure": "",
-      "x1": 281,
-      "x2": 464,
-      "y1": 407,
-      "y2": 417
+      "x1": 232,
+      "x2": 383,
+      "y1": 336,
+      "y2": 344
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 685,
-      "y1": 407,
-      "y2": 417
+      "x1": 385,
+      "x2": 565,
+      "y1": 336,
+      "y2": 344
     },
     {
       "align": "left",
       "content": "Fiktionsbescheinigung „gilt Abschiebung als ausgesetzt“",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 277,
-      "y1": 430,
-      "y2": 440
+      "x1": 34,
+      "x2": 229,
+      "y1": 355,
+      "y2": 363
     },
     {
       "align": "left",
       "content": "befristet bis",
       "page": 0,
       "structure": "",
-      "x1": 281,
-      "x2": 464,
-      "y1": 430,
-      "y2": 440
+      "x1": 232,
+      "x2": 383,
+      "y1": 355,
+      "y2": 363
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 684,
-      "y1": 430,
-      "y2": 440
+      "x1": 385,
+      "x2": 564,
+      "y1": 355,
+      "y2": 363
     },
     {
       "align": "left",
       "content": "Fiktionsbescheinigung „gilt Aufenthalt als erlaubt“ oder „gilt Aufenthaltstitel als befristet bis von (Dienststelle) fortbestehend“",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 277,
-      "y1": 466,
-      "y2": 476
+      "x1": 34,
+      "x2": 229,
+      "y1": 385,
+      "y2": 393
     },
     {
       "align": "left",
       "content": "befristet bis",
       "page": 0,
       "structure": "",
-      "x1": 281,
-      "x2": 464,
-      "y1": 466,
-      "y2": 476
+      "x1": 232,
+      "x2": 383,
+      "y1": 385,
+      "y2": 393
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 685,
-      "y1": 466,
-      "y2": 476
+      "x1": 385,
+      "x2": 565,
+      "y1": 385,
+      "y2": 393
     },
     {
       "align": "left",
       "content": "nicht erhalten",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 277,
-      "y1": 519,
-      "y2": 529
+      "x1": 34,
+      "x2": 229,
+      "y1": 428,
+      "y2": 437
     },
     {
       "align": "left",
       "content": "Klage eingereicht am ... ;bevollmächtigter Rechtsanwalt (Name und Anschrift)",
       "page": 0,
       "structure": "",
-      "x1": 281,
-      "x2": 685,
-      "y1": 519,
-      "y2": 529
+      "x1": 232,
+      "x2": 565,
+      "y1": 428,
+      "y2": 437
     },
     {
       "align": "left",
       "content": "Vorlage einer Verpflichtungserklärung",
       "page": 0,
       "structure": "",
-      "x1": 27,
-      "x2": 683,
-      "y1": 556,
-      "y2": 566
+      "x1": 22,
+      "x2": 564,
+      "y1": 459,
+      "y2": 467
     },
     {
       "align": "left",
       "content": "Nein",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 184,
-      "y1": 571,
-      "y2": 581
+      "x1": 34,
+      "x2": 152,
+      "y1": 471,
+      "y2": 479
     },
     {
       "align": "left",
       "content": "Ja",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 75,
-      "y1": 608,
-      "y2": 618
+      "x1": 34,
+      "x2": 62,
+      "y1": 502,
+      "y2": 510
     },
     {
       "align": "left",
       "content": "Name, Anschrift",
       "page": 0,
       "structure": "",
-      "x1": 98,
-      "x2": 186,
-      "y1": 589,
-      "y2": 599
+      "x1": 81,
+      "x2": 153,
+      "y1": 486,
+      "y2": 494
     },
     {
       "align": "left",
       "content": "Zeitraum",
       "page": 0,
       "structure": "",
-      "x1": 98,
-      "x2": 187,
-      "y1": 620,
-      "y2": 630
+      "x1": 81,
+      "x2": 154,
+      "y1": 512,
+      "y2": 520
     },
     {
       "align": "left",
       "content": "Ausübung einer Erwerbstätigkeit",
       "page": 0,
       "structure": "B",
-      "x1": 26,
-      "x2": 684,
-      "y1": 642,
-      "y2": 655
+      "x1": 21,
+      "x2": 564,
+      "y1": 530,
+      "y2": 540
     },
     {
       "align": "left",
       "content": "nicht erlaubt",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 684,
-      "y1": 666,
-      "y2": 676
+      "x1": 34,
+      "x2": 564,
+      "y1": 550,
+      "y2": 558
     },
     {
       "align": "left",
       "content": "erlaubt",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 187,
-      "y1": 690,
-      "y2": 700
+      "x1": 34,
+      "x2": 154,
+      "y1": 569,
+      "y2": 578
     },
     {
       "align": "left",
       "content": "unbefristet",
       "page": 0,
       "structure": "",
-      "x1": 207,
-      "x2": 277,
-      "y1": 690,
-      "y2": 700
+      "x1": 171,
+      "x2": 229,
+      "y1": 569,
+      "y2": 578
     },
     {
       "align": "left",
       "content": "befristet bis",
       "page": 0,
       "structure": "",
-      "x1": 297,
-      "x2": 464,
-      "y1": 690,
-      "y2": 700
+      "x1": 245,
+      "x2": 383,
+      "y1": 569,
+      "y2": 578
     },
     {
       "align": "left",
       "content": "von (Bundesagentur) für Arbeit",
       "page": 0,
       "structure": "",
-      "x1": 485,
-      "x2": 684,
-      "y1": 690,
-      "y2": 700
+      "x1": 400,
+      "x2": 564,
+      "y1": 569,
+      "y2": 578
     },
     {
       "align": "left",
       "content": "Asyl",
       "page": 0,
       "structure": "C",
-      "x1": 26,
-      "x2": 626,
-      "y1": 710,
-      "y2": 723
+      "x1": 21,
+      "x2": 517,
+      "y1": 586,
+      "y2": 597
     },
     {
       "align": "left",
       "content": "nicht beantragt",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 641,
-      "y1": 734,
-      "y2": 744
+      "x1": 34,
+      "x2": 529,
+      "y1": 606,
+      "y2": 614
     },
     {
       "align": "left",
       "content": "beantragt",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 186,
-      "y1": 758,
-      "y2": 768
+      "x1": 34,
+      "x2": 153,
+      "y1": 625,
+      "y2": 634
     },
     {
       "align": "left",
       "content": "am",
       "page": 0,
       "structure": "",
-      "x1": 189,
-      "x2": 276,
-      "y1": 758,
-      "y2": 768
+      "x1": 156,
+      "x2": 228,
+      "y1": 625,
+      "y2": 634
     },
     {
       "align": "left",
       "content": "abgelehnt am",
       "page": 0,
       "structure": "",
-      "x1": 297,
-      "x2": 464,
-      "y1": 758,
-      "y2": 768
+      "x1": 245,
+      "x2": 383,
+      "y1": 625,
+      "y2": 634
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 684,
-      "y1": 758,
-      "y2": 768
+      "x1": 385,
+      "x2": 564,
+      "y1": 625,
+      "y2": 634
     },
     {
       "align": "left",
       "content": "Folgeantrag",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 186,
-      "y1": 783,
-      "y2": 793
+      "x1": 34,
+      "x2": 153,
+      "y1": 646,
+      "y2": 654
     },
     {
       "align": "left",
       "content": "am",
       "page": 0,
       "structure": "",
-      "x1": 189,
-      "x2": 277,
-      "y1": 783,
-      "y2": 793
+      "x1": 156,
+      "x2": 229,
+      "y1": 646,
+      "y2": 654
     },
     {
       "align": "left",
       "content": "abgelehnt am",
       "page": 0,
       "structure": "",
-      "x1": 297,
-      "x2": 463,
-      "y1": 783,
-      "y2": 793
+      "x1": 245,
+      "x2": 382,
+      "y1": 646,
+      "y2": 654
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 684,
-      "y1": 783,
-      "y2": 793
+      "x1": 385,
+      "x2": 564,
+      "y1": 646,
+      "y2": 654
     },
     {
       "align": "left",
       "content": "Zweitantrag",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 186,
-      "y1": 808,
-      "y2": 818
+      "x1": 34,
+      "x2": 153,
+      "y1": 667,
+      "y2": 675
     },
     {
       "align": "left",
       "content": "am",
       "page": 0,
       "structure": "",
-      "x1": 189,
-      "x2": 277,
-      "y1": 808,
-      "y2": 818
+      "x1": 156,
+      "x2": 229,
+      "y1": 667,
+      "y2": 675
     },
     {
       "align": "left",
       "content": "abgelehnt am",
       "page": 0,
       "structure": "",
-      "x1": 297,
-      "x2": 463,
-      "y1": 808,
-      "y2": 818
+      "x1": 245,
+      "x2": 382,
+      "y1": 667,
+      "y2": 675
     },
     {
       "align": "left",
       "content": "von (Dienststelle)",
       "page": 0,
       "structure": "",
-      "x1": 467,
-      "x2": 685,
-      "y1": 808,
-      "y2": 818
+      "x1": 385,
+      "x2": 565,
+      "y1": 667,
+      "y2": 675
     },
     {
       "align": "left",
       "content": "Klage eingereicht",
       "page": 0,
       "structure": "",
-      "x1": 41,
-      "x2": 186,
-      "y1": 836,
-      "y2": 846
+      "x1": 34,
+      "x2": 153,
+      "y1": 690,
+      "y2": 698
     },
     {
       "align": "left",
       "content": "am",
       "page": 0,
       "structure": "",
-      "x1": 189,
-      "x2": 277,
-      "y1": 836,
-      "y2": 846
+      "x1": 156,
+      "x2": 229,
+      "y1": 690,
+      "y2": 698
     },
     {
       "align": "left",
       "content": "bevollmächtigter Rechtsanwalt (Name und Anschrift)",
       "page": 0,
       "structure": "",
-      "x1": 280,
-      "x2": 685,
-      "y1": 828,
-      "y2": 838
+      "x1": 231,
+      "x2": 565,
+      "y1": 683,
+      "y2": 691
     },
     {
       "align": "left",
       "content": "Einreise",
       "page": 1,
       "structure": "D",
-      "x1": 26,
-      "x2": 677,
+      "x1": 22,
+      "x2": 563,
       "y1": 1,
-      "y2": 14
+      "y2": 12
     },
     {
       "align": "left",
       "content": "Zeitpunkt der letzten Einreise in die BRD",
       "page": 1,
       "structure": "",
-      "x1": 41,
-      "x2": 459,
-      "y1": 27,
-      "y2": 37
+      "x1": 34,
+      "x2": 382,
+      "y1": 22,
+      "y2": 31
     },
     {
       "align": "left",
       "content": "Datum",
       "page": 1,
       "structure": "",
-      "x1": 462,
-      "x2": 679,
-      "y1": 27,
-      "y2": 37
+      "x1": 384,
+      "x2": 565,
+      "y1": 22,
+      "y2": 31
     },
     {
       "align": "left",
       "content": "frühere Aufenthalte in der BRD",
       "page": 1,
       "structure": "",
-      "x1": 41,
-      "x2": 459,
-      "y1": 53,
-      "y2": 63
+      "x1": 34,
+      "x2": 382,
+      "y1": 44,
+      "y2": 52
     },
     {
       "align": "left",
       "content": "Zeitraum",
       "page": 1,
       "structure": "",
-      "x1": 462,
-      "x2": 678,
-      "y1": 53,
-      "y2": 63
+      "x1": 384,
+      "x2": 564,
+      "y1": 44,
+      "y2": 52
     },
     {
       "align": "left",
       "content": "letzter gewöhnlicher Aufenthalt im Ausland (Ort/Land)",
       "page": 1,
       "structure": "",
-      "x1": 41,
-      "x2": 458,
-      "y1": 78,
-      "y2": 88
+      "x1": 34,
+      "x2": 381,
+      "y1": 65,
+      "y2": 73
     },
     {
       "align": "left",
       "content": "Gründe für den jetzigen Aufenthalt; ggf. Gründe, weshalb ich nicht in mein Heimatland zurückkehren kann:",
       "page": 1,
       "structure": "",
-      "x1": 26,
-      "x2": 676,
-      "y1": 101,
-      "y2": 111
+      "x1": 22,
+      "x2": 562,
+      "y1": 84,
+      "y2": 92
     },
     {
       "align": "left",
       "content": "Datum und Unterschrift d. Antragstellers/Antragstellerin",
       "page": 1,
       "structure": "",
-      "x1": 26,
-      "x2": 677,
-      "y1": 314,
-      "y2": 324
+      "x1": 22,
+      "x2": 563,
+      "y1": 261,
+      "y2": 270
     }
   ],
   "title": "Antrag auf Sozialhilfe - Antragsbogen A - Anlage 2",

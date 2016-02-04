@@ -24,30 +24,16 @@
         {% for row in page.rows %}
         <span
             class="row layer1"
-            style="top: {{row.y1}}px; left: {{row.x1}}px; text-align: {{row.align}}; width: {{row.x2 - row.x1}}px; font-size: {{row.y2 - row.y1}}px;"
+            style="top: {{row.y1}}pt; left: {{row.x1}}pt; text-align: {{row.align}}; width: {{row.x2 - row.x1}}pt; font-size: {{row.y2 - row.y1}}pt;"
         >{{ row.content | translate(lang_id, form_id, default='') | markdown }}</span>
         {% if row.y12 != row.y22 %}
         <span
             class="row layer2"
-            style="top: {{row.y12}}px; left: {{row.x12}}px; text-align: {{row.align2}}; width: {{row.x22 - row.x12}}px; font-size: {{row.y22 - row.y12}}px;"
+            style="top: {{row.y12}}pt; left: {{row.x12}}pt; text-align: {{row.align2}}; width: {{row.x22 - row.x12}}pt; font-size: {{row.y22 - row.y12}}pt;"
         >{{ row.content | markdown }}</span>
         {% endif %}
         {% endfor %}
     </div>
     {% endfor %}
-
-    <script>
-        var el = document.createElement('style');
-        el.setAttribute('media', 'screen');
-        document.head.appendChild(el);
-
-        var setZoom = function() {
-            var zoom = 100 / (640 + 2 * 8) * Math.min(window.outerWidth - 30, 960);
-            el.innerHTML = 'body {zoom: ' + zoom + '%; margin: 0 auto;}';
-        }
-
-        setZoom();
-        window.addEventListener('resize', setZoom);
-    </script>
 </body>
 </html>

@@ -1,23 +1,34 @@
 body {
-	margin: 8px;
+	margin: 0;
 	font-family: Arial, sans-serif;
 }
+
+.disclaimer {
+	color: darkred;
+	border: 1px solid;
+	padding: 0.2em 0.5em;
+	font-size: 11pt;
+	box-sizing: border-box;
+	margin: 2em 0 1em;
+}
+
 .page,
 .disclaimer {
-	width: 616px;
+	width: 20cm;
+	margin-left: auto;
+	margin-right: auto;
 }
 .page {
-	height: 900px;
+	height: 28cm;
 	position: relative;
 	page-break-after: always;
-	margin: 0 auto 2em;
 	text-align: left;
 }
 .page:last-of-type {
 	page-break-after: auto;
 }
 .page-bg {
-	height: 900px;
+	width: 20cm;
 }
 .row {
 	position: absolute;
@@ -32,18 +43,13 @@ body {
 	margin-bottom: 0;
 }
 
-.disclaimer {
-	color: darkred;
-	border: 1px solid;
-	padding: 0.2em 0.5em;
-	font-size: 11px;
-	box-sizing: border-box;
-	margin: 2em auto 1em;
-}
-
-@media print {
-	body {
-		/* force firefox to scale on print */
-		min-width: 740px;
+@media (print) {
+	.disclaimer {
+		margin-top: 0;
+	}
+	.page,
+	.disclaimer {
+		margin-left: 0;
+		margin-right: 0;
 	}
 }

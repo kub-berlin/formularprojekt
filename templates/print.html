@@ -14,8 +14,6 @@
 
 <body>
     {% for page in pages %}
-    <div class="disclaimer">{{ 'disclaimer' | translate(lang_id, 'meta') | markdown }}</div>
-
     <div id="page-{{loop.index0}}" class="page">
         {% if page.bg %}
         <img class="page-bg" src="{{ url_for('static', filename='forms/%s/bg-%i.svg' % (form_id, loop.index0)) }}" alt="" />
@@ -34,6 +32,8 @@
         {% endif %}
         {% endfor %}
     </div>
+
+    <div class="disclaimer">{{ 'disclaimer' | translate(lang_id, 'meta') | markdown }}</div>
     {% endfor %}
 </body>
 </html>

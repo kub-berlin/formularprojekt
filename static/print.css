@@ -9,7 +9,11 @@ body {
 	padding: 0.2em 0.5em;
 	font-size: 11pt;
 	box-sizing: border-box;
-	margin: 2em 0 1em;
+	margin: 1em 0 2em;
+	page-break-after: always;
+}
+.disclaimer:last-of-type {
+	page-break-after: auto;
 }
 
 .page,
@@ -21,11 +25,7 @@ body {
 .page {
 	height: 28cm;
 	position: relative;
-	page-break-after: always;
 	text-align: left;
-}
-.page:last-of-type {
-	page-break-after: auto;
 }
 .page-bg {
 	width: 20cm;
@@ -45,7 +45,7 @@ body {
 
 @media (print) {
 	.disclaimer {
-		margin-top: 0;
+		margin-bottom: 0;
 	}
 	.page,
 	.disclaimer {

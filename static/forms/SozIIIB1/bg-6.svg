@@ -5545,36 +5545,7 @@
              clip-path="url(#clipPath260)" /></g><g
            id="g264"><g
              id="g266"
-             clip-path="url(#clipPath268)" /></g></g></g><g
-       id="g272"
-       transform="translate(0,-6.1e-5)"><g
-         id="g274"
-         clip-path="url(#clipPath276)"><g
-           id="g280"><g
-             id="g282"
-             clip-path="url(#clipPath284)"><g
-               id="g288"
-               transform="translate(0,6.1e-5)"><text
-                 transform="matrix(1,0,0,-1,89.304,785.52)"
-                 id="text290"><tspan
-                   style="font-size:9.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Wingdings;-inkscape-font-specification:Wingdings"
-                   x="0"
-                   y="0"
-                   id="tspan292"></tspan></text>
-</g></g></g></g></g><g
-       id="g294"><g
-         id="g296"
-         clip-path="url(#clipPath298)"><g
-           id="g302"><g
-             id="g304"
-             clip-path="url(#clipPath306)"><text
-               transform="matrix(1,0,0,-1,98.184,785.52)"
-               id="text310"><tspan
-                 style="font-size:8.03999996px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Wingdings;-inkscape-font-specification:Wingdings"
-                 x="0"
-                 y="0"
-                 id="tspan312"></tspan></text>
-</g></g></g></g><path
+             clip-path="url(#clipPath268)" /></g></g></g><path
        d="m 49.56,817.44 524.28,0 0,0.48 -524.28,0 0,-0.48 z"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path314"
@@ -6129,27 +6100,7 @@
          clip-path="url(#clipPath1378)" /></g><g
        id="g1382"><g
          id="g1384"
-         clip-path="url(#clipPath1386)" /></g><g
-       id="g1390"><g
-         id="g1392"
-         clip-path="url(#clipPath1394)"><text
-           transform="matrix(1,0,0,-1,89.304,697.9)"
-           id="text1398"><tspan
-             style="font-size:9.96000004px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Wingdings;-inkscape-font-specification:Wingdings"
-             x="0"
-             y="0"
-             id="tspan1400"></tspan></text>
-</g></g><g
-       id="g1402"><g
-         id="g1404"
-         clip-path="url(#clipPath1406)"><text
-           transform="matrix(1,0,0,-1,98.184,697.9)"
-           id="text1410"><tspan
-             style="font-size:8.03999996px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Wingdings;-inkscape-font-specification:Wingdings"
-             x="0"
-             y="0"
-             id="tspan1412"></tspan></text>
-</g></g><path
+         clip-path="url(#clipPath1386)" /></g><path
        d="m 49.56,729.82 1.44,0 0,0.48 -1.44,0 0,-0.48 z"
        style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path1414"

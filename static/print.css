@@ -3,21 +3,7 @@ body {
 	font-family: Arial, sans-serif;
 }
 
-.disclaimer {
-	color: darkred;
-	border: 1px solid;
-	padding: 0.2em 0.5em;
-	font-size: 11pt;
-	box-sizing: border-box;
-	margin: 1em 0 2em;
-	page-break-after: always;
-}
-.disclaimer:last-of-type {
-	page-break-after: auto;
-}
-
-.page,
-.disclaimer {
+.page {
 	width: 20cm;
 	margin-left: auto;
 	margin-right: auto;
@@ -25,16 +11,17 @@ body {
 .page {
 	height: 28cm;
 	position: relative;
+	page-break-after: always;
 	text-align: left;
+}
+.page:last-of-type {
+	page-break-after: auto;
 }
 .page-bg {
 	width: 20cm;
 }
 .row {
 	position: absolute;
-}
-.disclaimer p {
-	margin: 0;
 }
 .row p:first-child {
 	margin-top: 0;
@@ -44,11 +31,7 @@ body {
 }
 
 @media (print) {
-	.disclaimer {
-		margin-bottom: 0;
-	}
-	.page,
-	.disclaimer {
+	.page {
 		margin-left: 0;
 		margin-right: 0;
 	}

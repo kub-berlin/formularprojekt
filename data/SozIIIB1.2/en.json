@@ -7,7 +7,12 @@
     "Aufenthaltsgestattung zur Durchführung eines Asylverfahrens": "Residence permit for the purpose of an asylum procedure",
     "Aussetzung der Abschiebung (Duldung)": "Suspended deportation (Duldung)",
     "Datum": "Date",
+    "Geschäftszeichen": "Reference",
     "Ja": "Yes",
     "Name, Vorname": "Surname, first name",
-    "\\- unbefristet -": "\\- no time limit -"
+    "Nein": "No",
+    "\\- unbefristet -": "\\- no time limit -",
+    "ausgestellt am": "issued on",
+    "gültig bis": "from – until",
+    "von (Dienststelle)": "Place of issue"
 }

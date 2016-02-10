@@ -1,6 +1,10 @@
 {
     "Anschrift": "Address",
+    "Art": "Type",
     "Geburtsdatum": "Date of birth",
+    "Geschäftszeichen": "Reference",
+    "Grund": "Reason",
     "Ja": "Yes",
-    "Name, Vorname": "Surname, first name"
+    "Name, Vorname": "Surname, first name",
+    "Nein": "No"
 }

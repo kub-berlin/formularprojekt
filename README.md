@@ -10,7 +10,8 @@ This repository contains
 
 -   translations in JSON format (`data/`)
 -   a python tool to create a website from those translations. (If you have
-    virtualenv and lessc install, you can simply run `make`.)
+    python-virtualenv and [bower](http://bower.io/) installed, you can simply
+    run `make`.)
 -   a web application that aides in annotationg forms (see [Annotate
     forms](#annotate-forms))
 
@@ -56,13 +57,13 @@ Here are some more tipps for transcription:
 ## Extract backgrounds
 
 If a page in a form contains relevant lines or graphics, it is included in this
-project as a background image. It should be a PNG file without the original
-margins, ~610px x 900px in size. It should be named `bg-{i}.png` where `{i}` is
-the number of the page, starting with 0.
+project as a background image located in `static/forms/`. It should be a SVG
+file without the original margins. It should be named `bg-{i}.svg` where `{i}`
+is the number of the page, starting with 0.
 
-One way to get those background images is to open a PDF in inkscape and removing
-all text from it. Please leave all structural information (e.g. 1, 1.1, 1.1.2,
-A, B) intact as they help with orientation.
+One way to get those background images is to open a PDF in inkscape and
+removing all text from it. Please leave all structural information (e.g. 1,
+1.1, 1.1.2, A, B) intact as they help with orientation.
 
 ## Annotate forms
 
@@ -88,7 +89,7 @@ annotate. Once you have selected one, you can select a row in the right column.
 You can now position the string either by clicking in the left column (click
 sets the top left corner, ctrl-click sets the bottom right corner of the first
 line). You can also tweak the value by using the input fields in the right
-column. These are: x1, x2, width, y1, y2, fontsize.
+column. These are: x1, x2, width, y1, y2, fontsize, alignment.
 
 You can also click "update" in the top bar to reset the data to the latest
 version on the server. This is useful in two cases:

@@ -29,6 +29,9 @@ body {
 .row p:last-child {
 	margin-bottom: 0;
 }
+.row.layer1 {
+	font-style: italic;
+}
 
 @media (print) {
 	.page {

@@ -10,8 +10,7 @@ This repository contains
 
 -   translations in JSON format (`data/`)
 -   a python tool to create a website from those translations. (If you have
-    python-virtualenv and [bower](http://bower.io/) installed, you can simply
-    run `make`.)
+    python-virtualenv and nodejs) installed, you can simply run `make`.)
 -   a web application that aides in annotationg forms (see [Annotate
     forms](#annotate-forms))
 

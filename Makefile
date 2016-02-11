@@ -1,4 +1,4 @@
-.PHONY: build serve push
+.PHONY: build serve push clean
 
 build: .env static/style.css static/* templates/*
 	. .env/bin/activate && python website.py build
@@ -25,3 +25,10 @@ data/%/de.json: data/%/form.json scripts/de.py
 .env:
 	virtualenv .env
 	. .env/bin/activate && pip install Flask Flask-Markdown Frozen-Flask colorama transifex-client
+
+clean:
+	rm -f -r .env
+	rm -f -r build
+	rm -f -r static_src/bower_components
+	rm -f -r annotator/bower_components
+	rm -f static/style.css

@@ -157,7 +157,8 @@ def _form_stats(form_id, langs, verbose):
 def print_stats(form_id=None, lang_id=None, verbose=False):
     if lang_id is None:
         langs = list(stats.keys())
-        langs.remove('de')
+        if 'de' in langs:
+            langs.remove('de')
         langs.sort()
     else:
         langs = [lang_id]
@@ -328,7 +329,7 @@ def create_app(settings=None):
 
 def create_freezer(app):
     app.config.update({
-        'FREEZER_BASE_URL': '/formularprojekt/',
+        'FREEZER_BASE_URL': 'http://localhost/formularprojekt/',
         'FREEZER_REMOVE_EXTRA_FILES': True,
     })
     return Freezer(app)

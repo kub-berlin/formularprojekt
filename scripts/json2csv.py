@@ -3,10 +3,12 @@ import json
 import csv
 import argparse
 
+ensure_str = lambda s: s if isinstance(s, str) else s.encode('utf8')
+
 
 def json2csv(fh):
     data = json.load(fh)
-    encoded = [(a.encode('utf8'), b.encode('utf8')) for a, b in data.items()]
+    encoded = [(ensure_str(a), ensure_str(b)) for a, b in data.items()]
 
     w = csv.writer(sys.stdout)
     w.writerows(encoded)
@@ -20,7 +22,7 @@ def csv2json(fh):
         value = row[1].decode('utf8')
         data[key] = value
     s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
-    print(s.encode('utf8'))
+    print(ensure_str(s))
 
 
 def parse_args():

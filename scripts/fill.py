@@ -9,6 +9,8 @@ forms = {}
 
 BASEPATH = os.path.abspath('data')
 
+ensure_str = lambda s: s if isinstance(s, str) else s.encode('utf8')
+
 
 def normalize(s):
     a = s\

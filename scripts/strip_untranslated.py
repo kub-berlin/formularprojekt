@@ -8,6 +8,8 @@ EXCEPTIONS = [
     'IBAN',
 ]
 
+ensure_str = lambda s: s if isinstance(s, str) else s.encode('utf8')
+
 
 def iter_translations():
     for dirpath, dirnames, filenames in os.walk(BASEPATH):
@@ -36,4 +38,4 @@ for form_id, lang_id, path in iter_translations():
 
         with open(path, 'wb') as fh:
             s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
-            fh.write(s.encode('utf8'))
+            fh.write(ensure_str(s))

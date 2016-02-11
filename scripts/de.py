@@ -2,7 +2,8 @@ import json
 import sys
 
 
-f = lambda row: row['content'].encode('utf8')
+ensure_str = lambda s: s if isinstance(s, str) else s.encode('utf8')
+f = lambda row: ensure_str(row['content'])
 
 if __name__ == '__main__':
     with open(sys.argv[1]) as fh:

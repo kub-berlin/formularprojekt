@@ -58,7 +58,7 @@ def load_data(top):
     for lang_id in _translations:
         stats[lang_id] = {}
 
-        for form_id in forms.keys() + ['meta']:
+        for form_id in list(forms.keys()) + ['meta']:
             if form_id == 'meta':
                 keys = set(_translations['en']['meta'].keys())
             else:
@@ -156,7 +156,7 @@ def _form_stats(form_id, langs, verbose):
 
 def print_stats(form_id=None, lang_id=None, verbose=False):
     if lang_id is None:
-        langs = stats.keys()
+        langs = list(stats.keys())
         langs.remove('de')
         langs.sort()
     else:
@@ -269,7 +269,7 @@ def print_route(lang_id, form_id):
 
 @formularprojekt.route('/stats/')
 def stats_route():
-    langs = stats.keys()
+    langs = list(stats.keys())
     langs.remove('de')
     langs.sort()
 

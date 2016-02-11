@@ -1,6 +1,6 @@
 .PHONY: build serve push clean
 
-build: .env static/style.css static/* templates/*
+build: .env static/style.css static/* templates/* annotator/bower_components
 	. .env/bin/activate && python website.py build
 
 serve: .env static/style.css static/* templates/* annotator/bower_components

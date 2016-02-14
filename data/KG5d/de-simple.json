@@ -1,5 +1,7 @@
 {
+    "Datum": "Datum",
     "Geburtsdatum": "Geburtsdatum (Wann ist die Person geboren?)",
+    "Name": "Name",
     "Vorname": "Vorname",
     "bis": "bis",
     "dauernd getrennt lebend": "Sie sind verheiratet, aber Sie leben nicht zusammen",

@@ -22,7 +22,8 @@ def normalize(s):
 
 
 def iter_translations():
-    for dirpath, dirnames, filenames in os.walk(BASEPATH):
+    items = sorted(os.walk(BASEPATH), key=lambda a: a[0].lower())
+    for dirpath, dirnames, filenames in items:
         for filename in filenames:
             form_id = os.path.basename(dirpath)
             path = os.path.join(dirpath, filename)

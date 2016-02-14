@@ -6,6 +6,9 @@ build: .env static/style.css static/* templates/* annotator/bower_components
 serve: .env static/style.css static/* templates/* annotator/bower_components
 	. .env/bin/activate && python website.py serve
 
+fill: .env
+	. .env/bin/activate && python scripts/fill.py
+
 push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
 

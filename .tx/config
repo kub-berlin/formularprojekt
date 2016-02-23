@@ -8,6 +8,12 @@ source_lang = de
 type = KEYVALUEJSON
 file_filter = data/meta/<lang>.json
 
+[formulare.AlgII]
+source_file = data/AlgII/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/AlgII/<lang>.json
+
 [formulare.KG]
 source_file = data/KG/de.json
 source_lang = de

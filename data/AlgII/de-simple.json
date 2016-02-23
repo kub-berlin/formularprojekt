@@ -1,0 +1,19 @@
+{
+    "Anschrift": "Adresse dieser Person",
+    "Antragsdatum": "Datum des Antrags",
+    "BIC": "BIC (die Nummer finden Sie auf Ihrer EC-Karte)",
+    "E-Mail-Adresse": "E-Mail-Adresse",
+    "Geburtsdatum": "Geburtsdatum (Wann ist die Person geboren?)",
+    "Geburtsort": "Geburtsort (Wo ist die Person geboren?)",
+    "Grund": "Warum?",
+    "IBAN": "IBAN (die Nummer finden Sie auf Ihrer EC-Karte)",
+    "Ja": "ja",
+    "Nein": "nein",
+    "Rentenversicherungsnummer": "Rentenversicherungsnummer",
+    "Staatsangehörigkeit": "Staatsangehörigkeit (Von welchem Land hat die Person einen Pass?)",
+    "Telefonnummer": "Telefonnummer",
+    "Vorname": "Vorname",
+    "ledig": "ledig (Die Person ist nicht verheiratet und nicht geschieden)",
+    "verheiratet": "verheiratet",
+    "verwitwet": "verwitwet (Ihr_e Partner_in ist gestorben)"
+}

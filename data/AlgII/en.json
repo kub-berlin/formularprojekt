@@ -1,0 +1,21 @@
+{
+    "Anschrift": "Address",
+    "Antragsdatum": "Application date",
+    "Art der Tätigkeit": "Type of activity",
+    "BIC": "BIC",
+    "E-Mail-Adresse": "E-mail address",
+    "Geburtsdatum": "Date of birth",
+    "Geburtsort": "Place of birth",
+    "Grund": "Reason",
+    "IBAN": "IBAN",
+    "Ja": "Yes",
+    "Leistung": "Type of benefit",
+    "Nein": "No",
+    "Rentenversicherungsnummer": "Pension insurance number",
+    "Staatsangehörigkeit": "Nationality",
+    "Telefonnummer": "Telephone number",
+    "Vorname": "First name",
+    "ledig": "single",
+    "verheiratet": "married",
+    "verwitwet": "widowed"
+}

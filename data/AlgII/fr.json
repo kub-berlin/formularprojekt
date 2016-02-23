@@ -1,0 +1,20 @@
+{
+    "Aktenzeichen": "Numéro de dossier",
+    "Anschrift": "Adresse",
+    "Antragsdatum": "Date de la demande",
+    "BIC": "BIC",
+    "E-Mail-Adresse": "Adresse courriel",
+    "Geburtsdatum": "date de naissance",
+    "Geburtsort": "lieu de naissance",
+    "Grund": "Raison",
+    "IBAN": "IBAN",
+    "Ja": "Oui",
+    "Nein": "Non",
+    "Rentenversicherungsnummer": "Numéro d'assurance retraite",
+    "Staatsangehörigkeit": "Nationalité",
+    "Telefonnummer": "Numéro de téléphone",
+    "Vorname": "Prénom",
+    "ledig": "célibataire",
+    "verheiratet": "marié(e)",
+    "verwitwet": "veuf(ve)"
+}

@@ -1,0 +1,12 @@
+{
+    "BIC": "BIC",
+    "E-Mail-Adresse": "E-Mail",
+    "Geburtsdatum": "Data de nascimento",
+    "IBAN": "IBAN",
+    "Staatsangehörigkeit": "Nacionalidade",
+    "Telefonnummer": "Número de telefone",
+    "Vorname": "Nome(s)",
+    "ledig": "solteira/o",
+    "verheiratet": "casada/o",
+    "verwitwet": "viúva/o"
+}

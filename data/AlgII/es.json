@@ -1,0 +1,21 @@
+{
+    "Anschrift": "Dirección",
+    "Antragsdatum": "fecha de solicitud",
+    "Art der Tätigkeit": "Tipo de actividad",
+    "BIC": "BIC",
+    "E-Mail-Adresse": "Correo electrónico",
+    "Geburtsdatum": "Fecha de nacimiento",
+    "Geburtsort": "lugar de nacimiento",
+    "Grund": "superficie",
+    "IBAN": "IBAN",
+    "Ja": "Sí",
+    "Leistung": "Forma del subsidio",
+    "Nein": "No",
+    "Rentenversicherungsnummer": "número del seguro de pensiones",
+    "Staatsangehörigkeit": "Nacionalidad",
+    "Telefonnummer": "Teléfono",
+    "Vorname": "Nombre",
+    "ledig": "soltero/a",
+    "verheiratet": "casado/a",
+    "verwitwet": "viudo/a"
+}

@@ -1,0 +1,18 @@
+{
+    "Anschrift": "Adres",
+    "Art der Tätigkeit": "Yapdıgınız iş",
+    "BIC": "BIC",
+    "E-Mail-Adresse": "email adresi",
+    "Geburtsdatum": "Dogum tarihi",
+    "IBAN": "IBAN",
+    "Ja": "Evet",
+    "Leistung": "yardim bedeli",
+    "Nein": "Hayır",
+    "Rentenversicherungsnummer": "Emeklilik sigortası numarası",
+    "Staatsangehörigkeit": "Vatandaşlık",
+    "Telefonnummer": "telefon nosu",
+    "Vorname": "Adı",
+    "ledig": "bekar",
+    "verheiratet": "evli",
+    "verwitwet": "dul"
+}

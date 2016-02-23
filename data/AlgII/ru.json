@@ -1,0 +1,21 @@
+{
+    "Anschrift": "Адрес",
+    "Antragsdatum": "дата подачи",
+    "Art der Tätigkeit": "Вид деятельности",
+    "BIC": "BIC (банковский идентификационный код)",
+    "E-Mail-Adresse": "Адрес электронной почты",
+    "Geburtsdatum": "Дата рождения",
+    "Geburtsort": "место рождения",
+    "Grund": "земля",
+    "IBAN": "IBAN (международный номер банковского счета)",
+    "Ja": "да",
+    "Leistung": "Вид пособия",
+    "Nein": "нет",
+    "Rentenversicherungsnummer": "номер пенсионного страхования",
+    "Staatsangehörigkeit": "Гражданство",
+    "Telefonnummer": "№ телефона",
+    "Vorname": "Имя",
+    "ledig": "холост/не замужем",
+    "verheiratet": "женат/замужем",
+    "verwitwet": "вдовец/вдова"
+}

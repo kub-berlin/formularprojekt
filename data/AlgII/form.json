@@ -4,11 +4,6 @@
   "title": "Alg II Hauptantrag",
   "rows": [
     {
-      "content": "Bearbeitungsvermerke",
-      "structure": "",
-      "page": 0
-    },
-    {
       "structure": "",
       "page": 0,
       "content": "Nur vom Jobcenter auszufüllen"
@@ -409,7 +404,7 @@
       "content": "Dauer der Unterbringung von - bis"
     },
     {
-      "content": "Bitte legen Sie eine gültige Bescheinigung vor.",
+      "content": "Falls ja, legen Sie bitte eine gültige Bescheinigung vor.",
       "structure": "",
       "page": 1
     },
@@ -419,14 +414,14 @@
       "content": "Personen in meiner Bedarfsgemeinschaft"
     },
     {
-      "content": "Falls ja, legen Sie bitte eine gültige Bescheinigung vor.",
+      "content": "Leben Sie allein, dann gehen Sie bitte zu Abschnitt 3.",
       "page": 1,
       "structure": ""
     },
     {
       "page": 1,
       "structure": "",
-      "content": "Zu meiner Bedarfsgemeinschaft gehört/gehören ... weitere Person/en."
+      "content": "Zu meiner Bedarfsgemeinschaft gehört/gehören neben mir ... weitere Person/en."
     },
     {
       "content": "Folgende Aussagen treffen auf meine Bedarfsgemeinschaft zu:",
@@ -469,7 +464,7 @@
       "content": "Persönliche Daten der weiteren Person/en meiner Bedarfsgemeinschaft"
     },
     {
-      "content": "Berücksichtigen Sie hier die Person/en die außer Ihnen zur Bedarfsgemeinschaft gehört/gehören. Da Sie die Leistung beantragen, wird davon ausgegangen, dass Sie auch die Vertretung Ihrer Bedarfsgemeinschaft übernommen haben. Dies gilt nicht mehr, wenn über 15-jährige Mitglieder Ihrer Bedarfsgemeinschaft gegenüber dem Jobcenter erklären, dass sie ihre Interessen selbst wahrnehmen wollen, z. B. durch eine eigene Antragstellung (§ 38 SGB II). Zu den nicht vertretenen Personen sind hier keine Angaben erforderlich.",
+      "content": "Berücksichtigen Sie hier die Person/en, die außer Ihnen zur Bedarfsgemeinschaft gehört/gehören. Da Sie die Leistung beantragen, wird davon ausgegangen, dass Sie auch die Vertretung Ihrer Bedarfsgemeinschaft übernommen haben. Dies gilt nicht mehr, wenn über 15-jährige Mitglieder Ihrer Bedarfsgemeinschaft gegenüber dem Jobcenter erklären, dass sie ihre Interessen selbst wahrnehmen wollen, z. B. durch eine eigene Antragstellung (§ 38 SGB II). Zu den nicht vertretenen Personen sind hier keine Angaben erforderlich.",
       "structure": "",
       "page": 1
     },
@@ -649,7 +644,7 @@
     {
       "structure": "",
       "page": 2,
-      "content": "Bitte legen Sie entsprechende Nachweise vor."
+      "content": "Hier sind Mehrfachnennungen möglich. Bitte legen Sie entsprechende Nachweise vor."
     },
     {
       "content": "war ich **sozialversicherungspflichtig** beschäftigt.",
@@ -904,7 +899,7 @@
     {
       "structure": "",
       "page": 3,
-      "content": "Ein Elternteil lebt außerhalb der Bedarfsgemeinschaft."
+      "content": "Mindestens ein Elternteil lebt außerhalb der Bedarfsgemeinschaft."
     },
     {
       "content": "Bitte füllen Sie die **Anlage UH4** aus.",
@@ -977,7 +972,7 @@
       "content": "Leistungen beantragt ab"
     },
     {
-      "content": "Name des Kindes (bei Leistungen für ein Kind unter 15 Jahren)",
+      "content": "Name der Person, für die Leistungen beantragt wurden",
       "structure": "",
       "page": 4
     },
@@ -1230,6 +1225,16 @@
       "structure": "",
       "page": 5,
       "content": "Unterschrift der/des gesetzlichen Vertreterin/Vertreters minderjähriger Antragstellerinnen/Antragsteller"
+    },
+    {
+      "structure": "",
+      "page": 5,
+      "content": "Formular drucken"
+    },
+    {
+      "structure": "",
+      "page": 5,
+      "content": "Formular zurücksetzen"
     }
   ]
 }

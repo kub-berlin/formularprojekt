@@ -1,6 +1,11 @@
 {
     "Anschrift": "العنوان",
+    "Art": "النوع",
     "Geburtsdatum": "تاريخ الميلاد:",
+    "Geschäftszeichen": "رقم الاضبارة",
+    "Grund": "السبب",
     "Ja": "نعم",
-    "Name, Vorname": "اللقب, الاسم"
+    "Name, Vorname": "اللقب, الاسم",
+    "Nein": "لا",
+    "Zum Antrag vom": "طلب من"
 }

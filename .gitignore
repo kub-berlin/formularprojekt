@@ -3,3 +3,4 @@ static/style.css
 static_src/bower_components
 annotator/bower_components
 .env
+data/all

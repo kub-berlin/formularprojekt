@@ -1,5 +1,6 @@
 {
     "Aktenzeichen": "Numéro de dossier",
+    "Anrede": "Titre",
     "Anschrift": "Adresse",
     "Antragsdatum": "Date de la demande",
     "BIC": "BIC",
@@ -8,12 +9,14 @@
     "Geburtsort": "lieu de naissance",
     "Grund": "Raison",
     "IBAN": "IBAN",
+    "Ich bestätige, dass die Angaben richtig sind.": "J'atteste l'exactitude des renseignements ci-dessus.",
     "Ja": "Oui",
     "Nein": "Non",
     "Rentenversicherungsnummer": "Numéro d'assurance retraite",
     "Staatsangehörigkeit": "Nationalité",
     "Telefonnummer": "Numéro de téléphone",
     "Vorname": "Prénom",
+    "Zutreffendes bitte ankreuzen": "Veuillez cocher ce qui convient",
     "ledig": "célibataire",
     "verheiratet": "marié(e)",
     "verwitwet": "veuf(ve)"

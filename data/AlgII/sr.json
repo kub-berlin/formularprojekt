@@ -1,9 +1,11 @@
 {
     "Anschrift": "Adresa",
     "Art der Tätigkeit": "Vrsta rada",
+    "E-Mail-Adresse": "E-Mail - adresa",
     "Geburtsdatum": "Datum rođenja",
     "Ja": "Da",
     "Leistung": "Vrednost",
+    "Telefonnummer": "Broj telefona",
     "Vorname": "Prezime",
     "ledig": "neoženjen/neudata",
     "verheiratet": "oženjen/udata",

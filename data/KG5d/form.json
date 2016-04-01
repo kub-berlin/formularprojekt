@@ -1,5 +1,6 @@
 {
-  "date": "2014-04-01",
+  "date": "2016-01-01",
+  "checksum": "25c47b4f140ac1ffeab1e44861ed4cc2",
   "rows": [
     {
       "align": "left",
@@ -23,7 +24,7 @@
     },
     {
       "align": "left",
-      "content": "Steuer-ID des/der Kindergeldberechtigten",
+      "content": "Steuerliche Identifikationsnummer des/der Kindergeldberechtigten (zwingend ausfüllen)",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -54,6 +55,26 @@
     {
       "align": "left",
       "content": "Erklärung zu den Verhältnissen eines über 18 Jahre alten Kindes",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "für Zeiträume von ... bis ...",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "ab ...",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -103,87 +124,7 @@
     },
     {
       "align": "left",
-      "content": "Steuer-ID des Kindes",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "Familienstand:",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "ledig",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "seit",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "verheiratet",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "in eingetragener Lebenspartnerschaft lebend",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "verwitwet",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "geschieden",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "dauernd getrennt lebend",
+      "content": "Steuerliche Identifikationsnummer (soweit vergeben, zwingend ausfüllen)",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -233,36 +174,6 @@
     },
     {
       "align": "left",
-      "content": "Hat das Kind eigene Kinder?",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "ja, seit .............",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "nein",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
       "content": "Weitere Angaben zum Kind (bitte Nachweise beifügen)",
       "page": 0,
       "structure": "2",
@@ -273,7 +184,7 @@
     },
     {
       "align": "left",
-      "content": "Zeitraum 1",
+      "content": "Zeitraum",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -293,37 +204,7 @@
     },
     {
       "align": "left",
-      "content": "bis",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "ggf. Zeitraum 2",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "von",
-      "page": 0,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "bis",
+      "content": "bis (voraussichtlich)",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -354,6 +235,56 @@
     {
       "align": "left",
       "content": "kann/konnte eine Ausbildung bzw. ein Studium mangels Ausbildungsplatz bzw. Studienplatz (noch) nicht beginnen oder fortsetzen.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Welche Ausbildung/welches Studium wird angestrebt/wurde angestrebt?",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Weitere Angaben zum Kind (bitte Nachweise beifügen)",
+      "page": 0,
+      "structure": "Zu 2",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Zeitraum",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "von",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bis (voraussichtlich)",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -403,7 +334,7 @@
     },
     {
       "align": "left",
-      "content": "in einer sonstigen Ausbildungsmaßnahme:",
+      "content": "in einer sonstigen Ausbildungsmaßnahme (z. B. Praktikum):",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -433,6 +364,36 @@
     },
     {
       "align": "left",
+      "content": "Zeitraum",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "von",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "bis (voraussichtlich)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
       "content": "Mein unter 1 genanntes Kind",
       "page": 0,
       "structure": "",
@@ -453,7 +414,17 @@
     },
     {
       "align": "left",
-      "content": "Weiter bei Punkt 5; bitte füllen Sie zusätzlich das Formular KG 5f aus.",
+      "content": "Weiter bei Punkt 5; bitte füllen Sie zusätzlich die Formulare KG 4e und 4f aus.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "hat vor dem 1. Juli 2011 den gesetzlichen Grundwehrdienst/Zivildienst oder einen entsprechenden Ersatzdienst geleistet.",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -583,7 +554,7 @@
     },
     {
       "align": "left",
-      "content": "Zeitpunkt:",
+      "content": "mit Wirkung vom:",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -613,7 +584,7 @@
     },
     {
       "align": "left",
-      "content": "(nur ausfüllen, wenn bereits eine Ausbildung/ein Studium abgeschlossen wurde)",
+      "content": "(nur ausfüllen, wenn bereits eine Ausbildung/ein Studium abgeschlossen wurde und weiterhin Kindergeld beantragt wurde oder ausgezahlt wird)",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -653,7 +624,7 @@
     },
     {
       "align": "left",
-      "content": "übt keine Erwerbstätigkeit aus/wird voraussichtlich keine Erwerbstätigkeit ausüben.",
+      "content": "übt/übte keine Erwerbstätigkeit aus/wird voraussichtlich keine Erwerbstätigkeit ausüben.",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -663,7 +634,7 @@
     },
     {
       "align": "left",
-      "content": "übt eine geringfügige Beschäftigung (Minijob) aus/wird voraussichtlich eine geringfügige Beschäftigung ausüben:",
+      "content": "übt/übte eine geringfügige Beschäftigung (Minijob) aus/wird voraussichtlich eine geringfügige Beschäftigung ausüben:",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -703,7 +674,7 @@
     },
     {
       "align": "left",
-      "content": "übt folgende (weitere) Erwerbstätigkeit aus/wird voraussichtlich folgende (weitere) Erwerbstätigkeit ausüben:",
+      "content": "übt/übte folgende (weitere) Erwerbstätigkeit aus/wird voraussichtlich folgende (weitere) Erwerbstätigkeit ausüben:",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -773,6 +744,16 @@
     },
     {
       "align": "left",
+      "content": "(Falls der Platz für Ihre Eintragungen nicht ausreichen sollte, verwenden Sie bitte ein separates Blatt.)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
       "content": "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
       "page": 0,
       "structure": "",
@@ -793,6 +774,16 @@
     },
     {
       "align": "left",
+      "content": "Die Inhalte des Merkblattes Kindergeld sind uns bekannt.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
       "content": "Datum",
       "page": 0,
       "structure": "",
@@ -804,6 +795,16 @@
     {
       "align": "left",
       "content": "(Unterschrift des/der Berechtigten)",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Datum",
       "page": 0,
       "structure": "",
       "x1": 0,

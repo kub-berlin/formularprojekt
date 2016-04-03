@@ -1,5 +1,6 @@
 {
-  "date": "2015-01-01",
+  "date": "2015-09-01",
+  "checksum": "3c96ed3d7ddec89857cfeeab587bbf3e",
   "rows": [
     {
       "align": "left",
@@ -103,7 +104,7 @@
     },
     {
       "align": "left",
-      "content": "Steuerliche Identifikationsnummer des Kindes",
+      "content": "Steuerliche Identifikationsnummer des Kindes (soweit vergeben, zwingend ausfüllen)",
       "page": 0,
       "structure": "",
       "x1": 5,
@@ -143,6 +144,16 @@
     },
     {
       "align": "left",
+      "content": "Geburtsort",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
       "content": "Geschlecht",
       "page": 0,
       "structure": "",
@@ -173,7 +184,7 @@
     },
     {
       "align": "left",
-      "content": "Kindschaftsverhältnis zur antragstellenden Person, zum/zur Ehepartner/in und zu anderen Personen",
+      "content": "Kindschaftsverhältnis",
       "page": 0,
       "structure": "2",
       "x1": 25,
@@ -183,7 +194,7 @@
     },
     {
       "align": "left",
-      "content": "Kindschaftsverhältnis zur antragstellenden Person:",
+      "content": "zur antragstellenden Person:",
       "page": 0,
       "structure": "",
       "x1": 25,
@@ -223,7 +234,7 @@
     },
     {
       "align": "left",
-      "content": "Kindschaftsverhältnis zum/zur Ehepartner/in:",
+      "content": "zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in:",
       "page": 0,
       "structure": "",
       "x1": 26,
@@ -263,7 +274,7 @@
     },
     {
       "align": "left",
-      "content": "Kindschaftsverhältnis zu anderen Personen:",
+      "content": "zu anderen Personen:",
       "page": 0,
       "structure": "",
       "x1": 26,
@@ -383,7 +394,7 @@
     },
     {
       "align": "left",
-      "content": "von/ab … bis",
+      "content": "ab/von",
       "page": 0,
       "structure": "",
       "x1": 400,
@@ -393,7 +404,17 @@
     },
     {
       "align": "left",
-      "content": "befindet sich in Schul-, Hochschul- oder Berufsausbildung",
+      "content": "bis",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "befand sich/befindet sich/wird sich befinden in Schul-, Hochschul- oder Berufsausbildung",
       "page": 0,
       "structure": "a)",
       "x1": 38,
@@ -413,7 +434,7 @@
     },
     {
       "align": "left",
-      "content": "kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen",
+      "content": "konnte/kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen",
       "page": 0,
       "structure": "b)",
       "x1": 37,
@@ -423,7 +444,7 @@
     },
     {
       "align": "left",
-      "content": "leistet ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen (§ 2 Abs. 1a SGB VII), einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz)",
+      "content": "leistete/leistet/wird leisten ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen, einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz)",
       "page": 0,
       "structure": "c)",
       "x1": 41,
@@ -433,7 +454,7 @@
     },
     {
       "align": "left",
-      "content": "befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten)",
+      "content": "befand/befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten)",
       "page": 0,
       "structure": "d)",
       "x1": 38,
@@ -443,7 +464,7 @@
     },
     {
       "align": "left",
-      "content": "ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet",
+      "content": "war/ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet",
       "page": 0,
       "structure": "e)",
       "x1": 36,
@@ -453,7 +474,7 @@
     },
     {
       "align": "left",
-      "content": "ist wegen einer vor Vollendung des 25. Lebensjahres eingetretenen Behinderung außerstande, sich selbst finanziell zu unterhalten",
+      "content": "war/ist wegen einer vor Vollendung des 25. Lebensjahres eingetretenen Behinderung außerstande, sich selbst finanziell zu unterhalten",
       "page": 0,
       "structure": "f)",
       "x1": 30,
@@ -503,7 +524,7 @@
     },
     {
       "align": "left",
-      "content": "Das Kind ist erwerbstätig bzw. wird erwerbstätig sein",
+      "content": "Das Kind war/ist erwerbstätig bzw. wird erwerbstätig sein",
       "page": 1,
       "structure": "h)",
       "x1": 0,
@@ -533,17 +554,7 @@
     },
     {
       "align": "left",
-      "content": "das Kind übt",
-      "page": 1,
-      "structure": "i)",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "eine oder mehrere geringfügige Beschäftigung(en) im Sinne der §§ 8, 8a SGB IV (sog. Minijob) aus",
+      "content": "Tätigkeit",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -553,7 +564,7 @@
     },
     {
       "align": "left",
-      "content": "ja, von / bis",
+      "content": "ab/von",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -563,7 +574,7 @@
     },
     {
       "align": "left",
-      "content": "nein",
+      "content": "bis",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -573,7 +584,7 @@
     },
     {
       "align": "left",
-      "content": "andere Erwerbstätigkeiten aus",
+      "content": "eine oder mehrere geringfügige Beschäftigung(en) im Sinne der §§ 8, 8a SGB IV (sog. Minijob)",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -583,17 +594,7 @@
     },
     {
       "align": "left",
-      "content": "ja, von / bis",
-      "page": 1,
-      "structure": "",
-      "x1": 0,
-      "x2": 0,
-      "y1": 0,
-      "y2": 0
-    },
-    {
-      "align": "left",
-      "content": "nein",
+      "content": "andere Erwerbstätigkeiten",
       "page": 1,
       "structure": "",
       "x1": 0,
@@ -883,7 +884,7 @@
     },
     {
       "align": "left",
-      "content": "außerhalb Deutschlands als Arbeitnehmer(in)/Selbständige(r)/Entwicklungshelfer(in) tätig?",
+      "content": "außerhalb Deutschlands als Arbeitnehmer/in, Selbständige/Selbständiger, Entwicklungshelfer/in tätig?",
       "page": 1,
       "structure": "b)",
       "x1": 0,
@@ -913,7 +914,7 @@
     },
     {
       "align": "left",
-      "content": "in Deutschland bei einer Dienststelle oder Einrichtung eines anderen Staates/als Angehörige(r) der NATO-Streitkräfte tätig?",
+      "content": "in Deutschland bei einer Dienststelle oder Einrichtung eines anderen Staates/als Angehöriger/Angehörige der NATO-Streitkräfte tätig?",
       "page": 1,
       "structure": "c)",
       "x1": 0,

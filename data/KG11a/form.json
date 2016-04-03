@@ -1,5 +1,6 @@
 {
-  "date": "2014-01-01",
+  "date": "2015-10-01",
+  "checksum": "24261a3eeec721319524d809b92440ea",
   "rows": [
     {
       "align": "left",
@@ -23,7 +24,7 @@
     },
     {
       "align": "left",
-      "content": "Steuer-ID",
+      "content": "Steuerliche Identifikationsnummer des/der Kindergeldberechtigten",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -203,7 +204,7 @@
     },
     {
       "align": "left",
-      "content": "Das genannte Kind ist/war ausbildungsplatzsuchend und sucht/suchte ab …. zum … einen Ausbildungsplatz für eine schulische Ausbildung einen Ausbildungsplatz für eine betriebliche Ausbildung einen Studienplatz",
+      "content": "Das genannte Kind ist/war **ausbildungsplatzsuchend** und sucht/suchte ab ... zum ...",
       "page": 0,
       "structure": "3",
       "x1": 0,
@@ -213,7 +214,7 @@
     },
     {
       "align": "left",
-      "content": "Bitte beachten Sie, dass für das genannte Kind gleichzeitig das Formular „Erklärung zu einer abgeschlossenen Erstausbildung und Erwerbstätigkeit“ (KG 5d) oder die Anlage Kind zum Antrag auf Kindergeld (KG 1) auszufüllen und einzureichen ist.",
+      "content": "einen Ausbildungsplatz für eine schulische Ausbildung",
       "page": 0,
       "structure": "",
       "x1": 0,
@@ -223,7 +224,37 @@
     },
     {
       "align": "left",
-      "content": "Das genannte Kind ist/war arbeitsuchend und sucht/suchte einen Arbeitsplatz ab ... zum …",
+      "content": "einen Ausbildungsplatz für eine betriebliche Ausbildung",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "einen Studienplatz",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Bitte beachten Sie, dass für das genannte Kind gleichzeitig das Formular „Erklärung zu den Verhältnissen eines über 18 Jahre alten Kindes“ (KG 5d) oder die Anlage Kind zum Antrag auf Kindergeld (KG 1) auszufüllen und einzureichen ist.",
+      "page": 0,
+      "structure": "",
+      "x1": 0,
+      "x2": 0,
+      "y1": 0,
+      "y2": 0
+    },
+    {
+      "align": "left",
+      "content": "Das genannte Kind ist/war **arbeitsuchend** und sucht/suchte einen Arbeitsplatz ab ... zum …",
       "page": 0,
       "structure": "4",
       "x1": 0,

@@ -940,7 +940,9 @@
       "align": "left"
     },
     {
-      "content": "Ich füge diesem Antrag ... **Anlage/n KI** und ... **Anlage/n WEP** bei."
+      "content": "Ich füge diesem Antrag ... **Anlage/n KI** und ... **Anlage/n WEP** bei.",
+      "structure": "",
+      "page": 1
     },
     {
       "content": "Bearbeitungsvermerke",
@@ -1255,16 +1257,6 @@
       "y1": 570,
       "x2": 554,
       "y2": 579,
-      "align": "left"
-    },
-    {
-      "content": "Hier sind Mehrfachnennungen möglich.",
-      "structure": "",
-      "page": 2,
-      "x1": 66,
-      "y1": 777,
-      "x2": 534,
-      "y2": 786,
       "align": "left"
     },
     {

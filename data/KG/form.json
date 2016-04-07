@@ -3,16 +3,6 @@
   "checksum": "5a00a8dddb1b9e2667abffaa7a76161a",
   "rows": [
     {
-      "align": "right",
-      "content": "Familienkasse",
-      "page": 0,
-      "structure": "",
-      "x1": 343,
-      "x2": 566,
-      "y1": 5,
-      "y2": 20
-    },
-    {
       "align": "left",
       "content": "Kindergeld-Nr.",
       "page": 0,
@@ -31,6 +21,16 @@
       "x2": 226,
       "y1": 36,
       "y2": 41
+    },
+    {
+      "align": "right",
+      "content": "Familienkasse",
+      "page": 0,
+      "structure": "",
+      "x1": 343,
+      "x2": 566,
+      "y1": 5,
+      "y2": 20
     },
     {
       "align": "left",

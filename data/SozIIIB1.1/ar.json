@@ -1,7 +1,10 @@
 {
+    "Aktenzeichen": "رقم الملف \\ المرجع",
     "Anschrift": "العنوان",
+    "Arbeitgeber": "مقدم\\صاحب العمل",
     "Art": "النوع",
     "Geburtsdatum": "تاريخ الميلاد:",
+    "Gericht": "المحكمة",
     "Geschäftszeichen": "رقم الاضبارة",
     "Grund": "السبب",
     "Ja": "نعم",

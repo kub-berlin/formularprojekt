@@ -20,10 +20,12 @@
         {% endif %}
 
         {% for row in page.rows %}
+        {% if row.y1 != row.y2 %}
         <span
             class="row layer1"
             style="top: {{row.y1}}pt; left: {{row.x1}}pt; text-align: {{row.align}}; width: {{row.x2 - row.x1}}pt; font-size: {{row.y2 - row.y1}}pt;"
         >{{ row.content | translate(lang_id, form_id, default='') | markdown }}</span>
+        {% endif %}
         {% if row.y12 != row.y22 %}
         <span
             class="row layer2"

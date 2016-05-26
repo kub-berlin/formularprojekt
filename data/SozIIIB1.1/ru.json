@@ -1,7 +1,10 @@
 {
+    "Aktenzeichen": "№ дела",
     "Anschrift": "Адрес",
+    "Arbeitgeber": "Работодатель",
     "Art": "вид",
     "Geburtsdatum": "Дата рождения",
+    "Gericht": "Суд",
     "Geschäftszeichen": "номер документа",
     "Grund": "земля",
     "Ja": "да",

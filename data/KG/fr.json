@@ -12,11 +12,11 @@
     "Staatsangehörigkeit": "Nationalité",
     "Titel": "Titre",
     "Vorname": "Prénom",
-    "dauernd getrennt lebend": "durablement séparé(e)",
-    "geschieden": "divorcé(e)",
+    "dauernd getrennt lebend": "séparé-e durablement",
+    "geschieden": "divorcé-e",
     "in eingetragener Lebenspartnerschaft lebend": "en partenariat enregistré",
     "ledig": "célibataire",
     "seit": "depuis",
-    "verheiratet": "marié(e)",
-    "verwitwet": "veuf(ve)"
+    "verheiratet": "marié-e",
+    "verwitwet": "veuf/veuve"
 }

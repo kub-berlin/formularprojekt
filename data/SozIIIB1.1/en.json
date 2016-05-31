@@ -3,10 +3,10 @@
     "Arbeitgeber": "Employer",
     "Art": "Type",
     "Geburtsdatum": "Date of birth",
-    "Geschäftszeichen": "Reference",
+    "Geschäftszeichen": "Reference number",
     "Grund": "Reason",
     "Ja": "Yes",
-    "Name, Vorname": "Surname, first name",
+    "Name, Vorname": "Last name, name",
     "Nein": "No",
     "Zum Antrag vom": "Referring to the application from"
 }

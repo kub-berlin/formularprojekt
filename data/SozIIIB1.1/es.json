@@ -1,11 +1,11 @@
 {
     "Anschrift": "Dirección",
     "Art": "tipo",
-    "Geburtsdatum": "Fecha de nacimiento",
-    "Geschäftszeichen": "referencia",
+    "Geburtsdatum": "fecha de nacimiento",
+    "Geschäftszeichen": "Numero de referencia",
     "Grund": "superficie",
     "Ja": "Sí",
-    "Name, Vorname": "Apellidos, Nombre",
+    "Name, Vorname": "Apellido, nombre",
     "Nein": "No",
     "Zum Antrag vom": "Relacionado con la solicitud de (fecha)"
 }

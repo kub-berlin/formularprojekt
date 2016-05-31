@@ -1,14 +1,14 @@
 {
     "Aktenzeichen": "№ дела",
-    "Anschrift": "Адрес",
+    "Anschrift": "адрес",
     "Arbeitgeber": "Работодатель",
     "Art": "вид",
     "Geburtsdatum": "Дата рождения",
     "Gericht": "Суд",
     "Geschäftszeichen": "номер документа",
-    "Grund": "земля",
+    "Grund": "Причина",
     "Ja": "да",
-    "Name, Vorname": "Фамилия, имя",
+    "Name, Vorname": "фамилия, имя",
     "Nein": "нет",
     "Zum Antrag vom": "к заявлению какого числа"
 }

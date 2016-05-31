@@ -9,7 +9,7 @@
     "Datum": "Datum",
     "Datum und Unterschrift d. Antragstellers/Antragstellerin": "Datum und Unterschrift von Ihnen",
     "Einreise": "Einreise",
-    "Fiktionsbescheinigung „gilt Abschiebung als ausgesetzt“": "Fiktionsbescheinigung „gilt Abschiebung als ausgesetzt“",
+    "Fiktionsbescheinigung „gilt Abschiebung als ausgesetzt“": "Fiktionsbescheinigung (Sie dürfen eine Zeit lang in Deutschland bleiben) „gilt Abschiebung als ausgesetzt“",
     "Fiktionsbescheinigung „gilt Aufenthalt als erlaubt“ oder „gilt Aufenthaltstitel als fortbestehend“": "Fiktionsbescheinigung (Sie dürfen eine Zeit lang in Deutschland bleiben) „gilt Aufenthalt als erlaubt“ oder „gilt Aufenthaltstitel als fortbestehend“",
     "Folgeantrag": "Sie haben einen Folgeantrag gestellt",
     "Geschäftszeichen": "Geschäftszeichen",
@@ -31,13 +31,13 @@
     "Zweitantrag": "Sie haben einen Zweitantrag gestellt",
     "abgelehnt am": "abgelehnt am",
     "am": "am",
-    "ausgestellt am": "Von wann ist der Ausweis?",
+    "ausgestellt am": "Wann wurde Ihr Pass gemacht?",
     "beantragt": "Sie haben Asyl beantragt",
     "befristet bis": "Wie lange erlaubt?",
     "bevollmächtigter Rechtsanwalt (Name und Anschrift)": "Name und Adresse Ihres_r Anwaltes_Anwältin",
     "erlaubt": "Das ist Ihnen erlaubt",
     "frühere Aufenthalte in der BRD": "Wann waren Sie früher schon mal in Deutschland?",
-    "gültig bis": "gültig bis",
+    "gültig bis": "Bis wann ist Ihr Pass gültig?",
     "letzter gewöhnlicher Aufenthalt im Ausland (Ort/Land)": "Wo war Ihr letzer Wohnort im Ausland (Ort/Land)?",
     "mit Ausreisefrist bis zum": "Bis zu welchem Tag müssen Sie aus Deutschland ausreisen?",
     "nicht beantragt": "Sie haben Asyl nicht beantragt",
@@ -45,5 +45,5 @@
     "nicht erlaubt": "Das ist Ihnen nicht erlaubt",
     "unbefristet": "für immer",
     "von (Bundesagentur) für Arbeit": "von (Bundesagentur) für Arbeit (Arbeitsamt)",
-    "von (Dienststelle)": "von welchem Amt?"
+    "von (Dienststelle)": "Wer hat Ihren Pass gemacht?"
 }

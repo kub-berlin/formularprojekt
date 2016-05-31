@@ -24,9 +24,9 @@
     "Telefonische Rückfrage tagsüber unter Nr.:": "Pour toute question, téléphonez pendant la journée au :",
     "bei keiner Stelle registriert, bemüht/bemühte sich jedoch selbst um einen Ausbildungsplatz und kann dies im Falle einer Ausbildungsplatzsuche nachweisen; siehe Hinweise.": "n'est/n'était inscrit dans aucune administration, mais cherche/cherchait lui-même une place d'apprentissage et peut le prouver en cas de recherche d'un apprentissage ; voir note explicative.",
     "bei keiner Stelle registriert.": "n'est/n'était inscrit dans aucune administration",
-    "dauernd getrennt lebend": "durablement séparé(e)",
+    "dauernd getrennt lebend": "séparé-e durablement",
     "geboren am": "Né(e) le",
-    "geschieden": "divorcé(e)",
+    "geschieden": "divorcé-e",
     "in eingetragener Lebenspartnerschaft lebend": "en partenariat enregistré",
     "ja": "oui",
     "ledig": "célibataire",
@@ -34,6 +34,6 @@
     "nein": "non",
     "registriert bei:": "inscrit :",
     "seit ....": "depuis …",
-    "verheiratet": "marié(e)",
-    "verwitwet": "veuf(ve)"
+    "verheiratet": "marié-e",
+    "verwitwet": "veuf/veuve"
 }

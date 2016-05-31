@@ -2,10 +2,10 @@
     "(Datum)": "(дата)",
     "(Unterschrift des Kindes)": "(подпись ребенка)",
     "Alle Eingaben löschen": "Удалить все данные",
-    "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort)": "Адрес (улица, номер дома, почтовый индекс, населенный пункт)",
+    "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort)": "Адрес (улица, номер дома, почтовый индекс, местожительство)",
     "Drucken": "Распечатать",
     "Familienstand:": "Семейное положение:",
-    "Kindergeld-Nr.": "номер детского пособия",
+    "Kindergeld-Nr.": "Номер детского пособия",
     "Name und Vorname des Kindes": "Фамилия и имя ребенка",
     "Name und Vorname des/der Kindergeldberechtigten": "Фамилия и имя лица, пользующегося правом на получение детского пособия",
     "Telefonische Rückfrage tagsüber unter Nr.:": "Укажите номер телефона для связи в дневное время в случае возникновения вопросов:",
@@ -14,8 +14,8 @@
     "geschieden": "разведен/разведена",
     "in eingetragener Lebenspartnerschaft lebend": "состою в зарегистрированном гражданском партнерстве",
     "ja": "да",
-    "ledig": "холост/не замужем",
+    "ledig": "холост / не замужем",
     "nein": "нет",
-    "verheiratet": "женат/замужем",
-    "verwitwet": "вдовец/вдова"
+    "verheiratet": "женат / замужем",
+    "verwitwet": "вдовец / вдова"
 }

@@ -3,7 +3,7 @@
     "BIC": "BIC",
     "Datum": "Date",
     "Familienstand": "État civil",
-    "Geburtsdatum": "date de naissance",
+    "Geburtsdatum": "Date de naissance",
     "Geschlecht": "Sexe",
     "IBAN": "IBAN",
     "Kindergeld-Nr.": "N° d'allocataire",
@@ -17,6 +17,6 @@
     "in eingetragener Lebenspartnerschaft lebend": "en partenariat enregistré",
     "ledig": "célibataire",
     "seit": "depuis",
-    "verheiratet": "marié-e",
+    "verheiratet": "marié(e)",
     "verwitwet": "veuf/veuve"
 }

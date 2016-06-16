@@ -27,7 +27,7 @@ data/%/de.json: data/%/form.json scripts/de.py
 
 .env:
 	virtualenv .env
-	. .env/bin/activate && pip install Flask Flask-Markdown Frozen-Flask colorama transifex-client nodeenv
+	. .env/bin/activate && pip install Flask Frozen-Flask Markdown colorama transifex-client nodeenv
 	echo bower > node_deps
 	echo less >> node_deps
 	. .env/bin/activate && nodeenv --node=system --python-virtualenv -r node_deps

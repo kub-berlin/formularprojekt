@@ -10,11 +10,12 @@ import argparse
 
 from flask import Flask, Blueprint, render_template
 from flask import abort
+from flask import Markup
 from flask.helpers import send_from_directory
 from flask_frozen import Freezer
-from flask.ext.markdown import Markdown
 
 from colorama import Fore
+from markdown import Markdown
 
 NEAR_COMPLETE = 1
 INCOMPLETE = 2
@@ -27,6 +28,15 @@ forms = {}
 _translations = {}
 translations = {}
 stats = {}
+
+
+def ext_markdown(app, **kwargs):
+    md = Markdown(**kwargs)
+
+    def render_markdown(text):
+        return Markup(md.convert(text))
+
+    app.jinja_env.filters['markdown'] = render_markdown
 
 
 def load_data(top):
@@ -323,7 +333,7 @@ def create_app(settings=None):
     app.jinja_env.trim_blocks = True
     app.jinja_env.lstrip_blocks = True
     app.register_blueprint(formularprojekt)
-    Markdown(app)
+    ext_markdown(app)
     return app
 
 

@@ -12,8 +12,8 @@ fill: .env
 push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
 
-static/style.css: static_src/style.less static_src/bower_components
-	. .env/bin/activate && lessc $< $@
+static/style.css: static_src/style.scss static_src/bower_components .env
+	. .env/bin/activate && node-sass $< > $@
 
 static_src/bower_components:
 	. .env/bin/activate && cd static_src && bower install mfbs
@@ -29,7 +29,7 @@ data/%/de.json: data/%/form.json scripts/de.py
 	virtualenv .env
 	. .env/bin/activate && pip install Flask Frozen-Flask Markdown colorama transifex-client nodeenv
 	echo bower > node_deps
-	echo less >> node_deps
+	echo node-sass >> node_deps
 	. .env/bin/activate && nodeenv --node=system --python-virtualenv -r node_deps
 	rm node_deps
 

@@ -1,5 +1,7 @@
-@import "variables.less";
-@import "bower_components/mfbs/src/base.less";
+@import "bower_components/mfbs/src/variables";
+@import "variables";
+@import "bower_components/mfbs/src/base";
+@import "bower_components/mfbs/src/fontsize";
 
 html {
     font-family: 'Droid Sans', arial, sans-serif;
@@ -7,7 +9,7 @@ html {
 
 h1.page-title {
     margin-bottom: 1em;
-    border-bottom: 0.2em solid @color-border;
+    border-bottom: 0.2em solid $color-border;
 
     a {
         text-decoration: none;
@@ -54,7 +56,7 @@ html[dir=rtl] table.m-dl th {
         border: 0;
     }
     td, th {
-        border: 1px solid @color-border;
+        border: 1px solid $color-border;
     }
     th {
         text-transform: uppercase;
@@ -62,7 +64,7 @@ html[dir=rtl] table.m-dl th {
 
     tbody {
         tr:nth-child(odd) {
-            background: @color-bg-tint;
+            background: $color-bg-tint;
         }
         tr.title,
         tr.structure {
@@ -86,9 +88,9 @@ ul.inline {
 }
 
 .disclaimer {
-    color: @color-link;
-    border: 1px solid mix(@color-link, @color-bg-tint, 25%);
-    background: mix(@color-link, @color-bg-tint, 15%);
+    color: $color-link;
+    border: 1px solid mix($color-link, $color-bg-tint, 25%);
+    background: mix($color-link, $color-bg-tint, 15%);
     border-radius: 0.3em;
     padding: 0.8em;
     margin-bottom: 2em;
@@ -100,8 +102,8 @@ ul.inline {
 
 .language-footer {
     font-size: small;
-    border: 1px solid @color-border;
-    background: @color-bg-tint;
+    border: 1px solid $color-border;
+    background: $color-bg-tint;
     padding: 0 0.5em;
     margin-top: 4em;
 
@@ -113,5 +115,5 @@ ul.inline {
 .stat-style-5 {color: red;}
 .stat-style-4 {font-style: italic;}
 .stat-style-3 {font-style: italic;}
-.stat-style-1 {font-weight: bold; background: @color-bg-tint;}
-.stat-style-None {color: @color-fg-tint; background: @color-bg-tint;}
+.stat-style-1 {font-weight: bold; background: $color-bg-tint;}
+.stat-style-None {color: $color-fg-tint; background: $color-bg-tint;}

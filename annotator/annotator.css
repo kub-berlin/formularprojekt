@@ -92,6 +92,7 @@ a {
 	font-size: inherit;
 	line-height: inherit;
 	background: none;
+	padding: 0;
 }
 .header input[name=zoom] {
 	width: 4em;

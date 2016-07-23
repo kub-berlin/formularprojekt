@@ -85,6 +85,14 @@ a {
 	float: right;
 	margin: 1em;
 }
+.header .export,
+.header .force-update {
+	color: inherit;
+	border: 0;
+	font-size: inherit;
+	line-height: inherit;
+	background: none;
+}
 .header input[name=zoom] {
 	width: 4em;
 }

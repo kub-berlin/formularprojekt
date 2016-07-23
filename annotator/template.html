@@ -42,10 +42,10 @@
 	</div>
 </div>
 
-<ul class="sidebar {{is-layer1: layer1, is-layer2: layer2}}">
+<ul role="radiogroup" class="sidebar {{is-layer1: layer1, is-layer2: layer2}}">
 {{#rows}}
 	<li class="{{selected: selected, defined: size, defined2: size2}}">
-		<a href="#" data-onclick="select-row">{{content}}</a>
+		<a href="#" role="radio" aria-checked="{{#selected}}true{{/selected}}{{^selected}}false{{/selected}}" data-onclick="select-row">{{content}}</a>
 		{{#selected}}
 		<div class="inputs">
 			<input type="number" name="x1" title="x1" data-onchange="update-selected" />

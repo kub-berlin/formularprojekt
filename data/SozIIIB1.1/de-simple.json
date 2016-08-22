@@ -1,14 +1,14 @@
 {
     "Aktenzeichen": "Wie ist das Aktenzeichen dazu?",
-    "Anschrift": "Adresse dieser Person",
+    "Anschrift": "Adresse",
     "Arbeitgeber": "Wie heißt die Firma, das Geschäft, die Person, wo Sie gearbeitet haben?",
     "Art": "Was?",
-    "Geburtsdatum": "Geburtsdatum (Wann ist die Person geboren?)",
+    "Geburtsdatum": "Wann ist die Person geboren?",
     "Gericht": "Welches Gericht kümmert sich?",
     "Geschäftszeichen": "Geschäftszeichen",
     "Grund": "Warum?",
     "Ja": "ja",
     "Name, Vorname": "Name, Vorname",
     "Nein": "nein",
-    "Zum Antrag vom": "Wann haben Sie den Antrag auf Sozialhilfe/auf Geld für Asylbewerber_innen gestellt?"
+    "Zum Antrag vom": "Wann haben Sie den Antrag auf Sozialhilfe/auf Geld für Asylbewerber gestellt?"
 }

@@ -1,18 +1,18 @@
 {
-    "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder": "1. Ihr Kind ist noch nicht 21 alt, es arbeitet nicht und es ist nicht bei einer Agentur für Arbeit (Arbeitsamt) als \"arbeitssuchend\" gemeldet ist oder",
+    "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder": "1.Ihr Kind ist noch nicht 21 alt, es arbeitet nicht und es ist nicht bei einer Agentur für Arbeit (Arbeitsamt) als \"arbeitssuchend\" gemeldet ist oder",
     "2. noch nicht das 25. Lebensjahr vollendet hat und": "2. Ihr Kind ist noch nicht 25 Jahre alt und",
     "3. wegen körperlicher, geistiger oder seelischer Behinderung außerstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze).": "3. kann wegen körperlicher, geistiger oder seelischer Behinderung nicht alleine Geld verdienen. Dieser Punkt gilt nur, wenn die Behinderung begonnen hat, bevor Ihr Kind 25 Jahre alt wurde.",
     "Art der Tätigkeit": "Was haben Sie dort gemacht?",
     "Datum": "Datum",
     "Ein Kind ist erwerbstätig, wenn es einer auf die Erzielung von Einkünften gerichteten Beschäftigung nachgeht, die den Einsatz seiner persönlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff „Erwerbstätigkeit“ durch eine nichtselbständige Tätigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbständige Tätigkeit erfüllt werden kann. Die Verwaltung eigenen Vermögens ist demgegenüber keine Erwerbstätigkeit.": "Wann ist das Kind \"erwerbstätig\"? Wenn es arbeitet, um damit Geld zu verdienen. Dazu zählt: angestellt arbeiten, in der Landwirtschaft arbeiten, in der Forstwirtschaft arbeiten, ein Firma betreiben, selbständig arbeiten. Wenn das Kind sein Geld verwaltet, ist es nicht \"erwerbstätig\".",
-    "Geburtsdatum": "Geburtsdatum (Wann ist die Person geboren?)",
+    "Geburtsdatum": "Wann ist die Person geboren?",
     "Kindergeld-Nr.": "Nummer für das Kindergeld",
-    "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den Fällen der Nummer 2 (a bis d) nur berücksichtigt, wenn das Kind keiner (schädlichen) Erwerbstätigkeit nachgeht.": "Ist Ihr Kind noch keine 25 Jahre alt und ist es schon mit der ersten angefangenen Berufsausbildung oder einem ersten Studium fertig? Dann können Sie nur Kindergeld bekommen, wenn Ihr Kind nicht regelmäßig insgesamt mehr als 20 Stunden pro Woche arbeitet.",
+    "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den Fällen der Nummer 2 (a bis d) nur berücksichtigt, wenn das Kind keiner (schädlichen) Erwerbstätigkeit nachgeht.": "Ist Ihr Kind noch keine 25 Jahre alt? Dann können Sie in den Fällen Nummer 2 a bis d nur Kindergeld bekommen, wenn Ihr Kind nicht regelmäßig mehr als 20 Stunden pro Woche arbeitet.",
     "Name": "Name",
     "Vorname": "Vorname",
     "Zeitraum": "Zeitraum",
     "a) für einen Beruf ausgebildet wird oder": "a) macht gerade eine (Berufs-)Ausbildung oder",
     "bis": "bis",
-    "c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder": "c) hat eine Berufsausbildung nicht anfangen oder kann sie nicht weitermachen, weil es keinen freien Ausbildungsplatz gibt oder",
-    "d) einen geregelten Freiwilligendienst leistet oder": "d) macht einen Freiwilligendienst, der auch geregelt ist"
+    "c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder": "c) kann keine Berufsausbildung beginnen oder kann sie nicht weitermachen, weil es keinen freien Ausbildungsplatz gibt oder",
+    "d) einen geregelten Freiwilligendienst leistet oder": "d) macht einen Freiwilligendienst oder"
 }

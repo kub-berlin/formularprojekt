@@ -50,6 +50,9 @@ a {
 .sidebar .selected {
 	font-weight: bold;
 }
+.sidebar .skipped {
+	display: none;
+}
 .sidebar li {
 	position: relative;
 	padding: 0.2em 1em;

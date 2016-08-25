@@ -705,6 +705,7 @@
     {
       "align": "start",
       "content": "Lassen Sie den Antrag auch von dem mit Ihnen gemeinsam in ein em Haushalt lebenden Ehegatten bzw. Lebenspartner/anderen Elternteil unterschreiben, wenn er damit einverstanden ist, dass Sie das Kindergeld erhalten. Wenn kein Einvernehmen besteht, teilen Sie dies bitte der Familienkasse mit. Wurde der Berechtigte gerichtlich bestimmt, fügen Sie bitte den Beschluss bei.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -715,6 +716,7 @@
     {
       "align": "start",
       "content": "Bitte beachten Sie, dass Ihr Antrag nur bearbeitet werden kann, wenn er vollständig ausgefüllt wurde.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -725,6 +727,7 @@
     {
       "align": "start",
       "content": "Ab dem 01.01.2016 ist Voraussetzung für den Anspruch auf Kindergeld, dass die anspruchsberechtigte Person und das Kind durch die an sie vergebenen steuerlichen Identifikationsnummern (§ 139b der Abgabenordnung) identifiziert werden. Seit 2008 wird jeder Person, die mit Hauptwohnung oder alleiniger Wohnung in einem Melderegister in Deutschland erfasst ist, eine steuerliche Identifikationsnummer zugeteilt. Diese 11-stellige Nummer ist unveränderlich, eindeutig und dauerhaft. Steuerliche Daten können damit unabhängig von Umzügen oder Namensänderungen immer der richtigen Person zugeordnet werden. Das Bundeszentralamt für Steuern sollte Ihnen Ihre Nummer im Jahr 2008 in einem Brief mitgeteilt haben.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -735,6 +738,7 @@
     {
       "align": "start",
       "content": "Wenn Sie aus dem Ausland nach Deutschland umziehen, erhalten Sie automatisch vom Bundeszentralamt für Steuern Ihre steuerliche Identifikationsnummer per Post, wenn Sie sich beim Einwohnermeldeamt gemeldet haben. Die steuerliche Identifikationsnummer Ihres Kindes wird unmittelbar nach der Geburt an dessen Meldeadresse versandt. Für Kinder, die sich mittlerweile im Ausland aufhalten, die aber im Inland bereits eine steuerliche Identifikationsnummer erhalten haben, geben Sie bitte die im Inland erhaltene steuerliche Identifikationsnummer an. Kinder, die sich im Ausland aufhalten und keine steuerliche Identifikationsnummer erhalten haben, sind in anderer geeigneter Weise (z. B. durch Vorlage der Geburtsurkunde) zu identifizieren.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -745,6 +749,7 @@
     {
       "align": "start",
       "content": "Wenn Sie das Schreiben des Bundeszentralamtes für Steuern nicht mehr finden, können Sie die Zahlenkolonne beispielsweise auf Ihrem letzten Steuerbescheid oder auf der Lohnsteuerbescheinigung, die Sie nach Ablauf des Kalenderjahres von Ihrem Arbeitgeber erhalten, ablesen. Sollten Sie die steuerliche Identifikationsnummer in den genannten Unterlagen nicht finden, können Sie sie beim Bundeszentralamt für Steuern erneut erfragen. Für die Mitteilung der steuerlichen Identifikationsnummer benötigt das Bundeszentralamt für Steuern folgende persönliche Daten: Name, Vorname, Adresse (Straße, Hausnummer, Postleitzahl und Ort), Geburtsdatum und Geburtsort.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -755,6 +760,7 @@
     {
       "align": "start",
       "content": "Diese Daten können Sie dem Bundeszentralamt für Steuern über das Eingabeformular auf der Internet-Homepage www.bzst.de unter „Steuern National“ und dort unter „Steuerliche Identifikationsnummer“ übermitteln. Falls Sie keinen Internetzugang haben, können Sie die persönlichen Daten schriftlich an das Bundeszentralamt für Steuern, Referat St II 6, 53221 Bonn senden.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -765,6 +771,7 @@
     {
       "align": "start",
       "content": "Das Bundeszentralamt für Steuern wird die steuerliche Identifikationsnummer aus datenschutzrechtlichen Gründen nur per Brief an die Anschrift mitteilen, die in der IdNr-Datenbank hinterlegt ist. Dies ist in der Regel die Meldeadresse. Eine Übermittlung per E-Mail ist nicht zulässig. Aufgrund der Vielzahl der zurzeit im Bundeszentralamt für Steuern eingehenden Anfragen beträgt die Bearbeitungsdauer mehrere Wochen.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -795,6 +802,7 @@
     {
       "align": "start",
       "content": "Wenn beide Elternteile eines Kindes die Voraussetzungen für den Anspruch auf Kindergeld erfüllen, ist als antragstellende Person der Elternteil einzutragen, der nach dem Willen beider Elternteile das Kindergeld erhalten soll. Beim Familienstand ist nur dann \"dauernd getrennt lebend\" anzukreuzen, wenn bei Ehepaaren mindestens ein Ehepartner die Absicht hat, die Trennung ständig aufrechtzuerhalten. Sofern Sie nicht verheiratet sind oder Ihr/Ihre Ehegatte/Ehegattin bzw. Lebenspartner/in nicht zugleich der andere leibliche Elternteil mindestens eines der in der/den „Anlage/n Kind“ aufgeführten Kinder ist, teilen Sie die Angaben zum anderen leiblichen Elternteil (bei Pflege- oder Enkelkindern zu beiden leiblichen Elternteilen) bitte auf der jeweiligen „Anlage Kind“ mit.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -805,6 +813,7 @@
     {
       "align": "start",
       "content": "Sofern Sie nicht die deutsche Staatsangehörigkeit oder die Staatsangehörigkeit eines EU-/EWR-Staates bzw. der Schweiz besitzen, fügen Sie bitte einen **Nachweis über den Aufenthaltstitel** bei.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -815,6 +824,7 @@
     {
       "align": "start",
       "content": "Zu 4: Der Bescheid soll nicht mir, sondern folgender Person zugesandt werden",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -825,6 +835,7 @@
     {
       "align": "start",
       "content": "Hier können Sie einen/eine Empfangsbevollmächtigten/Empfangsbevollmächtigte (z. B. Steuerberater, Lohnsteuerhilfeverein etc.) angeben, welcher den Bescheid über Kindergeld erhalten soll.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -835,6 +846,7 @@
     {
       "align": "start",
       "content": "Zu 6: Folgende Zählkinder sollen berücksichtigt werden",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -845,6 +857,7 @@
     {
       "align": "start",
       "content": "Kinder, für die eine andere Person Kindergeld erhält, können sich bei Ihnen kindergelderhöhend auswirken (Zählkinder). Sofern Sie die Berücksichtigung von Zählkindern geltend machen wollen, geben Sie bitte in jedem Fall an, wer für die Zählkinder das Kindergeld bei welcher Familienkasse bezieht.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -885,6 +898,7 @@
     {
       "align": "start",
       "content": "„Andere Personen“, zu denen ein Kindschaftsverhältnis besteht, sind: Eltern, Stiefeltern, Adoptiveltern, Pflegeeltern, Großeltern.",
+      "append": "\n\n",
       "page": 2,
       "structure": "",
       "x1": 0,
@@ -965,6 +979,7 @@
     {
       "align": "start",
       "content": "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder",
+      "append": "\n\n",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -975,6 +990,7 @@
     {
       "align": "start",
       "content": "2. noch nicht das 25. Lebensjahr vollendet hat und",
+      "append": "\n",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -985,6 +1001,7 @@
     {
       "align": "start",
       "content": "a) für einen Beruf ausgebildet wird oder",
+      "append": "\n    - ",
       "page": 3,
       "structure": "",
       "x1": 29,
@@ -995,6 +1012,7 @@
     {
       "align": "start",
       "content": "b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder",
+      "append": "\n    - ",
       "page": 3,
       "structure": "",
       "x1": 29,
@@ -1005,6 +1023,7 @@
     {
       "align": "start",
       "content": "c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder",
+      "append": "\n    - ",
       "page": 3,
       "structure": "",
       "x1": 29,
@@ -1015,6 +1034,7 @@
     {
       "align": "start",
       "content": "d) einen geregelten Freiwilligendienst leistet oder",
+      "append": "\n    - ",
       "page": 3,
       "structure": "",
       "x1": 29,
@@ -1025,6 +1045,7 @@
     {
       "align": "start",
       "content": "3. wegen körperlicher, geistiger oder seelischer Behinderung außerstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze).",
+      "append": "\n",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1055,6 +1076,7 @@
     {
       "align": "start",
       "content": "Eine Ausbildung (Berufsausbildung oder Studium) ist abgeschlossen, wenn sie zur Ausübung eines Berufs befähigt, auch wenn sich daran eine darauf aufbauende weitere Ausbildung anschließt. Dies gilt auch, wenn der Abschluss noch nicht zur Ausübung des angestrebten Berufsziels berechtigt (z.B. Verkäufer/in, Rettungssanitäter/iin, Lehrer/in oder Juristen/Juristinnen nach Bestehen des 1. Staatsexamens).",
+      "append": "\n\n",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1065,6 +1087,7 @@
     {
       "align": "start",
       "content": "Ein Kind ist erwerbstätig, wenn es einer auf die Erzielung von Einkünften gerichteten Beschäftigung nachgeht, die den Einsatz seiner persönlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff „Erwerbstätigkeit“ durch eine nichtselbständige Tätigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbständige Tätigkeit erfüllt werden kann. Die Verwaltung eigenen Vermögens ist demgegenüber keine Erwerbstätigkeit.",
+      "append": "\n\n",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1075,6 +1098,7 @@
     {
       "align": "start",
       "content": "Bitte weisen Sie die wöchentliche Arbeitszeit anhand geeigneter Unterlagen (z.B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierfür durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit oder ähnliches mindern die vertraglich vereinbarte Arbeitszeit nicht.",
+      "append": "\n\n",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1145,6 +1169,7 @@
     {
       "align": "start",
       "content": "Hierzu zählt auch die bei einem privaten Arbeitgeber ausgeübte Tätigkeit, soweit Angehörige des öffentlichen Dienstes hierfür beurlaubt worden sind. Nicht zum öffentlichen Dienst zählen Religionsgemeinschaften des öffentlichen Rechts (Kirchen einschl. der Ordensgemeinschaften, kirchlichen Krankenhäuser, Schulen, Kindergärten und ähnliches) sowie die Spitzen-/Mitgliedsverbände der freien Wohlfahrtspflege und die ihnen angeschlossenen Einrichtungen.",
+      "append": "\n\n",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1155,6 +1180,7 @@
     {
       "align": "start",
       "content": "Die Fragen 6b bzw. 6c sind auch dann mit „ja“ zu beantworten, wenn Sie, Ihr Ehegatte bzw. Lebenspartner oder eine andere Person, zu der eines der Kinder in einem Kindschaftsverhältnis steht, im diplomatischen oder konsularischen Dienst tätig sind oder waren.",
+      "append": "\n\n",
       "page": 3,
       "structure": "",
       "x1": 0,
@@ -1165,6 +1191,7 @@
     {
       "align": "start",
       "content": "Ausführliche Informationen zum Kindergeld finden Sie im Internet unter www.bzst.de bzw. unter www.familienkasse.de.",
+      "append": "\n\n",
       "page": 3,
       "structure": "",
       "x1": 0,

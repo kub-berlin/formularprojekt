@@ -3,6 +3,11 @@ body {
 	font-family: Arial, sans-serif;
 }
 
+em {
+	font-style: inherit;
+	text-decoration: underline;
+}
+
 .page {
 	width: 20cm;
 	margin-left: auto;

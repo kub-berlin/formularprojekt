@@ -2237,12 +2237,34 @@
     {
       "structure": "",
       "page": 5,
-      "content": "Die Daten unterliegen dem Sozialgeheimnis (siehe Merkblatt SGB II). Ihre Angaben werden aufgrund der §§ 60-65 Erstes Buch Sozialgesetzbuch (SGB I) und der §§ 67a, b, c Zehntes Buch Sozialgesetzbuch (SGB X) für die Leistungen nach dem SGB II erhoben.\n\nSie haben erklärt, als Vertreterin/Vertreter Ihrer Bedarfsgemeinschaft zu handeln. Auch die Angaben der Mitglieder Ihrer Bedarfsgemeinschaft müssen vollständig und richtig sein.\n\nSollten Sie falsche bzw. unvollständige Angaben machen oder Änderungen nicht oder nicht unverzüglich mitteilen, müssen Sie und die Mitglieder Ihrer Bedarfsgemeinschaft mit der Rückforderung der zu viel gezahlten Leistungen rechnen. Weiterhin setzen Sie sich auch der Gefahr eines Ordnungswidrigkeiten- oder Strafverfahrens aus. Beachten Sie bitte, dass das Jobcenter im Wege des automatisierten Datenabgleichs Auskünfte bei Dritten, z. B. über Beschäftigungszeiten, Kapitalerträge, Leistungen der gesetzlichen Renten- und Unfallversicherung, Leistungen der Arbeitsförderung, einholt und verwertet. Bitte stellen Sie deshalb sicher, dass die Mitglieder Ihrer Bedarfsgemeinschaft über die Mitwirkungspflichten informiert sind und dass diese alle notwendigen Informationen (z. B. Bescheide) erhalten.",
+      "content": "Die Daten unterliegen dem Sozialgeheimnis (siehe Merkblatt SGB II). Ihre Angaben werden aufgrund der §§ 60-65 Erstes Buch Sozialgesetzbuch (SGB I) und der §§ 67a, b, c Zehntes Buch Sozialgesetzbuch (SGB X) für die Leistungen nach dem SGB II erhoben.",
       "x1": 25,
       "y1": 141,
       "x2": 511,
       "y2": 149,
       "align": "start"
+    },
+    {
+      "structure": "",
+      "page": 5,
+      "content": "Sie haben erklärt, als Vertreterin/Vertreter Ihrer Bedarfsgemeinschaft zu handeln. Auch die Angaben der Mitglieder Ihrer Bedarfsgemeinschaft müssen vollständig und richtig sein.",
+      "x1": 25,
+      "y1": 141,
+      "x2": 511,
+      "y2": 149,
+      "align": "start",
+      "append": "\n\n"
+    },
+    {
+      "structure": "",
+      "page": 5,
+      "content": "Sollten Sie falsche bzw. unvollständige Angaben machen oder Änderungen nicht oder nicht unverzüglich mitteilen, müssen Sie und die Mitglieder Ihrer Bedarfsgemeinschaft mit der Rückforderung der zu viel gezahlten Leistungen rechnen. Weiterhin setzen Sie sich auch der Gefahr eines Ordnungswidrigkeiten- oder Strafverfahrens aus. Beachten Sie bitte, dass das Jobcenter im Wege des automatisierten Datenabgleichs Auskünfte bei Dritten, z. B. über Beschäftigungszeiten, Kapitalerträge, Leistungen der gesetzlichen Renten- und Unfallversicherung, Leistungen der Arbeitsförderung, einholt und verwertet. Bitte stellen Sie deshalb sicher, dass die Mitglieder Ihrer Bedarfsgemeinschaft über die Mitwirkungspflichten informiert sind und dass diese alle notwendigen Informationen (z. B. Bescheide) erhalten.",
+      "x1": 25,
+      "y1": 141,
+      "x2": 511,
+      "y2": 149,
+      "align": "start",
+      "append": "\n\n"
     },
     {
       "page": 5,

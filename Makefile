@@ -19,7 +19,7 @@ static_src/bower_components:
 	. .env/bin/activate && cd static_src && bower install mfbs
 
 annotator/bower_components:
-	. .env/bin/activate && cd annotator && bower install "xi/muu#~0.1.2" "wildlyinaccurate/promise-xhr#~0.0.1" "markdown-it"
+	. .env/bin/activate && cd annotator && bower install "xi/muu#~0.1.2" "xi/promise-xhr#master" "markdown-it"
 
 de: data/AlgII/de.json data/KG/de.json data/KG1/de.json data/KG11a/de.json data/KG3a/de.json data/KG3b/de.json data/KG5a/de.json data/KG5d/de.json data/Rundfunkbeitrag_Befreiung/de.json data/SozIIIB1/de.json data/SozIIIB1.1/de.json data/SozIIIB1.2/de.json
 data/%/de.json: data/%/form.json scripts/de.py

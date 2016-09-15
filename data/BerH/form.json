@@ -393,304 +393,604 @@
             "y2": 618
         },
         {
+            "align": "",
             "content": "Bankkonten/Grundeigentum/Kraftfahrzeuge/Bargeld/Vermögenswerte",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 67,
+            "y2": 76
         },
         {
+            "align": "",
             "content": "Bitte geben Sie unter „Eigentümer/Inhaber“ an, wem dieser Gegenstand gehört: A = mir allein, B = meinem Ehegatten/eingetragenen Lebenspartner allein bzw. meiner Ehegattin/meiner eingetragenen Lebenspartnerin allein, C = meinem Ehegatten/eingetragenen Lebenspartner bzw. meiner Ehegattin/eingetragenen Lebenspartnerin und mir gemeinsam",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 79,
+            "y2": 85
         },
         {
+            "align": "",
             "content": "Giro-, Sparkonten und andere Bankkonten, Bausparkonten, Wertpapiere",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 167,
+            "y1": 103,
+            "y2": 110
         },
         {
+            "align": "",
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 84,
+            "x2": 100,
+            "y1": 134,
+            "y2": 141
         },
         {
+            "align": "",
             "content": "Ja",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 106,
+            "x2": 130,
+            "y1": 134,
+            "y2": 141
         },
         {
+            "align": "",
             "content": "Inhaber:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 169,
+            "x2": 196,
+            "y1": 103,
+            "y2": 109
         },
         {
+            "align": "",
             "content": "Bezeichnung der Bank, Sparkasse/des sonstigen Kreditinstituts; bei Bausparkonten Auszahlungstermin und Verwendungszweck:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "x2": 378,
+            "y1": 103,
+            "y2": 109
         },
         {
+            "align": "",
             "content": "Kontostand in EUR:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 381,
+            "x2": 453,
+            "y1": 103,
+            "y2": 109
         },
         {
+            "align": "",
             "content": "Grundeigentum",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 167,
+            "y1": 184,
+            "y2": 191
         },
         {
+            "align": "",
             "content": "(zum Beispiel Grundstück, Familienheim, Wohnungseigentum, Erbbaurecht)",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 167,
+            "y1": 194,
+            "y2": 200
         },
         {
+            "align": "",
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 84,
+            "x2": 100,
+            "y1": 221,
+            "y2": 228
         },
         {
+            "align": "",
             "content": "Ja",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 106,
+            "x2": 130,
+            "y1": 221,
+            "y2": 228
         },
         {
+            "align": "",
             "content": "Eigentümer:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 169,
+            "x2": 196,
+            "y1": 184,
+            "y2": 190
         },
         {
+            "align": "",
             "content": "Bezeichnung nach Lage, Größe, Nutzungsart:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "x2": 378,
+            "y1": 184,
+            "y2": 190
         },
         {
+            "align": "",
             "content": "Verkehrswert in EUR:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 381,
+            "x2": 453,
+            "y1": 184,
+            "y2": 190
         },
         {
+            "align": "",
             "content": "Kraftfahrzeuge",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 167,
+            "y1": 236,
+            "y2": 243
         },
         {
+            "align": "",
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 84,
+            "x2": 100,
+            "y1": 249,
+            "y2": 256
         },
         {
+            "align": "",
             "content": "Ja",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 106,
+            "x2": 130,
+            "y1": 249,
+            "y2": 256
         },
         {
+            "align": "",
             "content": "Eigentümer:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 169,
+            "x2": 196,
+            "y1": 236,
+            "y2": 242
         },
         {
+            "align": "",
             "content": "Fahrzeugart, Marke, Typ, Bau-, Anschaffungsjahr, km-Stand:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "x2": 378,
+            "y1": 236,
+            "y2": 242
         },
         {
+            "align": "",
             "content": "Verkehrswert in EUR:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 381,
+            "x2": 453,
+            "y1": 236,
+            "y2": 242
         },
         {
+            "align": "",
             "content": "Sonstige Vermögenswerte",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 167,
+            "y1": 281,
+            "y2": 288
         },
         {
+            "align": "",
             "content": "(zum Beispiel Kapitallebensversicherung, Bargeld, Wertgegenstände, Forderungen, Anspruch aus Zugewinnausgleich)",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 167,
+            "y1": 290,
+            "y2": 296
         },
         {
+            "align": "",
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 84,
+            "x2": 100,
+            "y1": 326,
+            "y2": 333
         },
         {
+            "align": "",
             "content": "Ja",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 106,
+            "x2": 130,
+            "y1": 326,
+            "y2": 333
         },
         {
+            "align": "",
             "content": "Inhaber:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 169,
+            "x2": 196,
+            "y1": 281,
+            "y2": 287
         },
         {
+            "align": "",
             "content": "Bezeichnung des Gegenstands:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "x2": 378,
+            "y1": 281,
+            "y2": 287
         },
         {
+            "align": "",
             "content": "Rückkaufswert oder Verkehrswert in EUR:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 381,
+            "x2": 453,
+            "y1": 281,
+            "y2": 287
         },
         {
+            "align": "",
             "content": "Zahlungsverpflichtungen und sonstige besondere Belastungen",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 360,
+            "y2": 369
         },
         {
+            "align": "",
             "content": "Haben Sie oder Ihr Ehegatte/eingetragener Lebenspartner bzw. Ihre Ehegattin/eingetragene Lebenspartnerin Zahlungsverpflichtungen?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 370,
+            "y2": 377
         },
         {
+            "align": "",
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 85,
+            "x2": 101,
+            "y1": 385,
+            "y2": 392
         },
         {
+            "align": "",
             "content": "Ja",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 109,
+            "x2": 133,
+            "y1": 385,
+            "y2": 392
         },
         {
+            "align": "",
             "content": "Verbindlichkeit (z. B. „Kredit“)",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 74,
+            "x2": 135,
+            "y1": 410,
+            "y2": 416
         },
         {
+            "align": "",
             "content": "Gläubiger (z.B. „Sparkasse“)",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 136,
+            "x2": 191,
+            "y1": 410,
+            "y2": 416
         },
         {
+            "align": "",
             "content": "Verwendungszweck:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 193,
+            "x2": 271,
+            "y1": 410,
+            "y2": 417
         },
         {
+            "align": "",
             "content": "Raten laufen bis:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 273,
+            "x2": 323,
+            "y1": 410,
+            "y2": 416
         },
         {
+            "align": "",
             "content": "Restschuld EUR:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 324,
+            "x2": 368,
+            "y1": 410,
+            "y2": 416
         },
         {
+            "align": "",
             "content": "Ich zahle darauf mtl. EUR:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 370,
+            "x2": 408,
+            "y1": 410,
+            "y2": 416
         },
         {
+            "align": "",
             "content": "Ehegatte/eingetr. Lebenspartner bzw. Ehegattin/eingetr. Lebenspartnerin zahlt darauf mtl. EUR :",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 410,
+            "x2": 454,
+            "y1": 410,
+            "y2": 416
         },
         {
+            "align": "",
             "content": "Haben Sie oder Ihr Ehegatte/eingetragener Lebenspartner bzw. Ihre Ehegattin/eingetragene Lebenspartnerin sonstige besondere\nBelastungen?",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 59,
+            "y2": 66
         },
         {
+            "align": "",
             "content": "Nein",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 85,
+            "x2": 110,
+            "y1": 80,
+            "y2": 87
         },
         {
+            "align": "",
             "content": "Ja",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 109,
+            "x2": 202,
+            "y1": 80,
+            "y2": 87
         },
         {
+            "align": "",
             "content": "Art der Belastung und Begründung dafür:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 345,
+            "y1": 96,
+            "y2": 102
         },
         {
+            "align": "",
             "content": "Ich zahle dafür mtl. EUR:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 347,
+            "x2": 391,
+            "y1": 96,
+            "y2": 102
         },
         {
+            "align": "",
             "content": "Ehegatte/eingetr. Lebenspartner bzw. Ehegattin/eingetr. Lebenspartnerin zahlt mtl. EUR:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 393,
+            "x2": 454,
+            "y1": 96,
+            "y2": 102
         },
         {
+            "align": "",
             "content": "Ich habe mich unmittelbar an eine Beratungsperson gewandt. Die Beratung und/oder Vertretung hat erstmals am………………………………………stattgefunden.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 220,
+            "y2": 227
         },
         {
+            "align": "",
             "content": "Name und Anschrift der Beratungsperson (ggf. Stempel):",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 250,
+            "y2": 257
         },
         {
+            "align": "",
             "content": "Ich versichere, dass mir in derselben Angelegenheit Beratungshilfe weder gewährt noch durch das Gericht versagt worden\nist und dass in derselben Angelegenheit kein gerichtliches Verfahren anhängig ist oder war.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 271,
+            "y2": 278
         },
         {
+            "align": "",
             "content": "Ich versichere, dass meine Angaben vollständig und wahr sind. Die Allgemeinen Hinweise und die Ausfüllhinweise zu\ndiesem Formular habe ich erhalten.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 305,
+            "y2": 312
         },
         {
+            "align": "",
             "content": "Mir ist bekannt, dass das Gericht verlangen kann, dass ich meine Angaben glaubhaft mache und insbesondere auch die\nAbgabe einer Versicherung an Eides statt fordern kann.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 332,
+            "y2": 339
         },
         {
+            "align": "",
             "content": "Mir ist bekannt, dass unvollständige oder unrichtige Angaben die Aufhebung der Bewilligung von Beratungshilfe und ggf.\nauch eine Strafverfolgung nach sich ziehen können.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 359,
+            "y2": 366
         },
         {
+            "align": "",
             "content": "Ort, Datum",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 55,
+            "x2": 167,
+            "y1": 419,
+            "y2": 425
         },
         {
+            "align": "",
             "content": "Unterschrift des Antragstellers/der Antragstellerin",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 169,
+            "x2": 451,
+            "y1": 422,
+            "y2": 428
         },
         {
+            "align": "",
             "content": "Dieses Feld ist nicht vom Antragsteller auszufüllen.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 57,
+            "x2": 451,
+            "y1": 465,
+            "y2": 472
         },
         {
+            "align": "center",
             "content": "Hinweisblatt zum Antrag auf Beratungshilfe",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 38,
+            "y2": 48
         },
         {
+            "align": "center",
             "content": "Allgemeine Hinweise",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 52,
+            "y2": 62
         },
         {
+            "align": "",
             "content": "Wozu Beratungshilfe?",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 72,
+            "y2": 82
         },
         {
+            "align": "",
             "content": "Bürgerinnen und Bürger mit geringem Einkommen können Beratungshilfe bekommen, um sich rechtlich beraten und, soweit erforderlich, vertreten zu lassen. Beratungshilfe kann auf allen Rechtsgebieten erteilt werden. Näheres erfahren Sie bei den Gerichten und den Rechtsanwältinnen/Rechtsanwälten sowie den sonstigen Beratungspersonen.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 88,
+            "y2": 98
         },
         {
+            "align": "",
             "content": "Wer erhält Beratungshilfe, was sind die Voraussetzungen dafür?",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 147,
+            "y2": 157
         },
         {
+            "align": "",
             "content": "Beratungshilfe erhält, wer nach seinen persönlichen und wirtschaftlichen Verhältnissen die für eine Beratung oder Vertretung erforderlichen **Mittel nicht aufbringen kann**. Dies sind in der Regel Personen, die laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch („Sozialhilfe“) beziehen. Aber auch bei anderen Personen mit geringem Einkommen können die Voraussetzungen dafür vorliegen. Nähere Auskünfte erteilen ggf. die Amtsgerichte und die Beratungspersonen.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 163,
+            "y2": 173
         },
         {
             "append": "\n\n",
@@ -729,14 +1029,24 @@
             "structure": ""
         },
         {
+            "align": "",
             "content": "Wer gewährt Beratungshilfe?",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 620,
+            "y2": 630
         },
         {
+            "align": "",
             "content": "Die Beratungshilfe gewähren zum einen die **Beratungspersonen** (Rechtsanwältinnen und Rechtsanwälte sowie in Kammern zugelassene Rechtsbeistände, in steuerrechtlichen Angelegenheiten auch Steuerberater und Wirtschaftsprüfer; in Rentenangelegenheiten auch Rentenberater). Besondere **anwaltliche Beratungsstellen**, die aufgrund einer Vereinbarung mit den Landesjustizverwaltungen eingerichtet worden sind, gewähren ebenfalls Beratungshilfe. Sie alle sind – außer in besonderen Ausnahmefällen – zur Beratungshilfe verpflichtet.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 636,
+            "y2": 646
         },
         {
             "append": "\n\n",
@@ -745,14 +1055,24 @@
             "structure": ""
         },
         {
+            "align": "",
             "content": "Was kostet mich die Beratungshilfe?",
             "page": 4,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 49,
+            "y2": 59
         },
         {
+            "align": "",
             "content": "Wird die Beratungshilfe nicht bereits durch das Amtsgericht selbst, sondern durch eine Beratungsperson gewährt, so haben Sie an die Beratungsperson 15 Euro zu bezahlen. Die Beratungsperson kann auf diese Gebühr auch verzichten. Alle übrigen Kosten der Beratungshilfe trägt in aller Regel die Landeskasse.",
             "page": 4,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 63,
+            "y2": 73
         },
         {
             "append": "\n\n",
@@ -767,14 +1087,24 @@
             "structure": ""
         },
         {
+            "align": "",
             "content": "Was ist bei der Antragstellung zu beachten?",
             "page": 4,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 262,
+            "y2": 272
         },
         {
+            "align": "",
             "content": "Lesen Sie bitte das Antragformular sorgfältig durch und füllen Sie es gewissenhaft aus. Sie finden auf der nächsten Seite Hinweise, die Ihnen die Beantwortung der Fragen erleichtern sollen. Wenn Sie beim Ausfüllen Schwierigkeiten haben, wird Ihnen das Amtsgericht oder Ihre Beratungsperson behilflich sein.",
             "page": 4,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 279,
+            "y2": 289
         },
         {
             "append": "\n\n",
@@ -789,14 +1119,24 @@
             "structure": ""
         },
         {
+            "align": "",
             "content": "Wichtig:",
             "page": 4,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 439,
+            "y2": 449
         },
         {
+            "align": "",
             "content": "Bitte fügen Sie alle notwendigen Belege (insbesondere über Ihr Einkommen, Ihr Vermögen und Ihre Belastungen) in Kopie bei. Sie ersparen sich Rückfragen, die das Verfahren verzögern. Antworten Sie wahrheitsgemäß und vollständig, sonst kann schon bewilligte Beratungshilfe wieder aufgehoben werden und Sie müssen die angefallenen Kosten nachzahlen.",
             "page": 4,
-            "structure": ""
+            "structure": "",
+            "x1": 52,
+            "x2": 455,
+            "y1": 454,
+            "y2": 464
         },
         {
             "append": "\n\n",

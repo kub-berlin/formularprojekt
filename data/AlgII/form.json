@@ -2232,7 +2232,7 @@
       "y1": 90,
       "x2": 511,
       "y2": 98,
-      "align": "left"
+      "align": "start"
     },
     {
       "structure": "",
@@ -2242,7 +2242,7 @@
       "y1": 141,
       "x2": 511,
       "y2": 149,
-      "align": "left"
+      "align": "start"
     },
     {
       "page": 5,
@@ -2252,7 +2252,7 @@
       "y1": 279,
       "x2": 511,
       "y2": 287,
-      "align": "left"
+      "align": "start"
     },
     {
       "content": "Es wurde eine Betreuerin/ein Betreuer vom **Betreuungsgericht** bestellt.",

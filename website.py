@@ -266,9 +266,22 @@ def print_route(lang_id, form_id):
             'bg': os.path.exists(bg_template % (form_id, i)),
             'rows': []
         })
+
+    trans = lambda s: translate_filter(s, lang_id, form_id, '')
+
     for row in forms[form_id]['rows']:
         n = int(row['page'])
-        pages[n]['rows'].append(row)
+
+        if row.get('append') is None:
+            pages[n]['rows'].append(row)
+            row['appended'] = row['content']
+            row['translation'] = trans(row['content'])
+        else:
+            host = pages[n]['rows'][-1]
+            host['appended'] += row['append']
+            host['appended'] += row['content']
+            host['translation'] += row['append']
+            host['translation'] += trans(row['content'])
 
     return render_template(
         'print.html',

@@ -100,6 +100,19 @@
 							row.width2 = row.x22 - row.x12;
 							row.size2 = row.y22 - row.y12;
 						}
+
+						var last = null;
+						for (var i = 0; i < form.rows.length; i++) {
+							var row = form.rows[i];
+							if (!row.hasOwnProperty('append') || !last) {
+								last = row;
+								row.appended = row.content;
+							} else {
+								last.appended += row.append + row.content;
+								row.skip = true;
+							}
+						}
+
 						return form;
 					});
 				}

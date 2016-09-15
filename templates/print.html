@@ -24,13 +24,13 @@
         <span
             class="row layer1"
             style="top: {{row.y1}}pt; left: {{row.x1}}pt; text-align: {{row.align}}; width: {{row.x2 - row.x1}}pt; font-size: {{row.y2 - row.y1}}pt;"
-        >{{ row.content | translate(lang_id, form_id, default='') | markdown }}</span>
+        >{{ row.translation | markdown }}</span>
         {% endif %}
         {% if row.y12 != row.y22 %}
         <span
             class="row layer2"
             style="top: {{row.y12}}pt; left: {{row.x12}}pt; text-align: {{row.align2}}; width: {{row.x22 - row.x12}}pt; font-size: {{row.y22 - row.y12}}pt;"
-        >{{ row.content | markdown }}</span>
+        >{{ row.appended | markdown }}</span>
         {% endif %}
         {% endfor %}
     </div>

@@ -26,25 +26,27 @@
 	<div class="page" data-onclick="canvas-click" style="transform: scale({{zoom}}); transform-origin: 0 0">
 		<img class="page-bg" src="{{bg}}" alt="" />
 		{{#rows}}
+			{{^skip}}
 			{{#size}}
 			<span
 				class="row layer1 {{selected: selected}}"
 				style="top: {{y1}}pt; left: {{x1}}pt; text-align: {{align}}; width: {{width}}pt; font-size: {{size}}pt;"
-			><muu type="markdown" data-value="{{content}}"></muu></span>
+			><muu type="markdown" data-value="{{appended}}"></muu></span>
 			{{/size}}
 			{{#size2}}
 			<span
 				class="row layer2 {{selected: selected}}"
 				style="top: {{y12}}pt; left: {{x12}}pt; text-align: {{align2}}; width: {{width2}}pt; font-size: {{size2}}pt;"
-			>{{content}}</span>
+			>{{appended}}</span>
 			{{/size2}}
+			{{/skip}}
 		{{/rows}}
 	</div>
 </div>
 
 <ul role="radiogroup" class="sidebar {{is-layer1: layer1, is-layer2: layer2}}">
 {{#rows}}
-	<li class="{{selected: selected, defined: size, defined2: size2}}">
+	<li class="{{selected: selected, defined: size, defined2: size2, skipped: skip}}">
 		<a href="#" role="radio" aria-checked="{{#selected}}true{{/selected}}{{^selected}}false{{/selected}}" data-onclick="select-row">{{content}}</a>
 		{{#selected}}
 		<div class="inputs">

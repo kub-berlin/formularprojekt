@@ -1097,7 +1097,8 @@
       "y1": 249,
       "x2": 553,
       "y2": 258,
-      "align": "start"
+      "align": "start",
+      "append": "\n"
     },
     {
       "content": "- Eingliederungshilfen nach § 54 Abs. 1 Satz 1 Nr. 1-3 Zwölftes Buch Sozialgesetzbuch (SGB XII).",
@@ -1107,7 +1108,8 @@
       "y1": 267,
       "x2": 553,
       "y2": 276,
-      "align": "start"
+      "align": "start",
+      "append": "\n"
     },
     {
       "content": "Bitte legen Sie einen entsprechenden Bescheid vor.",
@@ -1157,7 +1159,8 @@
       "y1": 379,
       "x2": 554,
       "y2": 388,
-      "align": "left"
+      "align": "left",
+      "append": " "
     },
     {
       "content": "Bitte füllen Sie die **Anlage BB** aus.",
@@ -1712,7 +1715,8 @@
       "y1": 578,
       "x2": 511,
       "y2": 587,
-      "align": "start"
+      "align": "start",
+      "append": "\n"
     },
     {
       "content": "Ein Elternteil dieser Person lebt außerhalb der Bedarfsgemeinschaft.",
@@ -1762,7 +1766,8 @@
       "y1": 653,
       "x2": 511,
       "y2": 662,
-      "align": "start"
+      "align": "start",
+      "append": "\n"
     },
     {
       "structure": "",

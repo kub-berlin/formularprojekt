@@ -99,3 +99,6 @@ a {
 .header select[name=formId] {
 	width: 8em;
 }
+button {
+	cursor: pointer;
+}

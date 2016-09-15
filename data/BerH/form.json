@@ -1,7 +1,615 @@
 {
-  "url": "http://www.berlin.de/gerichte/_assets/was-moechten-sie-erledigen/antrag_beratungshilfe_avr77.pdf",
-  "date": "2014-01-01",
-  "checksum": "8f61f33debc7e9a04451fcc2fac5e458",
-  "title": "Antrag auf Bewilligung von Beratungshilfe",
-  "rows": []
+    "checksum": "8f61f33debc7e9a04451fcc2fac5e458",
+    "date": "2014-01-01",
+    "rows": [
+        {
+            "content": "An das Amtsgericht",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "*Geschäftsnummer des Amtsgerichts*",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "*Diese Felder sind nicht vom Antragsteller auszufüllen.*",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Eingangsstempel des Amtsgerichts:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Antrag auf Bewilligung von Beratungshilfe",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Antragsteller (Name, Vorname, ggf. Geburtsname)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Beruf, Erwerbstätigkeit",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Geburtsdatum",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Familienstand",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Anschrift (Straße, Hausnummer, Postleitzahl, Wohnort)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Tagsüber telefonisch erreichbar unter Nummer",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ich beantrage Beratungshilfe in folgender Angelegenheit (bitte Sachverhalt kurz erläutern):",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "In der vorliegenden Angelegenheit tritt keine Rechtsschutzversicherung ein.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "In dieser Angelegenheit besteht für mich nach meiner Kenntnis keine andere Möglichkeit, kostenlose Beratung und Vertretung in Anspruch zu nehmen.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "In dieser Angelegenheit ist mir bisher Beratungshilfe weder bewilligt noch versagt worden.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "In dieser Angelegenheit wird oder wurde von mir bisher kein gerichtliches Verfahren geführt.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "**Wichtig: Wenn Sie nicht alle diese Kästchen ankreuzen können, kann Beratungshilfe nicht bewilligt werden. Eine Beantwortung der weiteren Fragen ist dann *nicht* erforderlich.**",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Wenn Sie laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch („Sozialhilfe“) beziehen und den derzeit gültigen Bescheid einschließlich des Berechnungsbogens des Sozialamtes beifügen, müssen Sie keine Angaben zu den Feldern C bis G machen, es sei denn, das Gericht ordnet dies ganz oder teilweise an. Wenn Sie dagegen Leistungen nach dem Zweiten Buch Sozialgesetzbuch („Arbeitslosengeld II“) beziehen, müssen Sie die Felder ausfüllen.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ich habe monatliche Einkünfte in Höhe von brutto ...........................EUR, netto ........................... EUR.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Mein Ehegatte/meine Ehegattin bzw. mein eingetragener Lebenspartner/meine eingetragene Lebenspartnerin hat monatliche Einkünfte von netto ...........................EUR.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Meine Wohnung hat eine Größe von ................. m2. Die Wohnkosten betragen monatlich insgesamt ...........................EUR. Ich zahle davon ....... EUR.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ich bewohne diese Wohnung",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "allein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "mit ................. weiteren Person(en).",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Welchen Angehörigen gewähren Sie Unterhalt?",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Unterhalt kann in Form von Geldzahlungen, aber auch durch Gewährung von Unterkunft, Verpflegung etc. erfolgen. Bitte nennen Sie hier Name, Vorname dieser Angehörigen (Anschrift nur, wenn sie von Ihrer Anschrift abweicht)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Geburtsdatum",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Familienverhältnis des Angehörigen zu Ihnen (z.B. Ehegatte, Kind)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Wenn Sie den Unterhalt ausschließlich durch Zahlung leisten",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ich zahle mtl. EUR:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Hat dieser Angehörige eigene Einnahmen? (z. B. Ausbildungsvergütung, Unterhaltszahlung vom anderen Elternteil)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "ja, mtl. EUR netto:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "ja, mtl. EUR netto:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "ja, mtl. EUR netto:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "ja, mtl. EUR netto:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Bankkonten/Grundeigentum/Kraftfahrzeuge/Bargeld/Vermögenswerte",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Bitte geben Sie unter „Eigentümer/Inhaber“ an, wem dieser Gegenstand gehört: A = mir allein, B = meinem Ehegatten/eingetragenen Lebenspartner allein bzw. meiner Ehegattin/meiner eingetragenen Lebenspartnerin allein, C = meinem Ehegatten/eingetragenen Lebenspartner bzw. meiner Ehegattin/eingetragenen Lebenspartnerin und mir gemeinsam",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Giro-, Sparkonten und andere Bankkonten, Bausparkonten, Wertpapiere",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Inhaber:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Bezeichnung der Bank, Sparkasse/des sonstigen Kreditinstituts; bei Bausparkonten Auszahlungstermin und Verwendungszweck:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Kontostand in EUR:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Grundeigentum",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "(zum Beispiel Grundstück, Familienheim, Wohnungseigentum, Erbbaurecht)",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Eigentümer:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Bezeichnung nach Lage, Größe, Nutzungsart:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Verkehrswert in EUR:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Kraftfahrzeuge",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Eigentümer:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Fahrzeugart, Marke, Typ, Bau-, Anschaffungsjahr, km-Stand:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Verkehrswert in EUR:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Sonstige Vermögenswerte",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "(zum Beispiel Kapitallebensversicherung, Bargeld, Wertgegenstände, Forderungen, Anspruch aus Zugewinnausgleich)",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Inhaber:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Bezeichnung des Gegenstands:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Rückkaufswert oder Verkehrswert in EUR:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Zahlungsverpflichtungen und sonstige besondere Belastungen",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Haben Sie oder Ihr Ehegatte/eingetragener Lebenspartner bzw. Ihre Ehegattin/eingetragene Lebenspartnerin Zahlungsverpflichtungen?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Verbindlichkeit (z. B. „Kredit“)",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Gläubiger (z.B. „Sparkasse“)",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Verwendungszweck:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Raten laufen bis:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Restschuld EUR:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ich zahle darauf mtl. EUR:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ehegatte/eingetr. Lebenspartner bzw. Ehegattin/eingetr. Lebenspartnerin zahlt darauf mtl. EUR :",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Haben Sie oder Ihr Ehegatte/eingetragener Lebenspartner bzw. Ihre Ehegattin/eingetragene Lebenspartnerin sonstige besondere\nBelastungen?",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Art der Belastung und Begründung dafür:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ich zahle dafür mtl. EUR:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ehegatte/eingetr. Lebenspartner bzw. Ehegattin/eingetr. Lebenspartnerin zahlt mtl. EUR:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ich habe mich unmittelbar an eine Beratungsperson gewandt. Die Beratung und/oder Vertretung hat erstmals am………………………………………stattgefunden.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Name und Anschrift der Beratungsperson (ggf. Stempel):",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ich versichere, dass mir in derselben Angelegenheit Beratungshilfe weder gewährt noch durch das Gericht versagt worden\nist und dass in derselben Angelegenheit kein gerichtliches Verfahren anhängig ist oder war.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ich versichere, dass meine Angaben vollständig und wahr sind. Die Allgemeinen Hinweise und die Ausfüllhinweise zu\ndiesem Formular habe ich erhalten.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Mir ist bekannt, dass das Gericht verlangen kann, dass ich meine Angaben glaubhaft mache und insbesondere auch die\nAbgabe einer Versicherung an Eides statt fordern kann.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Mir ist bekannt, dass unvollständige oder unrichtige Angaben die Aufhebung der Bewilligung von Beratungshilfe und ggf.\nauch eine Strafverfolgung nach sich ziehen können.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ort, Datum",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Unterschrift des Antragstellers/der Antragstellerin",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Dieses Feld ist nicht vom Antragsteller auszufüllen.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Hinweisblatt zum Antrag auf Beratungshilfe",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Allgemeine Hinweise",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Wozu Beratungshilfe?",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Bürgerinnen und Bürger mit geringem Einkommen können Beratungshilfe bekommen, um sich rechtlich beraten und, soweit erforderlich, vertreten zu lassen. Beratungshilfe kann auf allen Rechtsgebieten erteilt werden. Näheres erfahren Sie bei den Gerichten und den Rechtsanwältinnen/Rechtsanwälten sowie den sonstigen Beratungspersonen.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Wer erhält Beratungshilfe, was sind die Voraussetzungen dafür?",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Beratungshilfe erhält, wer nach seinen persönlichen und wirtschaftlichen Verhältnissen die für eine Beratung oder Vertretung erforderlichen **Mittel nicht aufbringen kann**. Dies sind in der Regel Personen, die laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch („Sozialhilfe“) beziehen. Aber auch bei anderen Personen mit geringem Einkommen können die Voraussetzungen dafür vorliegen. Nähere Auskünfte erteilen ggf. die Amtsgerichte und die Beratungspersonen.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Es darf Ihnen zudem **keine andere Möglichkeit** zur kostenlosen **Beratung und/oder Vertretung** in der von Ihnen genannten Angelegenheit zur Verfügung stehen (wie z. B. in der Regel als Mitglied in einer Gewerkschaft, einem Mieterverein oder wenn Sie eine Rechtsschutzversicherung abgeschlossen haben). Es darf Ihnen in **derselben Angelegenheit** auch **nicht bereits Beratungshilfe** bewilligt oder vom Gericht versagt worden sein. Ob es sich um dieselbe Angelegenheit handelt, muss ggf. im Einzelfall beurteilt werden.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Da die Beratungshilfe für die Wahrnehmung von Rechten außerhalb eines gerichtlichen Verfahrens gewährt wird, darf in derselben Angelegenheit **kein gerichtliches Verfahren** anhängig sein. Dazu gehört z. B. auch ein Streitschlichtungsverfahren vor einer Gütestelle, das in einigen Ländern vor Erhebung einer Klage durchgeführt werden muss (obligatorisches Güteverfahren nach § 15a des Gesetzes betreffend die Einführung der Zivilprozessordnung). Wer sich in einem gerichtlichen Verfahren vertreten lassen möchte, kann Prozesskostenbeziehungsweise Verfahrenskostenhilfe bekommen.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Des Weiteren darf die beabsichtigte Inanspruchnahme der Beratungshilfe **nicht mutwillig** sein. Sie ist dann nicht mutwillig, wenn Sie nicht von Beratung absehen würden, wenn Sie die Kosten selbst tragen müssten.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Erforderlich ist ein **Antrag**, der mündlich oder schriftlich gestellt werden kann. Für einen schriftlichen Antrag ist das anhängende Formular zu benutzen. Sie können den Antrag bei dem Amtsgericht stellen oder Sie können unmittelbar eine der unten genannten Beratungspersonen Ihrer Wahl mit der Bitte um Beratungshilfe aufsuchen.\n",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": " ",
+            "content": "**In diesen Fällen muss der Antrag binnen 4 Wochen nach Beratungsbeginn beim Amtsgericht eingehen, sonst wird der Antrag auf Beratungshilfe abgelehnt.**",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Liegen die Voraussetzungen für die Gewährung von Beratungshilfe vor, stellt das Amtsgericht, sofern es nicht selbst die Beratung vornimmt, Ihnen einen **Berechtigungsschein für Beratungshilfe** durch eine Beratungsperson Ihrer Wahl aus. Gegen einen Beschluss des Amtsgerichts, durch den Ihr Antrag zurückgewiesen wird, ist der nicht befristete Rechtsbehelf der Erinnerung statthaft. Das bedeutet, dass Sie dem Gericht schriftlich darlegen können, warum Sie mit der Entscheidung nicht einverstanden sind.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Wer gewährt Beratungshilfe?",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Die Beratungshilfe gewähren zum einen die **Beratungspersonen** (Rechtsanwältinnen und Rechtsanwälte sowie in Kammern zugelassene Rechtsbeistände, in steuerrechtlichen Angelegenheiten auch Steuerberater und Wirtschaftsprüfer; in Rentenangelegenheiten auch Rentenberater). Besondere **anwaltliche Beratungsstellen**, die aufgrund einer Vereinbarung mit den Landesjustizverwaltungen eingerichtet worden sind, gewähren ebenfalls Beratungshilfe. Sie alle sind – außer in besonderen Ausnahmefällen – zur Beratungshilfe verpflichtet.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Auch das **Amtsgericht** gewährt direkt Beratungshilfe. Es erteilt eine sofortige Auskunft, soweit Ihrem Anliegen dadurch entsprochen werden kann. Das Amtsgericht weist auch auf andere Möglichkeiten der Hilfe hin. Im Übrigen nimmt es Ihren Antrag auf Beratungshilfe oder Ihre Erklärung auf und stellt ggf. einen Berechtigungsschein aus.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Was kostet mich die Beratungshilfe?",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Wird die Beratungshilfe nicht bereits durch das Amtsgericht selbst, sondern durch eine Beratungsperson gewährt, so haben Sie an die Beratungsperson 15 Euro zu bezahlen. Die Beratungsperson kann auf diese Gebühr auch verzichten. Alle übrigen Kosten der Beratungshilfe trägt in aller Regel die Landeskasse.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "**Weitergehende Gebühren** können auf Sie zukommen, wenn das Amtsgericht Ihren Antrag auf Beratungshilfe **ablehnt, nachdem eine Beratung bereits erfolgt ist**, oder die Bewilligung von Beratungshilfe wieder **aufgehoben** wird. In diesen Fällen müssen Sie die Kosten für die Beratungshilfe tragen. Nähere Auskünfte dazu erteilen ggf. die Amtsgerichte und die Beratungspersonen.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "**Weitere Kosten** können auch auf Sie zukommen, wenn Sie infolge der Beratung durch Beratungshilfe etwas erlangt haben. Die Beratungsperson kann dann den Antrag stellen, dass die Beratungshilfe aufgehoben wird und von Ihnen die vorher mit Ihnen für diesen Fall vereinbarten Gebühren verlangen. Darauf müssen Sie aber im Vorwege bei der Mandatsübernahme von der Beratungsperson schriftlich **hingewiesen** werden.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Was ist bei der Antragstellung zu beachten?",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Lesen Sie bitte das Antragformular sorgfältig durch und füllen Sie es gewissenhaft aus. Sie finden auf der nächsten Seite Hinweise, die Ihnen die Beantwortung der Fragen erleichtern sollen. Wenn Sie beim Ausfüllen Schwierigkeiten haben, wird Ihnen das Amtsgericht oder Ihre Beratungsperson behilflich sein.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Sollte der Raum im Antragsformular nicht ausreichen, können Sie Angaben auf einem gesonderten Blatt machen. Bitte weisen Sie in dem betreffenden Feld auf das beigefügte Blatt hin.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Da die Mittel für Beratungshilfe von der Allgemeinheit durch Steuern aufgebracht werden, muss das Gericht prüfen, ob Sie Anspruch darauf haben. Das Formular soll diese Prüfung erleichtern. Haben Sie daher bitte Verständnis dafür, dass Sie Ihre persönlichen und wirtschaftlichen Verhältnisse darlegen müssen.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Wichtig:",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Bitte fügen Sie alle notwendigen Belege (insbesondere über Ihr Einkommen, Ihr Vermögen und Ihre Belastungen) in Kopie bei. Sie ersparen sich Rückfragen, die das Verfahren verzögern. Antworten Sie wahrheitsgemäß und vollständig, sonst kann schon bewilligte Beratungshilfe wieder aufgehoben werden und Sie müssen die angefallenen Kosten nachzahlen.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Das Gericht kann Sie auch auffordern, fehlende Belege nachzureichen und Ihre Angaben an Eides statt zu versichern. Wenn Sie angeforderte Belege nicht nachreichen, kann dies dazu führen, dass Ihr Antrag auf Bewilligung von Beratungshilfe zurückgewiesen wird. Bei bewusst falschen oder unvollständigen Angaben droht Ihnen außerdem strafrechtliche Verfolgung.",
+            "page": 4,
+            "structure": ""
+        }
+    ],
+    "title": "Antrag auf Bewilligung von Beratungshilfe",
+    "url": "http://www.berlin.de/gerichte/_assets/was-moechten-sie-erledigen/antrag_beratungshilfe_avr77.pdf"
 }

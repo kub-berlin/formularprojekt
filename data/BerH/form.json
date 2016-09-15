@@ -3,199 +3,394 @@
     "date": "2014-01-01",
     "rows": [
         {
+            "align": "",
             "content": "An das Amtsgericht",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 55,
+            "x2": 315,
+            "y1": 72,
+            "y2": 82
         },
         {
+            "align": "",
             "content": "*Geschäftsnummer des Amtsgerichts*",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 321,
+            "x2": 452,
+            "y1": 63,
+            "y2": 69
         },
         {
+            "align": "",
             "content": "*Diese Felder sind nicht vom Antragsteller auszufüllen.*",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 321,
+            "x2": 452,
+            "y1": 83,
+            "y2": 88
         },
         {
+            "align": "",
             "content": "Eingangsstempel des Amtsgerichts:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 321,
+            "x2": 452,
+            "y1": 97,
+            "y2": 103
         },
         {
+            "align": "center",
             "content": "Antrag auf Bewilligung von Beratungshilfe",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 53,
+            "x2": 452,
+            "y1": 168,
+            "y2": 179
         },
         {
+            "align": "",
             "content": "Antragsteller (Name, Vorname, ggf. Geburtsname)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 55,
+            "x2": 235,
+            "y1": 194,
+            "y2": 201
         },
         {
+            "align": "",
             "content": "Beruf, Erwerbstätigkeit",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 238,
+            "x2": 351,
+            "y1": 194,
+            "y2": 201
         },
         {
+            "align": "",
             "content": "Geburtsdatum",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 353,
+            "x2": 402,
+            "y1": 194,
+            "y2": 201
         },
         {
+            "align": "",
             "content": "Familienstand",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 404,
+            "x2": 452,
+            "y1": 194,
+            "y2": 201
         },
         {
+            "align": "",
             "content": "Anschrift (Straße, Hausnummer, Postleitzahl, Wohnort)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 55,
+            "x2": 352,
+            "y1": 223,
+            "y2": 230
         },
         {
+            "align": "",
             "content": "Tagsüber telefonisch erreichbar unter Nummer",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 353,
+            "x2": 452,
+            "y1": 223,
+            "y2": 230
         },
         {
+            "align": "",
             "content": "Ich beantrage Beratungshilfe in folgender Angelegenheit (bitte Sachverhalt kurz erläutern):",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 257,
+            "y2": 264
         },
         {
+            "align": "",
             "content": "In der vorliegenden Angelegenheit tritt keine Rechtsschutzversicherung ein.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 85,
+            "x2": 451,
+            "y1": 327,
+            "y2": 334
         },
         {
+            "align": "",
             "content": "In dieser Angelegenheit besteht für mich nach meiner Kenntnis keine andere Möglichkeit, kostenlose Beratung und Vertretung in Anspruch zu nehmen.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 85,
+            "x2": 451,
+            "y1": 337,
+            "y2": 344
         },
         {
+            "align": "",
             "content": "In dieser Angelegenheit ist mir bisher Beratungshilfe weder bewilligt noch versagt worden.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 85,
+            "x2": 451,
+            "y1": 346,
+            "y2": 353
         },
         {
+            "align": "",
             "content": "In dieser Angelegenheit wird oder wurde von mir bisher kein gerichtliches Verfahren geführt.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 85,
+            "x2": 451,
+            "y1": 354,
+            "y2": 361
         },
         {
+            "align": "",
             "content": "**Wichtig: Wenn Sie nicht alle diese Kästchen ankreuzen können, kann Beratungshilfe nicht bewilligt werden. Eine Beantwortung der weiteren Fragen ist dann *nicht* erforderlich.**",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 363,
+            "y2": 370
         },
         {
+            "align": "",
             "content": "Wenn Sie laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch („Sozialhilfe“) beziehen und den derzeit gültigen Bescheid einschließlich des Berechnungsbogens des Sozialamtes beifügen, müssen Sie keine Angaben zu den Feldern C bis G machen, es sei denn, das Gericht ordnet dies ganz oder teilweise an. Wenn Sie dagegen Leistungen nach dem Zweiten Buch Sozialgesetzbuch („Arbeitslosengeld II“) beziehen, müssen Sie die Felder ausfüllen.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 54,
+            "x2": 452,
+            "y1": 389,
+            "y2": 396
         },
         {
+            "align": "",
             "content": "Ich habe monatliche Einkünfte in Höhe von brutto ...........................EUR, netto ........................... EUR.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 430,
+            "y2": 437
         },
         {
+            "align": "",
             "content": "Mein Ehegatte/meine Ehegattin bzw. mein eingetragener Lebenspartner/meine eingetragene Lebenspartnerin hat monatliche Einkünfte von netto ...........................EUR.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 85,
+            "x2": 451,
+            "y1": 444,
+            "y2": 451
         },
         {
+            "align": "",
             "content": "Meine Wohnung hat eine Größe von ................. m2. Die Wohnkosten betragen monatlich insgesamt ...........................EUR. Ich zahle davon ....... EUR.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 451,
+            "y1": 475,
+            "y2": 482
         },
         {
+            "align": "",
             "content": "Ich bewohne diese Wohnung",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 153,
+            "y1": 491,
+            "y2": 497
         },
         {
+            "align": "",
             "content": "allein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 154,
+            "x2": 173,
+            "y1": 491,
+            "y2": 497
         },
         {
+            "align": "",
             "content": "mit ................. weiteren Person(en).",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 181,
+            "x2": 451,
+            "y1": 491,
+            "y2": 497
         },
         {
+            "align": "",
             "content": "Welchen Angehörigen gewähren Sie Unterhalt?",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 195,
+            "y1": 509,
+            "y2": 516
         },
         {
+            "align": "",
             "content": "Unterhalt kann in Form von Geldzahlungen, aber auch durch Gewährung von Unterkunft, Verpflegung etc. erfolgen. Bitte nennen Sie hier Name, Vorname dieser Angehörigen (Anschrift nur, wenn sie von Ihrer Anschrift abweicht)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 75,
+            "x2": 195,
+            "y1": 525,
+            "y2": 531
         },
         {
+            "align": "",
             "content": "Geburtsdatum",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 198,
+            "x2": 233,
+            "y1": 510,
+            "y2": 517
         },
         {
+            "align": "",
             "content": "Familienverhältnis des Angehörigen zu Ihnen (z.B. Ehegatte, Kind)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 235,
+            "x2": 287,
+            "y1": 509,
+            "y2": 516
         },
         {
+            "align": "",
             "content": "Wenn Sie den Unterhalt ausschließlich durch Zahlung leisten",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 289,
+            "x2": 356,
+            "y1": 509,
+            "y2": 516
         },
         {
+            "align": "",
             "content": "Ich zahle mtl. EUR:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 289,
+            "x2": 356,
+            "y1": 536,
+            "y2": 542
         },
         {
+            "align": "",
             "content": "Hat dieser Angehörige eigene Einnahmen? (z. B. Ausbildungsvergütung, Unterhaltszahlung vom anderen Elternteil)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 358,
+            "x2": 453,
+            "y1": 509,
+            "y2": 516
         },
         {
+            "align": "",
             "content": "nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 362,
+            "x2": 401,
+            "y1": 548,
+            "y2": 554
         },
         {
+            "align": "",
             "content": "ja, mtl. EUR netto:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 403,
+            "x2": 453,
+            "y1": 548,
+            "y2": 554
         },
         {
+            "align": "",
             "content": "nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 362,
+            "x2": 401,
+            "y1": 569,
+            "y2": 575
         },
         {
+            "align": "",
             "content": "ja, mtl. EUR netto:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 403,
+            "x2": 453,
+            "y1": 569,
+            "y2": 575
         },
         {
+            "align": "",
             "content": "nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 362,
+            "x2": 401,
+            "y1": 591,
+            "y2": 597
         },
         {
+            "align": "",
             "content": "ja, mtl. EUR netto:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 403,
+            "x2": 453,
+            "y1": 591,
+            "y2": 597
         },
         {
+            "align": "",
             "content": "nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 362,
+            "x2": 401,
+            "y1": 612,
+            "y2": 618
         },
         {
+            "align": "",
             "content": "ja, mtl. EUR netto:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 403,
+            "x2": 453,
+            "y1": 612,
+            "y2": 618
         },
         {
             "content": "Bankkonten/Grundeigentum/Kraftfahrzeuge/Bargeld/Vermögenswerte",

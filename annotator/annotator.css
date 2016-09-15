@@ -29,11 +29,6 @@ a {
 	text-decoration: inherit;
 }
 
-/* canvas */
-.canvas.is-layer1 .row.layer2,
-.canvas.is-layer2 .row.layer1 {
-	opacity: 0.5;
-}
 .row.selected {
 	background: #333;
 	color: #f2f2f2;
@@ -58,8 +53,7 @@ a {
 	padding: 0.2em 1em;
 	border-bottom: 1px solid;
 }
-.sidebar.is-layer1 li:not(.defined),
-.sidebar.is-layer2 li:not(.defined2) {
+.sidebar li:not(.defined) {
 	font-style: italic;
 }
 .sidebar li .unselect {
@@ -81,7 +75,6 @@ a {
 }
 .header .export,
 .header .force-update,
-.header .change-layer,
 .header input[name=zoom],
 .header input[name=page],
 .header select[name=formId] {

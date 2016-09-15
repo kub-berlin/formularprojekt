@@ -36,13 +36,6 @@ em {
 .row p:last-child {
 	margin-bottom: 0;
 }
-.row.layer1 {
-	font-style: italic;
-}
-[lang=ar] .row.layer1,
-[lang=ru] .row.layer1 {
-	font-style: inherit;
-}
 
 @media (print) {
 	.page {

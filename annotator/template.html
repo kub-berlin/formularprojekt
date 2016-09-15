@@ -16,37 +16,30 @@
 		<option value="SozIIIB1">SozIIIB1</option>
 	</select>
 	<input type="number" name="page" title="page" min="1" data-onchange="change-page" />
-	<label class="change-layer"><input type="checkbox" name="layer2" data-onchange="change-layer" /> layer2</label>
 	<button class="force-update" data-onclick="force-update">update</button>
 	<button class="export" data-onclick="export">export</button>
 	<input type="number" name="zoom" title="zoom" min="50" step="10" data-onchange="change-zoom" />
 </header>
 
-<div class="canvas {{is-layer1: layer1, is-layer2: layer2}}">
+<div class="canvas">
 	<div class="page" data-onclick="canvas-click" style="transform: scale({{zoom}}); transform-origin: 0 0">
 		<img class="page-bg" src="{{bg}}" alt="" />
 		{{#rows}}
 			{{^skip}}
 			{{#size}}
 			<span
-				class="row layer1 {{selected: selected}}"
+				class="row {{selected: selected}}"
 				style="top: {{y1}}pt; left: {{x1}}pt; text-align: {{align}}; width: {{width}}pt; font-size: {{size}}pt;"
 			><muu type="markdown" data-value="{{appended}}"></muu></span>
 			{{/size}}
-			{{#size2}}
-			<span
-				class="row layer2 {{selected: selected}}"
-				style="top: {{y12}}pt; left: {{x12}}pt; text-align: {{align2}}; width: {{width2}}pt; font-size: {{size2}}pt;"
-			>{{appended}}</span>
-			{{/size2}}
 			{{/skip}}
 		{{/rows}}
 	</div>
 </div>
 
-<ul role="radiogroup" class="sidebar {{is-layer1: layer1, is-layer2: layer2}}">
+<ul role="radiogroup" class="sidebar">
 {{#rows}}
-	<li class="{{selected: selected, defined: size, defined2: size2, skipped: skip}}">
+	<li class="{{selected: selected, defined: size, skipped: skip}}">
 		<a href="#" role="radio" aria-checked="{{#selected}}true{{/selected}}{{^selected}}false{{/selected}}" data-onclick="select-row">{{content}}</a>
 		{{#selected}}
 		<div class="inputs">

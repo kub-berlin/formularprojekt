@@ -9,17 +9,13 @@
 
 			var rget = function(row) {
 				return function(key) {
-					return data.layer2 ? row[key + '2'] : row[key];
+					return row[key];
 				};
 			};
 
 			var rset = function(row) {
 				return function(key, value) {
-					if (data.layer2) {
-						row[key + '2'] = value;
-					} else {
-						row[key] = value;
-					}
+					row[key] = value;
 				};
 			};
 
@@ -33,7 +29,6 @@
 					data.selected = void 0;
 				}
 				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.svg';
-				data.layer1 = !data.layer2;
 				data.zoom = data.zoom || 1;
 
 				self.update(data);
@@ -97,8 +92,6 @@
 							var row = form.rows[i];
 							row.width = row.x2 - row.x1;
 							row.size = row.y2 - row.y1;
-							row.width2 = row.x22 - row.x12;
-							row.size2 = row.y22 - row.y12;
 						}
 
 						var last = null;
@@ -228,11 +221,6 @@
 				update();
 			});
 
-			self.on('change-layer', function(event) {
-				data.layer2 = self.getModel('layer2');
-				update();
-			});
-
 			self.on('change-zoom', function(event) {
 				data.zoom = self.getModel('zoom') / 100;
 				update();
@@ -257,8 +245,6 @@
 
 					delete row.width;
 					delete row.size;
-					delete row.width2;
-					delete row.size2;
 					if (row.hasOwnProperty('selected')) {
 						delete row.selected;
 					}

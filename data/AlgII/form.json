@@ -1702,9 +1702,9 @@
       "page": 3,
       "structure": "",
       "x1": 25,
-      "y1": 567,
+      "y1": 577,
       "x2": 511,
-      "y2": 576,
+      "y2": 586,
       "align": "start"
     },
     {
@@ -1753,9 +1753,9 @@
       "page": 3,
       "structure": "",
       "x1": 25,
-      "y1": 641,
+      "y1": 652,
       "x2": 511,
-      "y2": 650,
+      "y2": 661,
       "align": "start"
     },
     {
@@ -1929,9 +1929,9 @@
       "structure": "",
       "page": 4,
       "x1": 92,
-      "y1": 286,
+      "y1": 287,
       "x2": 553,
-      "y2": 295,
+      "y2": 296,
       "align": "left"
     },
     {
@@ -1949,9 +1949,9 @@
       "structure": "7.1",
       "content": "Pflichtversicherung in der gesetzlichen Kranken- und Pflegeversicherung",
       "x1": 81,
-      "y1": 331,
+      "y1": 332,
       "x2": 553,
-      "y2": 340,
+      "y2": 341,
       "align": "left"
     },
     {

@@ -7,6 +7,19 @@ em {
 	font-style: inherit;
 	text-decoration: underline;
 }
+ol, ul {
+	padding-left: 2em;
+}
+ul:first-child,
+ol:first-child,
+p:first-child {
+	margin-top: 0;
+}
+ul:last-child,
+ol:last-child,
+p:last-child {
+	margin-bottom: 0;
+}
 
 .page {
 	width: 20cm;

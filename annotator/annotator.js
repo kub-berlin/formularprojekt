@@ -245,8 +245,12 @@
 
 					delete row.width;
 					delete row.size;
+					delete row.appended;
 					if (row.hasOwnProperty('selected')) {
 						delete row.selected;
+					}
+					if (row.hasOwnProperty('skip')) {
+						delete row.skip;
 					}
 				}
 

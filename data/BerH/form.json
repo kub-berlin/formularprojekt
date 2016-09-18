@@ -784,7 +784,7 @@
         },
         {
             "align": "",
-            "content": "Haben Sie oder Ihr Ehegatte/eingetragener Lebenspartner bzw. Ihre Ehegattin/eingetragene Lebenspartnerin sonstige besondere\nBelastungen?",
+            "content": "Haben Sie oder Ihr Ehegatte/eingetragener Lebenspartner bzw. Ihre Ehegattin/eingetragene Lebenspartnerin sonstige besondere Belastungen?",
             "page": 2,
             "structure": "",
             "x1": 75,
@@ -864,7 +864,7 @@
         },
         {
             "align": "",
-            "content": "Ich versichere, dass mir in derselben Angelegenheit Beratungshilfe weder gewährt noch durch das Gericht versagt worden\nist und dass in derselben Angelegenheit kein gerichtliches Verfahren anhängig ist oder war.",
+            "content": "Ich versichere, dass mir in derselben Angelegenheit Beratungshilfe weder gewährt noch durch das Gericht versagt worden ist und dass in derselben Angelegenheit kein gerichtliches Verfahren anhängig ist oder war.",
             "page": 2,
             "structure": "",
             "x1": 52,
@@ -874,7 +874,7 @@
         },
         {
             "align": "",
-            "content": "Ich versichere, dass meine Angaben vollständig und wahr sind. Die Allgemeinen Hinweise und die Ausfüllhinweise zu\ndiesem Formular habe ich erhalten.",
+            "content": "Ich versichere, dass meine Angaben vollständig und wahr sind. Die Allgemeinen Hinweise und die Ausfüllhinweise zu diesem Formular habe ich erhalten.",
             "page": 2,
             "structure": "",
             "x1": 52,
@@ -884,7 +884,7 @@
         },
         {
             "align": "",
-            "content": "Mir ist bekannt, dass das Gericht verlangen kann, dass ich meine Angaben glaubhaft mache und insbesondere auch die\nAbgabe einer Versicherung an Eides statt fordern kann.",
+            "content": "Mir ist bekannt, dass das Gericht verlangen kann, dass ich meine Angaben glaubhaft mache und insbesondere auch die Abgabe einer Versicherung an Eides statt fordern kann.",
             "page": 2,
             "structure": "",
             "x1": 52,
@@ -894,7 +894,7 @@
         },
         {
             "align": "",
-            "content": "Mir ist bekannt, dass unvollständige oder unrichtige Angaben die Aufhebung der Bewilligung von Beratungshilfe und ggf.\nauch eine Strafverfolgung nach sich ziehen können.",
+            "content": "Mir ist bekannt, dass unvollständige oder unrichtige Angaben die Aufhebung der Bewilligung von Beratungshilfe und ggf. auch eine Strafverfolgung nach sich ziehen können.",
             "page": 2,
             "structure": "",
             "x1": 52,
@@ -1012,7 +1012,7 @@
         },
         {
             "append": "\n\n",
-            "content": "Erforderlich ist ein **Antrag**, der mündlich oder schriftlich gestellt werden kann. Für einen schriftlichen Antrag ist das anhängende Formular zu benutzen. Sie können den Antrag bei dem Amtsgericht stellen oder Sie können unmittelbar eine der unten genannten Beratungspersonen Ihrer Wahl mit der Bitte um Beratungshilfe aufsuchen.\n",
+            "content": "Erforderlich ist ein **Antrag**, der mündlich oder schriftlich gestellt werden kann. Für einen schriftlichen Antrag ist das anhängende Formular zu benutzen. Sie können den Antrag bei dem Amtsgericht stellen oder Sie können unmittelbar eine der unten genannten Beratungspersonen Ihrer Wahl mit der Bitte um Beratungshilfe aufsuchen.",
             "page": 3,
             "structure": ""
         },

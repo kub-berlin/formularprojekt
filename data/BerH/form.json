@@ -204,7 +204,7 @@
         },
         {
             "align": "",
-            "content": "Meine Wohnung hat eine Größe von ................. m2. Die Wohnkosten betragen monatlich insgesamt ...........................EUR. Ich zahle davon ....... EUR.",
+            "content": "Meine Wohnung hat eine Größe von ................. m². Die Wohnkosten betragen monatlich insgesamt ...........................EUR. Ich zahle davon ....... EUR.",
             "page": 0,
             "structure": "",
             "x1": 75,

@@ -138,9 +138,9 @@
             "page": 0,
             "structure": "",
             "x1": 85,
-            "x2": 451,
+            "x2": 495,
             "y1": 337,
-            "y2": 344
+            "y2": 343
         },
         {
             "align": "",
@@ -178,9 +178,9 @@
             "page": 0,
             "structure": "",
             "x1": 54,
-            "x2": 452,
-            "y1": 389,
-            "y2": 396
+            "x2": 479,
+            "y1": 387,
+            "y2": 394
         },
         {
             "align": "",
@@ -247,8 +247,8 @@
             "content": "Welchen Angehörigen gewähren Sie Unterhalt?",
             "page": 0,
             "structure": "",
-            "x1": 75,
-            "x2": 195,
+            "x1": 74,
+            "x2": 194,
             "y1": 509,
             "y2": 516
         },
@@ -257,30 +257,30 @@
             "content": "Unterhalt kann in Form von Geldzahlungen, aber auch durch Gewährung von Unterkunft, Verpflegung etc. erfolgen. Bitte nennen Sie hier Name, Vorname dieser Angehörigen (Anschrift nur, wenn sie von Ihrer Anschrift abweicht)",
             "page": 0,
             "structure": "",
-            "x1": 75,
-            "x2": 195,
-            "y1": 525,
-            "y2": 531
+            "x1": 74,
+            "x2": 194,
+            "y1": 528,
+            "y2": 534
         },
         {
             "align": "",
             "content": "Geburtsdatum",
             "page": 0,
             "structure": "",
-            "x1": 198,
-            "x2": 233,
+            "x1": 197,
+            "x2": 232,
             "y1": 510,
-            "y2": 517
+            "y2": 516
         },
         {
             "align": "",
             "content": "Familienverhältnis des Angehörigen zu Ihnen (z.B. Ehegatte, Kind)",
             "page": 0,
             "structure": "",
-            "x1": 235,
-            "x2": 287,
+            "x1": 234,
+            "x2": 284,
             "y1": 509,
-            "y2": 516
+            "y2": 515
         },
         {
             "align": "",
@@ -290,7 +290,7 @@
             "x1": 289,
             "x2": 356,
             "y1": 509,
-            "y2": 516
+            "y2": 515
         },
         {
             "align": "",
@@ -688,9 +688,9 @@
             "page": 1,
             "structure": "",
             "x1": 75,
-            "x2": 451,
-            "y1": 370,
-            "y2": 377
+            "x2": 452,
+            "y1": 369,
+            "y2": 376
         },
         {
             "align": "",
@@ -940,7 +940,7 @@
             "x1": 52,
             "x2": 455,
             "y1": 38,
-            "y2": 48
+            "y2": 50
         },
         {
             "align": "center",
@@ -950,7 +950,7 @@
             "x1": 52,
             "x2": 455,
             "y1": 52,
-            "y2": 62
+            "y2": 63
         },
         {
             "align": "",
@@ -970,7 +970,7 @@
             "x1": 52,
             "x2": 455,
             "y1": 88,
-            "y2": 98
+            "y2": 97
         },
         {
             "align": "",
@@ -990,7 +990,7 @@
             "x1": 52,
             "x2": 455,
             "y1": 163,
-            "y2": 173
+            "y2": 172
         },
         {
             "append": "\n\n",
@@ -1072,7 +1072,7 @@
             "x1": 52,
             "x2": 455,
             "y1": 63,
-            "y2": 73
+            "y2": 72
         },
         {
             "append": "\n\n",
@@ -1104,7 +1104,7 @@
             "x1": 52,
             "x2": 455,
             "y1": 279,
-            "y2": 289
+            "y2": 288
         },
         {
             "append": "\n\n",
@@ -1136,7 +1136,7 @@
             "x1": 52,
             "x2": 455,
             "y1": 454,
-            "y2": 464
+            "y2": 463
         },
         {
             "append": "\n\n",

@@ -1,9 +1,11 @@
-(function(xhr, muu, markdown) {
+(function(fetch, muu, markdown) {
 	'use strict';
 
 	var registry = new muu.Registry();
 
-	xhr.get('template.html').then(function(template) {
+	fetch('template.html').then(function(response) {
+		return response.ok ? response.text() : Promise.reject(response);
+	}).then(function(template) {
 		registry.registerDirective('forms', template, function(self) {
 			var data = {};
 
@@ -87,7 +89,9 @@
 					});
 				} else {
 					var url = '../data/' + formId + '/form.json';
-					formPromise = xhr.getJSON(url).then(function(form) {
+					formPromise = fetch(url).then(function(response) {
+						return response.ok ? response.json() : Promise.reject(response);
+					}).then(function(form) {
 						for (var i = 0; i < form.rows.length; i++) {
 							var row = form.rows[i];
 							row.width = row.x2 - row.x1;

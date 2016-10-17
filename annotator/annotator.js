@@ -64,7 +64,7 @@
 				localStorage.setItem('page', data.page);
 				localStorage.setItem('selected', data.selected);
 				localStorage.setItem(data.formId, JSON.stringify(data.form));
-			}
+			};
 
 			var select = function(i) {
 				if (data.selected !== void 0) {
@@ -136,7 +136,7 @@
 				var list = li.parentElement.children;
 
 				var i = list.length;
-				while (i > 0 && list[--i] !== li) {};
+				while (i > 0 && list[--i] !== li) {}
 				select(i);
 				update();
 			});
@@ -244,7 +244,7 @@
 				var formId = self.getModel('formId');
 				select();
 				getForm(formId, true).then(function() {
-					update()
+					update();
 					window.history.pushState(data.form, null);
 				});
 			});

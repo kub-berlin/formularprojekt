@@ -1,6 +1,15 @@
 (function(fetch, muu, markdown) {
 	'use strict';
 
+	// register service worker
+	if ('serviceWorker' in navigator) {
+		navigator.serviceWorker.register('sw.js').then(function(reg) {
+			console.log('Registration succeeded. Scope is ' + reg.scope);
+		}).catch(function(error) {
+			console.log('Registration failed with ' + error);
+		});
+	}
+
 	var registry = new muu.Registry();
 
 	fetch('template.html').then(function(response) {

@@ -14,6 +14,16 @@
         },
         {
             "align": "",
+            "content": "Posttleitzahl, Ort",
+            "page": 0,
+            "structure": "",
+            "x1": 55,
+            "x2": 315,
+            "y1": 100,
+            "y2": 106
+        },
+        {
+            "align": "",
             "content": "*Geschäftsnummer des Amtsgerichts*",
             "page": 0,
             "structure": "",

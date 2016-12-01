@@ -2,6 +2,1508 @@
     "checksum": "162f81b2b9d03c5de1b9eaf4a14cabdc",
     "date": "2014-01-01",
     "rows": [
+        {
+            "content": "Bezeichnung,Ort und Geschäftsnummer des Gerichts:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- oder Verfahrenskostenhilfe",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "– Belege sind in Kopie durchnummeriert beizufügen –",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Angaben zu Ihrer Person",
+            "page": 0,
+            "structure": "A"
+        },
+        {
+            "content": "Name, Vorname, ggf. Geburtsname",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Beruf, Erwerbstätigkeit",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Geburtsdatum",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Familienstand",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Anschrift (Straße, Hausnummer, Postleitzahl, Wohnort)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Tagsüber tel. erreichbar unter Nummer",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Sofern vorhanden: Gesetzlicher Vertreter (Name, Vorname, Anschrift, Telefon)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Rechtsschutzversicherung/ Mitgliedschaft",
+            "page": 0,
+            "structure": "B"
+        },
+        {
+            "content": "1. Trägt eine Rechtsschutzversicherung oder eine andere Stelle/ Person (z. B. Gewerkschaft, Mieterverein, Sozialverband) die Kosten Ihrer Prozess- oder Verfahrensführung?",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "In welcher Höhe? Wenn die Kosten in voller Höhe von einer Versicherung oder anderen Stelle/ Person getragen werden, ist die Bewilligung von Prozess- oder Verfahrenskostenhilfe nicht möglich und damit die Beantwortung der weiteren Fragen *nicht* erforderlich.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "2. *Wenn nein*: Besteht eine Rechtsschutzversicherung oder die Mitgliedschaft in einem Verein/ einer Organisation (z. B. Gewerkschaft, Mieterverein, Sozialverband), der/ die die Kosten der beabsichtigten Prozess- oder Verfahrensführung tragen oder einen Prozessbevollmächtigten stellen könnte?",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Bezeichnung der Versicherung/ des Vereins/ der Organisation. Klären Sie möglichst vorab, ob die Kosten getragen werden. Bereits vorhandene Belege über eine (Teil-)Ablehnung seitens der Versicherung/ des Vereins/ der Organisation fügen Sie dem Antrag bei.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Unterhaltsanspruch gegenüber anderen Personen",
+            "page": 0,
+            "structure": "C"
+        },
+        {
+            "content": "Haben Sie Angehörige, die Ihnen gegenüber gesetzlich zur Leistung von Unterhalt verpflichtet sind (auch wenn tatsächlich keine Leistungen erfolgen)? ",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "z. B. Mutter, Vater, Ehegatte/Ehegattin, eingetragene(r) Lebenspartner/ Lebenspartnerin",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Name des Unterhaltsverpflichteten. Bitte geben Sie auf einem weiteren Exemplar dieses Formulars seine persönliche und wirtschaftlichen Verhältnisse an, sofern diese nicht bereits vollständig aus den folgenden Abschnitten ersichtlich sind.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Angehörige, denen Sie Bar- oder Naturalunterhalt gewähren",
+            "page": 0,
+            "structure": "D"
+        },
+        {
+            "content": "Name, Vorname, Anschrift",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "(sofern sie von Ihrer Anschrift abweicht)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Geburtsdatum",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Verhältnis ",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "(z. B. Ehegatte, Kind, Mutter)",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Monatsbetrag in EUR, soweit Sie den Unterhalt nur durch Zahlung gewähren",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Haben diese Angehörigen eigene Einnahmen?",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "z. B. Ausbildungsvergütung, Unterhaltszahlung vom anderen Elternteil usw.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR netto",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR netto",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR netto",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR netto",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR netto",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "content": "Wenn Sie laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch (Sozialhilfe) beziehen und den aktuellen Bescheid einschließlich des Berechnungsbogens vollständig beifügen, müssen Sie die *Abschnitte E bis J* nicht ausfüllen, es sei denn, das Gericht ordnet dies an.",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Bruttoeinnahmen",
+            "page": 1,
+            "structure": "E"
+        },
+        {
+            "content": "Belege (z. B. Lohnbescheinigung, Steuerbescheid, Bewilligungsbescheid mit Berechnungsbogen) müssen in Kopie beigefügt werden.",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "1. Haben Sie Einnahmen aus",
+            "page": 1,
+            "structure": "1."
+        },
+        {
+            "content": "(bitte die monatlichen Bruttobeträge in EUR angeben)",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nichtselbständiger Arbeit?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Selbständiger Arbeit/ Gewerbebetrieb/ Land- und Forstwirtschaft?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Vermietung und Verpachtung?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Kapitalvermögen?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Kindergeld/ Kinderzuschlag?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Wohngeld?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Unterhalt?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Rente/ Pension?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Arbeitslosengeld?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Arbeitslosengeld II?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Krankengeld?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Elterngeld?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "2. Haben Sie andere Einnahmen?",
+            "page": 1,
+            "structure": "2."
+        },
+        {
+            "content": "auch einmalige oder unregelmäßige",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Wenn Ja, bitte Art, Bezugszeitraum und Höhe angeben",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "z. B. Weihnachts-/ Urlaubsgeld jährlich, Steuererstattung jährlich, BAföG mtl.",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "3. Hat Ihr Ehegatte/ eingetragener Lebenspartner bzw. Ihre Ehegattin/ eingetragene Lebenspartnerin Einnahmen aus",
+            "page": 1,
+            "structure": "3."
+        },
+        {
+            "content": "(bitte die monatlichen Bruttobeträge in EUR angeben)",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nichtselbständiger Arbeit?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Selbständiger Arbeit/ Gewerbebetrieb/ Land- und Forstwirtschaft?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Vermietung und Verpachtung?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Kapitalvermögen?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Kindergeld/ Kinderzuschlag?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Wohngeld?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Unterhalt?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Rente/ Pension?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Arbeitslosengeld?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Arbeitslosengeld II?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Krankengeld?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Elterngeld?",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "mtl. EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "4. Hat Ihr Ehegatte/ eingetragener Lebenspartner bzw. Ihre Ehegattin/ eingetragene Lebenspartnerin andere Einnahmen?",
+            "page": 1,
+            "structure": "4."
+        },
+        {
+            "content": "auch einmalige oder unregelmäßige",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Wenn Ja, bitte Art, Bezugszeitraum und Höhe angeben",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "z. B. Weihnachts-/ Urlaubsgeld jährlich, Steuererstattung jährlich, BAföG mtl.",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "EUR brutto",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "5. Falls zu den Einnahmen alle Fragen verneint werden: Auf welche Umstände ist dies zurückzuführen? Wie bestreiten Sie Ihren Lebensunterhalt?",
+            "page": 1,
+            "structure": "5."
+        },
+        {
+            "content": "Angaben hierzu sind auf einem gesonderten Blatt beizufügen!",
+            "page": 1,
+            "structure": ""
+        },
+        {
+            "content": "Abzüge",
+            "page": 2,
+            "structure": "F"
+        },
+        {
+            "content": "Art der Abzüge bitte kurz bezeichnen (z. B. Lohnsteuer, Pflichtbeiträge, Lebensversicherung). Belege müssen in Kopie beigefügt werden.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "1. Welche Abzüge haben Sie?",
+            "page": 2,
+            "structure": "1."
+        },
+        {
+            "content": "Beleg",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Steuern/ Solidaritätszuschlag",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Sozialversicherungsbeiträge",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Sonstige Versicherungen",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Fahrt zur Arbeit (Kosten für öffentliche Verkehrsmittel oder einfache Entfernung bei KFZ-Nutzung)",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Sonstige Werbungskosten/ Betriebsausgaben",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "2. Welche Abzüge hat Ihr Ehegatte/ eing. Lebenspartner",
+            "page": 2,
+            "structure": "2."
+        },
+        {
+            "content": "Beleg",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Steuern/ Solidaritätszuschlag",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Sozialversicherungsbeiträge",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Sonstige Versicherungen",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Fahrt zur Arbeit (Kosten für öffentliche Verkehrsmittel oder einfache Entfernung bei KFZ-Nutzung)",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Sonstige Werbungskosten/ Betriebsausgaben",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "EUR mtl.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Bankkonten/ Grundeigentum/ Kraftfahrzeuge/ Bargeld/ Vermögenswerte",
+            "page": 2,
+            "structure": "G"
+        },
+        {
+            "content": "Verfügen Sie oder Ihr Ehegatte/ Ihre Ehegattin bzw. Ihr eingetragener Lebenspartner/ Ihre eingetragene Lebenspartnerin allein oder gemeinsam über…",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "1. Bank-, Giro-, Sparkonten oder dergleichen?",
+            "page": 2,
+            "structure": "1."
+        },
+        {
+            "content": "Angaben zu allen Konten sind auch bei fehlendem Guthaben erforderlich.",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Beleg",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Art des Kontos, Kontoinhaber, Kreditinstitut",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Kontostand in EUR",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "2. Grundeigentum?",
+            "page": 2,
+            "structure": "2."
+        },
+        {
+            "content": "z. B. Grundstück, Haus, Eigentumswohnung, Erbbaurecht",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Beleg",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Größe, Anschrift/ Grundbuchbezeichnung, Allein- oder Miteigentum, Zahl der Wohneinheiten",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Verkehrswert in EUR",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "3. Kraftfahrzeuge?",
+            "page": 2,
+            "structure": "3."
+        },
+        {
+            "content": "Beleg",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Marke, Typ, Baujahr, Anschaffungsjahr, Allein- oder Miteigentum, Kilometerstand",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Verkehrswert in EUR",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "4. Bargeld oder Wertgegenstände?",
+            "page": 2,
+            "structure": "4."
+        },
+        {
+            "content": "z. B. wertvoller Schmuck, Antiquitäten, hochwertige elektronische Geräte",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Beleg",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Bargeldbetrag in EUR, Bezeichnung der Wertgegenstände, Allein- oder Miteigentum",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Verkehrswert in EUR",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "5. Lebens- oder Rentenversicherungen?",
+            "page": 2,
+            "structure": "5."
+        },
+        {
+            "content": "Beleg",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Versicherung, Versicherungsnehmer, Datum des Vertrages/ Handelt es sich um eine zusätzliche Altersvorsorge gem. Einkommensteuergesetz, die staatlich gefördert wurde („Riester-Rente“)?",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Rückkaufswert in EUR",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "6. sonstige Vermögenswerte?",
+            "page": 2,
+            "structure": "6."
+        },
+        {
+            "content": "z. B. Bausparverträge, Wertpapiere, Beteiligungen, Forderungen",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Beleg",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Ja:",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Bezeichnung, Allein- oder Miteigentum",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Verkehrswert in EUR",
+            "page": 2,
+            "structure": ""
+        },
+        {
+            "content": "Wohnkosten",
+            "page": 3,
+            "structure": "H"
+        },
+        {
+            "content": "Belege sind in Kopie beizufügen (z. B. Mietvertrag, Heizkostenabrechnung, Kontoauszüge)",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Beleg",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "1. Gesamtgröße des Wohnraums, den Sie allein oder gemeinsam mit anderen Personen bewohnen:",
+            "page": 3,
+            "structure": "1."
+        },
+        {
+            "content": "(Angabe in Quadratmeter)",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "2. Zahl der Zimmer:",
+            "page": 3,
+            "structure": "2."
+        },
+        {
+            "content": "3. Anzahl der Personen, die den Wohnraum",
+            "page": 3,
+            "structure": "3."
+        },
+        {
+            "content": "4. Nutzen Sie den Raum als Mieter oder in einem ähnlichen Nutzungsverhältnis?",
+            "page": 3,
+            "structure": "4."
+        },
+        {
+            "content": "Wenn ja, bitte die nachfolgenden Angaben in EUR pro Monat ergänzen",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Miete ohne Nebenkosten",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Heizungskosten",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Übrige Nebenkosten",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Gesamtbetrag",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich allein zahle davon",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "6. Genaue Einzelangaben zu der Belastung aus Fremdmitteln bei Nutzung als (Mit-) Eigentümer usw.",
+            "page": 3,
+            "structure": "6."
+        },
+        {
+            "content": "z. B. Datum des Darlehensvertrages, Darlehensnehmer, Kreditinstitut, Darlehensrate pro Monat, Zahlungen laufen bis...",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Restschuld in EUR",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Zinsen und Tilgung mtl.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Restschuld in EUR",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Zinsen und Tilgung mtl.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Sonstige Zahlungsverpflichtungen",
+            "page": 3,
+            "structure": "I"
+        },
+        {
+            "content": "Angabe, an wen, wofür, seit wann und bis wann die Zahlungen geleistet werden",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "z. B. Ratenkredit der ... Bank vom... für…, Raten laufen bis.../ Belege (z. B. Darlehensvertrag, Zahlungsnachweise) sind in Kopie beizufügen",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Restschuld in EUR",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Gesamtbelastung mtl.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich allein zahle davon",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Restschuld in EUR",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Gesamtbelastung mtl.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich allein zahle davon",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Restschuld in EUR",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Gesamtbelastung mtl.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich allein zahle davon",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Besondere Belastungen",
+            "page": 3,
+            "structure": "J"
+        },
+        {
+            "content": "Angaben sind zu belegen,",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "z. B. Mehrausgaben für körperbehinderten Angehörigen und Angabe des GdB/ Mehrbedarfe gemäß § 21 SGB II und § 30 SGB XII",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Beleg Nummer",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich allein zahle davon",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich allein zahle davon",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich allein zahle davon",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich versichere hiermit, dass meine Angaben vollständig und wahr sind. Das Hinweisblatt zu diesem Formular habe ich erhalten und gelesen.",
+            "page": 3,
+            "structure": "K"
+        },
+        {
+            "append": "\n\n",
+            "content": "Mir ist bekannt, dass unvollständige oder unrichtige Angaben die Aufhebung der Bewilligung von Prozess-oder Verfahrenskostenhilfe und eine Strafverfolgung nach sich ziehen können. Das Gericht kann mich auffordern, fehlende Belege nachzureichen und meine Angaben an Eidesstatt zu versichern.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Mir ist auch bekannt, dass ich während des Gerichtsverfahrens und innerhalb eines Zeitraums von vier Jahren seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens\nverpflichtet bin, dem Gericht wesentliche Verbesserungen meiner wirtschaftlichen Lage oder eine Änderung meiner Anschrift unaufgefordert und unverzüglich mitzuteilen. Bei laufenden Einkünften ist jede nicht nur einmalige Verbesserung von mehr als 100 Euro (brutto) im Monat mitzuteilen. Reduzieren sich geltend gemachte Abzüge, muss ich dies ebenfalls unaufgefordert und unverzüglich mitteilen, wenn die Entlastung nicht nur einmalig 100 Euro im Monat übersteigt. Ich weiß, dass die Bewilligung der Prozess- oder Verfahrenskostenhilfe bei einem Verstoß gegen diese Pflicht aufgehoben werden kann, und ich dann die gesamten Kosten nachzahlen muss.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Anzahl der beigefügten Belege:",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ort, Datum",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Unterschrift der Partei oder Person, die sie gesetzlich vertritt",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Aufgenommen:",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Unterschrift/ Amtsbezeichnung",
+            "page": 3,
+            "structure": ""
+        }
     ],
     "title": "Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe",
     "url": "http://www.berlin.de/gerichte/_assets/was-moechten-sie-erledigen/mdb-senatsverwaltungen-justiz-formularserver-prozesskostenhilfe-pkh_erkl__rung.pdf"

@@ -183,7 +183,7 @@
             "y2": 370
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Wenn Sie laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch („Sozialhilfe“) beziehen und den derzeit gültigen Bescheid einschließlich des Berechnungsbogens des Sozialamtes beifügen, müssen Sie keine Angaben zu den Feldern C bis G machen, es sei denn, das Gericht ordnet dies ganz oder teilweise an. Wenn Sie dagegen Leistungen nach dem Zweiten Buch Sozialgesetzbuch („Arbeitslosengeld II“) beziehen, müssen Sie die Felder ausfüllen.",
             "page": 0,
             "structure": "",
@@ -873,7 +873,7 @@
             "y2": 257
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Ich versichere, dass mir in derselben Angelegenheit Beratungshilfe weder gewährt noch durch das Gericht versagt worden ist und dass in derselben Angelegenheit kein gerichtliches Verfahren anhängig ist oder war.",
             "page": 2,
             "structure": "",
@@ -883,7 +883,7 @@
             "y2": 278
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Ich versichere, dass meine Angaben vollständig und wahr sind. Die Allgemeinen Hinweise und die Ausfüllhinweise zu diesem Formular habe ich erhalten.",
             "page": 2,
             "structure": "",
@@ -893,7 +893,7 @@
             "y2": 312
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Mir ist bekannt, dass das Gericht verlangen kann, dass ich meine Angaben glaubhaft mache und insbesondere auch die Abgabe einer Versicherung an Eides statt fordern kann.",
             "page": 2,
             "structure": "",
@@ -903,7 +903,7 @@
             "y2": 339
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Mir ist bekannt, dass unvollständige oder unrichtige Angaben die Aufhebung der Bewilligung von Beratungshilfe und ggf. auch eine Strafverfolgung nach sich ziehen können.",
             "page": 2,
             "structure": "",
@@ -963,7 +963,7 @@
             "y2": 63
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Wozu Beratungshilfe?",
             "page": 3,
             "structure": "",
@@ -973,7 +973,7 @@
             "y2": 82
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Bürgerinnen und Bürger mit geringem Einkommen können Beratungshilfe bekommen, um sich rechtlich beraten und, soweit erforderlich, vertreten zu lassen. Beratungshilfe kann auf allen Rechtsgebieten erteilt werden. Näheres erfahren Sie bei den Gerichten und den Rechtsanwältinnen/Rechtsanwälten sowie den sonstigen Beratungspersonen.",
             "page": 3,
             "structure": "",
@@ -983,7 +983,7 @@
             "y2": 97
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Wer erhält Beratungshilfe, was sind die Voraussetzungen dafür?",
             "page": 3,
             "structure": "",
@@ -993,7 +993,7 @@
             "y2": 157
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Beratungshilfe erhält, wer nach seinen persönlichen und wirtschaftlichen Verhältnissen die für eine Beratung oder Vertretung erforderlichen **Mittel nicht aufbringen kann**. Dies sind in der Regel Personen, die laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch („Sozialhilfe“) beziehen. Aber auch bei anderen Personen mit geringem Einkommen können die Voraussetzungen dafür vorliegen. Nähere Auskünfte erteilen ggf. die Amtsgerichte und die Beratungspersonen.",
             "page": 3,
             "structure": "",
@@ -1039,7 +1039,7 @@
             "structure": ""
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Wer gewährt Beratungshilfe?",
             "page": 3,
             "structure": "",
@@ -1049,7 +1049,7 @@
             "y2": 630
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Die Beratungshilfe gewähren zum einen die **Beratungspersonen** (Rechtsanwältinnen und Rechtsanwälte sowie in Kammern zugelassene Rechtsbeistände, in steuerrechtlichen Angelegenheiten auch Steuerberater und Wirtschaftsprüfer; in Rentenangelegenheiten auch Rentenberater). Besondere **anwaltliche Beratungsstellen**, die aufgrund einer Vereinbarung mit den Landesjustizverwaltungen eingerichtet worden sind, gewähren ebenfalls Beratungshilfe. Sie alle sind – außer in besonderen Ausnahmefällen – zur Beratungshilfe verpflichtet.",
             "page": 3,
             "structure": "",
@@ -1065,7 +1065,7 @@
             "structure": ""
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Was kostet mich die Beratungshilfe?",
             "page": 4,
             "structure": "",
@@ -1075,7 +1075,7 @@
             "y2": 59
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Wird die Beratungshilfe nicht bereits durch das Amtsgericht selbst, sondern durch eine Beratungsperson gewährt, so haben Sie an die Beratungsperson 15 Euro zu bezahlen. Die Beratungsperson kann auf diese Gebühr auch verzichten. Alle übrigen Kosten der Beratungshilfe trägt in aller Regel die Landeskasse.",
             "page": 4,
             "structure": "",
@@ -1097,7 +1097,7 @@
             "structure": ""
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Was ist bei der Antragstellung zu beachten?",
             "page": 4,
             "structure": "",
@@ -1107,7 +1107,7 @@
             "y2": 272
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Lesen Sie bitte das Antragformular sorgfältig durch und füllen Sie es gewissenhaft aus. Sie finden auf der nächsten Seite Hinweise, die Ihnen die Beantwortung der Fragen erleichtern sollen. Wenn Sie beim Ausfüllen Schwierigkeiten haben, wird Ihnen das Amtsgericht oder Ihre Beratungsperson behilflich sein.",
             "page": 4,
             "structure": "",
@@ -1129,7 +1129,7 @@
             "structure": ""
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Wichtig:",
             "page": 4,
             "structure": "",
@@ -1139,7 +1139,7 @@
             "y2": 449
         },
         {
-            "align": "",
+            "align": "start",
             "content": "Bitte fügen Sie alle notwendigen Belege (insbesondere über Ihr Einkommen, Ihr Vermögen und Ihre Belastungen) in Kopie bei. Sie ersparen sich Rückfragen, die das Verfahren verzögern. Antworten Sie wahrheitsgemäß und vollständig, sonst kann schon bewilligte Beratungshilfe wieder aufgehoben werden und Sie müssen die angefallenen Kosten nachzahlen.",
             "page": 4,
             "structure": "",

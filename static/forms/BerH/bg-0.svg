@@ -86,9 +86,9 @@
      inkscape:window-height="780"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.2684253"
-     inkscape:cx="350.01153"
-     inkscape:cy="764.11596"
+     inkscape:zoom="0.89691211"
+     inkscape:cx="358.18597"
+     inkscape:cy="997.74036"
      inkscape:window-x="0"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
@@ -97,13 +97,20 @@
      inkscape:groupmode="layer"
      inkscape:label="BerH"
      transform="matrix(1.25,0,0,-1.25,0,1052.5)"><text
-       transform="matrix(1,0,0,-1,441.9,167.3003)"
-       id="text12"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.3602;writing-mode:lr;-inkscape-font-specification:ArialMT"
-         x="0 5.2183115"
+       transform="matrix(1,0,0,-1,60.42,740.5404)"
+       id="text20"><tspan
+         style="font-size:9.36019993px;font-variant:normal;font-weight:normal;font-stretch:condensed;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Narrow;-inkscape-font-specification:ArialNarrow"
+         x="40.621395 42.780792 50.458031 58.135265 65.8125 73.489738 81.166977 88.912537 96.589775 104.26701 111.94424 119.62148 127.29872 135.03961"
+         sodipodi:role="line"
+         id="tspan22"> …………………………………</tspan></text>
+<text
+       transform="matrix(1,0,0,-1,60.42,724.46333)"
+       id="text24"><tspan
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Narrow;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:9.3602;writing-mode:lr;-inkscape-font-specification:ArialNarrow"
+         x="0 7.67817206 15.35634412 22.97835498 30.65652704 38.39834846 46.14016988 53.81834194 61.496514 69.11852486 76.79669692 84.53851834 92.28033976 99.95851182 107.63668388 115.25869474 122.9368668 130.67868822 138.35686028 140.49379394 142.6307276"
          y="0"
          sodipodi:role="line"
-         id="tspan14">1 </tspan></text>
+         id="tspan26">……………………………………………….. </tspan></text>
 <path
        d="m 55.62,638.9 0.36,0 0,0.42 -0.36,0 0,-0.42 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -442,9 +449,9 @@
          id="tspan474">1 </tspan><tspan
          style="font-size:5.11499977px;font-variant:normal;font-weight:normal;font-stretch:condensed;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Narrow;-inkscape-font-specification:ArialNarrow"
          x="0"
+         y="0"
          sodipodi:role="line"
-         id="tspan476"
-         y="0"> </tspan></text>
+         id="tspan476" /></text>
 <path
        d="m 386.46,257.9 -5.94,0 0,-5.88 5.94,0 0,5.88 z"
        style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
@@ -532,10 +539,10 @@
          sodipodi:role="line"
          id="tspan536">2 </tspan><tspan
          style="font-size:5.11499977px;font-variant:normal;font-weight:normal;font-stretch:condensed;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Narrow;-inkscape-font-specification:ArialNarrow"
+         x="0"
          sodipodi:role="line"
          id="tspan538"
-         x="0"
-         y="0" /></text>
+         y="0"> </tspan></text>
 <path
        d="m 386.46,235.64 -5.94,0 0,-5.88 5.94,0 0,5.88 z"
        style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
@@ -623,10 +630,10 @@
          sodipodi:role="line"
          id="tspan598">3 </tspan><tspan
          style="font-size:5.11499977px;font-variant:normal;font-weight:normal;font-stretch:condensed;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Narrow;-inkscape-font-specification:ArialNarrow"
+         x="0"
          sodipodi:role="line"
          id="tspan600"
-         x="0"
-         y="0" /></text>
+         y="0"> </tspan></text>
 <path
        d="m 386.46,213.08 -5.94,0 0,-5.88 5.94,0 0,5.88 z"
        style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
@@ -735,9 +742,9 @@
          id="tspan684">4 </tspan><tspan
          style="font-size:5.11499977px;font-variant:normal;font-weight:normal;font-stretch:condensed;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial Narrow;-inkscape-font-specification:ArialNarrow"
          x="0"
+         y="0"
          sodipodi:role="line"
-         id="tspan686"
-         y="0"> </tspan></text>
+         id="tspan686" /></text>
 <path
        d="m 386.46,190.1 -5.94,0 0,-5.94 5.94,0 0,5.94 z"
        style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:0.613;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"

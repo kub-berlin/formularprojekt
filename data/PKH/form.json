@@ -271,6 +271,47 @@
             "content": "Wenn Sie unvollständige oder unrichtige Angaben machen, kann dies auch dazu führen, dass schon bewilligte Prozess- oder Verfahrenskostenhilfe wieder aufgehoben wird und Sie die angefallenen Kosten nachzahlen müssen. Dies droht Ihnen auch dann, wenn Sie während des Gerichtsverfahrens und innerhalb eines Zeitraums von vier Jahren seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens dem Gericht wesentliche Verbesserungen Ihrer wirtschaftlichen Lage oder eine Änderung Ihrer Anschrift nicht unaufgefordert und unverzüglich mitteilen. Wenn Sie bewusst unrichtige oder unvollständige Angaben machen, kann dies auch als Straftat verfolgt werden.",
             "page": 2,
             "structure": ""
+        },
+        {
+            "content": "Mit diesem Formular können Sie beim zuständigen Gericht einen Antrag auf Prozesskostenhilfe stellen. Wird dem Antrag stattgegeben, müssen Sie nur einen Teil der Prozesskosten oder keine Prozesskosten bezahlen.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": " ",
+            "content": "Sie bekommen die Prozesskostenhilfe aber nur dann, wenn Sie wenig Geld haben.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Ihre Rechtsanwältin/Ihr Rechtsanwalt kann den Antrag für Sie stellen.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Folgende Unterlagen müssen Sie gemeinsam mit dem Antrag beim Gericht einreichen:",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "- Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n",
+            "content": "- Belege zu Ihrer persönlichen und wirtschaftlichen Situation (Kopien)",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Siehe auch die Hinweise zur Prozesskostenhilfe am Ende dieses Dokuments.",
+            "page": 3,
+            "structure": ""
         }
     ],
     "title": "Antrag auf Prozess- und Verfahrenskostenhilfe",

@@ -1153,6 +1153,65 @@
             "content": "Das Gericht kann Sie auch auffordern, fehlende Belege nachzureichen und Ihre Angaben an Eides statt zu versichern. Wenn Sie angeforderte Belege nicht nachreichen, kann dies dazu führen, dass Ihr Antrag auf Bewilligung von Beratungshilfe zurückgewiesen wird. Bei bewusst falschen oder unvollständigen Angaben droht Ihnen außerdem strafrechtliche Verfolgung.",
             "page": 4,
             "structure": ""
+        },
+        {
+            "content": "Mit diesem Formular können Sie beim zuständigen Amtsgericht einen Antrag auf Beratungshilfe stellen. Wird dem Antrag stattgegeben, zahlt das Gericht eine Beratung durch eine Rechtsanwältin/einen Rechtsanwalt (Erstberatung).",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Sie können den Antrag per Post ans Amtsgericht schicken oder ihn persönlich beim Amtsgericht stellen.",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Folgende Unterlagen sind in Kopie mitzusenden (Antrag Postweg), bzw. im Original mitzubringen (persönlicher Antrag vor Ort):",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "- Personalausweis oder Reisepass mit polizeilicher Anmeldebescheinigung",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n",
+            "content": "- Einkommensnachweise (z.B. Verdienstbescheinigungen, Alg II-Bescheid etc.)",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n",
+            "content": "- Mietvertrag",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n",
+            "content": "- Kontoauszüge der letzten drei Monate",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n",
+            "content": "- Nachweise über laufende Zahlungsverpflichtungen und besondere Belastungen",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n",
+            "content": "- Unterlagen zu Ihrem rechtlichen Problem (z.B. Schreiben vom und an den Gegner)",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Siehe auch das Merkblatt zur Beratungshilfe: http://service.berlin.de/dienstleistung/326037/pdf/",
+            "page": 5,
+            "structure": ""
         }
     ],
     "title": "Antrag auf Bewilligung von Beratungshilfe",

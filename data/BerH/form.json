@@ -1157,7 +1157,12 @@
         {
             "content": "Mit diesem Formular können Sie beim zuständigen Amtsgericht einen Antrag auf Beratungshilfe stellen. Wird dem Antrag stattgegeben, zahlt das Gericht eine Beratung durch eine Rechtsanwältin/einen Rechtsanwalt (Erstberatung).",
             "page": 5,
-            "structure": ""
+            "structure": "",
+            "x1": 26,
+            "y1": 429,
+            "x2": 549,
+            "y2": 443,
+            "align": "left"
         },
         {
             "append": "\n\n",

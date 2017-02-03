@@ -1,6 +1,9 @@
 {
     "Allgemeine Hinweise": "Общие указания",
+    "Anschrift:": "адрес",
+    "Datum, Unterschrift": "дата, подпись",
     "Name:": "фамилия",
     "Vorname:": "имя",
-    "Wichtig:": "Внимание!"
+    "Wichtig:": "Внимание!",
+    "oder": "или"
 }

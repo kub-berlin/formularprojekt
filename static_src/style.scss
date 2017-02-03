@@ -1,7 +1,8 @@
-@import "bower_components/mfbs/src/variables";
 @import "variables";
-@import "bower_components/mfbs/src/base";
-@import "bower_components/mfbs/src/fontsize";
+@import "bower_components/mfbs/sass/variables";
+@import "bower_components/mfbs/sass/base";
+@import "bower_components/mfbs/sass/fontsize";
+@import "bower_components/mfbs/sass/layout";
 
 html {
     font-family: 'Droid Sans', arial, sans-serif;

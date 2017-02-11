@@ -693,12 +693,16 @@
             "x1": 20,
             "x2": 548,
             "y1": 355,
-            "y2": 364
+            "y2": 365
         },
         {
-            "append": "\n\n",
+            "align": "start",
             "content": "Zu 1 und 2: Angaben zur antragstellenden Person und zum Ehegatten bzw Lebenspartner",
-            "page": 2
+            "page": 2,
+            "x1": 20,
+            "x2": 548,
+            "y1": 378,
+            "y2": 386
         },
         {
             "append": "\n\n",
@@ -736,8 +740,8 @@
             "page": 2,
             "x1": 20,
             "x2": 548,
-            "y1": 638,
-            "y2": 647
+            "y1": 634,
+            "y2": 644
         },
         {
             "align": "start",
@@ -745,17 +749,13 @@
             "page": 2,
             "x1": 20,
             "x2": 548,
-            "y1": 659,
-            "y2": 668
+            "y1": 655,
+            "y2": 663
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Bitte füllen Sie die „Anlage Kind“ vollständig aus. Beim Antrag aufgrund der Geburt eines Kindes ist eine Kopie der Geburtsbescheinigung für Kindergeld oder der Geburtsurkunde erforderlich und ausreichend, wenn keine Zweifel bestehen, dass das Kind in den Haushalt der Eltern aufgenommen ist. Bei einem im Ausland geborenen Kind ist als Nachweis die Geburtsurkunde ausreichend. Für über 18 Jahre alte Kinder ist die Anlage nur auszufüllen, wenn sie eine der im Merkblatt Kindergeld genannten besonderen Voraussetzungen erfüllen. Entsprechende Nachweise (z. B. über die Schul- oder Berufsausbildung) sind beizufügen. Bei angenommenen (adoptierten) Kindern bitte den Annahmebeschluss des Familiengerichts beifügen.",
-            "page": 2,
-            "x1": 20,
-            "x2": 548,
-            "y1": 675,
-            "y2": 683
+            "page": 2
         },
         {
             "append": "\n\n",
@@ -769,61 +769,37 @@
             "x1": 20,
             "x2": 548,
             "y1": 13,
-            "y2": 22
+            "y2": 21
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Wenn Kinder außerhalb Ihres Haushalts leben, geben Sie den Grund an (z.B. Unterbringung bei Großeltern, in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung).",
-            "page": 3,
-            "x1": 20,
-            "x2": 548,
-            "y1": 37,
-            "y2": 45
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Zu 2: Kindschaftsverhältnis zur antragstellenden Person, zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in und zu anderen Personen",
-            "page": 3,
-            "x1": 20,
-            "x2": 548,
-            "y1": 77,
-            "y2": 86
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Die Eintragung der hier abgefragten Angaben ist **in jedem Fall** erforderlich. Wenn der andere Elternteil / die Eltern des Kindes verstorben sind, ist dies durch den Zusatz „verstorben“ anzugeben. Ist für ein Kind die Vaterschaft nicht rechtswirksam festgestellt worden, ist „unbekannt“ bzw. „Vaterschaft nicht festgestellt“ einzutragen.",
-            "page": 3,
-            "x1": 20,
-            "x2": 548,
-            "y1": 101,
-            "y2": 109
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Zu 3: Angaben für ein volljähriges Kind",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 151,
-            "y2": 160
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Besondere Anspruchsvoraussetzungen",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 175,
-            "y2": 184
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Die Berücksichtigung eines volljährigen Kindes ist möglich, wenn es",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 197,
-            "y2": 205
+            "page": 3
         },
         {
             "append": "\n\n",
@@ -861,22 +837,14 @@
             "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Rechtslage ab 2012",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 378,
-            "y2": 387
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den Fällen der Nummer 2 (a bis d) nur berücksichtigt, wenn das Kind keiner (schädlichen) Erwerbstätigkeit nachgeht.",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 399,
-            "y2": 407
+            "page": 3
         },
         {
             "append": "\n\n",
@@ -894,58 +862,34 @@
             "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Rechtslage bis 2011",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 595,
-            "y2": 604
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Die Berücksichtigung eines über 18 Jahre alten Kindes hinsichtlich der Zahlung von Kindergeld ist ausgeschlossen, wenn das Kind Einkünfte und Bezüge von mehr als 8.004 Euro hat, die zur Bestreitung seines Unterhalts oder seiner Berufsausbildung bestimmt oder geeignet sind. Aus diesem Grund ist der Antrag auf Kindergeld für ein volljähriges Kind immer um die „Erklärung zu den Einkünften und Bezügen“ und ggf. die „Erklärung zu den Werbungskosten“ zu ergänzen.",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 614,
-            "y2": 622
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Zu 5: Anspruch auf eine Geldleistung von einer Stelle außerhalb Deutschlands / von einer zwischen- oder überstaatlichen Stelle",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 677,
-            "y2": 686
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Hier sind beispielsweise Ansprüche auf kindbezogene Familienleistungen, die im Ausland bestehen oder Ansprüche auf kindbezogene Leistungen von einer Beschäftigungsbehörde (z. B. der Europäischen Union) einzutragen.",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 698,
-            "y2": 706
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Zu 6: Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung: (...)",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 735,
-            "y2": 744
+            "page": 3
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "„Tätigkeit im öffentlichen Dienst“ bedeutet eine Tätigkeit als Beamter/Versorgungsempfänger/(Tarif-)Beschäftigte des Bundes, eines Landes, einer Gemeinde, eines Gemeindeverbandes oder einer sonstigen Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts oder als Richter, Berufssoldat oder Soldat auf Zeit.",
-            "page": 3,
-            "x1": 0,
-            "x2": 566,
-            "y1": 770,
-            "y2": 778
+            "page": 3
         },
         {
             "append": "\n\n",

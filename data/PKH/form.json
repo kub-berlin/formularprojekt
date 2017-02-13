@@ -5,112 +5,222 @@
         {
             "content": "Angaben der Antragstellerin oder des Antragstellers:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 96,
+            "x2": 550,
+            "y2": 108,
+            "align": "left"
         },
         {
             "content": "Name:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 116,
+            "x2": 500,
+            "y2": 128,
+            "align": "left"
         },
         {
             "content": "Vorname:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 136,
+            "x2": 500,
+            "y2": 148,
+            "align": "left"
         },
         {
             "content": "Anschrift:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 156,
+            "x2": 500,
+            "y2": 168,
+            "align": "left"
         },
         {
             "content": "Amtsgericht",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 224,
+            "x2": 300,
+            "y2": 236,
+            "align": "left"
         },
         {
             "content": "Hiermit beantrage ich, mir Verfahrens- bzw. Prozesskostenhilfe zu bewilligen für",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 313,
+            "x2": 550,
+            "y2": 325,
+            "align": "left"
         },
         {
             "content": "\\*) Zutreffendes bitte ankreuzen!",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 333,
+            "x2": 550,
+            "y2": 345,
+            "align": "left"
         },
         {
             "content": "das Verfahren mit dem Geschäftszeichen ................................. .\\*)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 84,
+            "y1": 356,
+            "x2": 550,
+            "y2": 368,
+            "align": "left"
         },
         {
             "content": "oder",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 381,
+            "x2": 212,
+            "y2": 393,
+            "align": "left"
         },
         {
             "content": "die Erhebung der im Entwurf beigefügten Klage.\\*)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 84,
+            "y1": 404,
+            "x2": 550,
+            "y2": 416,
+            "align": "left"
         },
         {
             "content": "Die Klage soll",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 84,
+            "y1": 429,
+            "x2": 550,
+            "y2": 441,
+            "align": "left"
         },
         {
             "content": "auf jeden Fall, auch wenn mir vorher keine Verfahrens-bzw. Prozesskostenhilfe bewilligt wird,\\*)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 153,
+            "y1": 452,
+            "x2": 550,
+            "y2": 464,
+            "align": "left"
         },
         {
             "content": "oder",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 137,
+            "y1": 491,
+            "x2": 400,
+            "y2": 503,
+            "align": "left"
         },
         {
             "content": "nur, wenn mir vorher Verfahrens-bzw. Prozesskostenhilfe bewilligt wird, \\*)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 153,
+            "y1": 515,
+            "x2": 550,
+            "y2": 527,
+            "align": "left"
         },
         {
             "content": "erhoben werden.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 84,
+            "y1": 561,
+            "x2": 550,
+            "y2": 573,
+            "align": "left"
         },
         {
             "content": "Die Erklärung über meine persönlichen und wirtschaftlichen Verhältnisse nebst Belegen habe ich diesem Antrag beigefügt.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 583,
+            "x2": 550,
+            "y2": 595,
+            "align": "left"
         },
         {
             "content": "Datum, Unterschrift",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 67,
+            "y1": 659,
+            "x2": 550,
+            "y2": 671,
+            "align": "left"
         },
         {
             "content": "Hinweisblatt zum Formular für die Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- oder Verfahrenskostenhilfe",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 65,
+            "y1": 27,
+            "x2": 520,
+            "y2": 41,
+            "align": "center"
         },
         {
             "content": "– Bitte bewahren Sie dieses Hinweisblatt und eine Kopie des ausgefüllten Formulars bei Ihren Unterlagen auf –",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 73,
+            "x2": 540,
+            "y2": 83,
+            "align": "center"
         },
         {
             "content": "Allgemeine Hinweise",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 71,
+            "y1": 101,
+            "x2": 485,
+            "y2": 115,
+            "align": "center"
         },
         {
             "content": "Wozu Prozess- oder Verfahrenskostenhilfe?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 132,
+            "x2": 530,
+            "y2": 146,
+            "align": "left"
         },
         {
             "content": "Wenn Sie eine Klage erheben oder einen Antrag bei Gericht stellen wollen, müssen Sie in der Regel Gerichtskosten zahlen. Schreibt das Gesetz eine anwaltliche Vertretung vor oder ist aus anderen Gründen eine anwaltliche Vertretung notwendig, kommen die Kosten hierfür hinzu. Entsprechende Kosten entstehen Ihnen auch dann, wenn Sie sich in einem Gerichtsverfahren verteidigen.",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 45,
+            "y1": 154,
+            "x2": 540,
+            "y2": 164,
+            "align": "left"
         },
         {
             "append": "\n\n",
@@ -121,12 +231,22 @@
         {
             "content": "Wer erhält Prozess- oder Verfahrenskostenhilfe?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 259,
+            "x2": 540,
+            "y2": 273,
+            "align": "left"
         },
         {
             "content": "Dazu schreibt das Gesetz für die Prozesskostenhilfe vor:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 45,
+            "y1": 283,
+            "x2": 540,
+            "y2": 293,
+            "align": "left"
         },
         {
             "append": "\n\n> ",
@@ -173,12 +293,22 @@
         {
             "content": "Was ist Prozess- oder Verfahrenskostenhilfe?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 35,
+            "y1": 567,
+            "x2": 540,
+            "y2": 581,
+            "align": "left"
         },
         {
             "content": "Prozess- oder Verfahrenskostenhilfe ist eine staatliche Fürsorgeleistung im Bereich der Rechtspflege. Wenn Sie Prozess- oder Verfahrenskostenhilfe erhalten, müssen Sie für die Gerichtskosten und die Kosten der eigenen anwaltlichen Vertretung je nach Ihren persönlichen und wirtschaftlichen Verhältnissen keine Zahlungen oder nur Teilzahlungen leisten. Aus Ihrem Einkommen müssen Sie gegebenenfalls bis höchstens 48 Monatsraten zahlen. Die Höhe dieser Monatsraten ist gesetzlich festgelegt.",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 45,
+            "y1": 591,
+            "x2": 540,
+            "y2": 601,
+            "align": "left"
         },
         {
             "append": "\n\n",
@@ -195,22 +325,42 @@
         {
             "content": "Wichtig:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 45,
+            "y1": 30,
+            "x2": 549,
+            "y2": 40,
+            "align": "left"
         },
         {
             "content": "Sie sind während des Gerichtsverfahrens und innerhalb eines Zeitraums von vier Jahren seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens verpflichtet, dem Gericht jede wesentliche Verbesserungen Ihrer wirtschaftlichen Verhältnisse oder eine Änderung Ihrer Anschrift unaufgefordert und unverzüglich mitzuteilen. Bei laufenden Einkünften ist jede nicht nur einmalige Verbesserung von mehr als 100 Euro (brutto) im Monat mitzuteilen. Reduzieren sich geltend gemachte Abzüge (Wohnkosten, Unterhalt, Zahlungsverpflichtungen oder besondere Belastungen) oder fallen diese ganz weg, so müssen Sie dies ebenfalls von sich aus mitteilen, wenn die Entlastung nicht nur einmalig 100 Euro im Monat übersteigt. Eine wesentliche Verbesserung der wirtschaftlichen Verhältnisse kann auch dadurch eintreten, dass Sie durch die Rechtsverfolgung oder -verteidigung etwas erlangen. Auch dies müssen Sie dem Gericht mitteilen. Verstoßen Sie gegen diese Pflichten, kann die Bewilligung nachträglich aufgehoben werden, und Sie müssen die Kosten nachzahlen.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 45,
+            "y1": 44,
+            "x2": 540,
+            "y2": 53,
+            "align": "left"
         },
         {
             "content": "Welche Risiken sind zu beachten?",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 162,
+            "x2": 537,
+            "y2": 176,
+            "align": "left"
         },
         {
             "content": "Wenn Sie ein Gerichtsverfahren führen müssen, sollten Sie sich zunächst möglichst genau über die Höhe der zu erwartenden Gerichts- **und** Anwaltskosten informieren. Dies gilt auch bei Prozess- oder Verfahrenskostenhilfe. **Sie schließt nicht jedes Kostenrisiko aus.**",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 45,
+            "y1": 183,
+            "x2": 540,
+            "y2": 192,
+            "align": "left"
         },
         {
             "append": "\n\n",
@@ -227,12 +377,22 @@
         {
             "content": "Wie erhält man Prozess- oder Verfahrenskostenhilfe?",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 338,
+            "x2": 540,
+            "y2": 352,
+            "align": "left"
         },
         {
             "content": "Erforderlich ist ein **Antrag**. In dem Antrag müssen Sie das Streitverhältnis ausführlich und vollständig darstellen. Aus dem Antrag muss sich für das Gericht die vom Gesetz geforderte ,,hinreichende Aussicht auf Erfolg'' (siehe oben) schlüssig ergeben. Die **Beweismittel** sind anzugeben. Zu diesen Fragen sollten Sie sich, wenn nötig, anwaltlich beraten lassen. Lassen Sie sich dabei auch über das **Beratungshilfegesetz** informieren, nach dem Personen mit geringem Einkommen und Vermögen eine kostenfreie oder wesentlich verbilligte Rechtsberatung und außergerichtliche Vertretung beanspruchen können.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 45,
+            "y1": 357,
+            "x2": 537,
+            "y2": 366,
+            "align": "left"
         },
         {
             "append": "\n\n",
@@ -249,22 +409,42 @@
         {
             "content": "Lesen Sie das Formular sorgfältig durch und füllen Sie es gewissenhaft aus.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 581,
+            "x2": 540,
+            "y2": 590,
+            "align": "left"
         },
         {
             "content": "Wenn Sie beim Ausfüllen Schwierigkeiten haben, können Sie anwaltliche Hilfe in Anspruch nehmen oder sich an das Gericht wenden. Sollte der Raum im Formular nicht ausreichen, können Sie die Angaben auf einem Extrablatt machen. Bitte weisen Sie in dem betreffenden Feld auf das beigefügte Blatt hin.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 597,
+            "x2": 540,
+            "y2": 606,
+            "align": "left"
         },
         {
             "content": "Wichtig:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 636,
+            "x2": 540,
+            "y2": 645,
+            "align": "left"
         },
         {
             "content": "Das Gericht kann Sie auffordern, fehlende Belege nachzureichen und Ihre Angaben an Eides statt zu versichern. Wenn Sie angeforderte Belege nicht nachreichen, kann dies dazu führen, dass Ihr Antrag auf Bewilligung von Prozess- oder Verfahrenskostenhilfe zurückgewiesen wird.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 650,
+            "x2": 540,
+            "y2": 659,
+            "align": "left"
         },
         {
             "append": "\n\n",

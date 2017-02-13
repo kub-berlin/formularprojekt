@@ -417,7 +417,7 @@
             "align": "left"
         },
         {
-            "content": "Wenn Sie beim Ausfüllen Schwierigkeiten haben, können Sie anwaltliche Hilfe in Anspruch nehmen oder sich an das Gericht wenden. Sollte der Raum im Formular nicht ausreichen, können Sie die Angaben auf einem Extrablatt machen. Bitte weisen Sie in dem betreffenden Feld auf das beigefügte Blatt hin.",
+            "content": "Die Ausfüllhinweise zum Formular finden Sie im Folgenden.",
             "page": 2,
             "structure": "",
             "x1": 30,
@@ -425,6 +425,11 @@
             "x2": 540,
             "y2": 606,
             "align": "left"
+        },
+        {
+            "append": " ",
+            "content": "Wenn Sie beim Ausfüllen Schwierigkeiten haben, können Sie anwaltliche Hilfe in Anspruch nehmen oder sich an das Gericht wenden. Sollte der Raum im Formular nicht ausreichen, können Sie die Angaben auf einem Extrablatt machen. Bitte weisen Sie in dem betreffenden Feld auf das beigefügte Blatt hin.",
+            "page": 2
         },
         {
             "content": "Wichtig:",

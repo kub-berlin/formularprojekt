@@ -207,9 +207,9 @@
             "page": 1,
             "structure": "",
             "x1": 30,
-            "y1": 132,
+            "y1": 124,
             "x2": 530,
-            "y2": 145,
+            "y2": 137,
             "align": "left"
         },
         {
@@ -217,9 +217,9 @@
             "page": 1,
             "structure": "",
             "x1": 45,
-            "y1": 154,
+            "y1": 142,
             "x2": 540,
-            "y2": 164,
+            "y2": 152,
             "align": "left"
         },
         {
@@ -233,9 +233,9 @@
             "page": 1,
             "structure": "",
             "x1": 30,
-            "y1": 259,
+            "y1": 249,
             "x2": 540,
-            "y2": 272,
+            "y2": 262,
             "align": "left"
         },
         {
@@ -243,9 +243,9 @@
             "page": 1,
             "structure": "",
             "x1": 45,
-            "y1": 283,
+            "y1": 269,
             "x2": 540,
-            "y2": 293,
+            "y2": 279,
             "align": "left"
         },
         {
@@ -460,7 +460,12 @@
         {
             "content": "Mit diesem Formular können Sie beim zuständigen Gericht einen Antrag auf Prozesskostenhilfe stellen. Wird dem Antrag stattgegeben, müssen Sie nur einen Teil der Prozesskosten oder keine Prozesskosten bezahlen.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 40,
+            "y1": 413,
+            "x2": 529,
+            "y2": 426,
+            "align": ""
         },
         {
             "append": " ",

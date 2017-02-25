@@ -5,272 +5,542 @@
         {
             "content": "Bezeichnung,Ort und Geschäftsnummer des Gerichts:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 26,
+            "x2": 530,
+            "y2": 36,
+            "align": ""
         },
         {
             "content": "Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- oder Verfahrenskostenhilfe",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 31,
+            "y1": 58,
+            "x2": 531,
+            "y2": 71,
+            "align": "center"
         },
         {
             "content": "– Belege sind in Kopie durchnummeriert beizufügen –",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 30,
+            "y1": 103,
+            "x2": 529,
+            "y2": 114,
+            "align": "center"
         },
         {
             "content": "Angaben zu Ihrer Person",
             "page": 0,
-            "structure": "A"
+            "structure": "A",
+            "x1": 50,
+            "y1": 134,
+            "x2": 550,
+            "y2": 146,
+            "align": ""
         },
         {
             "content": "Name, Vorname, ggf. Geburtsname",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 175,
+            "x2": 261,
+            "y2": 184,
+            "align": ""
         },
         {
             "content": "Beruf, Erwerbstätigkeit",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 262,
+            "y1": 175,
+            "x2": 384,
+            "y2": 184,
+            "align": ""
         },
         {
             "content": "Geburtsdatum",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 384,
+            "y1": 175,
+            "x2": 471,
+            "y2": 184,
+            "align": ""
         },
         {
             "content": "Familienstand",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 473,
+            "y1": 175,
+            "x2": 559,
+            "y2": 184,
+            "align": ""
         },
         {
             "content": "Anschrift (Straße, Hausnummer, Postleitzahl, Wohnort)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 210,
+            "x2": 382,
+            "y2": 219,
+            "align": ""
         },
         {
             "content": "Tagsüber tel. erreichbar unter Nummer",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 385,
+            "y1": 210,
+            "x2": 557,
+            "y2": 218,
+            "align": ""
         },
         {
             "content": "Sofern vorhanden: Gesetzlicher Vertreter (Name, Vorname, Anschrift, Telefon)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 245,
+            "x2": 549,
+            "y2": 254,
+            "align": ""
         },
         {
             "content": "Rechtsschutzversicherung/ Mitgliedschaft",
             "page": 0,
-            "structure": "B"
+            "structure": "B",
+            "x1": 50,
+            "y1": 264,
+            "x2": 550,
+            "y2": 276,
+            "align": ""
         },
         {
             "content": "1. Trägt eine Rechtsschutzversicherung oder eine andere Stelle/ Person (z. B. Gewerkschaft, Mieterverein, Sozialverband) die Kosten Ihrer Prozess- oder Verfahrensführung?",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 44,
+            "y1": 280,
+            "x2": 503,
+            "y2": 288,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 269,
+            "x2": 562,
+            "y2": 278,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 308,
+            "x2": 92,
+            "y2": 316,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 105,
+            "y1": 308,
+            "x2": 205,
+            "y2": 316,
+            "align": ""
         },
         {
             "content": "In welcher Höhe? Wenn die Kosten in voller Höhe von einer Versicherung oder anderen Stelle/ Person getragen werden, ist die Bewilligung von Prozess- oder Verfahrenskostenhilfe nicht möglich und damit die Beantwortung der weiteren Fragen *nicht* erforderlich.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 92,
+            "y1": 318,
+            "x2": 519,
+            "y2": 325,
+            "align": ""
         },
         {
             "content": "2. *Wenn nein*: Besteht eine Rechtsschutzversicherung oder die Mitgliedschaft in einem Verein/ einer Organisation (z. B. Gewerkschaft, Mieterverein, Sozialverband), der/ die die Kosten der beabsichtigten Prozess- oder Verfahrensführung tragen oder einen Prozessbevollmächtigten stellen könnte?",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 44,
+            "y1": 344,
+            "x2": 499,
+            "y2": 352,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 501,
+            "y1": 345,
+            "x2": 556,
+            "y2": 354,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 379,
+            "x2": 90,
+            "y2": 387,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 106,
+            "y1": 379,
+            "x2": 206,
+            "y2": 387,
+            "align": ""
         },
         {
             "content": "Bezeichnung der Versicherung/ des Vereins/ der Organisation. Klären Sie möglichst vorab, ob die Kosten getragen werden. Bereits vorhandene Belege über eine (Teil-)Ablehnung seitens der Versicherung/ des Vereins/ der Organisation fügen Sie dem Antrag bei.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 91,
+            "y1": 389,
+            "x2": 499,
+            "y2": 396,
+            "align": ""
         },
         {
             "content": "Unterhaltsanspruch gegenüber anderen Personen",
             "page": 0,
-            "structure": "C"
+            "structure": "C",
+            "x1": 50,
+            "y1": 432,
+            "x2": 497,
+            "y2": 443,
+            "align": ""
         },
         {
             "content": "Haben Sie Angehörige, die Ihnen gegenüber gesetzlich zur Leistung von Unterhalt verpflichtet sind (auch wenn tatsächlich keine Leistungen erfolgen)? ",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 50,
+            "y1": 445,
+            "x2": 500,
+            "y2": 453,
+            "align": ""
         },
         {
             "content": "z. B. Mutter, Vater, Ehegatte/Ehegattin, eingetragene(r) Lebenspartner/ Lebenspartnerin",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 50,
+            "y1": 465,
+            "x2": 499,
+            "y2": 473,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 501,
+            "y1": 440,
+            "x2": 556,
+            "y2": 449,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 478,
+            "x2": 90,
+            "y2": 486,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 105,
+            "y1": 479,
+            "x2": 202,
+            "y2": 487,
+            "align": ""
         },
         {
             "content": "Name des Unterhaltsverpflichteten. Bitte geben Sie auf einem weiteren Exemplar dieses Formulars seine persönliche und wirtschaftlichen Verhältnisse an, sofern diese nicht bereits vollständig aus den folgenden Abschnitten ersichtlich sind.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 92,
+            "y1": 490,
+            "x2": 501,
+            "y2": 497,
+            "align": ""
         },
         {
             "content": "Angehörige, denen Sie Bar- oder Naturalunterhalt gewähren",
             "page": 0,
-            "structure": "D"
+            "structure": "D",
+            "x1": 48,
+            "y1": 522,
+            "x2": 498,
+            "y2": 534,
+            "align": ""
         },
         {
             "content": "Name, Vorname, Anschrift",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 538,
+            "x2": 192,
+            "y2": 546,
+            "align": ""
         },
         {
             "content": "(sofern sie von Ihrer Anschrift abweicht)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 557,
+            "x2": 193,
+            "y2": 564,
+            "align": ""
         },
         {
             "content": "Geburtsdatum",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 195,
+            "y1": 538,
+            "x2": 247,
+            "y2": 545,
+            "align": ""
         },
         {
             "content": "Verhältnis ",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 248,
+            "y1": 538,
+            "x2": 295,
+            "y2": 545,
+            "align": ""
         },
         {
             "content": "(z. B. Ehegatte, Kind, Mutter)",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 248,
+            "y1": 549,
+            "x2": 296,
+            "y2": 556,
+            "align": ""
         },
         {
             "content": "Monatsbetrag in EUR, soweit Sie den Unterhalt nur durch Zahlung gewähren",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 297,
+            "y1": 538,
+            "x2": 377,
+            "y2": 545,
+            "align": ""
         },
         {
             "content": "Haben diese Angehörigen eigene Einnahmen?",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 380,
+            "y1": 536,
+            "x2": 488,
+            "y2": 543,
+            "align": ""
         },
         {
             "content": "z. B. Ausbildungsvergütung, Unterhaltszahlung vom anderen Elternteil usw.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 381,
+            "y1": 554,
+            "x2": 532,
+            "y2": 561,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 527,
+            "x2": 550,
+            "y2": 536,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 393,
+            "y1": 582,
+            "x2": 416,
+            "y2": 590,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 430,
+            "y1": 583,
+            "x2": 498,
+            "y2": 591,
+            "align": ""
         },
         {
             "content": "mtl. EUR netto",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 416,
+            "y1": 601,
+            "x2": 516,
+            "y2": 609,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 393,
+            "y1": 617,
+            "x2": 416,
+            "y2": 625,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 430,
+            "y1": 617,
+            "x2": 519,
+            "y2": 625,
+            "align": ""
         },
         {
             "content": "mtl. EUR netto",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 417,
+            "y1": 638,
+            "x2": 517,
+            "y2": 646,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 393,
+            "y1": 653,
+            "x2": 415,
+            "y2": 661,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 429,
+            "y1": 654,
+            "x2": 517,
+            "y2": 662,
+            "align": ""
         },
         {
             "content": "mtl. EUR netto",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 417,
+            "y1": 673,
+            "x2": 517,
+            "y2": 681,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 393,
+            "y1": 690,
+            "x2": 416,
+            "y2": 698,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 430,
+            "y1": 690,
+            "x2": 517,
+            "y2": 698,
+            "align": ""
         },
         {
             "content": "mtl. EUR netto",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 417,
+            "y1": 710,
+            "x2": 499,
+            "y2": 718,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 392,
+            "y1": 727,
+            "x2": 415,
+            "y2": 735,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 431,
+            "y1": 727,
+            "x2": 499,
+            "y2": 735,
+            "align": ""
         },
         {
             "content": "mtl. EUR netto",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 417,
+            "y1": 746,
+            "x2": 499,
+            "y2": 754,
+            "align": ""
         },
         {
             "content": "Wenn Sie laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch (Sozialhilfe) beziehen und den aktuellen Bescheid einschließlich des Berechnungsbogens vollständig beifügen, müssen Sie die *Abschnitte E bis J* nicht ausfüllen, es sei denn, das Gericht ordnet dies an.",

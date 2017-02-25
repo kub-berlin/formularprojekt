@@ -267,7 +267,7 @@
 					}
 				}
 
-				var s = JSON.stringify(clone, null, 2);
+				var s = JSON.stringify(clone, null, 4);
 
 				var download = document.createElement('a');
 				download.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(s));

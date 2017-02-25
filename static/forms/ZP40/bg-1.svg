@@ -81,7 +81,7 @@
      transform="matrix(1.25,0,0,-1.25,0,1052.5)"><text
        transform="matrix(1,0,0,-1,28.92,30.44)"
        id="text12"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:9;writing-mode:lr;-inkscape-font-specification:Arial"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:9px;writing-mode:lr;-inkscape-font-specification:Arial"
          x="0"
          y="0"
          id="tspan14">2</tspan></text>

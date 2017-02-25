@@ -45,7 +45,7 @@
      transform="matrix(1.25,0,0,-1.25,0,1052.5)"><text
        transform="matrix(1,0,0,-1,28.92,30.44)"
        id="text6399"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:9;writing-mode:lr;-inkscape-font-specification:Arial"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:9px;writing-mode:lr;-inkscape-font-specification:Arial"
          x="0"
          y="0"
          id="tspan6401">4</tspan></text>
@@ -58,7 +58,7 @@
        id="path6405" /><text
        transform="matrix(1,0,0,-1,35.28,790.16)"
        id="text6407"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan6409">H</tspan></text>
@@ -152,14 +152,7 @@
        id="path6507" /><path
        d="m 261.12,756.19 171.6,0 0,-9.24 -171.6,0 0,9.24 z"
        style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path6509" /><text
-       transform="matrix(1,0,0,-1,261.12,739.76)"
-       id="text6511"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:8.03;writing-mode:lr;-inkscape-font-specification:Arial Bold"
-         x="0 2.28052 7.19488 11.62744 16.5418 20.97436 25.40692 29.83948 37.03436 41.82827 46.74263 51.05474 57.40647 62.20038 67.11474 72.0291 76.46166 81.25557"
-         y="0"
-         sodipodi:role="line"
-         id="tspan6513">insgesamtbewohnen:</tspan></text>
+       id="path6509" />
 <path
        d="m 28.68,760.15 0.47,0 0,-0.47 -0.47,0 0,0.47 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -703,7 +696,7 @@
        id="path6953" /><text
        transform="matrix(1,0,0,-1,37.92,508.4)"
        id="text6955"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan6957">I</tspan></text>
@@ -983,7 +976,7 @@
        id="path7175" /><text
        transform="matrix(1,0,0,-1,36.24,379.88)"
        id="text7177"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan7179">J</tspan></text>
@@ -1155,7 +1148,7 @@
        id="path7323" /><text
        transform="matrix(1,0,0,-1,35.28,283.16)"
        id="text7325"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan7327">K</tspan></text>
@@ -1345,11 +1338,5 @@
        id="path7559" /><path
        d="m 560.28,44 0.48,0 0,-0.48 -0.48,0 0,0.48 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path7561" /><text
-       transform="matrix(1,0,0,-1,36,41.72)"
-       id="text7563"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:2.03;writing-mode:lr;-inkscape-font-specification:Arial"
-         x="0"
-         y="0"
-         id="tspan7565">&quot;</tspan></text>
+       id="path7561" />
 </g></svg>

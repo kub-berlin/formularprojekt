@@ -45,7 +45,7 @@
      transform="matrix(1.25,0,0,-1.25,0,1052.5)"><text
        transform="matrix(1,0,0,-1,554.28,30.44)"
        id="text5161"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:9;writing-mode:lr;-inkscape-font-specification:Arial"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:9px;writing-mode:lr;-inkscape-font-specification:Arial"
          x="0"
          y="0"
          id="tspan5163">3</tspan></text>
@@ -58,7 +58,7 @@
        id="path5167" /><text
        transform="matrix(1,0,0,-1,35.88,792.44)"
        id="text5169"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan5171">F</tspan></text>
@@ -110,14 +110,7 @@
        id="path5219" /><path
        d="m 310.8,786.55 208.8,0 0,-9.12 -208.8,0 0,9.12 z"
        style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path5221" /><text
-       transform="matrix(1,0,0,-1,310.8,770.24)"
-       id="text5223"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:8.03;writing-mode:lr;-inkscape-font-specification:Arial Bold"
-         x="0 4.91436 8.87315 15.10443 19.53699 21.81751 26.73187 29.85554 36.44014 41.8363 46.75066 51.18322 56.09758 60.53014 63.16398 65.79782 68.07031 72.86422 75.14474 79.5773 81.73737 86.65173 91.56609 95.99865 98.63249 101.75616 106.18069 111.09505 115.52761 120.32152 127.0346 131.94896 136.38152 141.29588 145.72844 150.6428 155.07536 159.98972 164.42228 167.54595 170.17979 175.09415 179.52671 182.5219 184.80242 189.71678"
-         y="0"
-         sodipodi:role="line"
-         id="tspan5225">bzw.IhreEhegattin/eingetrageneLebenspartnerin?</tspan></text>
+       id="path5221" />
 <path
        d="m 525.36,788.47 34.91,0 0,-22.19 -34.91,0 0,22.19 z"
        style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -565,7 +558,7 @@
        id="path5565" /><text
        transform="matrix(1,0,0,-1,34.92,528.56)"
        id="text5567"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan5569">G</tspan></text>

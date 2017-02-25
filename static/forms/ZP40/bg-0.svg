@@ -59,7 +59,7 @@
        id="path32" /><text
        transform="matrix(1,0,0,-1,35.28,688.16)"
        id="text34"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan36">A</tspan></text>
@@ -246,7 +246,7 @@
        id="path172" /><text
        transform="matrix(1,0,0,-1,35.28,551.24)"
        id="text174"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan176">B</tspan></text>
@@ -316,25 +316,7 @@
        id="path230" /><path
        d="m 530.4,542.83 24.71,0 0,-6.83 -24.71,0 0,6.83 z"
        style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path232" /><text
-       transform="matrix(1,0,0,-1,534.96,537.32)"
-       id="text234"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
-         x="0 3.96 7.32 8.76 12.12"
-         y="0"
-         sodipodi:role="line"
-         id="tspan236">Beleg</tspan></text>
-<path
-       d="m 530.4,536 24.71,0 0,-6.96 -24.71,0 0,6.96 z"
-       style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path238" /><text
-       transform="matrix(1,0,0,-1,531.12,530.48)"
-       id="text240"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
-         x="0 4.32 7.8 12.72 17.52 20.88"
-         y="0"
-         sodipodi:role="line"
-         id="tspan242">Nummer</tspan></text>
+       id="path232" />
 <path
        d="m 28.68,547.27 0.47,0 0,-22.67 -0.47,0 0,22.67 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -431,25 +413,7 @@
        id="path332" /><path
        d="m 530.4,472.39 24.71,0 0,-6.83 -24.71,0 0,6.83 z"
        style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path334" /><text
-       transform="matrix(1,0,0,-1,534.96,466.88)"
-       id="text336"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
-         x="0 3.96 7.32 8.76 12.12"
-         y="0"
-         sodipodi:role="line"
-         id="tspan338">Beleg</tspan></text>
-<path
-       d="m 530.4,465.55 24.71,0 0,-6.96 -24.71,0 0,6.96 z"
-       style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path340" /><text
-       transform="matrix(1,0,0,-1,531.12,460.04)"
-       id="text342"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
-         x="0 4.32 7.8 12.72 17.52 20.88"
-         y="0"
-         sodipodi:role="line"
-         id="tspan344">Nummer</tspan></text>
+       id="path334" />
 <path
        d="m 28.68,481.63 0.47,0 0,-0.48 -0.47,0 0,0.48 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -573,7 +537,7 @@
        id="path438" /><text
        transform="matrix(1,0,0,-1,35.28,372.2)"
        id="text440"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan442">C</tspan></text>
@@ -637,25 +601,7 @@
        id="path496" /><path
        d="m 531,363.31 24.12,0 0,-6.83 -24.12,0 0,6.83 z"
        style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path498" /><text
-       transform="matrix(1,0,0,-1,535.32,357.8)"
-       id="text500"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
-         x="0 3.96 7.32 8.76 12.12"
-         y="0"
-         sodipodi:role="line"
-         id="tspan502">Beleg</tspan></text>
-<path
-       d="m 531,356.47 24.12,0 0,-6.95 -24.12,0 0,6.95 z"
-       style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path504" /><text
-       transform="matrix(1,0,0,-1,531.48,350.96)"
-       id="text506"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
-         x="0 4.32 7.8 12.72 17.52 20.88"
-         y="0"
-         sodipodi:role="line"
-         id="tspan508">Nummer</tspan></text>
+       id="path498" />
 <path
        d="m 28.68,368.35 0.47,0 0,-0.48 -0.47,0 0,0.48 z"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -773,7 +719,7 @@
        id="path598" /><text
        transform="matrix(1,0,0,-1,35.28,281.12)"
        id="text600"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12;writing-mode:lr;-inkscape-font-specification:Arial Bold"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:bold;font-size:12px;writing-mode:lr;-inkscape-font-specification:Arial Bold"
          x="0"
          y="0"
          id="tspan602">D</tspan></text>
@@ -912,7 +858,7 @@
        id="path792" /><text
        transform="matrix(1,0,0,-1,55.56,230.72)"
        id="text794"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6px;writing-mode:lr;-inkscape-font-specification:Arial"
          x="0"
          y="0"
          id="tspan796">1</tspan></text>
@@ -1015,7 +961,7 @@
        id="path872" /><text
        transform="matrix(1,0,0,-1,55.56,193.88)"
        id="text874"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6px;writing-mode:lr;-inkscape-font-specification:Arial"
          x="0"
          y="0"
          id="tspan876">2</tspan></text>
@@ -1106,7 +1052,7 @@
        id="path946" /><text
        transform="matrix(1,0,0,-1,55.56,155.6)"
        id="text948"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6px;writing-mode:lr;-inkscape-font-specification:Arial"
          x="0"
          y="0"
          id="tspan950">3</tspan></text>
@@ -1197,7 +1143,7 @@
        id="path1020" /><text
        transform="matrix(1,0,0,-1,55.56,117.44)"
        id="text1022"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6px;writing-mode:lr;-inkscape-font-specification:Arial"
          x="0"
          y="0"
          id="tspan1024">4</tspan></text>
@@ -1294,7 +1240,7 @@
        id="path1098" /><text
        transform="matrix(1,0,0,-1,55.56,79.16)"
        id="text1100"><tspan
-         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6;writing-mode:lr;-inkscape-font-specification:Arial"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;font-variant:normal;font-weight:normal;font-size:6px;writing-mode:lr;-inkscape-font-specification:Arial"
          x="0"
          y="0"
          id="tspan1102">5</tspan></text>

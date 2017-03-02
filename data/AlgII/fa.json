@@ -1,7 +1,10 @@
 {
+    "Anschrift": "آدرس",
     "BIC": "کد رهگیری بانک (بیک)",
     "Geburtsdatum": "تاریخ تولد",
     "IBAN": "شماره حساب بانکی (ایبان)",
+    "Ja": "خیر",
+    "Nein": "بله",
     "Staatsangehörigkeit": "تابعیت",
     "Vorname": "نام",
     "ledig": "مجرد",

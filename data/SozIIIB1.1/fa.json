@@ -1,4 +1,9 @@
 {
+    "Anschrift": "آدرس",
     "Geburtsdatum": "تاریخ تولد",
-    "Name, Vorname": "نام خانوادگی، نام"
+    "Geschäftszeichen": "شماره پیگیری",
+    "Ja": "خیر",
+    "Name, Vorname": "نام خانوادگی، نام",
+    "Nein": "بله",
+    "Zum Antrag vom": "موضوع درخواست"
 }

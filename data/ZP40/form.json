@@ -2578,7 +2578,7 @@
             "structure": "",
             "x1": 47,
             "y1": 119,
-            "x2": 344,
+            "x2": 332,
             "y2": 126,
             "align": ""
         },
@@ -2650,6 +2650,96 @@
             "y1": 139,
             "x2": 499,
             "y2": 146,
+            "align": ""
+        },
+        {
+            "content": "5. Nutzen Sie den Raum als Eigentümer, Miteigentümer oder Erbbauberechtigter?",
+            "page": 3,
+            "structure": "5.",
+            "x1": 42,
+            "y1": 159,
+            "x2": 332,
+            "y2": 166,
+            "align": ""
+        },
+        {
+            "content": "Wenn ja, bitte die nachfolgenden Angaben in EUR pro Monat ergänzen",
+            "page": 3,
+            "structure": "",
+            "x1": 47,
+            "y1": 173,
+            "x2": 332,
+            "y2": 180,
+            "align": ""
+        },
+        {
+            "content": "Nein",
+            "page": 3,
+            "structure": "",
+            "x1": 345,
+            "y1": 166,
+            "x2": 418,
+            "y2": 173,
+            "align": ""
+        },
+        {
+            "content": "Ja",
+            "page": 3,
+            "structure": "",
+            "x1": 432,
+            "y1": 166,
+            "x2": 532,
+            "y2": 173,
+            "align": ""
+        },
+        {
+            "content": "Zinsen und Tilgung",
+            "page": 3,
+            "structure": "",
+            "x1": 48,
+            "y1": 194,
+            "x2": 149,
+            "y2": 201,
+            "align": ""
+        },
+        {
+            "content": "Heizungskosten",
+            "page": 3,
+            "structure": "",
+            "x1": 149,
+            "y1": 194,
+            "x2": 243,
+            "y2": 201,
+            "align": ""
+        },
+        {
+            "content": "Übrige Nebenkosten",
+            "page": 3,
+            "structure": "",
+            "x1": 244,
+            "y1": 194,
+            "x2": 331,
+            "y2": 201,
+            "align": ""
+        },
+        {
+            "content": "Gesamtbetrag",
+            "page": 3,
+            "structure": "",
+            "x1": 332,
+            "y1": 194,
+            "x2": 417,
+            "y2": 201,
+            "align": ""
+        },
+        {
+            "content": "Ich allein zahle davon",
+            "page": 3,
+            "structure": "",
+            "x1": 418,
+            "y1": 194,
+            "x2": 499,
+            "y2": 201,
             "align": ""
         },
         {

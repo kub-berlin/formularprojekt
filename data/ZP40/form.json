@@ -545,1187 +545,2372 @@
         {
             "content": "Wenn Sie laufende Leistungen zum Lebensunterhalt nach dem Zwölften Buch Sozialgesetzbuch (Sozialhilfe) beziehen und den aktuellen Bescheid einschließlich des Berechnungsbogens vollständig beifügen, müssen Sie die *Abschnitte E bis J* nicht ausfüllen, es sei denn, das Gericht ordnet dies an.",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 28,
+            "y1": 15,
+            "x2": 538,
+            "y2": 28,
+            "align": ""
         },
         {
             "content": "Bruttoeinnahmen",
             "page": 1,
-            "structure": "E"
+            "structure": "E",
+            "x1": 48,
+            "y1": 81,
+            "x2": 532,
+            "y2": 93,
+            "align": ""
         },
         {
             "content": "Belege (z. B. Lohnbescheinigung, Steuerbescheid, Bewilligungsbescheid mit Berechnungsbogen) müssen in Kopie beigefügt werden.",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 95,
+            "x2": 535,
+            "y2": 103,
+            "align": ""
         },
         {
             "content": "1. Haben Sie Einnahmen aus",
             "page": 1,
-            "structure": "1."
+            "structure": "1.",
+            "x1": 40,
+            "y1": 113,
+            "x2": 291,
+            "y2": 122,
+            "align": ""
         },
         {
             "content": "(bitte die monatlichen Bruttobeträge in EUR angeben)",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 113,
+            "x2": 547,
+            "y2": 121,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 256,
+            "y1": 124,
+            "x2": 333,
+            "y2": 131,
+            "align": ""
         },
         {
             "content": "Nichtselbständiger Arbeit?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 142,
+            "x2": 135,
+            "y2": 149,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 151,
+            "y1": 147,
+            "x2": 175,
+            "y2": 154,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 147,
+            "x2": 256,
+            "y2": 154,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 155,
+            "x2": 291,
+            "y2": 162,
+            "align": ""
         },
         {
             "content": "Selbständiger Arbeit/ Gewerbebetrieb/ Land- und Forstwirtschaft?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 165,
+            "x2": 135,
+            "y2": 172,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 151,
+            "y1": 176,
+            "x2": 176,
+            "y2": 183,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 189,
+            "y1": 176,
+            "x2": 256,
+            "y2": 183,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 187,
+            "x2": 290,
+            "y2": 194,
+            "align": ""
         },
         {
             "content": "Vermietung und Verpachtung?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 197,
+            "x2": 134,
+            "y2": 204,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 151,
+            "y1": 205,
+            "x2": 176,
+            "y2": 212,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 205,
+            "x2": 290,
+            "y2": 212,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 213,
+            "x2": 290,
+            "y2": 220,
+            "align": ""
         },
         {
             "content": "Kapitalvermögen?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 222,
+            "x2": 135,
+            "y2": 229,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 151,
+            "y1": 230,
+            "x2": 179,
+            "y2": 237,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 230,
+            "x2": 285,
+            "y2": 237,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 237,
+            "x2": 289,
+            "y2": 244,
+            "align": ""
         },
         {
             "content": "Kindergeld/ Kinderzuschlag?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 248,
+            "x2": 137,
+            "y2": 255,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 151,
+            "y1": 254,
+            "x2": 177,
+            "y2": 261,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 254,
+            "x2": 290,
+            "y2": 261,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 263,
+            "x2": 291,
+            "y2": 270,
+            "align": ""
         },
         {
             "content": "Wohngeld?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 272,
+            "x2": 135,
+            "y2": 279,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 151,
+            "y1": 279,
+            "x2": 180,
+            "y2": 286,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 189,
+            "y1": 279,
+            "x2": 289,
+            "y2": 286,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 288,
+            "x2": 289,
+            "y2": 295,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 501,
+            "y1": 124,
+            "x2": 552,
+            "y2": 131,
+            "align": ""
         },
         {
             "content": "Unterhalt?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 140,
+            "x2": 378,
+            "y2": 147,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 394,
+            "y1": 147,
+            "x2": 419,
+            "y2": 154,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 147,
+            "x2": 533,
+            "y2": 154,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 154,
+            "x2": 540,
+            "y2": 161,
+            "align": ""
         },
         {
             "content": "Rente/ Pension?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 164,
+            "x2": 378,
+            "y2": 171,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 394,
+            "y1": 176,
+            "x2": 423,
+            "y2": 183,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 175,
+            "x2": 525,
+            "y2": 182,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 187,
+            "x2": 542,
+            "y2": 194,
+            "align": ""
         },
         {
             "content": "Arbeitslosengeld?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 197,
+            "x2": 378,
+            "y2": 204,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 394,
+            "y1": 204,
+            "x2": 421,
+            "y2": 211,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 204,
+            "x2": 533,
+            "y2": 211,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 212,
+            "x2": 531,
+            "y2": 219,
+            "align": ""
         },
         {
             "content": "Arbeitslosengeld II?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 222,
+            "x2": 378,
+            "y2": 229,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 394,
+            "y1": 230,
+            "x2": 423,
+            "y2": 237,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 229,
+            "x2": 532,
+            "y2": 236,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 237,
+            "x2": 533,
+            "y2": 244,
+            "align": ""
         },
         {
             "content": "Krankengeld?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 247,
+            "x2": 380,
+            "y2": 254,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 394,
+            "y1": 254,
+            "x2": 423,
+            "y2": 261,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 254,
+            "x2": 533,
+            "y2": 261,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 263,
+            "x2": 533,
+            "y2": 270,
+            "align": ""
         },
         {
             "content": "Elterngeld?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 272,
+            "x2": 379,
+            "y2": 279,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 394,
+            "y1": 279,
+            "x2": 419,
+            "y2": 286,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 279,
+            "x2": 529,
+            "y2": 286,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 287,
+            "x2": 533,
+            "y2": 294,
+            "align": ""
         },
         {
             "content": "2. Haben Sie andere Einnahmen?",
             "page": 1,
-            "structure": "2."
+            "structure": "2.",
+            "x1": 40,
+            "y1": 303,
+            "x2": 378,
+            "y2": 311,
+            "align": ""
         },
         {
             "content": "auch einmalige oder unregelmäßige",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 262,
+            "y1": 303,
+            "x2": 533,
+            "y2": 310,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 394,
+            "y1": 317,
+            "x2": 419,
+            "y2": 324,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 317,
+            "x2": 518,
+            "y2": 324,
+            "align": ""
         },
         {
             "content": "Wenn Ja, bitte Art, Bezugszeitraum und Höhe angeben",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 317,
+            "x2": 379,
+            "y2": 324,
+            "align": ""
         },
         {
             "content": "z. B. Weihnachts-/ Urlaubsgeld jährlich, Steuererstattung jährlich, BAföG mtl.",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 327,
+            "x2": 379,
+            "y2": 334,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 501,
+            "y1": 309,
+            "x2": 550,
+            "y2": 316,
+            "align": ""
         },
         {
             "content": "EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 380,
+            "y1": 356,
+            "x2": 501,
+            "y2": 364,
+            "align": ""
         },
         {
             "content": "EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 380,
+            "y1": 386,
+            "x2": 500,
+            "y2": 394,
+            "align": ""
         },
         {
             "content": "3. Hat Ihr Ehegatte/ eingetragener Lebenspartner bzw. Ihre Ehegattin/ eingetragene Lebenspartnerin Einnahmen aus",
             "page": 1,
-            "structure": "3."
+            "structure": "3.",
+            "x1": 40,
+            "y1": 401,
+            "x2": 534,
+            "y2": 409,
+            "align": ""
         },
         {
             "content": "(bitte die monatlichen Bruttobeträge in EUR angeben)",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 411,
+            "x2": 549,
+            "y2": 419,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 258,
+            "y1": 421,
+            "x2": 358,
+            "y2": 428,
+            "align": ""
         },
         {
             "content": "Nichtselbständiger Arbeit?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 438,
+            "x2": 135,
+            "y2": 445,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 149,
+            "y1": 445,
+            "x2": 178,
+            "y2": 452,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 445,
+            "x2": 289,
+            "y2": 452,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 453,
+            "x2": 290,
+            "y2": 460,
+            "align": ""
         },
         {
             "content": "Selbständiger Arbeit/ Gewerbebetrieb/ Land- und Forstwirtschaft?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 462,
+            "x2": 136,
+            "y2": 469,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 149,
+            "y1": 473,
+            "x2": 175,
+            "y2": 480,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 473,
+            "x2": 288,
+            "y2": 480,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 485,
+            "x2": 289,
+            "y2": 492,
+            "align": ""
         },
         {
             "content": "Vermietung und Verpachtung?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 495,
+            "x2": 134,
+            "y2": 502,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 149,
+            "y1": 502,
+            "x2": 175,
+            "y2": 509,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 502,
+            "x2": 290,
+            "y2": 509,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 511,
+            "x2": 289,
+            "y2": 518,
+            "align": ""
         },
         {
             "content": "Kapitalvermögen?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 520,
+            "x2": 135,
+            "y2": 527,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 149,
+            "y1": 527,
+            "x2": 179,
+            "y2": 534,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 527,
+            "x2": 290,
+            "y2": 534,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 535,
+            "x2": 289,
+            "y2": 542,
+            "align": ""
         },
         {
             "content": "Kindergeld/ Kinderzuschlag?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 545,
+            "x2": 135,
+            "y2": 552,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 149,
+            "y1": 551,
+            "x2": 176,
+            "y2": 558,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 551,
+            "x2": 290,
+            "y2": 558,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 560,
+            "x2": 289,
+            "y2": 567,
+            "align": ""
         },
         {
             "content": "Wohngeld?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 569,
+            "x2": 135,
+            "y2": 576,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 149,
+            "y1": 576,
+            "x2": 180,
+            "y2": 583,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 190,
+            "y1": 576,
+            "x2": 290,
+            "y2": 583,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 584,
+            "x2": 289,
+            "y2": 591,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 421,
+            "x2": 550,
+            "y2": 428,
+            "align": ""
         },
         {
             "content": "Unterhalt?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 438,
+            "x2": 377,
+            "y2": 445,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 393,
+            "y1": 445,
+            "x2": 419,
+            "y2": 452,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 445,
+            "x2": 521,
+            "y2": 452,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 453,
+            "x2": 534,
+            "y2": 460,
+            "align": ""
         },
         {
             "content": "Rente/ Pension?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 462,
+            "x2": 379,
+            "y2": 469,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 392,
+            "y1": 473,
+            "x2": 419,
+            "y2": 480,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 473,
+            "x2": 533,
+            "y2": 480,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 486,
+            "x2": 533,
+            "y2": 493,
+            "align": ""
         },
         {
             "content": "Arbeitslosengeld?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 495,
+            "x2": 379,
+            "y2": 502,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 392,
+            "y1": 502,
+            "x2": 419,
+            "y2": 509,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 502,
+            "x2": 533,
+            "y2": 509,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 510,
+            "x2": 542,
+            "y2": 517,
+            "align": ""
         },
         {
             "content": "Arbeitslosengeld II?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 520,
+            "x2": 379,
+            "y2": 527,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 392,
+            "y1": 527,
+            "x2": 419,
+            "y2": 534,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 527,
+            "x2": 533,
+            "y2": 534,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 536,
+            "x2": 542,
+            "y2": 543,
+            "align": ""
         },
         {
             "content": "Krankengeld?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 545,
+            "x2": 378,
+            "y2": 552,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 392,
+            "y1": 552,
+            "x2": 422,
+            "y2": 559,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 552,
+            "x2": 533,
+            "y2": 559,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 559,
+            "x2": 542,
+            "y2": 566,
+            "align": ""
         },
         {
             "content": "Elterngeld?",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 291,
+            "y1": 569,
+            "x2": 378,
+            "y2": 576,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 392,
+            "y1": 576,
+            "x2": 420,
+            "y2": 583,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 576,
+            "x2": 533,
+            "y2": 583,
+            "align": ""
         },
         {
             "content": "mtl. EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 442,
+            "y1": 584,
+            "x2": 536,
+            "y2": 591,
+            "align": ""
         },
         {
             "content": "4. Hat Ihr Ehegatte/ eingetragener Lebenspartner bzw. Ihre Ehegattin/ eingetragene Lebenspartnerin andere Einnahmen?",
             "page": 1,
-            "structure": "4."
+            "structure": "4.",
+            "x1": 42,
+            "y1": 605,
+            "x2": 382,
+            "y2": 612,
+            "align": ""
         },
         {
             "content": "auch einmalige oder unregelmäßige",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 209,
+            "y1": 614,
+            "x2": 383,
+            "y2": 621,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 393,
+            "y1": 618,
+            "x2": 420,
+            "y2": 625,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 433,
+            "y1": 618,
+            "x2": 533,
+            "y2": 625,
+            "align": ""
         },
         {
             "content": "Wenn Ja, bitte Art, Bezugszeitraum und Höhe angeben",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 625,
+            "x2": 390,
+            "y2": 632,
+            "align": ""
         },
         {
             "content": "z. B. Weihnachts-/ Urlaubsgeld jährlich, Steuererstattung jährlich, BAföG mtl.",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 635,
+            "x2": 409,
+            "y2": 642,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 604,
+            "x2": 559,
+            "y2": 611,
+            "align": ""
         },
         {
             "content": "EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 380,
+            "y1": 664,
+            "x2": 499,
+            "y2": 671,
+            "align": ""
         },
         {
             "content": "EUR brutto",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 380,
+            "y1": 694,
+            "x2": 501,
+            "y2": 701,
+            "align": ""
         },
         {
             "content": "5. Falls zu den Einnahmen alle Fragen verneint werden: Auf welche Umstände ist dies zurückzuführen? Wie bestreiten Sie Ihren Lebensunterhalt?",
             "page": 1,
-            "structure": "5."
+            "structure": "5.",
+            "x1": 41,
+            "y1": 708,
+            "x2": 546,
+            "y2": 716,
+            "align": ""
         },
         {
             "content": "Angaben hierzu sind auf einem gesonderten Blatt beizufügen!",
             "page": 1,
-            "structure": ""
+            "structure": "",
+            "x1": 199,
+            "y1": 719,
+            "x2": 545,
+            "y2": 727,
+            "align": ""
         },
         {
             "content": "Abzüge",
             "page": 2,
-            "structure": "F"
+            "structure": "F",
+            "x1": 48,
+            "y1": 37,
+            "x2": 148,
+            "y2": 49,
+            "align": ""
         },
         {
             "content": "Art der Abzüge bitte kurz bezeichnen (z. B. Lohnsteuer, Pflichtbeiträge, Lebensversicherung). Belege müssen in Kopie beigefügt werden.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 95,
+            "y1": 34,
+            "x2": 550,
+            "y2": 41,
+            "align": ""
         },
         {
             "content": "1. Welche Abzüge haben Sie?",
             "page": 2,
-            "structure": "1."
+            "structure": "1.",
+            "x1": 40,
+            "y1": 52,
+            "x2": 256,
+            "y2": 60,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 258,
+            "y1": 51,
+            "x2": 290,
+            "y2": 58,
+            "align": ""
         },
         {
             "content": "Steuern/ Solidaritätszuschlag",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 105,
+            "x2": 203,
+            "y2": 112,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 204,
+            "y1": 105,
+            "x2": 291,
+            "y2": 112,
+            "align": ""
         },
         {
             "content": "Sozialversicherungsbeiträge",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 146,
+            "x2": 203,
+            "y2": 153,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 204,
+            "y1": 146,
+            "x2": 290,
+            "y2": 153,
+            "align": ""
         },
         {
             "content": "Sonstige Versicherungen",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 188,
+            "x2": 202,
+            "y2": 195,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 203,
+            "y1": 188,
+            "x2": 257,
+            "y2": 195,
+            "align": ""
         },
         {
             "content": "Fahrt zur Arbeit (Kosten für öffentliche Verkehrsmittel oder einfache Entfernung bei KFZ-Nutzung)",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 209,
+            "x2": 203,
+            "y2": 216,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 204,
+            "y1": 228,
+            "x2": 290,
+            "y2": 235,
+            "align": ""
         },
         {
             "content": "Sonstige Werbungskosten/ Betriebsausgaben",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 259,
+            "x2": 203,
+            "y2": 266,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 204,
+            "y1": 269,
+            "x2": 290,
+            "y2": 276,
+            "align": ""
         },
         {
             "content": "2. Welche Abzüge hat Ihr Ehegatte/ eing. Lebenspartner",
             "page": 2,
-            "structure": "2."
+            "structure": "2.",
+            "x1": 288,
+            "y1": 51,
+            "x2": 500,
+            "y2": 58,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 51,
+            "x2": 544,
+            "y2": 58,
+            "align": ""
         },
         {
             "content": "Steuern/ Solidaritätszuschlag",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 105,
+            "x2": 446,
+            "y2": 112,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 447,
+            "y1": 105,
+            "x2": 500,
+            "y2": 112,
+            "align": ""
         },
         {
             "content": "Sozialversicherungsbeiträge",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 146,
+            "x2": 446,
+            "y2": 153,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 447,
+            "y1": 146,
+            "x2": 500,
+            "y2": 153,
+            "align": ""
         },
         {
             "content": "Sonstige Versicherungen",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 188,
+            "x2": 446,
+            "y2": 195,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 447,
+            "y1": 188,
+            "x2": 500,
+            "y2": 195,
+            "align": ""
         },
         {
             "content": "Fahrt zur Arbeit (Kosten für öffentliche Verkehrsmittel oder einfache Entfernung bei KFZ-Nutzung)",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 209,
+            "x2": 445,
+            "y2": 216,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 447,
+            "y1": 229,
+            "x2": 500,
+            "y2": 236,
+            "align": ""
         },
         {
             "content": "Sonstige Werbungskosten/ Betriebsausgaben",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 292,
+            "y1": 259,
+            "x2": 446,
+            "y2": 266,
+            "align": ""
         },
         {
             "content": "EUR mtl.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 447,
+            "y1": 269,
+            "x2": 500,
+            "y2": 276,
+            "align": ""
         },
         {
             "content": "Bankkonten/ Grundeigentum/ Kraftfahrzeuge/ Bargeld/ Vermögenswerte",
             "page": 2,
-            "structure": "G"
+            "structure": "G",
+            "x1": 48,
+            "y1": 287,
+            "x2": 548,
+            "y2": 298,
+            "align": ""
         },
         {
             "content": "Verfügen Sie oder Ihr Ehegatte/ Ihre Ehegattin bzw. Ihr eingetragener Lebenspartner/ Ihre eingetragene Lebenspartnerin allein oder gemeinsam über…",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 301,
+            "x2": 501,
+            "y2": 309,
+            "align": ""
         },
         {
             "content": "1. Bank-, Giro-, Sparkonten oder dergleichen?",
             "page": 2,
-            "structure": "1."
+            "structure": "1.",
+            "x1": 42,
+            "y1": 322,
+            "x2": 264,
+            "y2": 329,
+            "align": ""
         },
         {
             "content": "Angaben zu allen Konten sind auch bei fehlendem Guthaben erforderlich.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 269,
+            "y1": 322,
+            "x2": 501,
+            "y2": 329,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 501,
+            "y1": 304,
+            "x2": 543,
+            "y2": 311,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 345,
+            "x2": 96,
+            "y2": 352,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 109,
+            "y1": 345,
+            "x2": 209,
+            "y2": 352,
+            "align": ""
         },
         {
             "content": "Art des Kontos, Kontoinhaber, Kreditinstitut",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 97,
+            "y1": 371,
+            "x2": 425,
+            "y2": 378,
+            "align": ""
         },
         {
             "content": "Kontostand in EUR",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 427,
+            "y1": 371,
+            "x2": 499,
+            "y2": 378,
+            "align": ""
         },
         {
             "content": "2. Grundeigentum?",
             "page": 2,
-            "structure": "2."
+            "structure": "2.",
+            "x1": 42,
+            "y1": 394,
+            "x2": 196,
+            "y2": 401,
+            "align": ""
         },
         {
             "content": "z. B. Grundstück, Haus, Eigentumswohnung, Erbbaurecht",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 227,
+            "y1": 394,
+            "x2": 500,
+            "y2": 401,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 500,
+            "y1": 394,
+            "x2": 548,
+            "y2": 401,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 420,
+            "x2": 94,
+            "y2": 427,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 109,
+            "y1": 420,
+            "x2": 209,
+            "y2": 427,
+            "align": ""
         },
         {
             "content": "Größe, Anschrift/ Grundbuchbezeichnung, Allein- oder Miteigentum, Zahl der Wohneinheiten",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 97,
+            "y1": 447,
+            "x2": 425,
+            "y2": 454,
+            "align": ""
         },
         {
             "content": "Verkehrswert in EUR",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 426,
+            "y1": 447,
+            "x2": 526,
+            "y2": 454,
+            "align": ""
         },
         {
             "content": "3. Kraftfahrzeuge?",
             "page": 2,
-            "structure": "3."
+            "structure": "3.",
+            "x1": 42,
+            "y1": 470,
+            "x2": 355,
+            "y2": 477,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 470,
+            "x2": 545,
+            "y2": 477,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 493,
+            "x2": 94,
+            "y2": 500,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 108,
+            "y1": 493,
+            "x2": 209,
+            "y2": 500,
+            "align": ""
         },
         {
             "content": "Marke, Typ, Baujahr, Anschaffungsjahr, Allein- oder Miteigentum, Kilometerstand",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 95,
+            "y1": 518,
+            "x2": 426,
+            "y2": 525,
+            "align": ""
         },
         {
             "content": "Verkehrswert in EUR",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 427,
+            "y1": 518,
+            "x2": 500,
+            "y2": 525,
+            "align": ""
         },
         {
             "content": "4. Bargeld oder Wertgegenstände?",
             "page": 2,
-            "structure": "4."
+            "structure": "4.",
+            "x1": 42,
+            "y1": 543,
+            "x2": 500,
+            "y2": 550,
+            "align": ""
         },
         {
             "content": "z. B. wertvoller Schmuck, Antiquitäten, hochwertige elektronische Geräte",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 552,
+            "x2": 499,
+            "y2": 559,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 543,
+            "x2": 555,
+            "y2": 550,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 568,
+            "x2": 96,
+            "y2": 575,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 108,
+            "y1": 567,
+            "x2": 208,
+            "y2": 574,
+            "align": ""
         },
         {
             "content": "Bargeldbetrag in EUR, Bezeichnung der Wertgegenstände, Allein- oder Miteigentum",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 96,
+            "y1": 591,
+            "x2": 426,
+            "y2": 598,
+            "align": ""
         },
         {
             "content": "Verkehrswert in EUR",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 427,
+            "y1": 591,
+            "x2": 527,
+            "y2": 598,
+            "align": ""
         },
         {
             "content": "5. Lebens- oder Rentenversicherungen?",
             "page": 2,
-            "structure": "5."
+            "structure": "5.",
+            "x1": 43,
+            "y1": 617,
+            "x2": 500,
+            "y2": 624,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 616,
+            "x2": 552,
+            "y2": 624,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 641,
+            "x2": 95,
+            "y2": 648,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 109,
+            "y1": 641,
+            "x2": 209,
+            "y2": 648,
+            "align": ""
         },
         {
             "content": "Versicherung, Versicherungsnehmer, Datum des Vertrages/ Handelt es sich um eine zusätzliche Altersvorsorge gem. Einkommensteuergesetz, die staatlich gefördert wurde („Riester-Rente“)?",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 95,
+            "y1": 660,
+            "x2": 425,
+            "y2": 667,
+            "align": ""
         },
         {
             "content": "Rückkaufswert in EUR",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 425,
+            "y1": 660,
+            "x2": 518,
+            "y2": 668,
+            "align": ""
         },
         {
             "content": "6. sonstige Vermögenswerte?",
             "page": 2,
-            "structure": "6."
+            "structure": "6.",
+            "x1": 44,
+            "y1": 691,
+            "x2": 501,
+            "y2": 698,
+            "align": ""
         },
         {
             "content": "z. B. Bausparverträge, Wertpapiere, Beteiligungen, Forderungen",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 700,
+            "x2": 498,
+            "y2": 707,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 500,
+            "y1": 691,
+            "x2": 549,
+            "y2": 698,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 62,
+            "y1": 716,
+            "x2": 94,
+            "y2": 723,
+            "align": ""
         },
         {
             "content": "Ja:",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 109,
+            "y1": 716,
+            "x2": 209,
+            "y2": 723,
+            "align": ""
         },
         {
             "content": "Bezeichnung, Allein- oder Miteigentum",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 96,
+            "y1": 739,
+            "x2": 425,
+            "y2": 746,
+            "align": ""
         },
         {
             "content": "Verkehrswert in EUR",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 426,
+            "y1": 739,
+            "x2": 512,
+            "y2": 746,
+            "align": ""
         },
         {
             "content": "Wohnkosten",
             "page": 3,
-            "structure": "H"
+            "structure": "H",
+            "x1": 48,
+            "y1": 37,
+            "x2": 158,
+            "y2": 49,
+            "align": ""
         },
         {
             "content": "Belege sind in Kopie beizufügen (z. B. Mietvertrag, Heizkostenabrechnung, Kontoauszüge)",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 162,
+            "y1": 38,
+            "x2": 501,
+            "y2": 45,
+            "align": ""
         },
         {
             "content": "Beleg",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 37,
+            "x2": 544,
+            "y2": 44,
+            "align": ""
         },
         {
             "content": "1. Gesamtgröße des Wohnraums, den Sie allein oder gemeinsam mit anderen Personen bewohnen:",
             "page": 3,
-            "structure": "1."
+            "structure": "1.",
+            "x1": 42,
+            "y1": 54,
+            "x2": 416,
+            "y2": 61,
+            "align": ""
         },
         {
             "content": "(Angabe in Quadratmeter)",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 70,
+            "x2": 148,
+            "y2": 77,
+            "align": ""
         },
         {
             "content": "2. Zahl der Zimmer:",
             "page": 3,
-            "structure": "2."
+            "structure": "2.",
+            "x1": 42,
+            "y1": 79,
+            "x2": 149,
+            "y2": 86,
+            "align": ""
         },
         {
             "content": "3. Anzahl der Personen, die den Wohnraum",
             "page": 3,
-            "structure": "3."
+            "structure": "3.",
+            "x1": 239,
+            "y1": 79,
+            "x2": 418,
+            "y2": 86,
+            "align": ""
         },
         {
             "content": "4. Nutzen Sie den Raum als Mieter oder in einem ähnlichen Nutzungsverhältnis?",
             "page": 3,
-            "structure": "4."
+            "structure": "4.",
+            "x1": 42,
+            "y1": 104,
+            "x2": 332,
+            "y2": 111,
+            "align": ""
         },
         {
             "content": "Wenn ja, bitte die nachfolgenden Angaben in EUR pro Monat ergänzen",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 47,
+            "y1": 119,
+            "x2": 344,
+            "y2": 126,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 345,
+            "y1": 111,
+            "x2": 418,
+            "y2": 118,
+            "align": ""
         },
         {
             "content": "Ja",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 432,
+            "y1": 111,
+            "x2": 532,
+            "y2": 118,
+            "align": ""
         },
         {
             "content": "Miete ohne Nebenkosten",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 139,
+            "x2": 149,
+            "y2": 146,
+            "align": ""
         },
         {
             "content": "Heizungskosten",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 149,
+            "y1": 139,
+            "x2": 243,
+            "y2": 146,
+            "align": ""
         },
         {
             "content": "Übrige Nebenkosten",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 244,
+            "y1": 139,
+            "x2": 331,
+            "y2": 146,
+            "align": ""
         },
         {
             "content": "Gesamtbetrag",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 332,
+            "y1": 139,
+            "x2": 417,
+            "y2": 146,
+            "align": ""
         },
         {
             "content": "Ich allein zahle davon",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 418,
+            "y1": 139,
+            "x2": 499,
+            "y2": 146,
+            "align": ""
         },
         {
             "content": "6. Genaue Einzelangaben zu der Belastung aus Fremdmitteln bei Nutzung als (Mit-) Eigentümer usw.",
             "page": 3,
-            "structure": "6."
+            "structure": "6.",
+            "x1": 42,
+            "y1": 214,
+            "x2": 534,
+            "y2": 221,
+            "align": ""
         },
         {
             "content": "z. B. Datum des Darlehensvertrages, Darlehensnehmer, Kreditinstitut, Darlehensrate pro Monat, Zahlungen laufen bis...",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 223,
+            "x2": 498,
+            "y2": 230,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 214,
+            "x2": 551,
+            "y2": 221,
+            "align": ""
         },
         {
             "content": "Restschuld in EUR",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 332,
+            "y1": 246,
+            "x2": 416,
+            "y2": 253,
+            "align": ""
         },
         {
             "content": "Zinsen und Tilgung mtl.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 418,
+            "y1": 246,
+            "x2": 518,
+            "y2": 253,
+            "align": ""
         },
         {
             "content": "Restschuld in EUR",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 332,
+            "y1": 275,
+            "x2": 418,
+            "y2": 282,
+            "align": ""
         },
         {
             "content": "Zinsen und Tilgung mtl.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 418,
+            "y1": 275,
+            "x2": 518,
+            "y2": 282,
+            "align": ""
         },
         {
             "content": "Sonstige Zahlungsverpflichtungen",
             "page": 3,
-            "structure": "I"
+            "structure": "I",
+            "x1": 49,
+            "y1": 305,
+            "x2": 243,
+            "y2": 313,
+            "align": ""
         },
         {
             "content": "Angabe, an wen, wofür, seit wann und bis wann die Zahlungen geleistet werden",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 244,
+            "y1": 306,
+            "x2": 500,
+            "y2": 313,
+            "align": ""
         },
         {
             "content": "z. B. Ratenkredit der ... Bank vom... für…, Raten laufen bis.../ Belege (z. B. Darlehensvertrag, Zahlungsnachweise) sind in Kopie beizufügen",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 321,
+            "x2": 501,
+            "y2": 328,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 501,
+            "y1": 307,
+            "x2": 551,
+            "y2": 314,
+            "align": ""
         },
         {
             "content": "Restschuld in EUR",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 244,
+            "y1": 340,
+            "x2": 329,
+            "y2": 347,
+            "align": ""
         },
         {
             "content": "Gesamtbelastung mtl.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 332,
+            "y1": 340,
+            "x2": 417,
+            "y2": 347,
+            "align": ""
         },
         {
             "content": "Ich allein zahle davon",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 418,
+            "y1": 340,
+            "x2": 500,
+            "y2": 347,
+            "align": ""
         },
         {
             "content": "Restschuld in EUR",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 243,
+            "y1": 369,
+            "x2": 331,
+            "y2": 376,
+            "align": ""
         },
         {
             "content": "Gesamtbelastung mtl.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 332,
+            "y1": 370,
+            "x2": 417,
+            "y2": 377,
+            "align": ""
         },
         {
             "content": "Ich allein zahle davon",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 418,
+            "y1": 370,
+            "x2": 501,
+            "y2": 377,
+            "align": ""
         },
         {
             "content": "Restschuld in EUR",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 244,
+            "y1": 400,
+            "x2": 331,
+            "y2": 407,
+            "align": ""
         },
         {
             "content": "Gesamtbelastung mtl.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 332,
+            "y1": 400,
+            "x2": 418,
+            "y2": 407,
+            "align": ""
         },
         {
             "content": "Ich allein zahle davon",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 418,
+            "y1": 400,
+            "x2": 500,
+            "y2": 408,
+            "align": ""
         },
         {
             "content": "Besondere Belastungen",
             "page": 3,
-            "structure": "J"
+            "structure": "J",
+            "x1": 48,
+            "y1": 429,
+            "x2": 243,
+            "y2": 439,
+            "align": ""
         },
         {
             "content": "Angaben sind zu belegen,",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 245,
+            "y1": 429,
+            "x2": 500,
+            "y2": 436,
+            "align": ""
         },
         {
             "content": "z. B. Mehrausgaben für körperbehinderten Angehörigen und Angabe des GdB/ Mehrbedarfe gemäß § 21 SGB II und § 30 SGB XII",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 444,
+            "x2": 499,
+            "y2": 451,
+            "align": ""
         },
         {
             "content": "Beleg Nummer",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 502,
+            "y1": 429,
+            "x2": 550,
+            "y2": 436,
+            "align": ""
         },
         {
             "content": "Ich allein zahle davon",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 418,
+            "y1": 462,
+            "x2": 500,
+            "y2": 469,
+            "align": ""
         },
         {
             "content": "Ich allein zahle davon",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 418,
+            "y1": 492,
+            "x2": 500,
+            "y2": 499,
+            "align": ""
         },
         {
             "content": "Ich allein zahle davon",
@@ -1735,7 +2920,12 @@
         {
             "content": "Ich versichere hiermit, dass meine Angaben vollständig und wahr sind. Das Hinweisblatt zu diesem Formular habe ich erhalten und gelesen.",
             "page": 3,
-            "structure": "K"
+            "structure": "K",
+            "x1": 50,
+            "y1": 524,
+            "x2": 533,
+            "y2": 532,
+            "align": ""
         },
         {
             "append": "\n\n",
@@ -1752,27 +2942,52 @@
         {
             "content": "Anzahl der beigefügten Belege:",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 49,
+            "y1": 693,
+            "x2": 188,
+            "y2": 700,
+            "align": ""
         },
         {
             "content": "Ort, Datum",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 48,
+            "y1": 752,
+            "x2": 188,
+            "y2": 759,
+            "align": ""
         },
         {
             "content": "Unterschrift der Partei oder Person, die sie gesetzlich vertritt",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 189,
+            "y1": 733,
+            "x2": 350,
+            "y2": 740,
+            "align": ""
         },
         {
             "content": "Aufgenommen:",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 351,
+            "y1": 715,
+            "x2": 534,
+            "y2": 722,
+            "align": ""
         },
         {
             "content": "Unterschrift/ Amtsbezeichnung",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 350,
+            "y1": 733,
+            "x2": 534,
+            "y2": 740,
+            "align": ""
         }
     ],
     "title": "Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- und Verfahrenskostenhilfe",

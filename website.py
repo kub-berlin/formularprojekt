@@ -15,7 +15,7 @@ from flask.helpers import send_from_directory
 from flask_frozen import Freezer
 
 from colorama import Fore
-from markdown import Markdown
+import CommonMark
 
 NEAR_COMPLETE = 1
 INCOMPLETE = 2
@@ -31,10 +31,8 @@ stats = {}
 
 
 def ext_markdown(app, **kwargs):
-    md = Markdown(**kwargs)
-
     def render_markdown(text):
-        return Markup(md.convert(text))
+        return Markup(CommonMark.commonmark(text, **kwargs))
 
     app.jinja_env.filters['markdown'] = render_markdown
 

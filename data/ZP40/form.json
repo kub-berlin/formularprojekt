@@ -3,7 +3,7 @@
     "date": "2014-01-01",
     "rows": [
         {
-            "content": "Bezeichnung,Ort und Geschäftsnummer des Gerichts:",
+            "content": "Bezeichnung, Ort und Geschäftsnummer des Gerichts:",
             "page": 0,
             "structure": "",
             "x1": 30,
@@ -233,7 +233,7 @@
             "align": ""
         },
         {
-            "content": "Haben Sie Angehörige, die Ihnen gegenüber gesetzlich zur Leistung von Unterhalt verpflichtet sind (auch wenn tatsächlich keine Leistungen erfolgen)? ",
+            "content": "Haben Sie Angehörige, die Ihnen gegenüber gesetzlich zur Leistung von Unterhalt verpflichtet sind (auch wenn tatsächlich keine Leistungen erfolgen)?",
             "page": 0,
             "structure": "",
             "x1": 50,
@@ -333,7 +333,7 @@
             "align": ""
         },
         {
-            "content": "Verhältnis ",
+            "content": "Verhältnis",
             "page": 0,
             "structure": "",
             "x1": 248,
@@ -3025,7 +3025,7 @@
         },
         {
             "append": "\n\n",
-            "content": "Mir ist auch bekannt, dass ich während des Gerichtsverfahrens und innerhalb eines Zeitraums von vier Jahren seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens\nverpflichtet bin, dem Gericht wesentliche Verbesserungen meiner wirtschaftlichen Lage oder eine Änderung meiner Anschrift unaufgefordert und unverzüglich mitzuteilen. Bei laufenden Einkünften ist jede nicht nur einmalige Verbesserung von mehr als 100 Euro (brutto) im Monat mitzuteilen. Reduzieren sich geltend gemachte Abzüge, muss ich dies ebenfalls unaufgefordert und unverzüglich mitteilen, wenn die Entlastung nicht nur einmalig 100 Euro im Monat übersteigt. Ich weiß, dass die Bewilligung der Prozess- oder Verfahrenskostenhilfe bei einem Verstoß gegen diese Pflicht aufgehoben werden kann, und ich dann die gesamten Kosten nachzahlen muss.",
+            "content": "Mir ist auch bekannt, dass ich während des Gerichtsverfahrens und innerhalb eines Zeitraums von vier Jahren seit der rechtskräftigen Entscheidung oder der sonstigen Beendigung des Verfahrens verpflichtet bin, dem Gericht wesentliche Verbesserungen meiner wirtschaftlichen Lage oder eine Änderung meiner Anschrift unaufgefordert und unverzüglich mitzuteilen. Bei laufenden Einkünften ist jede nicht nur einmalige Verbesserung von mehr als 100 Euro (brutto) im Monat mitzuteilen. Reduzieren sich geltend gemachte Abzüge, muss ich dies ebenfalls unaufgefordert und unverzüglich mitteilen, wenn die Entlastung nicht nur einmalig 100 Euro im Monat übersteigt. Ich weiß, dass die Bewilligung der Prozess- oder Verfahrenskostenhilfe bei einem Verstoß gegen diese Pflicht aufgehoben werden kann, und ich dann die gesamten Kosten nachzahlen muss.",
             "page": 3,
             "structure": ""
         },

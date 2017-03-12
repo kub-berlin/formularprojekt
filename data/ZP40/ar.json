@@ -1,9 +1,19 @@
 {
-    "Anschrift (Straße, Hausnummer, Postleitzahl, Wohnort)": "العنوان (الشارع، رقم المنزل، الرقم البريدي، البلدة)",
-    "Beruf, Erwerbstätigkeit": "المهنة",
+    "1. Trägt eine Rechtsschutzversicherung oder eine andere Stelle/ Person (z. B. Gewerkschaft, Mieterverein, Sozialverband) die Kosten Ihrer Prozess- oder Verfahrensführung?": "ممكن يتولى تامين الحمية فقانونية ولى أخر موقع-شحص الكلفتكم الحكمة ولى طريق المحكمة",
+    "Angaben zu Ihrer Person": "تخايل نفسهن",
+    "Anschrift (Straße, Hausnummer, Postleitzahl, Wohnort)": "عنوان-شرع, رقم بيت,رمز بريدي,مكان سكن",
+    "Beleg Nummer": "رقم الدليل",
+    "Beruf, Erwerbstätigkeit": "شغل,عمل",
+    "Erklärung über die persönlichen und wirtschaftlichen Verhältnisse bei Prozess- oder Verfahrenskostenhilfe": "توضيح عن وضع شخصى و اقتصادى بمساعدة الكلفة امحاكمةو مساعدة الطريقة محكمة",
     "Familienstand": "الحالة العائلية",
-    "Geburtsdatum": "تاريخ الولادة",
+    "Geburtsdatum": "تريح ميلد",
     "Ja": "نعم",
+    "Ja:": "ايوا",
+    "Name, Vorname, ggf. Geburtsname": "اسم، اسم اول ،احتمالا اسم الاولد",
     "Nein": "لا",
-    "Ort, Datum": "المكان و التاريخ"
+    "Ort, Datum": "المكان و التاريخ",
+    "Rechtsschutzversicherung/ Mitgliedschaft": "تامين الحمية قانونية- عضوية",
+    "Sofern vorhanden: Gesetzlicher Vertreter (Name, Vorname, Anschrift, Telefon)": "إذا موجودـ منتدب قنوني - اسم, اسم ال, عنوان, تلفون",
+    "Tagsüber tel. erreichbar unter Nummer": "متاح أثناء النهار في رقم",
+    "– Belege sind in Kopie durchnummeriert beizufügen –": "يعجب ياضاف نسخة الادالال معدّ"
 }

@@ -1,9 +1,13 @@
 {
+    "Aktenzeichen": "شماره پرونده",
     "Anschrift": "آدرس",
+    "Arbeitgeber": "صاحب کار",
     "Geburtsdatum": "تاریخ تولد",
+    "Gericht": "دادگاه",
     "Geschäftszeichen": "شماره پیگیری",
-    "Ja": "خیر",
+    "Grund": "دلیل",
+    "Ja": "بلی",
     "Name, Vorname": "نام خانوادگی، نام",
-    "Nein": "بله",
+    "Nein": "خیر",
     "Zum Antrag vom": "موضوع درخواست"
 }

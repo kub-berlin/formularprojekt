@@ -754,47 +754,6 @@ hr {
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
-@font-face {
-  font-family: 'TitilliumThin';
-  src: url('../fonts/titillium-thin.eot');
-  src: url('../fonts/titillium-thin.eot?#iefix') format('embedded-opentype'), url('../fonts/titillium-thin.woff') format('woff'), url('../fonts/titillium-thin.ttf') format('truetype'), url('../fonts/titillium-thin.svg#titilliumthin') format('svg');
-}
-/* Font-Fix fÃ¼r Webkit */
-@media screen and (-webkit-min-device-pixel-ratio: 0) {
-  @font-face {
-    font-family: 'TitilliumThin';
-    src: url('../fonts/titillium-thin.svg#titilliumthin') format('svg');
-  }
-}
-@font-face {
-  font-family: 'TitilliumRegular';
-  src: url('../fonts/titillium-regular.eot');
-  src: url('../fonts/titillium-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/titillium-regular.woff') format('woff'), url('../fonts/titillium-regular.ttf') format('truetype'), url('../fonts/titillium-regular.svg#titillium_webregular') format('svg');
-}
-/* Font-Fix fÃ¼r Webkit */
-@media screen and (-webkit-min-device-pixel-ratio: 0) {
-  @font-face {
-    font-family: 'TitilliumRegular';
-    src: url('../fonts/titillium-regular.svg#titillium_webregular') format('svg');
-  }
-}
-@font-face {
-  font-family: 'TitilliumMedium';
-  src: url('../fonts/titillium-semibold.eot');
-  src: url('../fonts/titillium-semibold.eot?#iefix') format('embedded-opentype'), url('../fonts/titillium-semibold.woff') format('woff'), url('../fonts/titillium-semibold.ttf') format('truetype'), url('../fonts/titillium-semibold.svg#titillium_websemibold') format('svg');
-}
-/* Font-Fix fÃ¼r Webkit */
-@media screen and (-webkit-min-device-pixel-ratio: 0) {
-  @font-face {
-    font-family: 'TitilliumMedium';
-    src: url('../fonts/titillium-semibold.svg#titillium_websemibold') format('svg');
-  }
-}
-@font-face {
-  font-family: 'TitilliumRegularForm';
-  src: url('../fonts/titillium-regular.eot');
-  src: url('../fonts/titillium-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/titillium-regular.woff') format('woff'), url('../fonts/titillium-regular.ttf') format('truetype'), url('../fonts/titillium-regular.svg#titillium_webregular') format('svg');
-}
 h1,
 h2,
 h3,

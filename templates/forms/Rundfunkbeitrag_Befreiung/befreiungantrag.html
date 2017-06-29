@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<!-- saved from url=(0083)https://online-services.rundfunkbeitrag.de/Obsidian/befreiung/befreiungantrag.xhtml -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="{{ lang_id }}" dir="{{ lang_id | text_direction }}">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='forms') }}/{{ form_id }}/static/{{ lang_id | text_direction }}.css">
+    <script src="{{ url_for('static', filename='forms') }}/{{ form_id }}/static/hack.js"></script>
+    <title>{{ 'Befreiung' | translate(lang_id, form_id) }} - 1. {{ 'Antragsdaten' | translate(lang_id, form_id) }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="Beitragsservice von ARD, ZDF und Deutschlandradio">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body class="online-dialog">
+    <div id="stages-4">
+      <ul>
+        <li class="active"><span>1. {{ 'Antragsdaten' | translate(lang_id, form_id) }}</span><span class="arrow"></span></li>
+        <li><span>2. {{ 'Persönliche Daten' | translate(lang_id, form_id) }}</span><span class="arrow"></span></li>
+        <li><span>3. {{ 'Zusammenfassung' | translate(lang_id, form_id) }}</span><span class="arrow"></span></li>
+        <li><span>4. {{ 'Drucken' | translate(lang_id, form_id) }}</span></li>
+      </ul>
+    </div>
+    <main role="main" class="main">
+      <section class="form container">
+        <form id="befreiungsform" action="befreiungperson.html" name="befreiungsform" class="gray-panel">
+          <fieldset id="fields" class="">
+            <h3>{{ 'Ich möchte befreit/ermäßigt werden, aus...' | translate(lang_id, form_id) }}</h3>
+            <div class="form-row">
+              <div class="col-md-12"></div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-3"></div>
+              <div class="col-md-6"><button type="button" class="btn-largepetrol btn-befreiung-1"
+                  onclick="ZBS.panel.wechselPanel(&#39;fields&#39;, &#39;soziales&#39;);">{{ 'sozialen Gründen.' | translate(lang_id, form_id) }}</button></div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-3"></div>
+              <div class="col-md-6"><button type="button" class="btn-largepetrol btn-befreiung-1"
+                  onclick="ZBS.panel.wechselPanel(&#39;fields&#39;, &#39;gesundes&#39;);">{{ 'gesundheitlichen Gründen.' | translate(lang_id, form_id) }}</button></div>
+            </div>
+          </fieldset>
+          <fieldset id="soziales" class="hide">
+            <h3>{{ 'Ich möchte befreit werden, weil ich eine der folgenden Leistungen erhalte...' | translate(lang_id, form_id) }}</h3>
+            <div class="form-row">
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund403" type="submit" name="befreiungsform:grund403" value="{{ 'ALG II (Hartz IV)' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title="" data-original-title="{{ 'Empfänger von **Sozialgeld oder Arbeitslosengeld II** einschließlich von Leistungen nach § 22 des Zweiten Buches des Sozialgesetzbuches' | translate(lang_id, form_id) }}">
+                <div class="explanation"></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund402" type="submit" name="befreiungsform:grund402" value="{{ 'Grundsicherung' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title="" data-original-title="{{ 'Empfänger von **Grundsicherung im Alter und bei Erwerbsminderung** (Viertes Kapitel des Zwölften Buches des Sozialgesetzbuches)' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund405_A" type="submit" name="befreiungsform:grund405_A" value="{{ 'BAföG' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title="" data-original-title="{{ 'Empfänger von **Ausbildungsförderung** nach dem Bundesausbildungsförderungsgesetz, die **nicht** bei den Eltern wohnen' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund405_B" type="submit" name="befreiungsform:grund405_B"
+                    value="{{ 'Berufsausbildungsbeihilfe (BAB)' | translate(lang_id, form_id) }}" class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ 'Empfänger von **Berufsausbildungsbeihilfe** nach den §§ 114, 115 Nr. 2 des Dritten Buches des Sozialgesetzbuches oder nach dem Dritten Kapitel, Dritter Abschnitt, Dritter Unterabschnitt des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund401" type="submit" name="befreiungsform:grund401" value="{{ 'Sozialhilfe' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title="" data-original-title="{{ 'Empfänger von **Hilfe zum Lebensunterhalt** nach dem Dritten Kapitel des Zwölften Buches des Sozialgesetzbuches (Sozialhilfe) oder nach den §§ 27a oder 27d des Bundesversorgungsgesetzes (BVG)' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund405_C" type="submit" name="befreiungsform:grund405_C"
+                    value="{{ 'Ausbildungsgeld (SGB III)' | translate(lang_id, form_id) }}" class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ 'Empfänger von **Ausbildungsgeld** nach §§ 122 ff. des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen.' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund404" type="submit" name="befreiungsform:grund404"
+                    value="{{ 'Asylbewerberleistung' | translate(lang_id, form_id) }}" class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ 'Empfänger von Leistungen nach dem **Asylbewerberleistungsgesetz** (AsylblG)' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6"><em class="tooltip-befreiung"></em><button type="button" class="btn-mediumpetrol
+                  btn-befreiung-1-1 btn-weitere-leistungen" onclick="ZBS.panel.wechselPanel(&#39;soziales&#39;,
+                  &#39;weitere&#39;); ">{{ 'weitere Leistungen' | translate(lang_id, form_id) }} ...</button></div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-2"><button type="button" class="btn-zurueck"
+                  onclick="ZBS.panel.wechselPanel(&#39;soziales&#39;, &#39;fields&#39;);">{{ 'Zurück' | translate(lang_id, form_id) }}</button></div>
+            </div>
+          </fieldset>
+          <fieldset id="weitere" class="hide">
+            <h3>{{ 'Ich möchte befreit werden, weil ich eine der folgenden Leistungen erhalte...' | translate(lang_id, form_id) }}</h3>
+            <div class="form-row">
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund407" type="submit" name="befreiungsform:grund407" value="{{ 'Hilfe zur Pflege (SGB XII oder BVG)' | translate(lang_id, form_id) }}" class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ 'Empfänger von **Hilfe zur Pflege** nach dem Siebten Kapitel des Zwölften Buches des Sozialgesetzbuches oder von **Hilfe zur Pflege als Leistung der Kriegsopferfürsorge** nach dem Bundesversorgungsgesetz (BVG) oder von **Pflegegeld nach den landesgesetzlichen Vorschriften**' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund408" type="submit" name="befreiungsform:grund408" value="{{ 'Pflegezulagen nach LAG' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title="" data-original-title="{{ 'Empfänger von **Pflegezulagen** nach § 267 Abs. 1 des Lastenausgleichsgesetzes (LAG) oder Personen, denen wegen Pflegebedürftigkeit nach § 267 Abs. 2 Satz 1 Nr. 2 Buchstabe c LAG ein Freibetrag zuerkannt wird' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund409" type="submit" name="befreiungsform:grund409" value="{{ 'nach SGB VIII (Kinder- und Jugendhilfe)' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ '**Volljährige**, die im Rahmen einer Leistungsgewährung nach dem Achten Buch des Sozialgesetzbuches (SGB VIII) **in einer stationären Einrichtung** nach § 45 SGB VIII **leben**' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund410_B" type="submit" name="befreiungsform:grund410_B" value="{{ 'Blindenhilfe (SGB XII)' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title="" data-original-title="{{ 'Empfänger von Blindenhilfe nach § 72 des Zwölften Buches des Sozialgesetzbuches oder nach § 27d des Bundesversorgungsgesetzes (BVG)' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+            </div>
+            <h3>{{ 'Ich möchte befreit werden, weil ich keine der unter § 4 Abs. 1 Nr. 1-10 RBStV aufgeführten sozialen Leistungen...' | translate(lang_id, form_id) }}</h3>
+            <div class="form-row">
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund440" type="submit" name="befreiungsform:grund440" value="{{ 'auf Grund einer Einkommensüberschreitung erhalte.' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ 'Personen, denen eine der in § 4 Abs. 1 Nr. 1-10 Rundfunkbeitragsstaatsvertrag genannten **sozialen Leistungen wegen Überschreitung der Bedarfsgrenze versagt wurde**, wobei die Überschreitung **geringer** als die Höhe des Rundfunkbeitrags ist' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-2"><button type="button" class="btn-zurueck"
+                  onclick="ZBS.panel.wechselPanel(&#39;weitere&#39;, &#39;soziales&#39;); ">{{ 'Zurück' | translate(lang_id, form_id) }}</button></div>
+            </div>
+            <div style="text-align:center;">
+              <div>{{ 'Hinweis' | translate(lang_id, form_id) }}:</div>
+              <p>{{ 'Erhalten Sie eine andere soziale Leistung, die hier nicht zur Auswahl steht, ist eine Befreiung nicht möglich. Zum Beispiel sind Wohngeld oder ALG I keine Voraussetzung für eine Befreiung von der Rundfunkbeitragspflicht.' | translate(lang_id, form_id) }}</p>
+            </div>
+          </fieldset>
+          <fieldset id="gesundes" class="hide">
+            <h3>{{ 'Ich möchte eine Ermäßigung des Rundfunkbeitrags beantragen, weil ich zu folgendem Personenkreis gehöre:' | translate(lang_id, form_id) }}</h3>
+            <div class="form-row">
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund432_B" type="submit" name="befreiungsform:grund432_B"
+                    value="{{ 'Blinde oder sehbehinderte Menschen mit einem Grad der Behinderung von wenigstens 60' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ '**Blinde** oder **nicht nur vorübergehend wesentlich sehbehinderte Menschen** mit einem Grad der Behinderung von wenigstens 60 allein wegen der Sehbehinderung, das **Merkzeichen "RF"** wurde zuerkannt.' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund432_H" type="submit" name="befreiungsform:grund432_H"
+                    value="{{ 'Hörgeschädigte oder gehörlose Menschen' | translate(lang_id, form_id) }}" class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ '**Hörgeschädigte Menschen**, die gehörlos sind oder denen eine ausreichende Verständigung über das Gehör auch mit Hörhilfen nicht möglich ist, das **Merkzeichen "RF"** wurde zuerkannt.' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund433" type="submit" name="befreiungsform:grund433"
+                    value="{{ 'Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ '**Behinderte Menschen**, deren Grad der Behinderung nicht nur vorübergehend wenigstens 80 beträgt und die wegen ihres Leidens an öffentlichen Veranstaltungen ständig nicht teilnehmen können, das **Merkzeichen "RF"** wurde zuerkannt.' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+            </div>
+            <h3>{{ 'Ich möchte befreit werden, weil ich zu einem der folgenden Personenkreise gehöre:' | translate(lang_id, form_id) }}</h3>
+            <div class="form-row">
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund410_A" type="submit" name="befreiungsform:grund410_A"
+                    value="{{ 'taubblinde Menschen' | translate(lang_id, form_id) }}"
+                    class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ 'Taubblindheit im Sinne des Rundfunkbeitragsstaatsvertrages liegt vor, wenn auf dem besseren Ohr eine \'an Taubheit grenzende Schwerhörigkeit\' und auf dem besseren Auge eine \'hochgradige Sehbehinderung\' gegeben ist' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+              <div class="col-md-6">
+                <span class="tooltip-befreiung"><a class="icon-2 icon-haeufige_fragen_klein_text"
+                    href="javascript:void(0)"></a></span>
+                <input id="befreiungsform:grund406" type="submit" name="befreiungsform:grund406"
+                    value="{{ 'Sonderfürsorgeberechtigte' | translate(lang_id, form_id) }}" class="btn-mediumpetrol btn-befreiung-1-1" title=""
+                    data-original-title="{{ '**Sonderfürsorgeberechtigte** im Sinne des § 27e Bundesversorgungsgesetzes (BVG)' | translate(lang_id, form_id) }}">
+                <div class="explanation "></div>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="col-md-2"><button type="button" class="btn-zurueck"
+                  onclick="ZBS.panel.wechselPanel(&#39;gesundes&#39;,&#39;fields&#39;);">{{ 'Zurück' | translate(lang_id, form_id) }}</button></div>
+            </div>
+          </fieldset>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>

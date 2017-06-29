@@ -13,6 +13,7 @@ from flask import abort
 from flask import Markup
 from flask.helpers import send_from_directory
 from flask_frozen import Freezer
+from jinja2.exceptions import TemplateNotFound
 
 from colorama import Fore
 import CommonMark
@@ -288,6 +289,20 @@ def print_route(lang_id, form_id):
         pages=pages,
         lang_id=lang_id,
         form_id=form_id)
+
+
+@formularprojekt.route('/<lang_id>/<form_id>/r/<resource_id>')
+def resource_route(lang_id, form_id, resource_id):
+    check_exists(lang_id, form_id)
+
+    try:
+        return render_template(
+            os.path.join('forms', form_id, resource_id),
+            forms=forms,
+            lang_id=lang_id,
+            form_id=form_id)
+    except TemplateNotFound:
+        abort(404)
 
 
 @formularprojekt.route('/stats/')

@@ -4468,7 +4468,7 @@ ul.inline-list .glossar:focus {
     padding: 0 10px 0 0;
   }
   .rightspace {
-    padding: 0 0 0 10px;
+    padding: 0 10px 0 0;
   }
 }
 .topmargin {
@@ -7778,7 +7778,7 @@ fieldset {
   background-color: #f6f6f6;
   border: 0px solid #bfbfbf;
   border-radius: 6px;
-  padding: 0 0 0 10px;
+  padding: 0 10px 0 0;
   z-index: 0;
 }
 
@@ -7881,7 +7881,7 @@ fieldset {
     border: 0px solid #bfbfbf;
     border-bottom: 1px solid #bfbfbf;
     border-radius: 0px;
-    padding: 0 0 0 10px;
+    padding: 0 10px 0 0;
     z-index: 0;
   }
 
@@ -8030,7 +8030,7 @@ fieldset {
   background-color: #f6f6f6;
   border: 0px solid #bfbfbf;
   border-radius: 6px;
-  padding: 0 0 0 10px;
+  padding: 0 10px 0 0;
   z-index: 0;
 }
 
@@ -8152,7 +8152,7 @@ fieldset {
     border: 0px solid #bfbfbf;
     border-bottom: 1px solid #bfbfbf;
     border-radius: 0px;
-    padding: 0 0 0 10px;
+    padding: 0 10px 0 0;
     z-index: 0;
   }
 
@@ -8256,4 +8256,12 @@ fieldset {
     border-top-color: #595959;
     border-right-color: transparent;
   }
+}
+
+.btn-weitere-leistungen:before,
+.btn-zurueck:before,
+.btn-weiter:before,
+#stages-4 ul > li:after {
+  display: inline-block;
+  transform: rotate(180deg);
 }

@@ -299,6 +299,7 @@ def resource_route(lang_id, form_id, resource_id):
         return render_template(
             os.path.join('forms', form_id, resource_id),
             forms=forms,
+            direction=text_direction_filter(lang_id),
             lang_id=lang_id,
             form_id=form_id)
     except TemplateNotFound:
@@ -355,6 +356,15 @@ def register_annotator_files():
             yield '/data/%s/%s' % (form_id, filename)
 
 
+def register_resource_files():
+    for lang_id in translations:
+        for form_id in translations[lang_id]:
+            path = os.path.join('templates/forms', form_id)
+            if os.path.isdir(path):
+                for filename in os.listdir(path):
+                    yield '/%s/%s/r/%s' % (lang_id, form_id, filename)
+
+
 def create_app(settings=None):
     app = Flask(__name__)
     app.config.from_object(settings)
@@ -408,6 +418,7 @@ def main():  # pragma: no cover
     else:
         freezer = create_freezer(app)
         freezer.register_generator(register_annotator_files)
+        freezer.register_generator(register_resource_files)
         freezer.freeze()
 
 

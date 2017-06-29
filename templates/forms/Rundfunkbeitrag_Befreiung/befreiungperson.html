@@ -3,8 +3,8 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="{{ lang_id }}" dir="{{ lang_id | text_direction }}">
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='forms') }}/{{ form_id }}/static/{{ lang_id | text_direction }}.css">
-    <script src="{{ url_for('static', filename='forms') }}/{{ form_id }}/static/hack.js"></script>
+    <link type="text/css" rel="stylesheet" href="{{ url_for('static', filename='forms/' + form_id + '/static/' + direction + '.css') }}">
+    <script src="{{ url_for('static', filename='forms/' + form_id + '/static/hack.js') }}"></script>
     <title>{{ 'Befreiung' | translate(lang_id, form_id) }} - 2. {{ 'Persönliche Daten' | translate(lang_id, form_id) }}</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="Beitragsservice von ARD, ZDF und Deutschlandradio">

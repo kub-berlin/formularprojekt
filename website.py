@@ -179,6 +179,17 @@ def print_stats(form_id=None, lang_id=None, verbose=False):
         _form_stats(form_id, langs, verbose)
 
 
+def check_exists(lang_id, form_id):
+    if lang_id not in translations:
+        log(lang_id)
+        abort(404)
+    if form_id not in forms:
+        log(form_id)
+        abort(404)
+    if form_id not in translations[lang_id]:
+        abort(404)
+
+
 @formularprojekt.app_template_filter('translate')
 def translate_filter(s, lang_id, form_id, default=None):
     try:
@@ -232,12 +243,7 @@ def translation_route(lang_id, form_id):
     available_languages = [l for l in translations
         if form_id in translations[l]]
 
-    if lang_id not in translations:
-        abort(404)
-    if form_id not in forms:
-        abort(404)
-    if form_id not in translations[lang_id]:
-        abort(404)
+    check_exists(lang_id, form_id)
 
     return render_template(
         'translation.html',
@@ -249,12 +255,7 @@ def translation_route(lang_id, form_id):
 
 @formularprojekt.route('/<lang_id>/<form_id>/print/')
 def print_route(lang_id, form_id):
-    if lang_id not in translations:
-        abort(404)
-    if form_id not in forms:
-        abort(404)
-    if form_id not in translations[lang_id]:
-        abort(404)
+    check_exists(lang_id, form_id)
 
     page_n = max((row['page'] for row in forms[form_id]['rows']))
     pages = []

@@ -303,7 +303,7 @@
         },
         {
             "align": "left",
-            "content": "Anschrift, wenn abweichend vom Antragsteller/in (Straße/Platz, Hausnummer, Poszleitzahl, Wohnort, Wohnland)",
+            "content": "Anschrift, wenn abweichend vom Antragsteller/in (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Wohnland)",
             "page": 0,
             "x1": 46,
             "x2": 535,

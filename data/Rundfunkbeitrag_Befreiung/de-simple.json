@@ -4,8 +4,8 @@
     "Asylbewerberleistung": "Asylbewerberleistung",
     "Bitte auswählen": "Wählen Sie bitte:",
     "Drucken": "Drucken",
-    "Familienstand": "Familienstand",
-    "Geburtsdatum": "Wann ist die Person geboren?",
+    "Familienstand": "Sind Sie verheiratet, ledig, geschieden oder verwitwet?",
+    "Geburtsdatum": "Geburtsdatum",
     "Ja": "ja",
     "Korrigieren": "Hier können Sie Ihre Angaben ändern",
     "Nein": "Nein",
@@ -13,7 +13,7 @@
     "Weiter": "Hier geht es weiter",
     "eingetragene Lebenspartnerschaft": "Sie leben in einer eingetragenen Lebenspartnerschaft",
     "geschieden": "geschieden",
-    "ledig": "Sie sind nicht nicht verheiratet und nicht geschieden",
+    "ledig": "ledig (Die Person ist nicht verheiratet und nicht geschieden)",
     "verheiratet": "verheiratet",
-    "verwitwet": "Ihr Partner/Ihre Partnerin ist gestorben"
+    "verwitwet": "verwitwet (Ihr Partner/Ihre Partnerin ist gestorben)"
 }

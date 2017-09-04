@@ -1,8 +1,11 @@
 {
-    "Anschrift": "Adres",
-    "Geburtsdatum": "Dogum tarihi",
+    "Anschrift": "Adresi",
+    "Art": "Türü",
+    "Geburtsdatum": "Doğum tarihi",
     "Geschäftszeichen": "Dosya numarası",
+    "Grund": "Nedeni",
     "Ja": "Evet",
-    "Name, Vorname": "Soyadi, Adi",
-    "Nein": "Hayır"
+    "Name, Vorname": "Adı, soyadı",
+    "Nein": "Hayır",
+    "Zum Antrag vom": "Ait olduğu dilekçe"
 }

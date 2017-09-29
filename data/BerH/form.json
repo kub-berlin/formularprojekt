@@ -4,13 +4,23 @@
     "rows": [
         {
             "align": "",
-            "content": "An das Amtsgericht",
+            "content": "An das",
             "page": 0,
             "structure": "",
             "x1": 55,
             "x2": 315,
-            "y1": 72,
-            "y2": 82
+            "y1": 67,
+            "y2": 77
+        },
+        {
+            "align": "",
+            "content": "Amtsgericht",
+            "page": 0,
+            "structure": "",
+            "x1": 55,
+            "x2": 315,
+            "y1": 85,
+            "y2": 95
         },
         {
             "align": "",
@@ -19,8 +29,8 @@
             "structure": "",
             "x1": 55,
             "x2": 315,
-            "y1": 100,
-            "y2": 106
+            "y1": 113,
+            "y2": 119
         },
         {
             "align": "",
@@ -1140,7 +1150,7 @@
         },
         {
             "align": "start",
-            "content": "Bitte fügen Sie alle notwendigen Belege (insbesondere über Ihr Einkommen, Ihr Vermögen und Ihre Belastungen) in Kopie bei. Sie ersparen sich Rückfragen, die das Verfahren verzögern. Antworten Sie wahrheitsgemäß und vollständig, sonst kann schon bewilligte Beratungshilfe wieder aufgehoben werden und Sie müssen die angefallenen Kosten nachzahlen.",
+            "content": "Bitte fügen Sie alle notwendigen *Belege* (insbesondere über Ihr Einkommen, Ihr Vermögen und Ihre Belastungen) in Kopie bei. Sie ersparen sich Rückfragen, die das Verfahren verzögern. Antworten Sie wahrheitsgemäß und vollständig, sonst kann schon bewilligte Beratungshilfe wieder aufgehoben werden und Sie müssen die angefallenen Kosten nachzahlen.",
             "page": 4,
             "structure": "",
             "x1": 52,

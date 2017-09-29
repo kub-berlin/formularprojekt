@@ -1704,7 +1704,7 @@
         },
         {
             "align": "left",
-            "content": "Ja, in Ausbildung / Studium als ...",
+            "content": "Ja, in Ausbildung / Studium als",
             "page": 1,
             "structure": "",
             "x1": 272,
@@ -1724,7 +1724,7 @@
         },
         {
             "align": "left",
-            "content": "Ja, in Ausbildung / Studium als ...",
+            "content": "Ja, in Ausbildung / Studium als",
             "page": 1,
             "structure": "",
             "x1": 446,
@@ -1768,17 +1768,27 @@
             "page": 1,
             "structure": "",
             "x1": 267,
-            "x2": 381,
+            "x2": 380,
             "y1": 663,
             "y2": 672
         },
         {
             "align": "left",
-            "content": "vom ... bis ...",
+            "content": "vom",
             "page": 1,
             "structure": "",
             "x1": 212,
-            "x2": 379,
+            "x2": 265,
+            "y1": 682,
+            "y2": 691
+        },
+        {
+            "align": "left",
+            "content": "bis",
+            "page": 1,
+            "structure": "",
+            "x1": 267,
+            "x2": 380,
             "y1": 682,
             "y2": 691
         },
@@ -1814,10 +1824,20 @@
         },
         {
             "align": "left",
-            "content": "vom ... bis ...",
+            "content": "vom",
             "page": 1,
             "structure": "",
             "x1": 387,
+            "x2": 438,
+            "y1": 682,
+            "y2": 691
+        },
+        {
+            "align": "left",
+            "content": "bis",
+            "page": 1,
+            "structure": "",
+            "x1": 440,
             "x2": 564,
             "y1": 682,
             "y2": 691
@@ -4284,7 +4304,7 @@
         },
         {
             "align": "left",
-            "content": "Entfernung zwischen Wohnung und Arbeitsstelle und Fahrkosten zur Arbeitsstelle mit",
+            "content": "Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit",
             "page": 7,
             "structure": "",
             "x1": 31,
@@ -4904,7 +4924,7 @@
         },
         {
             "align": "left",
-            "content": "**Sonstige Angaben**",
+            "content": "**Sonstige Angaben,**",
             "page": 8,
             "structure": "XI.",
             "x1": 31,

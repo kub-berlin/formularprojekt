@@ -1403,20 +1403,13 @@
         },
         {
             "align": "left",
-            "content": "Hier sind Mehrfachnennungen möglich.",
+            "content": "Hier sind Mehrfachnennungen möglich. Bitte legen Sie entsprechende Nachweise vor.",
             "page": 3,
             "structure": "",
             "x1": 37,
             "x2": 416,
             "y1": 54,
             "y2": 63
-        },
-        {
-            "align": "left",
-            "append": " ",
-            "content": "Bitte legen Sie entsprechende Nachweise vor.",
-            "page": 3,
-            "structure": ""
         },
         {
             "align": "left",

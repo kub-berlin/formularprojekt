@@ -40,7 +40,7 @@
         },
         {
             "align": "left",
-            "content": "telefonische Rückfrage tagsüber unter Nr.:",
+            "content": "Telefonische Rückfrage tagsüber unter Nr.:",
             "page": 0,
             "x1": 374,
             "x2": 537,
@@ -212,7 +212,7 @@
         },
         {
             "align": "left",
-            "content": "in eingetragener Lebenspartnerschaft lebend",
+            "content": "in Lebenspartnerschaft lebend",
             "page": 0,
             "x1": 342,
             "x2": 537,
@@ -441,7 +441,7 @@
         },
         {
             "align": "left",
-            "content": "Für folgende Kinder beziehe ich bereits Kindergeld:",
+            "content": "Für folgende Kinder beziehe ich bereits Kindergeld",
             "page": 1,
             "x1": 23,
             "x2": 517,
@@ -673,7 +673,7 @@
         },
         {
             "append": "\n\n",
-            "content": "Ihre steuerliche Identifikationsnummer und die Ihres Kindes finden Sie im jeweiligen Mitteilungsschreiben des Bundeszentralamtes für Steuern. Ihre Nummer ist auch auf der elektronischen Lohnsteuerbescheinigung Ihres Arbeitgebers oder in Ihrem Einkommensteuerbescheid verzeichnet. Sollten Sie Ihre steuerliche Identifikationsnummer in den genannten Unterlagen nicht finden, können Sie mit dem Eingabeformular im Internetportal des Bundeszentralamtes für Steuern www.bzst.de um erneute Zusendung bitten. Die Mitteilung der steuerlichen Identifikationsnummer durch das Bundeszentralamt für Steuern erfolgt schriftlich. Aus datenschutzrechtlichen Gründen kann sie weder telefonisch noch per E-Mail übermittelt werden.",
+            "content": "Ihre steuerliche Identifikationsnummer und die Ihres Kindes finden Sie im jeweiligen Mitteilungsschreiben des Bundeszentralamtes für Steuern. Ihre Nummer ist auch auf der elektronischen Lohnsteuerbescheinigung Ihres Arbeitgebers oder in Ihrem Einkommensteuerbescheid verzeichnet. Sollten Sie Ihre steuerliche Identifikationsnummer in den genannten Unterlagen nicht finden, können Sie mit dem Eingabeformular im Internetportal des Bundeszentralamtes für Steuern **www.bzst.de** um erneute Zusendung bitten. Die Mitteilung der steuerlichen Identifikationsnummer durch das Bundeszentralamt für Steuern erfolgt schriftlich. Aus datenschutzrechtlichen Gründen kann sie weder telefonisch noch per E-Mail übermittelt werden.",
             "page": 2
         },
         {
@@ -683,7 +683,7 @@
         },
         {
             "append": "\n\n",
-            "content": "Weitere Fragen zur steuerlichen Identifikationsnummer als Anspruchsvoraussetzungen werden unter www.bzst.de beantwortet.",
+            "content": "Weitere Fragen zur steuerlichen Identifikationsnummer als Anspruchsvoraussetzungen werden unter **www.bzst.de** beantwortet.",
             "page": 2
         },
         {
@@ -697,7 +697,7 @@
         },
         {
             "align": "start",
-            "content": "Zu 1 und 2: Angaben zur antragstellenden Person und zum Ehegatten bzw Lebenspartner",
+            "content": "Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in",
             "page": 2,
             "x1": 20,
             "x2": 548,

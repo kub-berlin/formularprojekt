@@ -454,13 +454,20 @@
         },
         {
             "align": "left",
-            "content": "Name, Anschrift",
+            "content": "Name",
             "page": 0,
             "structure": "",
             "x1": 81,
             "x2": 153,
             "y1": 486,
             "y2": 494
+        },
+        {
+            "align": "left",
+            "content": "Anschrift",
+            "page": 0,
+            "structure": "",
+            "append": ", "
         },
         {
             "align": "left",

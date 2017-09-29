@@ -9,6 +9,9 @@ serve: .env static/style.css static/* templates/* annotator/bower_components
 fill: .env
 	. .env/bin/activate && python scripts/fill.py
 
+pull:
+	cd .drive && drive pull -ignore-name-clashes -export=csv -exports-dir="../.exports/" -explicitly-export
+
 push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
 

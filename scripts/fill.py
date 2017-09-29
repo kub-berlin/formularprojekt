@@ -1,24 +1,42 @@
 """Helper script to automatically fill corresponding terms in all forms."""
 
+import csv
 import json
 import re
 import os
+import sys
+
+UPSTREAM_LANGS = {
+    'ar': 'Arabisch',
+    'bs': 'BosnischKroatischSerbisch',
+    'de-simple': 'Einfache Sprache',
+    'el': 'Griechisch',
+    'en': 'Englisch',
+    'es': 'Spanisch',
+    'fa': 'Persisch',
+    'fr': 'Französisch',
+    'ru': 'Russisch',
+    'tr': 'Türkisch',
+}
+
+UPSTREAM_FORMS = {
+    'AlgII': 'ALG II Hauptantrag_{lang}_2017_01',
+    'BerH': 'Beratungshilfe_{lang}_2014_01',
+    'KG': 'Kindergeld_Hauptantrag_{lang}_2016_09',
+    'PKH': 'Prozesskostenhilfe_{lang}_2014_01',
+    'Rundfunkbeitrag_Befreiung': 'Rundfunkbeitrag_Befreiung_{lang}_2017',
+    'SozIIIB1.2': 'Sozialhilfe_Anlage 2_{lang}_2014_02',
+    'SozIIIB1': 'Sozialhilfe_Antragsbogen A_{lang}_2014_01',
+    'ZP40': 'PKH_wirtschaftliche Verhältnisse_{lang}_2014_01',
+    # '': 'Erklärung_Verfahren_Verurteilungen_{lang}_2017_04',
+}
+
+BASEPATH = os.path.abspath('data')
 
 translations = {}
 forms = {}
 
-BASEPATH = os.path.abspath('data')
-
-ensure_str = lambda s: s if isinstance(s, str) else s.encode('utf8')
-
-
-def normalize(s):
-    a = s\
-        .replace('\n\n', 'PARAGRAPH')\
-        .replace('\n', ' ')\
-        .replace('PARAGRAPH', '\n\n')\
-        .strip()
-    return re.sub(' +', ' ', a)
+interactive = sys.argv[1:] == ['-i']
 
 
 def iter_translations():
@@ -34,51 +52,133 @@ def iter_translations():
                 yield form_id, lang_id, path
 
 
+def get_any_translation(lang_id, key):
+    for form_id in sorted(translations.keys()):
+        if lang_id in translations[form_id]:
+            translation = translations[form_id][lang_id]
+            if key in translation:
+                return translation[key]
+
+
+def ask_for_map(key, candidates):
+    # TODO automatic guesses based on levenshtein distance
+    candidates = [c for c in sorted(candidates) if abs(len(c) - len(key)) / (len(c) + len(key)) < 0.2]
+    if candidates:
+        print('Match for:', key)
+        for i, c in enumerate(candidates):
+            print(i, c)
+        answer = input()
+        print()
+        if answer == 'x':
+            return answer
+        try:
+            i = int(answer)
+            return candidates[i]
+        except:
+            pass
+
+
+def dump_json(data, filename):
+    with open(filename, 'wb') as fh:
+        s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
+        fh.write(s.encode('utf8'))
+
+
+def get_mapping():
+    try:
+        with open('.mapping.json') as fh:
+            return json.load(fh)
+    except FileNotFoundError:
+        return {}
+
+
+def normalize(s):
+    s = s\
+        .replace('\n\n', 'PARAGRAPH')\
+        .replace('\n', ' ')\
+        .replace('PARAGRAPH', '\n\n')\
+        .strip()
+    s = re.sub('  +', ' ', s)
+    s = re.sub(' +\\n', '\\n', s)
+    s = re.sub('\\n +', '\\n', s)
+    return s
+
+
+def get_upstream(form_id, lang_id):
+    if not form_id in UPSTREAM_FORMS:
+        return {}
+    if not lang_id in UPSTREAM_LANGS:
+        return {}
+
+    s = UPSTREAM_FORMS[form_id].format(lang=UPSTREAM_LANGS[lang_id])
+    path = os.path.abspath('.exports/{}_exports/{}.csv'.format(s, s))
+
+    try:
+        with open(path) as fh:
+            rows = list(csv.reader(fh))
+    except FileNotFoundError:
+        return {}
+
+    data = {}
+    for row in rows[2:]:
+        if len(row) > 2:
+            key = normalize(row[1])
+            value = normalize(row[2])
+            if key and value:
+                data[key] = value
+
+    return data
+
+
 for form_id, lang_id, path in iter_translations():
     if form_id != 'meta':
         with open(path) as fh:
-            try:
-                data = json.load(fh)
-            except:
-                print(path)
-                raise
+            data = json.load(fh)
 
         if lang_id == 'form':
             forms[form_id] = data
         else:
-            if lang_id not in translations:
-                translations[lang_id] = {}
-            translations[lang_id].update(data)
+            if form_id not in translations:
+                translations[form_id] = {}
+            translations[form_id][lang_id] = data
 
 
-for form_id, form in forms.items():
-    for lang_id, translation in translations.items():
-        data = {}
 
+if __name__ == '__main__':
+    mapping = get_mapping()
+
+    for form_id, form in sorted(forms.items()):
         keys = set([r['content'] for r in form['rows']])
-        if '' in keys:
-            keys.remove('')
-        for key in keys:
-            if key in translation:
-                data[key] = translation[key]
+        for lang_id, current in sorted(translations[form_id].items()):
+            data = {}
+            upstream = get_upstream(form_id, lang_id)
 
-        if data:
-            path = os.path.join(BASEPATH, form_id, lang_id + '.json')
-            with open(path, 'wb') as fh:
-                s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
-                fh.write(s.encode('utf8'))
+            for key in keys:
+                if key in upstream:
+                    data[key] = upstream[key]
+                elif key in current:
+                    data[key] = current[key]
+                else:
+                    any_translation = get_any_translation(lang_id, key)
+                    if any_translation:
+                        data[key] = any_translation
 
+            available = set(upstream.keys()).union(current.keys())
 
-# for form_id, lang_id, path in iter_translations():
-#     with open(path) as fh:
-#         data = json.load(fh)
-#
-#     if lang_id != 'form':
-#         data = {normalize(k): normalize(v) for k, v in data.items()}
-#     else:
-#        for row in data['rows']:
-#            row['content'] = normalize(row['content'])
-#
-#     with open(path, 'w') as fh:
-#         s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
-#         fh.write(s.encode('utf8'))
+            for key in sorted(available - keys):
+                value = upstream.get(key, current.get(key))
+                if key in mapping:
+                    if mapping[key] in keys and mapping[key] not in data:
+                        data[mapping[key]] = value
+                elif interactive:
+                    mapped = ask_for_map(key, keys - available)
+                    if mapped:
+                        mapping[key] = mapped
+                        if mapping[key] in data:
+                            data[mapping[key]] = value
+
+            if data:
+                path = os.path.join(BASEPATH, form_id, lang_id + '.json')
+                dump_json(data, path)
+
+            dump_json(mapping, '.mapping.json')

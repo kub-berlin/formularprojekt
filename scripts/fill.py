@@ -97,6 +97,7 @@ def normalize(s):
         .replace('\n\n', 'PARAGRAPH')\
         .replace('\n', ' ')\
         .replace('PARAGRAPH', '\n\n')\
+        .replace('…', '...')\
         .strip()
     s = re.sub('  +', ' ', s)
     s = re.sub(' +\\n', '\\n', s)

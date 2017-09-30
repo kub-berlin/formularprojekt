@@ -254,7 +254,7 @@
         },
         {
             "align": "left",
-            "content": "Das genannte Kind ist/war **arbeitsuchend** und sucht/suchte einen Arbeitsplatz ab ... zum …",
+            "content": "Das genannte Kind ist/war **arbeitsuchend** und sucht/suchte einen Arbeitsplatz ab ... zum ...",
             "page": 0,
             "structure": "4",
             "x1": 0,
@@ -264,7 +264,7 @@
         },
         {
             "align": "left",
-            "content": "Das Kind steht bzw. stand in einem Beschäftigungsverhältnis seit/von ... bis …",
+            "content": "Das Kind steht bzw. stand in einem Beschäftigungsverhältnis seit/von ... bis ...",
             "page": 0,
             "structure": "",
             "x1": 0,

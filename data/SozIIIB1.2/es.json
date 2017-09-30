@@ -1,6 +1,7 @@
 {
     "Andere Aufenthaltserlaubnis i.S. des AufenthG": "Otro tipo de permiso de residencia a los efectos de la Ley de residencia (AufenthG)",
     "Anlage 2 - Ausländer -": "Adjunto 2 - extranjero -",
+    "Anschrift": "Dirección",
     "Asyl": "Asilo",
     "Aufenthaltsdokumente": "Documentos de residencia",
     "Aufenthaltserlaubnis wg. des Krieges im Heimatland nach § 23 Abs. 1 oder § 24 oder nach § 25 Abs. 4 Satz1, Abs. 4 a, 4 b oder Abs.5 AufenthG": "Permiso de residencia debido a guerra en el pais de origen, según § 23, apartado 1, o § 24, o según § 25, apartado 4, primera frase, apartado 4 a, apartado 4 b o apartado 5 de la Ley de permanencia (AufenthG)",
@@ -19,7 +20,7 @@
     "Ja": "Sí",
     "Klage eingereicht": "Recurso interpuesto",
     "Klage eingereicht am ... ;bevollmächtigter Rechtsanwalt (Name und Anschrift)": "Recurso interpuesto el (fecha); abogado patrocinante (nombre y dirección)",
-    "Name, Anschrift": "Nombre, Dirección",
+    "Name": "Nombre",
     "Name, Vorname": "Apellido, nombre",
     "Nein": "No",
     "Niederlassungserlaubnis": "Permiso de residencia",

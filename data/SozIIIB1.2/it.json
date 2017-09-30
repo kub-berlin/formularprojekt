@@ -1,5 +1,7 @@
 {
+    "Anschrift": "Indirizzo",
     "Datum": "Data",
     "Ja": "sì",
+    "Name": "Cognome",
     "Name, Vorname": "Cognome, Nome"
 }

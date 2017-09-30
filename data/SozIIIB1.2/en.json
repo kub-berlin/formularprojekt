@@ -1,6 +1,7 @@
 {
     "Andere Aufenthaltserlaubnis i.S. des AufenthG": "Other residence permit according to the law (AufenthaltsG)",
     "Anlage 2 - Ausländer -": "Annex 2 - for non-German citizens",
+    "Anschrift": "Address",
     "Asyl": "Asylum",
     "Aufenthaltsdokumente": "Residence documents",
     "Aufenthaltserlaubnis wg. des Krieges im Heimatland nach § 23 Abs. 1 oder § 24 oder nach § 25 Abs. 4 Satz1, Abs. 4 a, 4 b oder Abs.5 AufenthG": "Residence permit according to Article 23 Para. 1 or according to Article 24 or according to Article 25 Para. 4, 1, Para. 4a, 4b or Para.5 (AufenthG) as a result of a war in their home country",
@@ -19,8 +20,8 @@
     "Ja": "Yes",
     "Klage eingereicht": "Claim filed",
     "Klage eingereicht am ... ;bevollmächtigter Rechtsanwalt (Name und Anschrift)": "Claim filed on ...; lawyer holding power of attorney (name and address)",
-    "Name, Anschrift": "Name, address",
-    "Name, Vorname": "Surname, name",
+    "Name": "Name",
+    "Name, Vorname": "Last name, name",
     "Nein": "No",
     "Niederlassungserlaubnis": "Settlement permit",
     "Pass-Nr.:": "Passport no.",

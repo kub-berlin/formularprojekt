@@ -1,6 +1,7 @@
 {
     "Andere Aufenthaltserlaubnis i.S. des AufenthG": "إقامة اخرى I.S. الإقامة",
     "Anlage 2 - Ausländer -": "نموذج رقم 2 الاجانب",
+    "Anschrift": "العنوان",
     "Asyl": "اللجوء السياسي",
     "Aufenthaltsdokumente": "وثائق الإقامة",
     "Aufenthaltserlaubnis wg. des Krieges im Heimatland nach § 23 Abs. 1 oder § 24 oder nach § 25 Abs. 4 Satz1, Abs. 4 a, 4 b oder Abs.5 AufenthG": "الإقامة بسبب الحرب في بلادهم وفقا للمادة 23 الفقرة 1 أو الفقرة 24 أو الفقرة 25 الفقرة 4 الجملة 1، الفقرة 4 (أ)، 4 ب أو Abs.5 الإقامة",
@@ -19,8 +20,8 @@
     "Ja": "نعم",
     "Klage eingereicht": "رفعت دعوى قضائية",
     "Klage eingereicht am ... ;bevollmächtigter Rechtsanwalt (Name und Anschrift)": "قدمت دعوى قضائية بتاريخ ...؛ المحامي الموكل (الاسم والعنوان)",
-    "Name, Anschrift": "ﺍﻼﺴﻣ ﻭﺎﻠﻌﻧﻭﺎﻧ",
-    "Name, Vorname": "اللقب, الاسم",
+    "Name": "الاسم",
+    "Name, Vorname": "اسم العائلة، الاسم الأول",
     "Nein": "لا",
     "Niederlassungserlaubnis": "تصريح الاستيطان",
     "Pass-Nr.:": "رقم جواز السفر",

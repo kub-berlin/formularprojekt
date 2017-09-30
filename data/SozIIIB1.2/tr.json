@@ -1,6 +1,7 @@
 {
     "Andere Aufenthaltserlaubnis i.S. des AufenthG": "AufenthG yasasına göre diğer oturma izinleri",
     "Anlage 2 - Ausländer -": "Ek 2 - Yabancılar",
+    "Anschrift": "Adresi",
     "Asyl": "İltica",
     "Aufenthaltsdokumente": "Oturum izni belgesi",
     "Aufenthaltserlaubnis wg. des Krieges im Heimatland nach § 23 Abs. 1 oder § 24 oder nach § 25 Abs. 4 Satz1, Abs. 4 a, 4 b oder Abs.5 AufenthG": "AufenthG yasasının 23. maddesinin 1. paragrafı veya 24. maddesi ve 25. maddesinin 4. paragrafının 1. fıkrası, 4a, 4b veya 5. maddeleri gereğince kendi ülkesinde savaş olması nedeniyle verilen oturma izni",
@@ -18,8 +19,8 @@
     "Gründe für den jetzigen Aufenthalt; ggf. Gründe, weshalb ich nicht in mein Heimatland zurückkehren kann:": "Şu anda neden burada bulunduğum; veya kendi ülkeme dönemememin nedenleri:",
     "Ja": "Evet",
     "Klage eingereicht": "dava açıldı",
-    "Klage eingereicht am ... ;bevollmächtigter Rechtsanwalt (Name und Anschrift)": "… tarihinde dava açıldı ;yetkili avukat (adı ve adresi)",
-    "Name, Anschrift": "Adı, adresi",
+    "Klage eingereicht am ... ;bevollmächtigter Rechtsanwalt (Name und Anschrift)": "... tarihinde dava açıldı ;yetkili avukat (adı ve adresi)",
+    "Name": "Adı, soyadı",
     "Name, Vorname": "Adı, soyadı",
     "Nein": "Hayır",
     "Niederlassungserlaubnis": "Yerleşme izni",
@@ -48,5 +49,5 @@
     "nicht erlaubt": "çalışamaz",
     "unbefristet": "süresiz",
     "von (Bundesagentur) für Arbeit": "çalışma ajansından",
-    "von (Dienststelle)": "(Resmi daire) tarafından"
+    "von (Dienststelle)": "(Daire) tarafından"
 }

@@ -36,8 +36,6 @@ BASEPATH = os.path.abspath('data')
 translations = {}
 forms = {}
 
-interactive = sys.argv[1:] == ['-i']
-
 
 def iter_translations():
     items = sorted(os.walk(BASEPATH), key=lambda a: '/zz' if a[0].endswith('all') else a[0].lower())
@@ -146,6 +144,9 @@ for form_id, lang_id, path in iter_translations():
 
 
 if __name__ == '__main__':
+    interactive = sys.argv[1:] == ['-i']
+    verbose = sys.argv[1:] == ['-v']
+
     mapping = get_mapping()
 
     for form_id, form in sorted(forms.items()):
@@ -183,3 +184,19 @@ if __name__ == '__main__':
                 dump_json(data, path)
 
             dump_json(mapping, '.mapping.json')
+
+    if verbose:
+        for form_id in UPSTREAM_FORMS:
+            keys = set([r['content'] for r in forms[form_id]['rows']])
+
+            upstream = set()
+            for lang_id in UPSTREAM_LANGS:
+                u = get_upstream(form_id, lang_id)
+                upstream = upstream.union([normalize(k) for k in u.keys()])
+
+            print('--- ' + form_id + ' ---')
+            for key in sorted(keys - upstream):
+                print('+ ' + key)
+            for key in sorted(upstream - keys):
+                print('- ' + key)
+            print()

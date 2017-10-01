@@ -35,6 +35,7 @@ BASEPATH = os.path.abspath('data')
 
 translations = {}
 forms = {}
+langs = set()
 
 
 def iter_translations():
@@ -130,6 +131,7 @@ def get_upstream(form_id, lang_id):
 
 
 for form_id, lang_id, path in iter_translations():
+    langs.add(lang_id)
     if form_id != 'meta':
         with open(path) as fh:
             data = json.load(fh)
@@ -151,8 +153,9 @@ if __name__ == '__main__':
 
     for form_id, form in sorted(forms.items()):
         keys = set([r['content'] for r in form['rows']])
-        for lang_id, current in sorted(translations[form_id].items()):
+        for lang_id in sorted(langs):
             data = {}
+            current = translations[form_id].get(lang_id, {})
             upstream = get_upstream(form_id, lang_id)
 
             for key in keys:

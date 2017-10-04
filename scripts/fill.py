@@ -20,7 +20,7 @@ UPSTREAM_LANGS = {
 }
 
 UPSTREAM_FORMS = {
-    'AlgII': 'ALG II Hauptantrag_{lang}_2017_01',
+    'AlgII': 'Alg II Hauptantrag_{lang}_2017_01',
     'BerH': 'Beratungshilfe_{lang}_2014_01',
     'KG': 'Kindergeld_Hauptantrag_{lang}_2016_09',
     'PKH': 'Prozesskostenhilfe_{lang}_2014_01',

@@ -1,6 +1,6 @@
 [main]
 host = https://www.transifex.com
-lang_map = de_simple: de-simple
+lang_map = de_DE: de-simple
 
 [formulare.meta]
 source_file = data/meta/de.json
@@ -13,6 +13,12 @@ source_file = data/AlgII/de.json
 source_lang = de
 type = KEYVALUEJSON
 file_filter = data/AlgII/<lang>.json
+
+[formulare.BerH]
+source_file = data/BerH/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/BerH/<lang>.json
 
 [formulare.KG]
 source_file = data/KG/de.json
@@ -56,6 +62,12 @@ source_lang = de
 type = KEYVALUEJSON
 file_filter = data/KG5d/<lang>.json
 
+[formulare.PKH]
+source_file = data/PKH/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/PKH/<lang>.json
+
 [formulare.Rundfunkbeitrag_Befreiung]
 source_file = data/Rundfunkbeitrag_Befreiung/de.json
 source_lang = de
@@ -73,3 +85,9 @@ source_file = data/SozIIIB1.2/de.json
 source_lang = de
 type = KEYVALUEJSON
 file_filter = data/SozIIIB1.2/<lang>.json
+
+[formulare.ZP40]
+source_file = data/ZP40/de.json
+source_lang = de
+type = KEYVALUEJSON
+file_filter = data/ZP40/<lang>.json

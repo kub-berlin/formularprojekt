@@ -16,7 +16,7 @@
 		return response.ok ? response.text() : Promise.reject(response);
 	}).then(function(template) {
 		registry.registerDirective('forms', template, function(self) {
-			var data = {};
+			var state = {};
 
 			var rget = function(row) {
 				return function(key) {
@@ -31,25 +31,25 @@
 			};
 
 			var update = function(undoable) {
-				if (data.form) {
-					data.rows = data.form.rows.filter(function(row) {
-						return row.page === data.page;
+				if (state.form) {
+					state.rows = state.form.rows.filter(function(row) {
+						return row.page === state.page;
 					});
 				} else {
-					data.rows = void 0;
-					data.selected = void 0;
+					state.rows = void 0;
+					state.selected = void 0;
 				}
-				data.bg = '../static/forms/' + data.formId + '/bg-' + data.page + '.svg';
-				data.zoom = data.zoom || 1;
+				state.bg = '../static/forms/' + state.formId + '/bg-' + state.page + '.svg';
+				state.zoom = state.zoom || 1;
 
-				self.update(data);
+				self.update(state);
 
-				self.setModel('formId', data.formId);
-				self.setModel('page', data.page + 1);
-				self.setModel('zoom', Math.round(data.zoom * 100));
+				self.setModel('formId', state.formId);
+				self.setModel('page', state.page + 1);
+				self.setModel('zoom', Math.round(state.zoom * 100));
 
-				if (data.selected !== void 0) {
-					var row = data.rows[data.selected];
+				if (state.selected !== void 0) {
+					var row = state.rows[state.selected];
 					var get = rget(row);
 					self.setModel('x1', get('x1'));
 					self.setModel('x2', get('x2'));
@@ -60,19 +60,19 @@
 					self.setModel('align', get('align'));
 				}
 
-				localStorage.setItem('formId', data.formId);
-				localStorage.setItem('page', data.page);
-				localStorage.setItem('selected', data.selected);
-				localStorage.setItem(data.formId, JSON.stringify(data.form));
+				localStorage.setItem('formId', state.formId);
+				localStorage.setItem('page', state.page);
+				localStorage.setItem('selected', state.selected);
+				localStorage.setItem(state.formId, JSON.stringify(state.form));
 			};
 
 			var select = function(i) {
-				if (data.selected !== void 0) {
-					delete data.rows[data.selected].selected;
+				if (state.selected !== void 0) {
+					delete state.rows[state.selected].selected;
 				}
-				data.selected = i;
+				state.selected = i;
 				if (i != void 0) {
-					data.rows[data.selected].selected = true;
+					state.rows[state.selected].selected = true;
 				}
 			};
 
@@ -124,8 +124,8 @@
 				}
 
 				return formPromise.then(function(form) {
-					data.formId = formId;
-					data.form = form;
+					state.formId = formId;
+					state.form = form;
 				});
 			};
 
@@ -148,13 +148,13 @@
 			});
 
 			self.on('canvas-click', function(event) {
-				if (data.selected !== void 0) {
+				if (state.selected !== void 0) {
 					var container = self.querySelector('.canvas');
 					var page = self.querySelector('.page');
-					var x = Math.round((event.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft) / data.zoom / 96 * 72);
-					var y = Math.round((event.clientY - page.offsetTop - container.offsetTop + container.scrollTop) / data.zoom / 96 * 72);
+					var x = Math.round((event.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft) / state.zoom / 96 * 72);
+					var y = Math.round((event.clientY - page.offsetTop - container.offsetTop + container.scrollTop) / state.zoom / 96 * 72);
 
-					var row = data.rows[data.selected];
+					var row = state.rows[state.selected];
 					var get = rget(row);
 					var set = rset(row);
 
@@ -177,13 +177,13 @@
 					}
 
 					update();
-					window.history.pushState(data.form, null);
+					window.history.pushState(state.form, null);
 				}
 			});
 
 			self.on('update-selected', function(event) {
-				if (data.selected !== void 0) {
-					var row = data.rows[data.selected];
+				if (state.selected !== void 0) {
+					var row = state.rows[state.selected];
 					var get = rget(row);
 					var set = rset(row);
 
@@ -196,13 +196,13 @@
 					set('align', self.getModel('align'));
 
 					update();
-					window.history.pushState(data.form, null);
+					window.history.pushState(state.form, null);
 				}
 			});
 
 			self.on('update-selected-2', function(event) {
-				if (data.selected !== void 0) {
-					var row = data.rows[data.selected];
+				if (state.selected !== void 0) {
+					var row = state.rows[state.selected];
 					var get = rget(row);
 					var set = rset(row);
 
@@ -212,7 +212,7 @@
 					set('size', get('y2') - get('y1'));
 
 					update();
-					window.history.pushState(data.form, null);
+					window.history.pushState(state.form, null);
 				}
 			});
 
@@ -220,22 +220,22 @@
 				var formId = self.getModel('formId');
 
 				select();
-				localStorage.setItem(data.formId, JSON.stringify(data.form));
+				localStorage.setItem(state.formId, JSON.stringify(state.form));
 
 				getForm(formId).then(function() {
-					data.page = 0;
+					state.page = 0;
 					update();
 				});
 			});
 
 			self.on('change-page', function(event) {
 				select();
-				data.page = parseInt(self.getModel('page'), 10) - 1;
+				state.page = parseInt(self.getModel('page'), 10) - 1;
 				update();
 			});
 
 			self.on('change-zoom', function(event) {
-				data.zoom = self.getModel('zoom') / 100;
+				state.zoom = self.getModel('zoom') / 100;
 				update();
 			});
 
@@ -245,14 +245,14 @@
 				select();
 				getForm(formId, true).then(function() {
 					update();
-					window.history.pushState(data.form, null);
+					window.history.pushState(state.form, null);
 				});
 			});
 
 			self.on('export', function(event) {
 				event.preventDefault();
 
-				var clone = JSON.parse(JSON.stringify(data.form));
+				var clone = JSON.parse(JSON.stringify(state.form));
 				for (var i = 0; i < clone.rows.length; i++) {
 					var row = clone.rows[i];
 
@@ -271,7 +271,7 @@
 
 				var download = document.createElement('a');
 				download.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(s));
-				download.setAttribute('download', 'form-' + data.formId + '.json');
+				download.setAttribute('download', 'form-' + state.formId + '.json');
 
 				download.style.display = 'none';
 				document.body.appendChild(download);
@@ -279,21 +279,21 @@
 				document.body.removeChild(download);
 			});
 
-			data.formId = localStorage.getItem('formId');
-			if (data.formId === "null") {
-				data.formId = null;
+			state.formId = localStorage.getItem('formId');
+			if (state.formId === "null") {
+				state.formId = null;
 			}
-			data.page = parseInt(localStorage.getItem('page'), 10);
-			data.selected = localStorage.getItem('selected');
-			if (data.selected === "undefined" || data.selected === null) {
-				data.selected = void 0;
+			state.page = parseInt(localStorage.getItem('page'), 10);
+			state.selected = localStorage.getItem('selected');
+			if (state.selected === "undefined" || state.selected === null) {
+				state.selected = void 0;
 			}
-			getForm(data.formId).then(update);
+			getForm(state.formId).then(update);
 
 			return muu.$.on(window, 'popstate', function(event) {
-				data.form = event.state;
-				data.form.rows.forEach(function(row, key) {
-					row.selected = key === data.selected;
+				state.form = event.state;
+				state.form.rows.forEach(function(row, key) {
+					row.selected = key === state.selected;
 				});
 				update();
 			});

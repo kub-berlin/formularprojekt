@@ -15,7 +15,7 @@
 	fetch('template.html').then(function(response) {
 		return response.ok ? response.text() : Promise.reject(response);
 	}).then(function(template) {
-		registry.registerDirective('forms', template, function(self) {
+		registry.registerDirective('forms', template, function(app) {
 			var state = {};
 
 			var rget = function(row) {
@@ -42,22 +42,22 @@
 				state.bg = '../static/forms/' + state.formId + '/bg-' + state.page + '.svg';
 				state.zoom = state.zoom || 1;
 
-				self.update(state);
+				app.update(state);
 
-				self.setModel('formId', state.formId);
-				self.setModel('page', state.page + 1);
-				self.setModel('zoom', Math.round(state.zoom * 100));
+				app.setModel('formId', state.formId);
+				app.setModel('page', state.page + 1);
+				app.setModel('zoom', Math.round(state.zoom * 100));
 
 				if (state.selected !== void 0) {
 					var row = state.rows[state.selected];
 					var get = rget(row);
-					self.setModel('x1', get('x1'));
-					self.setModel('x2', get('x2'));
-					self.setModel('y1', get('y1'));
-					self.setModel('y2', get('y2'));
-					self.setModel('width', get('width'));
-					self.setModel('size', get('size'));
-					self.setModel('align', get('align'));
+					app.setModel('x1', get('x1'));
+					app.setModel('x2', get('x2'));
+					app.setModel('y1', get('y1'));
+					app.setModel('y2', get('y2'));
+					app.setModel('width', get('width'));
+					app.setModel('size', get('size'));
+					app.setModel('align', get('align'));
 				}
 
 				localStorage.setItem('formId', state.formId);
@@ -129,7 +129,7 @@
 				});
 			};
 
-			self.on('select-row', function(event) {
+			app.on('select-row', function(event) {
 				event.preventDefault();
 
 				var li = event.target.parentElement;
@@ -141,16 +141,16 @@
 				update();
 			});
 
-			self.on('unselect-row', function(event) {
+			app.on('unselect-row', function(event) {
 				event.preventDefault();
 				select();
 				update();
 			});
 
-			self.on('canvas-click', function(event) {
+			app.on('canvas-click', function(event) {
 				if (state.selected !== void 0) {
-					var container = self.querySelector('.canvas');
-					var page = self.querySelector('.page');
+					var container = app.querySelector('.canvas');
+					var page = app.querySelector('.page');
 					var x = Math.round((event.clientX - page.offsetLeft - container.offsetLeft + container.scrollLeft) / state.zoom / 96 * 72);
 					var y = Math.round((event.clientY - page.offsetTop - container.offsetTop + container.scrollTop) / state.zoom / 96 * 72);
 
@@ -181,33 +181,33 @@
 				}
 			});
 
-			self.on('update-selected', function(event) {
+			app.on('update-selected', function(event) {
 				if (state.selected !== void 0) {
 					var row = state.rows[state.selected];
 					var get = rget(row);
 					var set = rset(row);
 
-					set('x1', self.getModel('x1'));
-					set('y1', self.getModel('y1'));
-					set('width', self.getModel('width'));
-					set('size', self.getModel('size'));
+					set('x1', app.getModel('x1'));
+					set('y1', app.getModel('y1'));
+					set('width', app.getModel('width'));
+					set('size', app.getModel('size'));
 					set('x2', get('x1') + get('width'));
 					set('y2', get('y1') + get('size'));
-					set('align', self.getModel('align'));
+					set('align', app.getModel('align'));
 
 					update();
 					window.history.pushState(state.form, null);
 				}
 			});
 
-			self.on('update-selected-2', function(event) {
+			app.on('update-selected-2', function(event) {
 				if (state.selected !== void 0) {
 					var row = state.rows[state.selected];
 					var get = rget(row);
 					var set = rset(row);
 
-					set('x2', self.getModel('x2'));
-					set('y2', self.getModel('y2'));
+					set('x2', app.getModel('x2'));
+					set('y2', app.getModel('y2'));
 					set('width', get('x2') - get('x1'));
 					set('size', get('y2') - get('y1'));
 
@@ -216,8 +216,8 @@
 				}
 			});
 
-			self.on('change-form', function(event) {
-				var formId = self.getModel('formId');
+			app.on('change-form', function(event) {
+				var formId = app.getModel('formId');
 
 				select();
 				localStorage.setItem(state.formId, JSON.stringify(state.form));
@@ -228,20 +228,20 @@
 				});
 			});
 
-			self.on('change-page', function(event) {
+			app.on('change-page', function(event) {
 				select();
-				state.page = parseInt(self.getModel('page'), 10) - 1;
+				state.page = parseInt(app.getModel('page'), 10) - 1;
 				update();
 			});
 
-			self.on('change-zoom', function(event) {
-				state.zoom = self.getModel('zoom') / 100;
+			app.on('change-zoom', function(event) {
+				state.zoom = app.getModel('zoom') / 100;
 				update();
 			});
 
-			self.on('force-update', function(event) {
+			app.on('force-update', function(event) {
 				event.preventDefault();
-				var formId = self.getModel('formId');
+				var formId = app.getModel('formId');
 				select();
 				getForm(formId, true).then(function() {
 					update();
@@ -249,7 +249,7 @@
 				});
 			});
 
-			self.on('export', function(event) {
+			app.on('export', function(event) {
 				event.preventDefault();
 
 				var clone = JSON.parse(JSON.stringify(state.form));
@@ -299,7 +299,7 @@
 			});
 		});
 
-		registry.registerDirective('markdown', '', function(self, element) {
+		registry.registerDirective('markdown', '', function(app, element) {
 			var oldValue = null;
 
 			var update = function() {
@@ -310,7 +310,7 @@
 				}
 			};
 
-			self.on('parent-update', update);
+			app.on('parent-update', update);
 			update();
 		});
 

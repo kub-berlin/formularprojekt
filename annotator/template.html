@@ -31,9 +31,9 @@
 			{{^skip}}
 			{{#size}}
 			<span
-				class="row {{selected: selected}}"
+				class="row {{#isSelected}}selected{{/isSelected}}"
 				style="top: {{y1}}pt; left: {{x1}}pt; text-align: {{align}}; width: {{width}}pt; font-size: {{size}}pt;"
-			><muu type="markdown" data-value="{{appended}}"></muu></span>
+			>{{{rendered}}}</span>
 			{{/size}}
 			{{/skip}}
 		{{/rows}}
@@ -42,16 +42,16 @@
 
 <ul role="radiogroup" class="sidebar">
 {{#rows}}
-	<li class="{{selected: selected, defined: size, skipped: skip}}">
-		<a href="#" role="radio" aria-checked="{{#selected}}true{{/selected}}{{^selected}}false{{/selected}}" data-onclick="select-row">{{content}}</a>
-		{{#selected}}
+	<li class="{{#isSelected}}selected{{/isSelected}} {{#size}}defined{{/size}} {{#skip}}skipped{{/skip}}">
+		<a href="#" role="radio" aria-checked="{{#isSelected}}true{{/isSelected}}{{^isSelected}}false{{/isSelected}}" data-onclick="select-row">{{content}}</a>
+		{{#isSelected}}
 		<div class="inputs">
-			<input type="number" name="x1" title="x1" data-onchange="update-selected" />
-			<input type="number" name="x2" title="x2" data-onchange="update-selected-2" />
-			<input type="number" name="width" title="width" data-onchange="update-selected" />
-			<input type="number" name="y1" title="y1" data-onchange="update-selected" />
-			<input type="number" name="y2" title="y2" data-onchange="update-selected-2" />
-			<input type="number" name="size" title="size" data-onchange="update-selected" />
+			<input type="number" name="x1" title="x1" data-onchange="update-selected" value="{{x1}}" />
+			<input type="number" name="x2" title="x2" data-onchange="update-selected-2" value="{{x2}}" />
+			<input type="number" name="width" title="width" data-onchange="update-selected" value="{{width}}" />
+			<input type="number" name="y1" title="y1" data-onchange="update-selected" value="{{y1}}" />
+			<input type="number" name="y2" title="y2" data-onchange="update-selected-2" value="{{y2}}" />
+			<input type="number" name="size" title="size" data-onchange="update-selected" value="{{size}}" />
 			<select name="align" title="align" data-onchange="update-selected">
 				<option value="left">left</option>
 				<option value="right">right</option>
@@ -62,7 +62,7 @@
 			</select>
 		</div>
 		<a href="#" class="unselect" data-onclick="unselect-row">X</a>
-		{{/selected}}
+		{{/isSelected}}
 	</li>
 {{/rows}}
 </ul>

@@ -1,5 +1,8 @@
-(function(fetch, muu, markdown) {
-	'use strict';
+	var createApp = require('./app');
+	var MarkdownIt = require('markdown-it');
+	var Mustache = require('mustache');
+
+	var markdown = new MarkdownIt();
 
 	// register service worker
 	if ('serviceWorker' in navigator) {
@@ -10,13 +13,10 @@
 		});
 	}
 
-	var registry = new muu.Registry();
-
 	fetch('template.html').then(function(response) {
 		return response.ok ? response.text() : Promise.reject(response);
 	}).then(function(template) {
-		registry.registerDirective('forms', template, function(app) {
-			var state = {};
+		Mustache.parse(template);
 
 			var rget = function(row) {
 				return function(key) {
@@ -244,9 +244,14 @@
 				document.body.removeChild(download);
 			};
 
-			var update = function(undoable) {
+			// main
+			var app = createApp(function(state) {
 				if (state.form) {
 					state.rows = state.form.rows.filter(function(row) {
+						if (!row.skip) {
+							row.rendered = row.rendered || markdown.render(row.appended);
+						}
+
 						return row.page === state.page;
 					});
 				} else {
@@ -256,8 +261,8 @@
 				state.bg = '../static/forms/' + state.formId + '/bg-' + state.page + '.svg';
 				state.zoom = state.zoom || 1;
 
-				app.update(state);
-
+				return Mustache.render(template, state);
+			}, function(state) {
 				app.setModel('formId', state.formId);
 				app.setModel('page', state.page + 1);
 				app.setModel('zoom', Math.round(state.zoom * 100));
@@ -265,6 +270,7 @@
 				if (state.selected !== void 0) {
 					var row = state.rows[state.selected];
 					var get = rget(row);
+
 					app.setModel('x1', get('x1'));
 					app.setModel('x2', get('x2'));
 					app.setModel('y1', get('y1'));
@@ -278,64 +284,43 @@
 				localStorage.setItem('page', state.page);
 				localStorage.setItem('selected', state.selected);
 				localStorage.setItem(state.formId, JSON.stringify(state.form));
-			};
+			});
 
-			var bindEvent = function(name, fn) {
-				app.on(name, function(event) {
-					state = fn(event, state);
-					update();
-				});
-			};
+			app.bindEvent('[data-onclick="select-row"]', 'click', onSelectRow);
+			app.bindEvent('[data-onclick="unselect-row"]', 'click', onUnselectRow);
+			app.bindEvent('[data-onclick="canvas-click"]', 'click', onCanvasClick);
+			app.bindEvent('[data-onchange="update-selected"]', 'change', onUpdateSelected);
+			app.bindEvent('[data-onchange="update-selected-2"]', 'change', onUpdateSelected2);
+			app.bindEvent('[data-onchange="change-form"]', 'change', onChangeForm);
+			app.bindEvent('[data-onchange="change-page"]', 'change', onChangePage);
+			app.bindEvent('[data-onchange="change-page"]', 'change', onChangePage);
+			app.bindEvent('[data-onchange="change-zoom"]', 'change', onChangeZoom);
+			app.bindEvent('[data-onclick="force-update"]', 'click', onForceUpdate);
+			app.bindEvent('[data-onclick="export"]', 'click', onExport);
 
-			bindEvent('select-row', onSelectRow);
-			bindEvent('unselect-row', onUnselectRow);
-			bindEvent('canvas-click', onCanvasClick);
-			bindEvent('update-selected', onUpdateSelected);
-			bindEvent('update-selected-2', onUpdateSelected2);
-			bindEvent('change-form', onChangeForm);
-			bindEvent('change-page', onChangePage);
-			bindEvent('change-page', onChangePage);
-			bindEvent('change-zoom', onChangeZoom);
-			bindEvent('force-update', onForceUpdate);
-			bindEvent('export', onExport);
-
-			state.formId = localStorage.getItem('formId');
-			if (state.formId === "null") {
-				state.formId = null;
+			var initial = {};
+			initial.formId = localStorage.getItem('formId');
+			if (initial.formId === "null") {
+				initial.formId = null;
 			}
-			state.page = parseInt(localStorage.getItem('page'), 10);
-			state.selected = localStorage.getItem('selected');
-			if (state.selected === "undefined" || state.selected === null) {
-				state.selected = void 0;
+			initial.page = parseInt(localStorage.getItem('page'), 10);
+			initial.selected = localStorage.getItem('selected');
+			if (initial.selected === "undefined" || initial.selected === null) {
+				initial.selected = void 0;
 			}
-			getForm(state.formId).then(update);
 
-			return muu.$.on(window, 'popstate', function(event) {
+			getForm(initial.formId).catch(function() {
+				return null;
+			}).then(function(form) {
+				initial.form = form;
+				app.init(initial, document.body);
+			});
+
+			app.bindEvent(window, 'popstate', function(event, state) {
 				state.form = event.state;
 				state.form.rows.forEach(function(row, key) {
 					row.selected = key === state.selected;
 				});
-				update();
+				return state;
 			});
-		});
-
-		registry.registerDirective('markdown', '', function(app, element) {
-			var oldValue = null;
-
-			var update = function() {
-				var value = element.dataset.value;
-				if (value !== oldValue) {
-					oldValue = value;
-					element.innerHTML = markdown.render(value);
-				}
-			};
-
-			app.on('parent-update', update);
-			update();
-		});
-
-		muu.$.ready(function() {
-			registry.linkAll(document);
-		});
 	});
-})(PromiseXHR, muu, new markdownit());

@@ -1,7 +1,7 @@
 build
 static/style.css
 static_src/bower_components
-annotator/bower_components
+annotator/node_modules
 .env
 .upstream
 .drive

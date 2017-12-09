@@ -1,3 +1,5 @@
+DE_FILES := $(shell find 'data' -name 'form.json' | sed 's/form\.json$$/de.json/g')
+
 .PHONY: build serve push clean
 
 build: .env static/style.css static/* templates/* annotator/annotator.build.js
@@ -27,7 +29,7 @@ annotator/annotator.build.js: annotator/annotator.js annotator/app.js annotator/
 annotator/node_modules:
 	. .env/bin/activate && cd annotator && npm install "mustache" "set-dom" "markdown-it"
 
-de: data/AlgII/de.json data/KG/de.json data/KG1/de.json data/KG11a/de.json data/KG3a/de.json data/KG3b/de.json data/KG5a/de.json data/KG5d/de.json data/Rundfunkbeitrag/de.json data/SozIIIB1/de.json data/SozIIIB1.1/de.json data/SozIIIB1.2/de.json data/BerH/de.json data/PKH/de.json data/ZP40/de.json
+de: $(DE_FILES)
 data/%/de.json: data/%/form.json scripts/de.py
 	python scripts/de.py $< $@
 

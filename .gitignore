@@ -2,6 +2,7 @@ build
 static/style.css
 static_src/node_modules
 annotator/node_modules
+package-lock.json
 .env
 .upstream
 .drive

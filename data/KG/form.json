@@ -1,6 +1,6 @@
 {
-    "checksum": "7cafe94f8890476b625175781032fc0b",
-    "date": "2016-09-01",
+    "checksum": "0acc1d45028be5b4439c77bf3349041c",
+    "date": "2018-01-01",
     "external": {
         "Arbeitsagentur": "http://www.arbeitsagentur.de/web/content/DE/Detail/index.htm?dfContentId=L6019022DSTBAI707968"
     },
@@ -70,7 +70,7 @@
         },
         {
             "align": "left",
-            "content": "Anzahl der beigefügten \"Anlage Kind\"",
+            "content": "Anzahl der beigefügten \"Anlage Kind\":",
             "page": 0,
             "x1": 43,
             "x2": 537,
@@ -152,7 +152,7 @@
         },
         {
             "align": "left",
-            "content": "Staatsangehörigkeit (bei **nicht** EU-/EWR-Staatsangehörigkeit bitte Nachweis Aufenthaltstitel beifügen)",
+            "content": "Staatsangehörigkeit (wenn nicht EU-/EWR-Staat oder Schweiz, bitte Aufenthaltstitel beifügen!)",
             "page": 0,
             "x1": 343,
             "x2": 535,
@@ -161,7 +161,7 @@
         },
         {
             "align": "left",
-            "content": "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Wohnland)",
+            "content": "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)",
             "page": 0,
             "x1": 46,
             "x2": 535,
@@ -215,7 +215,7 @@
         },
         {
             "align": "left",
-            "content": "in Lebenspartnerschaft lebend",
+            "content": "in eingetragener Lebenspartnerschaft lebend",
             "page": 0,
             "x1": 342,
             "x2": 537,
@@ -242,7 +242,7 @@
         },
         {
             "align": "left",
-            "content": "Angaben zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in der antragstellenden Person",
+            "content": "Angaben zum/zur Ehegatten/Ehegattin bzw. eingetragenen Lebenspartner(in)",
             "page": 0,
             "structure": "2",
             "x1": 60,
@@ -306,7 +306,7 @@
         },
         {
             "align": "left",
-            "content": "Anschrift, wenn abweichend vom Antragsteller/in (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Wohnland)",
+            "content": "Anschrift, wenn abweichend von antragstellender Person (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)",
             "page": 0,
             "x1": 46,
             "x2": 535,
@@ -352,7 +352,7 @@
         },
         {
             "align": "left",
-            "content": "Kontoinhaber/in ist",
+            "content": "Kontoinhaber(in) ist",
             "page": 0,
             "x1": 47,
             "x2": 216,
@@ -416,7 +416,7 @@
         },
         {
             "align": "left",
-            "content": "Anschrift, wenn abweichend vom Antragsteller/in (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Wohnland)",
+            "content": "Anschrift, wenn abweichend von antragstellender Person (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)",
             "page": 0,
             "x1": 46,
             "x2": 535,
@@ -428,8 +428,8 @@
             "content": "Angaben zu Kindern",
             "page": 1,
             "structure": "5",
-            "x1": 41,
-            "x2": 517,
+            "x1": 44,
+            "x2": 520,
             "y1": 65,
             "y2": 76
         },
@@ -437,8 +437,8 @@
             "align": "left",
             "content": "Für jedes Kind, für das Kindergeld neu beantragt wird, ist eine gesonderte „Anlage Kind“ ausgefüllt einzureichen.",
             "page": 1,
-            "x1": 23,
-            "x2": 517,
+            "x1": 26,
+            "x2": 520,
             "y1": 82,
             "y2": 91
         },
@@ -446,8 +446,8 @@
             "align": "left",
             "content": "Für folgende Kinder beziehe ich bereits Kindergeld",
             "page": 1,
-            "x1": 23,
-            "x2": 517,
+            "x1": 26,
+            "x2": 520,
             "y1": 95,
             "y2": 104
         },
@@ -455,8 +455,8 @@
             "align": "left",
             "content": "(auch in Fällen der abweichenden Kontoverbindung, Abzweigung und Erstattung):",
             "page": 1,
-            "x1": 23,
-            "x2": 517,
+            "x1": 26,
+            "x2": 520,
             "y1": 108,
             "y2": 117
         },
@@ -464,8 +464,8 @@
             "align": "center",
             "content": "Vorname des Kindes ggf. abweichender Familienname",
             "page": 1,
-            "x1": 25,
-            "x2": 157,
+            "x1": 28,
+            "x2": 160,
             "y1": 125,
             "y2": 132
         },
@@ -473,8 +473,8 @@
             "align": "center",
             "content": "Geburtsdatum",
             "page": 1,
-            "x1": 159,
-            "x2": 218,
+            "x1": 162,
+            "x2": 221,
             "y1": 125,
             "y2": 132
         },
@@ -482,8 +482,8 @@
             "align": "center",
             "content": "Geschlecht",
             "page": 1,
-            "x1": 220,
-            "x2": 259,
+            "x1": 223,
+            "x2": 262,
             "y1": 125,
             "y2": 132
         },
@@ -491,8 +491,8 @@
             "align": "center",
             "content": "Bei welcher Familienkasse (Kindergeldnummer, Personalnummer)?",
             "page": 1,
-            "x1": 261,
-            "x2": 515,
+            "x1": 264,
+            "x2": 518,
             "y1": 125,
             "y2": 132
         },
@@ -501,8 +501,8 @@
             "content": "Folgende Zählkinder sollen berücksichtigt werden:",
             "page": 1,
             "structure": "6",
-            "x1": 41,
-            "x2": 517,
+            "x1": 44,
+            "x2": 520,
             "y1": 261,
             "y2": 272
         },
@@ -510,8 +510,8 @@
             "align": "center",
             "content": "Vorname des Kindes ggf. abweichender Familienname",
             "page": 1,
-            "x1": 25,
-            "x2": 157,
+            "x1": 28,
+            "x2": 160,
             "y1": 280,
             "y2": 287
         },
@@ -519,8 +519,8 @@
             "align": "center",
             "content": "Geburtsdatum",
             "page": 1,
-            "x1": 159,
-            "x2": 218,
+            "x1": 162,
+            "x2": 221,
             "y1": 280,
             "y2": 287
         },
@@ -528,8 +528,8 @@
             "align": "center",
             "content": "Geschlecht",
             "page": 1,
-            "x1": 220,
-            "x2": 259,
+            "x1": 223,
+            "x2": 262,
             "y1": 280,
             "y2": 287
         },
@@ -537,8 +537,8 @@
             "align": "center",
             "content": "Wer bezieht das Kindergeld (Name, Vorname)?",
             "page": 1,
-            "x1": 261,
-            "x2": 387,
+            "x1": 264,
+            "x2": 390,
             "y1": 280,
             "y2": 287
         },
@@ -546,71 +546,71 @@
             "align": "center",
             "content": "Bei welcher Familienkasse (Kindergeldnummer, Personalnummer)?",
             "page": 1,
-            "x1": 389,
-            "x2": 515,
+            "x1": 392,
+            "x2": 518,
             "y1": 280,
             "y2": 287
         },
         {
             "align": "left",
-            "content": "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommenssteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
+            "content": "Ich versichere, dass alle Angaben (auch in den Anlagen) vollständig sind und der Wahrheit entsprechen. Mir ist bekannt, dass ich alle Änderungen, die für den Anspruch auf Kindergeld von Bedeutung sind, unverzüglich der Familienkasse mitzuteilen habe. Den Inhalt des Merkblattes Kindergeld (zu finden unter www.bzst.de oder www.familienkasse.de) habe ich zur Kenntnis genommen.",
             "page": 1,
-            "x1": 23,
-            "x2": 517,
-            "y1": 422,
-            "y2": 430
-        },
-        {
-            "align": "left",
-            "content": "Ich versichere, dass ich alle Angaben (auch in den Anlagen) vollständig und wahrheitsgetreu gemacht habe. Mir ist bekannt, dass ich alle Änderungen, die für den Anspruch auf Kindergeld von Bedeutung sind, unverzüglich der Familienkasse mitzuteilen habe. Das Merkblatt Kindergeld habe ich erhalten und von seinem Inhalt Kenntnis genommen.",
-            "page": 1,
-            "x1": 23,
-            "x2": 517,
-            "y1": 466,
-            "y2": 474
+            "x1": 26,
+            "x2": 520,
+            "y1": 415,
+            "y2": 423
         },
         {
             "align": "left",
             "content": "Datum",
             "page": 1,
-            "x1": 25,
-            "x2": 172,
-            "y1": 515,
-            "y2": 522
+            "x1": 26,
+            "x2": 173,
+            "y1": 488,
+            "y2": 495
         },
         {
             "align": "left",
-            "content": "Ich bin damit einverstanden, dass dem/der Antragsteller/in das Kindergeld gezahlt wird.",
+            "content": "Ich bin damit einverstanden, dass das Kindergeld zugunsten der antragstellenden Person festgesetzt bzw. bewilligt wird.",
             "page": 1,
-            "x1": 280,
-            "x2": 517,
-            "y1": 515,
-            "y2": 522
+            "x1": 283,
+            "x2": 520,
+            "y1": 488,
+            "y2": 495
         },
         {
             "align": "center",
-            "content": "Unterschrift des/der Antragsteller/in bzw. des/der gesetzlichen Vertreters/Vertreterin",
+            "content": "(Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung)",
             "page": 1,
-            "x1": 25,
-            "x2": 260,
-            "y1": 559,
-            "y2": 564
+            "x1": 26,
+            "x2": 261,
+            "y1": 521,
+            "y2": 526
         },
         {
             "align": "center",
-            "content": "Unterschrift des gemeinsam mit dem/der Antragsteller/in in einem Haushalt lebenden Ehegatten/Ehegattin bzw. Lebenspartners/Lebenspartnerin oder anderen Elternteils bzw. dessen/deren gesetzlichen/gesetzliche Vertreters/Vertreterin",
+            "content": "(Unterschrift der unter Punkt 2 genannten Person oder des anderen Elternteils, die/der mit der antragstellenden Person in einem Haushalt lebt bzw. der gesetzlichen Vertretung)",
             "page": 1,
-            "x1": 280,
-            "x2": 517,
-            "y1": 559,
-            "y2": 564
+            "x1": 283,
+            "x2": 520,
+            "y1": 521,
+            "y2": 526
+        },
+        {
+            "align": "left",
+            "content": "Hinweis zum Datenschutz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
+            "page": 1,
+            "x1": 26,
+            "x2": 520,
+            "y1": 545,
+            "y2": 553
         },
         {
             "align": "center",
             "content": "Alle Eingaben löschen",
             "page": 1,
-            "x1": 113,
-            "x2": 213,
+            "x1": 116,
+            "x2": 216,
             "y1": 587,
             "y2": 596
         },
@@ -618,8 +618,8 @@
             "align": "center",
             "content": "Drucken",
             "page": 1,
-            "x1": 219,
-            "x2": 319,
+            "x1": 222,
+            "x2": 322,
             "y1": 587,
             "y2": 597
         },
@@ -627,8 +627,8 @@
             "align": "center",
             "content": "Speichern",
             "page": 1,
-            "x1": 329,
-            "x2": 429,
+            "x1": 332,
+            "x2": 432,
             "y1": 587,
             "y2": 596
         },
@@ -636,8 +636,8 @@
             "align": "center",
             "content": "Nur von der Familienkasse auszufüllen",
             "page": 1,
-            "x1": 25,
-            "x2": 515,
+            "x1": 27,
+            "x2": 517,
             "y1": 605,
             "y2": 615
         },
@@ -661,7 +661,7 @@
         },
         {
             "append": "\n\n",
-            "content": "Lassen Sie den Antrag *auch* von dem mit Ihnen gemeinsam in ein em Haushalt lebenden Ehegatten bzw. Lebenspartner/anderen Elternteil unterschreiben, wenn er damit einverstanden ist, dass Sie das Kindergeld erhalten. Wenn kein Einvernehmen besteht, teilen Sie dies bitte der Familienkasse mit. Wurde der Berechtigte gerichtlich bestimmt, fügen Sie bitte den Beschluss bei.",
+            "content": "Lassen Sie den Antrag *auch* von dem mit Ihnen gemeinsam in einem Haushalt lebenden Ehegatten bzw. Lebenspartner/anderen Elternteil unterschreiben, wenn er damit einverstanden ist, dass Sie das Kindergeld erhalten. Wenn kein Einvernehmen besteht, teilen Sie dies bitte der Familienkasse mit. Wurde der Berechtigte gerichtlich bestimmt, fügen Sie bitte den Beschluss bei.",
             "page": 2
         },
         {
@@ -690,31 +690,41 @@
             "page": 2
         },
         {
+            "append": "\n\n",
+            "content": "Rechtslage ab 2018",
+            "page": 2
+        },
+        {
+            "append": "\n\n",
+            "content": "Ab dem 01.01.2018 gilt: Kindergeld wird nach § 66 Abs. 3 EStG rückwirkend nur für die letzten sechs Monate vor Beginn des Monats gezahlt, in dem der Antrag auf Kindergeld eingegangen ist.",
+            "page": 2
+        },
+        {
             "align": "start",
             "content": "Antrag auf Kindergeld",
             "page": 2,
             "x1": 20,
             "x2": 548,
-            "y1": 355,
-            "y2": 365
+            "y1": 385,
+            "y2": 395
         },
         {
             "align": "start",
-            "content": "Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in",
+            "content": "Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner(in)",
             "page": 2,
             "x1": 20,
             "x2": 548,
-            "y1": 378,
-            "y2": 386
+            "y1": 408,
+            "y2": 416
         },
         {
             "append": "\n\n",
-            "content": "Wenn beide Elternteile eines Kindes die Voraussetzungen für den Anspruch auf Kindergeld erfüllen, ist als antragstellende Person der Elternteil einzutragen, der nach dem Willen beider Elternteile das Kindergeld erhalten soll. Beim Familienstand ist nur dann „dauernd getrennt lebend“ anzukreuzen, wenn bei Ehepaaren mindestens ein Ehepartner die Absicht hat, die Trennung ständig aufrechtzuerhalten. Sofern Sie nicht verheiratet sind oder Ihr/Ihre Ehegatte/Ehegattin bzw. Lebenspartner/in nicht zugleich der andere leibliche Elternteil mindestens eines der in der/den „Anlage/n Kind“ aufgeführten Kinder ist, teilen Sie die Angaben zum anderen leiblichen Elternteil (bei Pflege- oder Enkelkindern zu beiden leiblichen Elternteilen) bitte auf der jeweiligen „Anlage Kind“ mit.",
+            "content": "Wenn beide Elternteile eines Kindes die Voraussetzungen für den Anspruch auf Kindergeld erfüllen, ist als antragstellende Person der Elternteil einzutragen, der nach dem Willen beider Elternteile das Kindergeld erhalten soll. Beim Familienstand ist nur dann „dauernd getrennt lebend“ anzukreuzen, wenn bei Ehepaaren mindestens ein Ehepartner die Absicht hat, die Trennung ständig aufrechtzuerhalten. Sofern Sie nicht verheiratet sind oder Ihr/Ihre Ehegatte/Ehegattin bzw. Lebenspartner(in) nicht zugleich der andere leibliche Elternteil mindestens eines der in der/den „Anlage/n Kind“ aufgeführten Kinder ist, teilen Sie die Angaben zum anderen leiblichen Elternteil (bei Pflege- oder Enkelkindern zu beiden leiblichen Elternteilen) bitte auf der jeweiligen „Anlage Kind“ mit.",
             "page": 2
         },
         {
             "append": "\n\n",
-            "content": "Sofern Sie **nicht** die deutsche Staatsangehörigkeit oder die Staatsangehörigkeit eines EU-/EWR-Staates bzw. der Schweiz besitzen, fügen Sie bitte einen **Nachweis über den Aufenthaltstitel** bei.",
+            "content": "Sollten Sie eine **andere** als die deutsche Staatsangehörigkeit oder als die Staatsangehörigkeit eines EU-/EWR-Staates bzw. der Schweiz besitzen, fügen Sie bitte **den Aufenthaltstitel** bei.",
             "page": 2
         },
         {
@@ -776,12 +786,12 @@
         },
         {
             "append": "\n\n",
-            "content": "Wenn Kinder außerhalb Ihres Haushalts leben, geben Sie den Grund an (z.B. Unterbringung bei Großeltern, in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung).",
+            "content": "Wenn Kinder außerhalb Ihres Haushalts leben, geben Sie den Grund an (z. B. Unterbringung bei Großeltern, in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung).",
             "page": 3
         },
         {
             "append": "\n\n",
-            "content": "Zu 2: Kindschaftsverhältnis zur antragstellenden Person, zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in und zu anderen Personen",
+            "content": "Zu 2: Kindschaftsverhältnis zur antragstellenden Person, zum/zur Ehegatten/Ehegattin bzw. Lebenspartner(in) und zu anderen Personen",
             "page": 3
         },
         {
@@ -841,11 +851,6 @@
         },
         {
             "append": "\n\n",
-            "content": "Rechtslage ab 2012",
-            "page": 3
-        },
-        {
-            "append": "\n\n",
             "content": "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den Fällen der Nummer 2 (a bis d) nur berücksichtigt, wenn das Kind keiner (schädlichen) Erwerbstätigkeit nachgeht.",
             "page": 3
         },
@@ -862,16 +867,6 @@
         {
             "append": "\n\n",
             "content": "Bitte weisen Sie die wöchentliche Arbeitszeit anhand geeigneter Unterlagen (z.B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierfür durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit oder ähnliches mindern die vertraglich vereinbarte Arbeitszeit nicht.",
-            "page": 3
-        },
-        {
-            "append": "\n\n",
-            "content": "Rechtslage bis 2011",
-            "page": 3
-        },
-        {
-            "append": "\n\n",
-            "content": "Die Berücksichtigung eines über 18 Jahre alten Kindes hinsichtlich der Zahlung von Kindergeld ist ausgeschlossen, wenn das Kind Einkünfte und Bezüge von mehr als 8.004 Euro hat, die zur Bestreitung seines Unterhalts oder seiner Berufsausbildung bestimmt oder geeignet sind. Aus diesem Grund ist der Antrag auf Kindergeld für ein volljähriges Kind immer um die „Erklärung zu den Einkünften und Bezügen“ und ggf. die „Erklärung zu den Werbungskosten“ zu ergänzen.",
             "page": 3
         },
         {

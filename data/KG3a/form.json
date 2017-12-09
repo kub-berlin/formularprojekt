@@ -1,85 +1,75 @@
 {
-    "checksum": "69ba9f98e775655b33eda2a14abd46c2",
-    "date": "2009-05-01",
+    "checksum": "f384d20cc40c0e41234decfd4eb7e5aa",
+    "date": "2017-04-01",
     "rows": [
         {
             "align": "left",
-            "content": "Name und Vorname des/der Kindergeldberechtigten",
+            "content": "Name und Vorname der kindergeldberechtigten Person",
             "page": 0,
             "structure": "",
-            "x1": 11,
-            "x2": 236,
-            "y1": 5,
-            "y2": 13
+            "x1": 62,
+            "x2": 253,
+            "y1": 31,
+            "y2": 38
         },
         {
             "align": "left",
             "content": "Kindergeld-Nr.",
             "page": 0,
             "structure": "",
-            "x1": 11,
-            "x2": 236,
-            "y1": 37,
-            "y2": 46
-        },
-        {
-            "align": "left",
-            "content": "Steuer-ID",
-            "page": 0,
-            "structure": "",
-            "x1": 11,
-            "x2": 236,
-            "y1": 71,
-            "y2": 80
+            "x1": 62,
+            "x2": 253,
+            "y1": 56,
+            "y2": 63
         },
         {
             "align": "left",
             "content": "Telefonische Rückfrage tagsüber unter Nr.:",
             "page": 0,
             "structure": "",
-            "x1": 410,
-            "x2": 577,
-            "y1": 55,
-            "y2": 65
+            "x1": 396,
+            "x2": 547,
+            "y1": 73,
+            "y2": 83
         },
         {
             "align": "left",
             "content": "Bitte Hinweise beachten!",
             "page": 0,
             "structure": "",
-            "x1": 410,
-            "x2": 577,
-            "y1": 118,
-            "y2": 132
+            "x1": 396,
+            "x2": 547,
+            "y1": 126,
+            "y2": 137
         },
         {
             "align": "left",
             "content": "Haushaltsbescheinigung",
             "page": 0,
             "structure": "",
-            "x1": 1,
-            "x2": 383,
+            "x1": 53,
+            "x2": 390,
             "y1": 122,
-            "y2": 142
+            "y2": 141
         },
         {
             "align": "left",
             "content": "zur Vorlage bei der Familienkasse",
             "page": 0,
             "structure": "",
-            "x1": 1,
-            "x2": 343,
-            "y1": 149,
-            "y2": 161
+            "x1": 53,
+            "x2": 395,
+            "y1": 148,
+            "y2": 160
         },
         {
             "align": "left",
             "content": "Erklärung über die Haushaltszugehörigkeit von Kindern",
             "page": 0,
             "structure": "A.",
-            "x1": 18,
-            "x2": 576,
-            "y1": 178,
+            "x1": 69,
+            "x2": 547,
+            "y1": 179,
             "y2": 191
         },
         {
@@ -87,288 +77,291 @@
             "content": "durch Herrn/Frau",
             "page": 0,
             "structure": "",
-            "x1": 15,
-            "x2": 576,
-            "y1": 211,
-            "y2": 221
-        },
-        {
-            "align": "center",
-            "content": "(Name)",
-            "page": 0,
-            "structure": "",
-            "x1": 114,
-            "x2": 344,
-            "y1": 222,
-            "y2": 229
-        },
-        {
-            "align": "center",
-            "content": "(Vorname)",
-            "page": 0,
-            "structure": "",
-            "x1": 345,
-            "x2": 576,
-            "y1": 222,
-            "y2": 229
+            "x1": 69,
+            "x2": 547,
+            "y1": 194,
+            "y2": 203
         },
         {
             "align": "left",
-            "content": "geboren am:",
+            "content": "Name",
             "page": 0,
             "structure": "",
-            "x1": 15,
-            "x2": 283,
-            "y1": 237,
-            "y2": 247
+            "x1": 56,
+            "x2": 242,
+            "y1": 210,
+            "y2": 217
+        },
+        {
+            "align": "left",
+            "content": "Vorname",
+            "page": 0,
+            "structure": "",
+            "x1": 254,
+            "x2": 440,
+            "y1": 210,
+            "y2": 217
+        },
+        {
+            "align": "left",
+            "content": "Geburtsdatum",
+            "page": 0,
+            "structure": "",
+            "x1": 451,
+            "x2": 546,
+            "y1": 210,
+            "y2": 217
+        },
+        {
+            "align": "left",
+            "content": "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)",
+            "page": 0,
+            "structure": "",
+            "x1": 56,
+            "x2": 546,
+            "y1": 242,
+            "y2": 249
         },
         {
             "align": "left",
             "content": "Familienstand:",
             "page": 0,
             "structure": "",
-            "x1": 315,
-            "x2": 576,
-            "y1": 237,
-            "y2": 247
+            "x1": 56,
+            "x2": 157,
+            "y1": 277,
+            "y2": 287
         },
         {
             "align": "left",
-            "content": "wohnhaft:",
+            "content": "ledig",
             "page": 0,
-            "structure": "",
-            "x1": 15,
-            "x2": 576,
-            "y1": 262,
-            "y2": 271
-        },
-        {
-            "align": "center",
-            "content": "(Straße/Platz, Hausnummer)",
-            "page": 0,
-            "structure": "",
-            "x1": 67,
-            "x2": 284,
-            "y1": 273,
-            "y2": 281
-        },
-        {
-            "align": "center",
-            "content": "(Postleitzahl, Wohnort)",
-            "page": 0,
-            "structure": "",
-            "x1": 281,
-            "x2": 576,
-            "y1": 273,
-            "y2": 281
+            "x1": 131,
+            "x2": 158,
+            "y1": 278,
+            "y2": 285
         },
         {
             "align": "left",
+            "content": "seit",
+            "page": 0,
+            "x1": 172,
+            "x2": 244,
+            "y1": 286,
+            "y2": 293
+        },
+        {
+            "align": "left",
+            "content": "verheiratet",
+            "page": 0,
+            "x1": 266,
+            "x2": 338,
+            "y1": 281,
+            "y2": 288
+        },
+        {
+            "align": "left",
+            "content": "verwitwet",
+            "page": 0,
+            "x1": 266,
+            "x2": 338,
+            "y1": 295,
+            "y2": 302
+        },
+        {
+            "align": "left",
+            "content": "in Lebenspartnerschaft lebend",
+            "page": 0,
+            "x1": 351,
+            "x2": 547,
+            "y1": 281,
+            "y2": 288
+        },
+        {
+            "align": "left",
+            "content": "geschieden",
+            "page": 0,
+            "x1": 351,
+            "x2": 440,
+            "y1": 295,
+            "y2": 302
+        },
+        {
+            "align": "left",
+            "content": "dauernd getrennt lebend",
+            "page": 0,
+            "x1": 452,
+            "x2": 547,
+            "y1": 295,
+            "y2": 302
+        },
+        {
+            "align": "start",
             "content": "Tragen Sie bitte nachstehend in der Reihenfolge der Geburten – mit dem ältesten Kind beginnend – die zu Ihrem Haushalt gehörenden Kinder ein, die Sie im Antrag auf Kindergeld/Fragebogen aufgeführt haben.",
             "page": 0,
             "structure": "",
-            "x1": 15,
-            "x2": 576,
-            "y1": 294,
-            "y2": 302
+            "x1": 53,
+            "x2": 547,
+            "y1": 313,
+            "y2": 321
         },
         {
             "align": "left",
             "content": "Zu meinem Haushalt unter der oben angegebenen Anschrift gehören folgende Kinder:",
             "page": 0,
             "structure": "",
-            "x1": 15,
-            "x2": 577,
-            "y1": 327,
-            "y2": 337
+            "x1": 53,
+            "x2": 547,
+            "y1": 337,
+            "y2": 346
         },
         {
             "align": "center",
             "content": "lfd. Nr.",
             "page": 0,
             "structure": "",
-            "x1": 18,
-            "x2": 42,
-            "y1": 349,
-            "y2": 357
+            "x1": 55,
+            "x2": 77,
+            "y1": 359,
+            "y2": 367
         },
         {
             "align": "center",
             "content": "Name und Vorname des Kindes",
             "page": 0,
             "structure": "",
-            "x1": 44,
-            "x2": 242,
-            "y1": 349,
-            "y2": 357
+            "x1": 78,
+            "x2": 331,
+            "y1": 359,
+            "y2": 367
         },
         {
             "align": "center",
             "content": "geboren am",
             "page": 0,
             "structure": "",
-            "x1": 244,
-            "x2": 332,
-            "y1": 349,
-            "y2": 357
+            "x1": 334,
+            "x2": 404,
+            "y1": 359,
+            "y2": 367
         },
         {
             "align": "center",
             "content": "Haushaltsaufnahme am",
             "page": 0,
             "structure": "",
-            "x1": 333,
-            "x2": 421,
-            "y1": 349,
-            "y2": 357
+            "x1": 405,
+            "x2": 474,
+            "y1": 359,
+            "y2": 367
         },
         {
             "align": "center",
-            "content": "Familienstand *)",
+            "content": "In Deutschland seit *)",
             "page": 0,
             "structure": "",
-            "x1": 422,
-            "x2": 479,
-            "y1": 349,
-            "y2": 357
+            "x1": 477,
+            "x2": 546,
+            "y1": 359,
+            "y2": 367
         },
         {
-            "align": "center",
-            "content": "In Deutschland seit **)",
+            "align": "start",
+            "content": "*) Nur sofern ein Zuzug aus dem Ausland erfolgte, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.",
             "page": 0,
             "structure": "",
-            "x1": 480,
-            "x2": 575,
-            "y1": 349,
-            "y2": 357
-        },
-        {
-            "align": "left",
-            "content": "*) Nur bei über 18 Jahre alten Kindern",
-            "page": 0,
-            "structure": "",
-            "x1": 15,
-            "x2": 576,
-            "y1": 573,
-            "y2": 580
-        },
-        {
-            "align": "left",
-            "content": "**) Nur sofern ein Zuzug aus dem Ausland erfolgte, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.",
-            "page": 0,
-            "structure": "",
-            "x1": 15,
-            "x2": 576,
-            "y1": 588,
-            "y2": 596
-        },
-        {
-            "align": "center",
-            "content": "(Ort)",
-            "page": 0,
-            "structure": "",
-            "x1": 15,
-            "x2": 237,
-            "y1": 629,
-            "y2": 636
+            "x1": 53,
+            "x2": 547,
+            "y1": 543,
+            "y2": 551
         },
         {
             "align": "center",
             "content": "(Datum)",
             "page": 0,
             "structure": "",
-            "x1": 250,
-            "x2": 355,
-            "y1": 629,
-            "y2": 636
+            "x1": 67,
+            "x2": 153,
+            "y1": 590,
+            "y2": 598
         },
         {
             "align": "center",
-            "content": "(Unterschrift)",
+            "content": "(Unterschrift der kindergeldberechtigten Person)",
             "page": 0,
             "structure": "",
-            "x1": 367,
-            "x2": 576,
-            "y1": 629,
-            "y2": 636
+            "x1": 164,
+            "x2": 405,
+            "y1": 590,
+            "y2": 598
         },
         {
             "align": "left",
             "content": "Amtliche Bescheinigung der Angaben",
             "page": 0,
             "structure": "B,",
-            "x1": 18,
-            "x2": 576,
-            "y1": 654,
-            "y2": 667
+            "x1": 69,
+            "x2": 547,
+            "y1": 623,
+            "y2": 635
         },
         {
-            "align": "left",
-            "content": "Es wird hiermit bescheinigt, dass die unter A genannte Person und die unter lfd. Nr. ... bis lfd. Nr. ... aufgeführten Kinder nach den hier vorhandenen Unterlagen - nach persönlicher Kenntnis - wie angegeben gemeldet - wohnhaft - sind.",
+            "align": "start",
+            "content": "Es wird hiermit bescheinigt, dass die unter A genannte Person und die unter lfd. Nr. ... bis lfd. Nr. ... aufgeführten Kinder nach den hier vorhandenen Unterlagen bzw. Erkenntnissen wie angegeben gemeldet sind.",
             "page": 0,
             "structure": "",
-            "x1": 17,
-            "x2": 576,
-            "y1": 677,
-            "y2": 687
+            "x1": 69,
+            "x2": 547,
+            "y1": 640,
+            "y2": 649
         },
         {
             "align": "left",
             "content": "Bemerkungen:",
             "page": 0,
             "structure": "",
-            "x1": 17,
-            "x2": 576,
-            "y1": 747,
-            "y2": 758
+            "x1": 69,
+            "x2": 200,
+            "y1": 671,
+            "y2": 680
         },
         {
             "align": "center",
             "content": "Dienstsiegel oder Stempel",
             "page": 0,
             "structure": "",
-            "x1": 88,
-            "x2": 170,
-            "y1": 801,
-            "y2": 811
-        },
-        {
-            "align": "center",
-            "content": "(Ort)",
-            "page": 0,
-            "structure": "",
-            "x1": 245,
-            "x2": 458,
-            "y1": 813,
-            "y2": 820
+            "x1": 392,
+            "x2": 450,
+            "y1": 715,
+            "y2": 723
         },
         {
             "align": "center",
             "content": "(Datum)",
             "page": 0,
             "structure": "",
-            "x1": 473,
-            "x2": 574,
-            "y1": 813,
-            "y2": 820
+            "x1": 67,
+            "x2": 154,
+            "y1": 704,
+            "y2": 712
         },
         {
             "align": "center",
             "content": "(Unterschrift)",
             "page": 0,
             "structure": "",
-            "x1": 353,
-            "x2": 576,
-            "y1": 845,
-            "y2": 853
+            "x1": 164,
+            "x2": 331,
+            "y1": 704,
+            "y2": 712
         },
         {
             "align": "center",
             "content": "Hinweise",
             "page": 1,
             "structure": "",
-            "x1": 18,
-            "x2": 607,
+            "x1": 53,
+            "x2": 547,
             "y1": 162,
             "y2": 180
         },
@@ -377,50 +370,30 @@
             "content": "Kindergeld kann Ihnen grundsätzlich für die Kinder gezahlt werden, die zu Ihrem Haushalt gehören. Eine Haushaltszugehörigkeit liegt nur vor, wenn das Kind ständig in Ihrem Haushalt lebt, von Ihnen betreut und erzogen wird und aus den Mitteln Ihres Haushalts versorgt wird. Allein die bloße Anmeldung eines Kindes bei einer Meldebehörde führt nicht zur Haushaltszugehörigkeit. Während einer zeitweiligen auswärtigen Unterbringung zur Schul- oder Berufsausbildung bleibt eine bestehende Haushaltszugehörigkeit erhalten.",
             "page": 1,
             "structure": "",
-            "x1": 18,
-            "x2": 607,
+            "x1": 53,
+            "x2": 547,
             "y1": 200,
             "y2": 211
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Näheres finden Sie dazu im Merkblatt über Kindergeld.",
-            "page": 1,
-            "structure": "",
-            "x1": 18,
-            "x2": 607,
-            "y1": 279,
-            "y2": 290
+            "page": 1
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Das Vorhandensein der Kinder und ihre Zugehörigkeit zum Haushalt sind amtlich nachzuweisen. Diesem Zweck dient die umseitige Haushaltsbescheinigung.",
-            "page": 1,
-            "structure": "",
-            "x1": 18,
-            "x2": 607,
-            "y1": 310,
-            "y2": 321
+            "page": 1
         },
         {
-            "align": "start",
+            "append": "\n\n",
             "content": "Füllen Sie deshalb bitte den Abschnitt A gut leserlich aus. Im Abschnitt B sind Ihre Angaben durch die zuständige Meldebehörde (Einwohnermeldeamt) oder eine andere öffentliche Stelle zu bescheinigen und mit dem Dienstsiegel oder Dienststempel zu versehen.",
-            "page": 1,
-            "structure": "",
-            "x1": 18,
-            "x2": 607,
-            "y1": 354,
-            "y2": 365
+            "page": 1
         },
         {
-            "align": "start",
-            "content": "Haben Sie Kinder in Ihrem Antrag auf Kindergeld aufgeführt, die dauerhaft (nicht nur vorübergehend) außerhalb Ihres Haushaltes leben, reichen Sie bitte eine »Lebensbescheinigung« ein. Falls solche Kinder in Schul- oder Berufsausbildung stehen, kann anstelle einer Lebensbescheinigung auch eine Schul- oder Ausbildungsbescheinigung eingereicht werden, die jedoch nicht älter als sechs Monate sein darf. Die entsprechenden Bescheinigungsvordrucke erhalten Sie bei Ihrer Familienkasse.",
-            "page": 1,
-            "structure": "",
-            "x1": 18,
-            "x2": 607,
-            "y1": 409,
-            "y2": 420
+            "append": "\n\n",
+            "content": "Haben Sie Kinder in Ihrem Antrag auf Kindergeld aufgeführt, die dauerhaft (nicht nur vorübergehend) außerhalb Ihres Haushaltes leben, reichen Sie bitte eine »Lebensbescheinigung« (KG 3b) ein. Falls solche Kinder in Schul- oder Berufsausbildung stehen, kann anstelle einer Lebensbescheinigung auch eine Schul- oder Ausbildungsbescheinigung eingereicht werden, die jedoch nicht älter als sechs Monate sein darf. Die entsprechenden Bescheinigungsvordrucke erhalten Sie bei Ihrer Familienkasse.",
+            "page": 1
         }
     ],
     "title": "Kindergeld: Haushaltsbescheinigung für Familienkasse",

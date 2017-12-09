@@ -118,6 +118,15 @@ def load_data(top):
                         translations[lang_id][form_id] = translation
 
 
+def get_pdf(lang_id, form_id):
+    fn = 'static/pdf/{form_id}_{lang_id}_{date}.pdf'.format(
+        lang_id=lang_id,
+        form_id=form_id,
+        date=forms[form_id]['date'])
+    if os.path.exists(fn):
+        return '/' + fn
+
+
 def log(s, style=None, indent=0):
     if sys.stdout.isatty():
         reset = Fore.RESET
@@ -251,6 +260,8 @@ def translation_route(lang_id, form_id):
         forms=forms,
         lang_id=lang_id,
         form_id=form_id,
+        pdf=get_pdf(lang_id, form_id),
+        form_view_url=forms[form_id].get('form_view_url', 'print/'),
         available_languages=available_languages)
 
 

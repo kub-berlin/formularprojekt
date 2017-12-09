@@ -23,6 +23,14 @@
     </tr><tr>
         <th>{{ 'Originaldokument' | translate(lang_id, 'meta') }}</th>
         <td><a href="{{ forms[form_id].url }}" class="overlong" dir="ltr">{{ forms[form_id].url }}</a></td>
+    </tr><tr>
+        <th></th>
+        <td>
+            <a href="{{ form_view_url }}" target="_blank" rel="alternate">{{ 'Ansicht als Formular' | translate(lang_id, 'meta') }}</a>
+            {% if pdf %}
+                <bdi>(<a href="{{ pdf }}" rel="alternate">PDF</a>)</bdi>
+            {% endif %}
+        </td>
     </tr>
 </table>
 

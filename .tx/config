@@ -50,12 +50,6 @@ source_lang = de
 type = KEYVALUEJSON
 file_filter = data/KG5a/<lang>.json
 
-[formulare.KG5d]
-source_file = data/KG5d/de.json
-source_lang = de
-type = KEYVALUEJSON
-file_filter = data/KG5d/<lang>.json
-
 [formulare.PKH]
 source_file = data/PKH/de.json
 source_lang = de

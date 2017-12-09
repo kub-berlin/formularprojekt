@@ -1,4 +1,15 @@
 {
+    "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)": "Adresse (Straße/Platz, Hausnummer, Postleitzahl, Ort, Land)",
+    "Geburtsdatum": "Wann sind Sie geboren?",
     "Kindergeld-Nr.": "Kindergeldnummer. (Wenn Sie zum ersten Mal Kindergeld bekommen möchten, brauchen Sie hier nichts schreiben.)",
-    "Telefonische Rückfrage tagsüber unter Nr.:": "Telefonnummer, wo man Sie am Tag anrufen kann"
+    "Name": "Name",
+    "Telefonische Rückfrage tagsüber unter Nr.:": "Telefonnummer, wo man Sie am Tag anrufen kann",
+    "Vorname": "Vorname",
+    "dauernd getrennt lebend": "Sie sind verheiratet, aber Sie leben nicht zusammen",
+    "geschieden": "geschieden",
+    "in Lebenspartnerschaft lebend": "Sie sind homosexuell und leben mit Ihrem Mann/Ihrer Frau zusammen in einer Lebenspartnerschaft",
+    "ledig": "ledig (Sie sind nicht verheiratet und waren auch noch nie verheiratet.)",
+    "seit": "seit",
+    "verheiratet": "verheiratet",
+    "verwitwet": "verwitwet (Ihr Partner/Ihre Partnerin ist gestorben.)"
 }

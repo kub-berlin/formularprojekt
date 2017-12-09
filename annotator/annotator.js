@@ -224,8 +224,9 @@ fetch('template.html').then(function(response) {
 			delete row.width;
 			delete row.size;
 			delete row.appended;
-			if (row.hasOwnProperty('selected')) {
-				delete row.selected;
+			delete row.rendered;
+			if (row.hasOwnProperty('isSelected')) {
+				delete row.isSelected;
 			}
 			if (row.hasOwnProperty('skip')) {
 				delete row.skip;

@@ -15,11 +15,11 @@ pull:
 push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
 
-static/style.css: static_src/style.scss static_src/bower_components .env
+static/style.css: static_src/style.scss static_src/node_modules .env
 	. .env/bin/activate && node-sass $< > $@
 
-static_src/bower_components:
-	. .env/bin/activate && cd static_src && bower install mfbs
+static_src/node_modules:
+	. .env/bin/activate && cd static_src && npm install mfbs
 
 annotator/annotator.build.js: annotator/annotator.js annotator/app.js annotator/node_modules
 	browserify $< -o $@
@@ -34,7 +34,6 @@ data/%/de.json: data/%/form.json scripts/de.py
 .env:
 	virtualenv .env
 	. .env/bin/activate && pip install Flask Frozen-Flask CommonMark colorama transifex-client nodeenv
-	echo bower > node_deps
 	echo node-sass >> node_deps
 	. .env/bin/activate && nodeenv --node=system --python-virtualenv -r node_deps
 	rm node_deps
@@ -42,6 +41,6 @@ data/%/de.json: data/%/form.json scripts/de.py
 clean:
 	rm -f -r .env
 	rm -f -r build
-	rm -f -r static_src/bower_components
+	rm -f -r static_src/node_modules
 	rm -f -r annotator/node_modules
 	rm -f static/style.css

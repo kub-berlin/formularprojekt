@@ -1,6 +1,6 @@
 build
 static/style.css
-static_src/bower_components
+static_src/node_modules
 annotator/node_modules
 .env
 .upstream

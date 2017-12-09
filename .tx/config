@@ -32,12 +32,6 @@ source_lang = de
 type = KEYVALUEJSON
 file_filter = data/KG1/<lang>.json
 
-[formulare.KG11a]
-source_file = data/KG11a/de.json
-source_lang = de
-type = KEYVALUEJSON
-file_filter = data/KG11a/<lang>.json
-
 [formulare.KG3a]
 source_file = data/KG3a/de.json
 source_lang = de

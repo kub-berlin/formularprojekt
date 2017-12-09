@@ -68,11 +68,11 @@ source_lang = de
 type = KEYVALUEJSON
 file_filter = data/PKH/<lang>.json
 
-[formulare.Rundfunkbeitrag_Befreiung]
-source_file = data/Rundfunkbeitrag_Befreiung/de.json
+[formulare.Rundfunkbeitrag]
+source_file = data/Rundfunkbeitrag/de.json
 source_lang = de
 type = KEYVALUEJSON
-file_filter = data/Rundfunkbeitrag_Befreiung/<lang>.json
+file_filter = data/Rundfunkbeitrag/<lang>.json
 
 [formulare.SozIIIB1]
 source_file = data/SozIIIB1/de.json

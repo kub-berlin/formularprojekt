@@ -38,15 +38,57 @@ forms = {}
 langs = set()
 
 
-def iter_translations():
-    items = sorted(os.walk(BASEPATH), key=lambda a: '/zz' if a[0].endswith('all') else a[0].lower())
+def dump_json(data, filename):
+    with open(filename, 'wb') as fh:
+        s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
+        fh.write(s.encode('utf8'))
+
+
+def load_translation(form_id, lang_id):
+    path = os.path.join('data', form_id, lang_id + '.csv')
+    data = {}
+    with open(path) as fh:
+        r = csv.reader(fh)
+        for row in r:
+            key = row[0]
+            value = row[1]
+            data[key] = value
+    return data
+
+
+def write_translation(form_id, lang_id, data):
+    form = forms[form_id]
+
+    path = os.path.join('data', form_id, lang_id + '.csv')
+    keys = []
+    with open(path, 'w') as fh:
+        w = csv.writer(fh)
+        for row in form['rows']:
+            key = row.get('content')
+            if key and key not in keys:
+                keys.append(key)
+                w.writerow((key, data.get(key)))
+
+
+def iter_forms():
+    items = sorted(os.walk(BASEPATH), key=lambda a: a[0].lower())
     for dirpath, dirnames, filenames in items:
         for filename in filenames:
-            form_id = os.path.basename(dirpath)
-            path = os.path.join(dirpath, filename)
+            if filename == 'form.json':
+                form_id = os.path.basename(dirpath)
+                path = os.path.join(dirpath, filename)
 
-            if filename.endswith('.json'):
-                lang_id = filename[:-5]
+                yield form_id, path
+
+
+def iter_translations():
+    items = sorted(os.walk(BASEPATH), key=lambda a: a[0].lower())
+    for dirpath, dirnames, filenames in items:
+        for filename in filenames:
+            if filename.endswith('.csv'):
+                form_id = os.path.basename(dirpath)
+                path = os.path.join(dirpath, filename)
+                lang_id = filename[:-4]
 
                 yield form_id, lang_id, path
 
@@ -75,12 +117,6 @@ def ask_for_map(key, candidates):
             return candidates[i]
         except:
             pass
-
-
-def dump_json(data, filename):
-    with open(filename, 'wb') as fh:
-        s = json.dumps(data, indent=4, separators=(',', ': '), sort_keys=True, ensure_ascii=False)
-        fh.write(s.encode('utf8'))
 
 
 def get_mapping():
@@ -130,18 +166,16 @@ def get_upstream(form_id, lang_id):
     return data
 
 
+for form_id, path in iter_forms():
+    with open(path) as fh:
+        forms[form_id] = json.load(fh)
+
 for form_id, lang_id, path in iter_translations():
     langs.add(lang_id)
     if form_id != 'meta':
-        with open(path) as fh:
-            data = json.load(fh)
-
-        if lang_id == 'form':
-            forms[form_id] = data
-        else:
-            if form_id not in translations:
-                translations[form_id] = {}
-            translations[form_id][lang_id] = data
+        if form_id not in translations:
+            translations[form_id] = {}
+        translations[form_id][lang_id] = load_translation(form_id, lang_id)
 
 
 
@@ -183,8 +217,7 @@ if __name__ == '__main__':
                             data[mapping[key]] = value
 
             if data:
-                path = os.path.join(BASEPATH, form_id, lang_id + '.json')
-                dump_json(data, path)
+                write_translation(form_id, lang_id, data)
 
             dump_json(mapping, '.mapping.json')
 

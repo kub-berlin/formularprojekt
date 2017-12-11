@@ -1,4 +1,4 @@
-DE_FILES := $(shell find 'data' -name 'form.json' | sed 's/form\.json$$/de.json/g')
+DE_FILES := $(shell find 'data' -name 'form.json' | sed 's/form\.json$$/de.csv/g')
 
 .PHONY: build serve push clean
 
@@ -30,7 +30,7 @@ annotator/node_modules:
 	. .env/bin/activate && cd annotator && npm install "mustache" "set-dom" "markdown-it"
 
 de: $(DE_FILES)
-data/%/de.json: data/%/form.json scripts/de.py
+data/%/de.csv: data/%/form.json scripts/de.py
 	python scripts/de.py $< $@
 
 .env:

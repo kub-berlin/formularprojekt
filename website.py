@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 
 import os
 import sys
+import csv
 import json
 import argparse
 
@@ -31,6 +32,16 @@ translations = {}
 stats = {}
 
 
+def csv_load(fh):
+    r = csv.reader(fh)
+    data = {}
+    for row in r:
+        key = row[0]
+        value = row[1]
+        data[key] = value
+    return data
+
+
 def ext_markdown(app, **kwargs):
     def render_markdown(text):
         return Markup(CommonMark.commonmark(text, **kwargs))
@@ -44,25 +55,24 @@ def load_data(top):
             form_id = os.path.basename(dirpath)
             path = os.path.join(dirpath, filename)
 
-            if filename.endswith('.json'):
-                lang_id = filename[:-5]
+            if filename == 'form.json':
+                with open(path) as fh:
+                    form = json.load(fh)
 
-                if lang_id == 'form':
+                    keys = set([r['content'] for r in form['rows']])
+                    if '' in keys:
+                        keys.remove('')
+                    form['keys'] = keys
+
+                    forms[form_id] = form
+            elif filename.endswith('.csv'):
+                lang_id = filename[:-4]
+
+                if lang_id not in _translations:
+                    _translations[lang_id] = {}
+                if lang_id != 'de' or form_id == 'meta':
                     with open(path) as fh:
-                        form = json.load(fh)
-
-                        keys = set([r['content'] for r in form['rows']])
-                        if '' in keys:
-                            keys.remove('')
-                        form['keys'] = keys
-
-                        forms[form_id] = form
-                else:
-                    if lang_id not in _translations:
-                        _translations[lang_id] = {}
-                    if lang_id != 'de' or form_id == 'meta':
-                        with open(path) as fh:
-                            _translations[lang_id][form_id] = json.load(fh)
+                        _translations[lang_id][form_id] = csv_load(fh)
 
     for lang_id in _translations:
         stats[lang_id] = {}

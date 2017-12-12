@@ -5,57 +5,112 @@
         {
             "content": "Befreiung und Ermäßigung beantragen",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 28,
+            "x2": 542,
+            "y2": 44,
+            "align": ""
         },
         {
             "content": "Bei Anspruch auf eine Befreiung von der Rundfunkbeitragspflicht oder eine Ermäßigung des Rundfunkbeitrags füllen Sie bitte diesen Antrag aus. Das Online-Formular führt Sie Schritt für Schritt durch den Antrag. Eine zusätzliche Anmeldung ist nicht notwendig.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 53,
+            "x2": 542,
+            "y2": 65,
+            "align": ""
         },
         {
             "content": "Um das Formular anzuzeigen, benötigen Sie einen PDF-Reader.",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 99,
+            "x2": 542,
+            "y2": 111,
+            "align": ""
         },
         {
             "content": "Antragsdaten auswählen",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 138,
+            "x2": 137,
+            "y2": 150,
+            "align": ""
         },
         {
             "content": "Persönliche Daten eingeben",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 139,
+            "y1": 138,
+            "x2": 259,
+            "y2": 150,
+            "align": ""
         },
         {
             "content": "Zusammenfassung prüfen",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 275,
+            "y1": 138,
+            "x2": 395,
+            "y2": 150,
+            "align": ""
         },
         {
             "content": "Antrag ausdrucken",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 417,
+            "y1": 138,
+            "x2": 537,
+            "y2": 150,
+            "align": ""
         },
         {
             "content": "Antragsdaten",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
         },
         {
             "content": "Persönliche Daten",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
         },
         {
             "content": "Zusammenfassung",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
         },
         {
             "content": "Drucken",
             "page": 0,
-            "structure": ""
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
         },
         {
             "content": "Ich möchte befreit/ermäßigt werden, aus...",
@@ -75,87 +130,172 @@
         {
             "content": "Ich möchte befreit werden, weil ich eine der folgenden Leistungen erhalte...",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 23,
+            "x2": 542,
+            "y2": 37,
+            "align": ""
         },
         {
             "content": "ALG II (Hartz IV)",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 59,
+            "x2": 282,
+            "y2": 71,
+            "align": ""
         },
         {
             "content": "Empfänger von **Sozialgeld oder Arbeitslosengeld II** einschließlich von Leistungen nach § 22 des Zweiten Buches des Sozialgesetzbuches",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 77,
+            "x2": 282,
+            "y2": 88,
+            "align": ""
         },
         {
             "content": "Grundsicherung",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 59,
+            "x2": 555,
+            "y2": 71,
+            "align": ""
         },
         {
             "content": "Empfänger von **Grundsicherung im Alter und bei Erwerbsminderung** (Viertes Kapitel des Zwölften Buches des Sozialgesetzbuches)",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 77,
+            "x2": 555,
+            "y2": 88,
+            "align": ""
         },
         {
             "content": "BAföG",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 203,
+            "x2": 282,
+            "y2": 215,
+            "align": ""
         },
         {
             "content": "Empfänger von **Ausbildungsförderung** nach dem Bundesausbildungsförderungsgesetz, die **nicht** bei den Eltern wohnen",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 233,
+            "x2": 282,
+            "y2": 244,
+            "align": ""
         },
         {
             "content": "Berufsausbildungsbeihilfe (BAB)",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 203,
+            "x2": 555,
+            "y2": 215,
+            "align": ""
         },
         {
             "content": "Empfänger von **Berufsausbildungsbeihilfe** nach den §§ 114, 115 Nr. 2 des Dritten Buches des Sozialgesetzbuches oder nach dem Dritten Kapitel, Dritter Abschnitt, Dritter Unterabschnitt des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 233,
+            "x2": 555,
+            "y2": 244,
+            "align": ""
         },
         {
             "content": "Sozialhilfe",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 349,
+            "x2": 282,
+            "y2": 361,
+            "align": ""
         },
         {
             "content": "Empfänger von **Hilfe zum Lebensunterhalt** nach dem Dritten Kapitel des Zwölften Buches des Sozialgesetzbuches (Sozialhilfe) oder nach den §§ 27a oder 27d des Bundesversorgungsgesetzes (BVG)",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 374,
+            "x2": 282,
+            "y2": 385,
+            "align": ""
         },
         {
             "content": "Ausbildungsgeld (SGB III)",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 349,
+            "x2": 555,
+            "y2": 363,
+            "align": ""
         },
         {
             "content": "Empfänger von **Ausbildungsgeld** nach §§ 122 ff. des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen.",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 374,
+            "x2": 555,
+            "y2": 385,
+            "align": ""
         },
         {
             "content": "Asylbewerberleistung",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 509,
+            "x2": 282,
+            "y2": 521,
+            "align": ""
         },
         {
             "content": "Empfänger von Leistungen nach dem **Asylbewerberleistungsgesetz** (AsylblG)",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 535,
+            "x2": 282,
+            "y2": 546,
+            "align": ""
         },
         {
             "content": "weitere Leistungen",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 509,
+            "x2": 555,
+            "y2": 521,
+            "align": ""
         },
         {
             "content": "Zurück",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 713,
+            "x2": 122,
+            "y2": 727,
+            "align": ""
         },
         {
             "content": "Ich wohne bei meinen Eltern?",
@@ -581,4 +721,3 @@
     "title": "Antrag auf Befreiung vom Rundfunkbeitrag",
     "url": "https://www.rundfunkbeitrag.de/formulare/buergerinnen_und_buerger/antrag_auf_befreiung/"
 }
-

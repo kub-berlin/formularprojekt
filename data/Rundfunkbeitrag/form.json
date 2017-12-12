@@ -23,14 +23,10 @@
             "align": ""
         },
         {
+            "append": "\n\n",
             "content": "Um das Formular anzuzeigen, benötigen Sie einen PDF-Reader.",
             "page": 0,
-            "structure": "",
-            "x1": 22,
-            "y1": 99,
-            "x2": 542,
-            "y2": 111,
-            "align": ""
+            "structure": ""
         },
         {
             "content": "Antragsdaten auswählen",
@@ -114,22 +110,62 @@
         },
         {
             "content": "Ich möchte befreit/ermäßigt werden, aus...",
-            "page": 1,
+            "page": 0,
             "structure": ""
         },
         {
             "content": "sozialen Gründen.",
-            "page": 1,
+            "page": 0,
             "structure": ""
         },
         {
             "content": "gesundheitlichen Gründen.",
-            "page": 1,
+            "page": 0,
             "structure": ""
         },
         {
+            "content": "Antragsdaten",
+            "page": 1,
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 1,
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Zusammenfassung",
+            "page": 1,
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Drucken",
+            "page": 1,
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
+        },
+        {
             "content": "Ich möchte befreit werden, weil ich eine der folgenden Leistungen erhalte...",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 23,
@@ -139,7 +175,7 @@
         },
         {
             "content": "ALG II (Hartz IV)",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 59,
@@ -149,7 +185,7 @@
         },
         {
             "content": "Empfänger von **Sozialgeld oder Arbeitslosengeld II** einschließlich von Leistungen nach § 22 des Zweiten Buches des Sozialgesetzbuches",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 77,
@@ -159,7 +195,7 @@
         },
         {
             "content": "Grundsicherung",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 295,
             "y1": 59,
@@ -169,7 +205,7 @@
         },
         {
             "content": "Empfänger von **Grundsicherung im Alter und bei Erwerbsminderung** (Viertes Kapitel des Zwölften Buches des Sozialgesetzbuches)",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 295,
             "y1": 77,
@@ -179,7 +215,7 @@
         },
         {
             "content": "BAföG",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 203,
@@ -189,7 +225,7 @@
         },
         {
             "content": "Empfänger von **Ausbildungsförderung** nach dem Bundesausbildungsförderungsgesetz, die **nicht** bei den Eltern wohnen",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 233,
@@ -199,7 +235,7 @@
         },
         {
             "content": "Berufsausbildungsbeihilfe (BAB)",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 295,
             "y1": 203,
@@ -209,7 +245,7 @@
         },
         {
             "content": "Empfänger von **Berufsausbildungsbeihilfe** nach den §§ 114, 115 Nr. 2 des Dritten Buches des Sozialgesetzbuches oder nach dem Dritten Kapitel, Dritter Abschnitt, Dritter Unterabschnitt des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 295,
             "y1": 233,
@@ -219,7 +255,7 @@
         },
         {
             "content": "Sozialhilfe",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 349,
@@ -229,7 +265,7 @@
         },
         {
             "content": "Empfänger von **Hilfe zum Lebensunterhalt** nach dem Dritten Kapitel des Zwölften Buches des Sozialgesetzbuches (Sozialhilfe) oder nach den §§ 27a oder 27d des Bundesversorgungsgesetzes (BVG)",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 374,
@@ -239,7 +275,7 @@
         },
         {
             "content": "Ausbildungsgeld (SGB III)",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 295,
             "y1": 349,
@@ -249,7 +285,7 @@
         },
         {
             "content": "Empfänger von **Ausbildungsgeld** nach §§ 122 ff. des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen.",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 295,
             "y1": 374,
@@ -259,7 +295,7 @@
         },
         {
             "content": "Asylbewerberleistung",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 509,
@@ -269,7 +305,7 @@
         },
         {
             "content": "Empfänger von Leistungen nach dem **Asylbewerberleistungsgesetz** (AsylblG)",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 535,
@@ -279,7 +315,7 @@
         },
         {
             "content": "weitere Leistungen",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 295,
             "y1": 509,
@@ -289,7 +325,7 @@
         },
         {
             "content": "Zurück",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 22,
             "y1": 713,
@@ -298,423 +334,704 @@
             "align": ""
         },
         {
+            "content": "Antragsdaten",
+            "page": 2,
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 2,
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Zusammenfassung",
+            "page": 2,
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Drucken",
+            "page": 2,
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
+        },
+        {
             "content": "Ich wohne bei meinen Eltern?",
-            "page": 3,
+            "page": 2,
             "structure": ""
         },
         {
             "content": "Ja",
-            "page": 3,
+            "page": 2,
             "structure": ""
         },
         {
             "content": "Nein",
-            "page": 3,
+            "page": 2,
             "structure": ""
         },
         {
             "content": "Empfänger von BAB können von der Rundfunkbeitragspflicht nur befreit werden, wenn sie nicht bei den Eltern wohnen. Weil Sie bei Ihren Eltern wohnen, kann die Antragsstellung hier nicht fortgesetzt werden.",
-            "page": 3,
+            "page": 2,
             "structure": ""
         },
         {
+            "append": "\n\n",
             "content": "Falls Sie bereits bei uns angemeldet sind, prüfen Sie bitte, ob ggf. eine Abmeldung für Sie in Frage kommt. Informationen finden Sie hier.",
-            "page": 3,
+            "page": 2,
             "structure": ""
         },
         {
             "content": "Abbrechen",
-            "page": 3,
-            "structure": ""
-        },
-        {
-            "content": "Ich möchte befreit werden, weil ich eine der folgenden Leistungen erhalte...",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Hilfe zur Pflege (SGB XII oder BVG)",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Empfänger von **Hilfe zur Pflege** nach dem Siebten Kapitel des Zwölften Buches des Sozialgesetzbuches oder von **Hilfe zur Pflege als Leistung der Kriegsopferfürsorge** nach dem Bundesversorgungsgesetz (BVG) oder von **Pflegegeld nach den landesgesetzlichen Vorschriften**",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Pflegezulagen nach LAG",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Empfänger von **Pflegezulagen** nach § 267 Abs. 1 des Lastenausgleichsgesetzes (LAG) oder Personen, denen wegen Pflegebedürftigkeit nach § 267 Abs. 2 Satz 1 Nr. 2 Buchstabe c LAG ein Freibetrag zuerkannt wird",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "nach SGB VIII (Kinder- und Jugendhilfe)",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "**Volljährige**, die im Rahmen einer Leistungsgewährung nach dem Achten Buch des Sozialgesetzbuches (SGB VIII) **in einer stationären Einrichtung** nach § 45 SGB VIII **leben**",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Blindenhilfe (SGB XII)",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Empfänger von Blindenhilfe nach § 72 des Zwölften Buches des Sozialgesetzbuches oder nach § 27d des Bundesversorgungsgesetzes (BVG)",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Ich möchte befreit werden, weil ich keine der unter § 4 Abs. 1 Nr. 1-10 RBStV aufgeführten sozialen Leistungen...",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "auf Grund einer Einkommensüberschreitung erhalte.",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Personen, denen eine der in § 4 Abs. 1 Nr. 1-10 Rundfunkbeitragsstaatsvertrag genannten **sozialen Leistungen wegen Überschreitung der Bedarfsgrenze versagt wurde**, wobei die Überschreitung **geringer** als die Höhe des Rundfunkbeitrags ist",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Zurück",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Hinweis",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Erhalten Sie eine andere soziale Leistung, die hier nicht zur Auswahl steht, ist eine Befreiung nicht möglich. Zum Beispiel sind Wohngeld oder ALG I keine Voraussetzung für eine Befreiung von der Rundfunkbeitragspflicht.",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "content": "Ich habe auf Grund einer Einkommensüberschreitung keinen Anspruch auf eine der unter § 4 Abs. 1 RBStV aufgeführten sozialen Leistungen.",
-            "page": 5,
-            "structure": ""
-        },
-        {
-            "content": "Die Einkommensüberschreitung liegt unter 17,50 Euro?",
-            "page": 5,
-            "structure": ""
-        },
-        {
-            "content": "Ja",
-            "page": 5,
-            "structure": ""
-        },
-        {
-            "content": "Nein",
-            "page": 5,
-            "structure": ""
-        },
-        {
-            "content": "Wenn Sie keine soziale Leistung wegen Einkommensüberschreitung erhalten, ist eine Befreiung von der Rundfunkbeitragspflicht nur möglich, wenn diese weniger als 17,50 Euro beträgt. Weil Ihre Einkommensüberschreitung 17,50 Euro oder mehr beträgt, kann die Antragsstellung hier nicht fortgesetzt werden.",
-            "page": 5,
-            "structure": ""
-        },
-        {
-            "content": "Abbrechen",
-            "page": 5,
-            "structure": ""
-        },
-        {
-            "content": "Ich möchte eine Ermäßigung des Rundfunkbeitrags beantragen, weil ich zu folgendem Personenkreis gehöre:",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "Blinde oder sehbehinderte Menschen mit einem Grad der Behinderung von wenigstens 60",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "**Blinde** oder **nicht nur vorübergehend wesentlich sehbehinderte Menschen** mit einem Grad der Behinderung von wenigstens 60 allein wegen der Sehbehinderung, das **Merkzeichen \"RF\"** wurde zuerkannt.",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "Hörgeschädigte oder gehörlose Menschen",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "**Hörgeschädigte Menschen**, die gehörlos sind oder denen eine ausreichende Verständigung über das Gehör auch mit Hörhilfen nicht möglich ist, das **Merkzeichen \"RF\"** wurde zuerkannt.",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "**Behinderte Menschen**, deren Grad der Behinderung nicht nur vorübergehend wenigstens 80 beträgt und die wegen ihres Leidens an öffentlichen Veranstaltungen ständig nicht teilnehmen können, das **Merkzeichen \"RF\"** wurde zuerkannt.",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "Ich möchte befreit werden, weil ich zu einem der folgenden Personenkreise gehöre:",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "taubblinde Menschen",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "Taubblindheit im Sinne des Rundfunkbeitragsstaatsvertrages liegt vor, wenn auf dem besseren Ohr eine 'an Taubheit grenzende Schwerhörigkeit' und auf dem besseren Auge eine 'hochgradige Sehbehinderung' gegeben ist",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "Sonderfürsorgeberechtigte",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "**Sonderfürsorgeberechtigte** im Sinne des § 27e Bundesversorgungsgesetzes (BVG)",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "Zurück",
-            "page": 6,
-            "structure": ""
-        },
-        {
-            "content": "Wurde Ihnen das Merkzeichen \"RF\" zuerkannt?",
-            "page": 7,
-            "structure": ""
-        },
-        {
-            "content": "Ja",
-            "page": 7,
-            "structure": ""
-        },
-        {
-            "content": "Nein",
-            "page": 7,
-            "structure": ""
-        },
-        {
-            "content": "Eine Ermäßigung des Rundfunkbeitrags ist nur möglich, wenn Ihnen das Merkzeichen \"RF\" zuerkannt wurde. Weil Ihnen dieses Merkzeichen nicht zuerkannt wurde, kann die Antragsstellung hier nicht fortgesetzt werden.",
-            "page": 7,
-            "structure": ""
-        },
-        {
-            "content": "Abbrechen",
-            "page": 7,
-            "structure": ""
-        },
-        {
-            "content": "Pflichtfelder sind mit * gekennzeichnet.",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Anrede",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Frau",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Herr",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Vorname",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Nachname",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "PLZ",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Ort",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Straße",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Hausnummer",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Adresszusatz",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Zum Beispiel:",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "c/o Familie Muster",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Hinterhaus",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Appartement 245",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Sie sind bereits mit einer Wohnung angemeldet?",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Beitragsnummer",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Die 9-stellige Beitragsnummer (früher Teilnehmernummer) finden Sie auf der Anmeldebestätigung, dem Kontoauszug oder auf der Zahlungsaufforderung.",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Anmeldung zu",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Monat",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Jahr",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Geburtsdatum",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Tag",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Monat",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Jahr",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Familienstand",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Bitte auswählen",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "ledig",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "verheiratet",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "eingetragene Lebenspartnerschaft",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "geschieden",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "verwitwet",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "getrennt lebend",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Weiter",
-            "page": 8,
-            "structure": ""
-        },
-        {
-            "content": "Persönliche Daten",
-            "page": 9,
-            "structure": ""
-        },
-        {
-            "content": "Korrigieren",
-            "page": 9,
+            "page": 2,
             "structure": ""
         },
         {
             "content": "Antragsdaten",
-            "page": 9,
+            "page": 3,
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 3,
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Zusammenfassung",
+            "page": 3,
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Drucken",
+            "page": 3,
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Ich möchte befreit werden, weil ich eine der folgenden Leistungen erhalte...",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Hilfe zur Pflege (SGB XII oder BVG)",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Empfänger von **Hilfe zur Pflege** nach dem Siebten Kapitel des Zwölften Buches des Sozialgesetzbuches oder von **Hilfe zur Pflege als Leistung der Kriegsopferfürsorge** nach dem Bundesversorgungsgesetz (BVG) oder von **Pflegegeld nach den landesgesetzlichen Vorschriften**",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Pflegezulagen nach LAG",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Empfänger von **Pflegezulagen** nach § 267 Abs. 1 des Lastenausgleichsgesetzes (LAG) oder Personen, denen wegen Pflegebedürftigkeit nach § 267 Abs. 2 Satz 1 Nr. 2 Buchstabe c LAG ein Freibetrag zuerkannt wird",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "nach SGB VIII (Kinder- und Jugendhilfe)",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "**Volljährige**, die im Rahmen einer Leistungsgewährung nach dem Achten Buch des Sozialgesetzbuches (SGB VIII) **in einer stationären Einrichtung** nach § 45 SGB VIII **leben**",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Blindenhilfe (SGB XII)",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Empfänger von Blindenhilfe nach § 72 des Zwölften Buches des Sozialgesetzbuches oder nach § 27d des Bundesversorgungsgesetzes (BVG)",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Ich möchte befreit werden, weil ich keine der unter § 4 Abs. 1 Nr. 1-10 RBStV aufgeführten sozialen Leistungen...",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "auf Grund einer Einkommensüberschreitung erhalte.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Personen, denen eine der in § 4 Abs. 1 Nr. 1-10 Rundfunkbeitragsstaatsvertrag genannten **sozialen Leistungen wegen Überschreitung der Bedarfsgrenze versagt wurde**, wobei die Überschreitung **geringer** als die Höhe des Rundfunkbeitrags ist",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Zurück",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Hinweis",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Erhalten Sie eine andere soziale Leistung, die hier nicht zur Auswahl steht, ist eine Befreiung nicht möglich. Zum Beispiel sind Wohngeld oder ALG I keine Voraussetzung für eine Befreiung von der Rundfunkbeitragspflicht.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "content": "Antragsdaten",
+            "page": 4,
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 4,
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Zusammenfassung",
+            "page": 4,
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Drucken",
+            "page": 4,
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Ich habe auf Grund einer Einkommensüberschreitung keinen Anspruch auf eine der unter § 4 Abs. 1 RBStV aufgeführten sozialen Leistungen.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Die Einkommensüberschreitung liegt unter 17,50 Euro?",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Wenn Sie keine soziale Leistung wegen Einkommensüberschreitung erhalten, ist eine Befreiung von der Rundfunkbeitragspflicht nur möglich, wenn diese weniger als 17,50 Euro beträgt. Weil Ihre Einkommensüberschreitung 17,50 Euro oder mehr beträgt, kann die Antragsstellung hier nicht fortgesetzt werden.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Abbrechen",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "content": "Antragsdaten",
+            "page": 5,
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 5,
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Zusammenfassung",
+            "page": 5,
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Drucken",
+            "page": 5,
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Ich möchte eine Ermäßigung des Rundfunkbeitrags beantragen, weil ich zu folgendem Personenkreis gehöre:",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "Blinde oder sehbehinderte Menschen mit einem Grad der Behinderung von wenigstens 60",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "**Blinde** oder **nicht nur vorübergehend wesentlich sehbehinderte Menschen** mit einem Grad der Behinderung von wenigstens 60 allein wegen der Sehbehinderung, das **Merkzeichen \"RF\"** wurde zuerkannt.",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "Hörgeschädigte oder gehörlose Menschen",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "**Hörgeschädigte Menschen**, die gehörlos sind oder denen eine ausreichende Verständigung über das Gehör auch mit Hörhilfen nicht möglich ist, das **Merkzeichen \"RF\"** wurde zuerkannt.",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "**Behinderte Menschen**, deren Grad der Behinderung nicht nur vorübergehend wenigstens 80 beträgt und die wegen ihres Leidens an öffentlichen Veranstaltungen ständig nicht teilnehmen können, das **Merkzeichen \"RF\"** wurde zuerkannt.",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "Ich möchte befreit werden, weil ich zu einem der folgenden Personenkreise gehöre:",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "taubblinde Menschen",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "Taubblindheit im Sinne des Rundfunkbeitragsstaatsvertrages liegt vor, wenn auf dem besseren Ohr eine 'an Taubheit grenzende Schwerhörigkeit' und auf dem besseren Auge eine 'hochgradige Sehbehinderung' gegeben ist",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "Sonderfürsorgeberechtigte",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "**Sonderfürsorgeberechtigte** im Sinne des § 27e Bundesversorgungsgesetzes (BVG)",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "Zurück",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "Antragsdaten",
+            "page": 6,
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 6,
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Zusammenfassung",
+            "page": 6,
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Drucken",
+            "page": 6,
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Wurde Ihnen das Merkzeichen \"RF\" zuerkannt?",
+            "page": 6,
+            "structure": ""
+        },
+        {
+            "content": "Ja",
+            "page": 6,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 6,
+            "structure": ""
+        },
+        {
+            "content": "Eine Ermäßigung des Rundfunkbeitrags ist nur möglich, wenn Ihnen das Merkzeichen \"RF\" zuerkannt wurde. Weil Ihnen dieses Merkzeichen nicht zuerkannt wurde, kann die Antragsstellung hier nicht fortgesetzt werden.",
+            "page": 6,
+            "structure": ""
+        },
+        {
+            "content": "Abbrechen",
+            "page": 6,
+            "structure": ""
+        },
+        {
+            "content": "Antragsdaten",
+            "page": 7,
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 7,
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Zusammenfassung",
+            "page": 7,
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Drucken",
+            "page": 7,
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Pflichtfelder sind mit * gekennzeichnet.",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Anrede",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Frau",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Herr",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Vorname",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Nachname",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "PLZ",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Ort",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Straße",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Hausnummer",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Adresszusatz",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Zum Beispiel:",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "c/o Familie Muster",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Hinterhaus",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Appartement 245",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Sie sind bereits mit einer Wohnung angemeldet?",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Beitragsnummer",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Die 9-stellige Beitragsnummer (früher Teilnehmernummer) finden Sie auf der Anmeldebestätigung, dem Kontoauszug oder auf der Zahlungsaufforderung.",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Anmeldung zu",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Monat",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Jahr",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Geburtsdatum",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Tag",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Monat",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Jahr",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Familienstand",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Bitte auswählen",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "ledig",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "verheiratet",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "eingetragene Lebenspartnerschaft",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "geschieden",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "verwitwet",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "getrennt lebend",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Weiter",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Antragsdaten",
+            "page": 8,
+            "structure": "",
+            "x1": 22,
+            "y1": 200,
+            "x2": 134,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 8,
+            "structure": "",
+            "x1": 138,
+            "y1": 200,
+            "x2": 238,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Zusammenfassung",
+            "page": 8,
+            "structure": "",
+            "x1": 275,
+            "y1": 200,
+            "x2": 395,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Drucken",
+            "page": 8,
+            "structure": "",
+            "x1": 417,
+            "y1": 200,
+            "x2": 517,
+            "y2": 214,
+            "align": ""
+        },
+        {
+            "content": "Persönliche Daten",
+            "page": 8,
+            "structure": ""
+        },
+        {
+            "content": "Korrigieren",
+            "page": 8,
+            "structure": ""
+        },
+        {
+            "content": "Antragsdaten",
+            "page": 8,
             "structure": ""
         },
         {
             "content": "Antrag stellen",
-            "page": 9,
+            "page": 8,
             "structure": ""
         },
         {
             "content": "Bitte beachten Sie auch unseren Datenschutzhinweis",
-            "page": 9,
+            "page": 8,
             "structure": ""
         }
     ],

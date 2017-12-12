@@ -8,9 +8,10 @@ and are not official.
 
 This repository contains
 
--   translations in JSON format (`data/`)
+-   form transcriptions (see [Transcribe forms](#transcribe-forms))
+-   translations in CSV format (`data/`)
 -   a python tool to create a website from those translations. (If you have
-    python-virtualenv and nodejs) installed, you can simply run `make`.)
+    python-virtualenv and nodejs installed, you can simply run `make`.)
 -   a web application that aides in annotationg forms (see [Annotate
     forms](#annotate-forms))
 
@@ -31,6 +32,7 @@ Form transcriptions are stored in `data/*/form.json`. It contains of
 -   the list of strings (rows) in the document
 -   a URI of the official source document
 -   the date of the last revision of that source document
+-   the md5 checksum of the official form file it is based on
 
 If a row is a heading and has a number or similar (e.g. 1, 1.1, 1.1.2, A, B),
 please provide that separately (in the JSON files this is called `structure`).
@@ -45,9 +47,10 @@ Here are some more tipps for transcription:
     alt.`) do not split it into parts but leave it as a whole. This makes
     translation simpler.
 
--   If there is long running texts, do not create one row per paragraph.
-    Instead, create one row for each structural heading and another one for the
-    whole block of text that comes after it.
+-   If there is long running texts, create one row per paragraph.  You can use
+    the `append` field on subsequent rows to make it behave like a single row
+    in the annotation step. The value of the `append` field should be the
+    string that is inserted before the row, e.g. `"\n\n"`.
 
 -   Avoid additional whitespace in the strings.
 
@@ -57,8 +60,8 @@ Here are some more tipps for transcription:
 
 If a page in a form contains relevant lines or graphics, it is included in this
 project as a background image located in `static/forms/`. It should be a SVG
-file without the original margins. It should be named `bg-{i}.svg` where `{i}`
-is the number of the page, starting with 0.
+file. It should be named `bg-{i}.svg` where `{i}` is the number of the page,
+starting with 0.
 
 One way to get those background images is to open a PDF in inkscape and
 removing all text from it. Please leave all structural information (e.g. 1,
@@ -72,7 +75,7 @@ web application contained in this repository
 
 ### Installation
 
-    git https://github.com/xi/formularprojekt.git
+    git clone https://github.com/xi/formularprojekt.git
     cd formularprojekt
     make serve
 
@@ -88,7 +91,7 @@ annotate. Once you have selected one, you can select a row in the right column.
 You can now position the string either by clicking in the left column (click
 sets the top left corner, ctrl-click sets the bottom right corner of the first
 line). You can also tweak the value by using the input fields in the right
-column. These are: x1, x2, width, y1, y2, fontsize, alignment.
+column. These are: `x1`, `x2`, `width`, `y1`, `y2`, `fontsize`, `alignment`.
 
 You can also click "update" in the top bar to reset the data to the latest
 version on the server. This is useful in two cases:

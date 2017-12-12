@@ -139,6 +139,11 @@
             "align": ""
         },
         {
+            "content": "angeklickt \"soziale Gründe\":",
+            "page": 1,
+            "structure": "#"
+        },
+        {
             "content": "Antragsdaten",
             "page": 1,
             "structure": "",
@@ -199,6 +204,16 @@
             "align": ""
         },
         {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 1,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": ALG II (Hartz IV):",
+            "page": 1,
+            "structure": "?"
+        },
+        {
             "content": "Empfänger von **Sozialgeld oder Arbeitslosengeld II** einschließlich von Leistungen nach § 22 des Zweiten Buches des Sozialgesetzbuches",
             "page": 1,
             "structure": "",
@@ -217,6 +232,16 @@
             "x2": 555,
             "y2": 100,
             "align": ""
+        },
+        {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 1,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": Grundsicherung:",
+            "page": 1,
+            "structure": "?"
         },
         {
             "content": "Empfänger von **Grundsicherung im Alter und bei Erwerbsminderung** (Viertes Kapitel des Zwölften Buches des Sozialgesetzbuches)",
@@ -239,6 +264,11 @@
             "align": ""
         },
         {
+            "content": "\"?\": BAföG:",
+            "page": 1,
+            "structure": "?"
+        },
+        {
             "content": "Empfänger von **Ausbildungsförderung** nach dem Bundesausbildungsförderungsgesetz, die **nicht** bei den Eltern wohnen",
             "page": 1,
             "structure": "",
@@ -257,6 +287,11 @@
             "x2": 555,
             "y2": 215,
             "align": ""
+        },
+        {
+            "content": "\"?\": Berufsausbildungsbeihilfe (BAB):",
+            "page": 1,
+            "structure": "?"
         },
         {
             "content": "Empfänger von **Berufsausbildungsbeihilfe** nach den §§ 114, 115 Nr. 2 des Dritten Buches des Sozialgesetzbuches oder nach dem Dritten Kapitel, Dritter Abschnitt, Dritter Unterabschnitt des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen",
@@ -279,6 +314,16 @@
             "align": ""
         },
         {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 1,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": Sozialhilfe:",
+            "page": 1,
+            "structure": "?"
+        },
+        {
             "content": "Empfänger von **Hilfe zum Lebensunterhalt** nach dem Dritten Kapitel des Zwölften Buches des Sozialgesetzbuches (Sozialhilfe) oder nach den §§ 27a oder 27d des Bundesversorgungsgesetzes (BVG)",
             "page": 1,
             "structure": "",
@@ -299,6 +344,11 @@
             "align": ""
         },
         {
+            "content": "\"?\": Ausbildungsgeld (SGB III):",
+            "page": 1,
+            "structure": "?"
+        },
+        {
             "content": "Empfänger von **Ausbildungsgeld** nach §§ 122 ff. des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen.",
             "page": 1,
             "structure": "",
@@ -317,6 +367,16 @@
             "x2": 282,
             "y2": 521,
             "align": ""
+        },
+        {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 1,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": Asylbewerberleistung:",
+            "page": 1,
+            "structure": "?"
         },
         {
             "content": "Empfänger von Leistungen nach dem **Asylbewerberleistungsgesetz** (AsylblG)",
@@ -347,6 +407,11 @@
             "x2": 122,
             "y2": 727,
             "align": ""
+        },
+        {
+            "content": "angeklickt \"BAföG\" oder \"Berufsausbildungsbeihilfe (BAB)\" oder \"Ausbildungsgeld (SGB III)\":",
+            "page": 1,
+            "structure": "#"
         },
         {
             "content": "Antragsdaten",
@@ -404,6 +469,11 @@
             "structure": ""
         },
         {
+            "content": "angeklickt \"Ja\":",
+            "page": 2,
+            "structure": "#"
+        },
+        {
             "content": "Empfänger von BAB können von der Rundfunkbeitragspflicht nur befreit werden, wenn sie nicht bei den Eltern wohnen. Weil Sie bei Ihren Eltern wohnen, kann die Antragsstellung hier nicht fortgesetzt werden.",
             "page": 2,
             "structure": ""
@@ -415,9 +485,24 @@
             "structure": ""
         },
         {
+            "content": "angeklickt \"Nein\":",
+            "page": 2,
+            "structure": "#"
+        },
+        {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 2,
+            "structure": ">"
+        },
+        {
             "content": "Abbrechen",
             "page": 2,
             "structure": ""
+        },
+        {
+            "content": "angeklickt \"weitere Leistungen\":",
+            "page": 3,
+            "structure": "#"
         },
         {
             "content": "Antragsdaten",
@@ -470,6 +555,16 @@
             "structure": ""
         },
         {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 3,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": Hilfe zur Pflege (SGB XII oder BVG):",
+            "page": 3,
+            "structure": "?"
+        },
+        {
             "content": "Empfänger von **Hilfe zur Pflege** nach dem Siebten Kapitel des Zwölften Buches des Sozialgesetzbuches oder von **Hilfe zur Pflege als Leistung der Kriegsopferfürsorge** nach dem Bundesversorgungsgesetz (BVG) oder von **Pflegegeld nach den landesgesetzlichen Vorschriften**",
             "page": 3,
             "structure": ""
@@ -478,6 +573,16 @@
             "content": "Pflegezulagen nach LAG",
             "page": 3,
             "structure": ""
+        },
+        {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 3,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": Pflegezulagen nach LAG:",
+            "page": 3,
+            "structure": "?"
         },
         {
             "content": "Empfänger von **Pflegezulagen** nach § 267 Abs. 1 des Lastenausgleichsgesetzes (LAG) oder Personen, denen wegen Pflegebedürftigkeit nach § 267 Abs. 2 Satz 1 Nr. 2 Buchstabe c LAG ein Freibetrag zuerkannt wird",
@@ -490,6 +595,16 @@
             "structure": ""
         },
         {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 3,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": nach SGB VIII (Kinder- und Jugendhilfe):",
+            "page": 3,
+            "structure": "?"
+        },
+        {
             "content": "**Volljährige**, die im Rahmen einer Leistungsgewährung nach dem Achten Buch des Sozialgesetzbuches (SGB VIII) **in einer stationären Einrichtung** nach § 45 SGB VIII **leben**",
             "page": 3,
             "structure": ""
@@ -498,6 +613,16 @@
             "content": "Blindenhilfe (SGB XII)",
             "page": 3,
             "structure": ""
+        },
+        {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 3,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": Blindenhilfe (SGB XII):",
+            "page": 3,
+            "structure": "?"
         },
         {
             "content": "Empfänger von Blindenhilfe nach § 72 des Zwölften Buches des Sozialgesetzbuches oder nach § 27d des Bundesversorgungsgesetzes (BVG)",
@@ -513,6 +638,11 @@
             "content": "auf Grund einer Einkommensüberschreitung erhalte.",
             "page": 3,
             "structure": ""
+        },
+        {
+            "content": "\"?\": auf Grund einer Einkommensüberschreitung erhalte.:",
+            "page": 3,
+            "structure": "?"
         },
         {
             "content": "Personen, denen eine der in § 4 Abs. 1 Nr. 1-10 Rundfunkbeitragsstaatsvertrag genannten **sozialen Leistungen wegen Überschreitung der Bedarfsgrenze versagt wurde**, wobei die Überschreitung **geringer** als die Höhe des Rundfunkbeitrags ist",
@@ -533,6 +663,11 @@
             "content": "Erhalten Sie eine andere soziale Leistung, die hier nicht zur Auswahl steht, ist eine Befreiung nicht möglich. Zum Beispiel sind Wohngeld oder ALG I keine Voraussetzung für eine Befreiung von der Rundfunkbeitragspflicht.",
             "page": 3,
             "structure": ""
+        },
+        {
+            "content": "angeklickt \"auf Grund einer Einkommensüberschreitung erhalte\":",
+            "page": 4,
+            "structure": "#"
         },
         {
             "content": "Antragsdaten",
@@ -595,6 +730,21 @@
             "structure": ""
         },
         {
+            "content": "angeklickt \"Ja\":",
+            "page": 4,
+            "structure": "#"
+        },
+        {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 4,
+            "structure": ">"
+        },
+        {
+            "content": "angeklickt \"Nein\":",
+            "page": 4,
+            "structure": "#"
+        },
+        {
             "content": "Wenn Sie keine soziale Leistung wegen Einkommensüberschreitung erhalten, ist eine Befreiung von der Rundfunkbeitragspflicht nur möglich, wenn diese weniger als 17,50 Euro beträgt. Weil Ihre Einkommensüberschreitung 17,50 Euro oder mehr beträgt, kann die Antragsstellung hier nicht fortgesetzt werden.",
             "page": 4,
             "structure": ""
@@ -603,6 +753,11 @@
             "content": "Abbrechen",
             "page": 4,
             "structure": ""
+        },
+        {
+            "content": "angeklickt \"gesundheitliche Gründe\":",
+            "page": 5,
+            "structure": "#"
         },
         {
             "content": "Antragsdaten",
@@ -655,6 +810,11 @@
             "structure": ""
         },
         {
+            "content": "\"?\": Blinde oder sehbehinderte Menschen mit einem Grad der Behinderung von wenigstens 60",
+            "page": 5,
+            "structure": "?"
+        },
+        {
             "content": "**Blinde** oder **nicht nur vorübergehend wesentlich sehbehinderte Menschen** mit einem Grad der Behinderung von wenigstens 60 allein wegen der Sehbehinderung, das **Merkzeichen \"RF\"** wurde zuerkannt.",
             "page": 5,
             "structure": ""
@@ -665,6 +825,11 @@
             "structure": ""
         },
         {
+            "content": "\"?\": Hörgeschädigte oder gehörlose Menschen",
+            "page": 5,
+            "structure": "?"
+        },
+        {
             "content": "**Hörgeschädigte Menschen**, die gehörlos sind oder denen eine ausreichende Verständigung über das Gehör auch mit Hörhilfen nicht möglich ist, das **Merkzeichen \"RF\"** wurde zuerkannt.",
             "page": 5,
             "structure": ""
@@ -673,6 +838,11 @@
             "content": "Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80",
             "page": 5,
             "structure": ""
+        },
+        {
+            "content": "\"?\": Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80",
+            "page": 5,
+            "structure": "?"
         },
         {
             "content": "**Behinderte Menschen**, deren Grad der Behinderung nicht nur vorübergehend wenigstens 80 beträgt und die wegen ihres Leidens an öffentlichen Veranstaltungen ständig nicht teilnehmen können, das **Merkzeichen \"RF\"** wurde zuerkannt.",
@@ -690,6 +860,16 @@
             "structure": ""
         },
         {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 5,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": taubblinde Menschen",
+            "page": 5,
+            "structure": "?"
+        },
+        {
             "content": "Taubblindheit im Sinne des Rundfunkbeitragsstaatsvertrages liegt vor, wenn auf dem besseren Ohr eine 'an Taubheit grenzende Schwerhörigkeit' und auf dem besseren Auge eine 'hochgradige Sehbehinderung' gegeben ist",
             "page": 5,
             "structure": ""
@@ -700,6 +880,16 @@
             "structure": ""
         },
         {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 5,
+            "structure": ">"
+        },
+        {
+            "content": "\"?\": Sonderfürsorgeberechtigte",
+            "page": 5,
+            "structure": "?"
+        },
+        {
             "content": "**Sonderfürsorgeberechtigte** im Sinne des § 27e Bundesversorgungsgesetzes (BVG)",
             "page": 5,
             "structure": ""
@@ -708,6 +898,11 @@
             "content": "Zurück",
             "page": 5,
             "structure": ""
+        },
+        {
+            "content": "angeklickt \"Blinde oder sehbehinderte Menschen\" oder \"Behinderte Menschen\" oder \"Hörgeschädigte Menschen\":",
+            "page": 6,
+            "structure": "#"
         },
         {
             "content": "Antragsdaten",
@@ -763,6 +958,16 @@
             "content": "Nein",
             "page": 6,
             "structure": ""
+        },
+        {
+            "content": "angeklickt \"Ja\":",
+            "page": 6,
+            "structure": "#"
+        },
+        {
+            "content": "weiter \"Persönliche Daten\"",
+            "page": 6,
+            "structure": ">"
         },
         {
             "content": "Eine Ermäßigung des Rundfunkbeitrags ist nur möglich, wenn Ihnen das Merkzeichen \"RF\" zuerkannt wurde. Weil Ihnen dieses Merkzeichen nicht zuerkannt wurde, kann die Antragsstellung hier nicht fortgesetzt werden.",
@@ -895,14 +1100,29 @@
             "structure": ""
         },
         {
+            "content": "angeklickt \"Ja\":",
+            "page": 7,
+            "structure": "#"
+        },
+        {
             "content": "Beitragsnummer",
             "page": 7,
             "structure": ""
         },
         {
+            "content": "\"?\": Beitragsnummer",
+            "page": 7,
+            "structure": "?"
+        },
+        {
             "content": "Die 9-stellige Beitragsnummer (früher Teilnehmernummer) finden Sie auf der Anmeldebestätigung, dem Kontoauszug oder auf der Zahlungsaufforderung.",
             "page": 7,
             "structure": ""
+        },
+        {
+            "content": "angeklickt \"Nein\":",
+            "page": 7,
+            "structure": "#"
         },
         {
             "content": "Anmeldung zu",

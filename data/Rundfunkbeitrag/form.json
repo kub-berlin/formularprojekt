@@ -141,16 +141,21 @@
         {
             "content": "angeklickt \"soziale Gründe\":",
             "page": 1,
-            "structure": "#"
+            "structure": "#",
+            "x1": 22,
+            "y1": 18,
+            "x2": 542,
+            "y2": 34,
+            "align": ""
         },
         {
             "content": "Antragsdaten",
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 23,
+            "y1": 46,
             "x2": 139,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -158,9 +163,9 @@
             "page": 1,
             "structure": "",
             "x1": 138,
-            "y1": 23,
+            "y1": 46,
             "x2": 292,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -168,9 +173,9 @@
             "page": 1,
             "structure": "",
             "x1": 296,
-            "y1": 23,
+            "y1": 46,
             "x2": 445,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -178,9 +183,9 @@
             "page": 1,
             "structure": "",
             "x1": 450,
-            "y1": 23,
+            "y1": 46,
             "x2": 557,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -188,9 +193,9 @@
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 58,
+            "y1": 74,
             "x2": 542,
-            "y2": 72,
+            "y2": 88,
             "align": ""
         },
         {
@@ -198,29 +203,39 @@
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 90,
+            "y1": 104,
             "x2": 282,
-            "y2": 102,
+            "y2": 116,
             "align": ""
         },
         {
             "content": "weiter \"Persönliche Daten\"",
             "page": 1,
-            "structure": ">"
+            "structure": ">",
+            "x1": 22,
+            "y1": 121,
+            "x2": 280,
+            "y2": 132,
+            "align": ""
         },
         {
             "content": "\"?\": ALG II (Hartz IV):",
             "page": 1,
-            "structure": "?"
+            "structure": "?",
+            "x1": 22,
+            "y1": 139,
+            "x2": 280,
+            "y2": 150,
+            "align": ""
         },
         {
             "content": "Empfänger von **Sozialgeld oder Arbeitslosengeld II** einschließlich von Leistungen nach § 22 des Zweiten Buches des Sozialgesetzbuches",
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 109,
+            "y1": 159,
             "x2": 282,
-            "y2": 120,
+            "y2": 170,
             "align": ""
         },
         {
@@ -228,29 +243,39 @@
             "page": 1,
             "structure": "",
             "x1": 295,
-            "y1": 88,
+            "y1": 104,
             "x2": 555,
-            "y2": 100,
+            "y2": 116,
             "align": ""
         },
         {
             "content": "weiter \"Persönliche Daten\"",
             "page": 1,
-            "structure": ">"
+            "structure": ">",
+            "x1": 295,
+            "y1": 121,
+            "x2": 545,
+            "y2": 132,
+            "align": ""
         },
         {
             "content": "\"?\": Grundsicherung:",
             "page": 1,
-            "structure": "?"
+            "structure": "?",
+            "x1": 296,
+            "y1": 140,
+            "x2": 545,
+            "y2": 152,
+            "align": ""
         },
         {
             "content": "Empfänger von **Grundsicherung im Alter und bei Erwerbsminderung** (Viertes Kapitel des Zwölften Buches des Sozialgesetzbuches)",
             "page": 1,
             "structure": "",
             "x1": 295,
-            "y1": 109,
+            "y1": 158,
             "x2": 555,
-            "y2": 120,
+            "y2": 169,
             "align": ""
         },
         {
@@ -258,24 +283,29 @@
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 203,
+            "y1": 226,
             "x2": 282,
-            "y2": 215,
+            "y2": 238,
             "align": ""
         },
         {
             "content": "\"?\": BAföG:",
             "page": 1,
-            "structure": "?"
+            "structure": "?",
+            "x1": 22,
+            "y1": 243,
+            "x2": 276,
+            "y2": 254,
+            "align": ""
         },
         {
             "content": "Empfänger von **Ausbildungsförderung** nach dem Bundesausbildungsförderungsgesetz, die **nicht** bei den Eltern wohnen",
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 233,
+            "y1": 263,
             "x2": 282,
-            "y2": 244,
+            "y2": 274,
             "align": ""
         },
         {
@@ -283,24 +313,29 @@
             "page": 1,
             "structure": "",
             "x1": 295,
-            "y1": 203,
+            "y1": 226,
             "x2": 555,
-            "y2": 215,
+            "y2": 238,
             "align": ""
         },
         {
             "content": "\"?\": Berufsausbildungsbeihilfe (BAB):",
             "page": 1,
-            "structure": "?"
+            "structure": "?",
+            "x1": 295,
+            "y1": 243,
+            "x2": 561,
+            "y2": 254,
+            "align": ""
         },
         {
             "content": "Empfänger von **Berufsausbildungsbeihilfe** nach den §§ 114, 115 Nr. 2 des Dritten Buches des Sozialgesetzbuches oder nach dem Dritten Kapitel, Dritter Abschnitt, Dritter Unterabschnitt des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen",
             "page": 1,
             "structure": "",
             "x1": 295,
-            "y1": 233,
+            "y1": 263,
             "x2": 555,
-            "y2": 244,
+            "y2": 274,
             "align": ""
         },
         {
@@ -308,29 +343,39 @@
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 349,
+            "y1": 368,
             "x2": 282,
-            "y2": 361,
+            "y2": 380,
             "align": ""
         },
         {
             "content": "weiter \"Persönliche Daten\"",
             "page": 1,
-            "structure": ">"
+            "structure": ">",
+            "x1": 22,
+            "y1": 388,
+            "x2": 280,
+            "y2": 399,
+            "align": ""
         },
         {
             "content": "\"?\": Sozialhilfe:",
             "page": 1,
-            "structure": "?"
+            "structure": "?",
+            "x1": 22,
+            "y1": 406,
+            "x2": 271,
+            "y2": 417,
+            "align": ""
         },
         {
             "content": "Empfänger von **Hilfe zum Lebensunterhalt** nach dem Dritten Kapitel des Zwölften Buches des Sozialgesetzbuches (Sozialhilfe) oder nach den §§ 27a oder 27d des Bundesversorgungsgesetzes (BVG)",
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 374,
+            "y1": 426,
             "x2": 282,
-            "y2": 385,
+            "y2": 437,
             "align": ""
         },
         {
@@ -338,24 +383,29 @@
             "page": 1,
             "structure": "",
             "x1": 295,
-            "y1": 349,
+            "y1": 369,
             "x2": 555,
-            "y2": 361,
+            "y2": 381,
             "align": ""
         },
         {
             "content": "\"?\": Ausbildungsgeld (SGB III):",
             "page": 1,
-            "structure": "?"
+            "structure": "?",
+            "x1": 295,
+            "y1": 406,
+            "x2": 553,
+            "y2": 417,
+            "align": ""
         },
         {
             "content": "Empfänger von **Ausbildungsgeld** nach §§ 122 ff. des Dritten Buches des Sozialgesetzbuches, die **nicht** bei den Eltern wohnen.",
             "page": 1,
             "structure": "",
             "x1": 295,
-            "y1": 374,
+            "y1": 426,
             "x2": 555,
-            "y2": 385,
+            "y2": 437,
             "align": ""
         },
         {
@@ -363,29 +413,39 @@
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 509,
+            "y1": 533,
             "x2": 282,
-            "y2": 521,
+            "y2": 545,
             "align": ""
         },
         {
             "content": "weiter \"Persönliche Daten\"",
             "page": 1,
-            "structure": ">"
+            "structure": ">",
+            "x1": 22,
+            "y1": 556,
+            "x2": 280,
+            "y2": 567,
+            "align": ""
         },
         {
             "content": "\"?\": Asylbewerberleistung:",
             "page": 1,
-            "structure": "?"
+            "structure": "?",
+            "x1": 22,
+            "y1": 576,
+            "x2": 267,
+            "y2": 587,
+            "align": ""
         },
         {
             "content": "Empfänger von Leistungen nach dem **Asylbewerberleistungsgesetz** (AsylblG)",
             "page": 1,
             "structure": "",
             "x1": 22,
-            "y1": 535,
+            "y1": 594,
             "x2": 282,
-            "y2": 546,
+            "y2": 605,
             "align": ""
         },
         {
@@ -393,9 +453,9 @@
             "page": 1,
             "structure": "",
             "x1": 295,
-            "y1": 509,
+            "y1": 533,
             "x2": 555,
-            "y2": 521,
+            "y2": 545,
             "align": ""
         },
         {
@@ -418,9 +478,9 @@
             "page": 2,
             "structure": "",
             "x1": 22,
-            "y1": 23,
+            "y1": 46,
             "x2": 134,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -428,9 +488,9 @@
             "page": 2,
             "structure": "",
             "x1": 138,
-            "y1": 23,
+            "y1": 46,
             "x2": 292,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -438,9 +498,9 @@
             "page": 2,
             "structure": "",
             "x1": 296,
-            "y1": 23,
+            "y1": 46,
             "x2": 448,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -448,25 +508,40 @@
             "page": 2,
             "structure": "",
             "x1": 450,
-            "y1": 23,
+            "y1": 46,
             "x2": 563,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
             "content": "Ich wohne bei meinen Eltern?",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 91,
+            "x2": 542,
+            "y2": 105,
+            "align": ""
         },
         {
             "content": "Ja",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 122,
+            "x2": 122,
+            "y2": 134,
+            "align": ""
         },
         {
             "content": "Nein",
             "page": 2,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 149,
+            "x2": 122,
+            "y2": 161,
+            "align": ""
         },
         {
             "content": "angeklickt \"Ja\":",
@@ -502,16 +577,21 @@
         {
             "content": "angeklickt \"weitere Leistungen\":",
             "page": 3,
-            "structure": "#"
+            "structure": "#",
+            "x1": 22,
+            "y1": 18,
+            "x2": 542,
+            "y2": 34,
+            "align": ""
         },
         {
             "content": "Antragsdaten",
             "page": 3,
             "structure": "",
             "x1": 22,
-            "y1": 23,
+            "y1": 46,
             "x2": 134,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -519,9 +599,9 @@
             "page": 3,
             "structure": "",
             "x1": 138,
-            "y1": 23,
+            "y1": 46,
             "x2": 294,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -529,9 +609,9 @@
             "page": 3,
             "structure": "",
             "x1": 296,
-            "y1": 23,
+            "y1": 46,
             "x2": 445,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
@@ -539,120 +619,230 @@
             "page": 3,
             "structure": "",
             "x1": 450,
-            "y1": 23,
+            "y1": 46,
             "x2": 566,
-            "y2": 37,
+            "y2": 60,
             "align": ""
         },
         {
             "content": "Ich möchte befreit werden, weil ich eine der folgenden Leistungen erhalte...",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 82,
+            "x2": 542,
+            "y2": 96,
+            "align": ""
         },
         {
             "content": "Hilfe zur Pflege (SGB XII oder BVG)",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 116,
+            "x2": 282,
+            "y2": 128,
+            "align": ""
         },
         {
             "content": "weiter \"Persönliche Daten\"",
             "page": 3,
-            "structure": ">"
+            "structure": ">",
+            "x1": 22,
+            "y1": 139,
+            "x2": 282,
+            "y2": 150,
+            "align": ""
         },
         {
             "content": "\"?\": Hilfe zur Pflege (SGB XII oder BVG):",
             "page": 3,
-            "structure": "?"
+            "structure": "?",
+            "x1": 22,
+            "y1": 164,
+            "x2": 282,
+            "y2": 175,
+            "align": ""
         },
         {
             "content": "Empfänger von **Hilfe zur Pflege** nach dem Siebten Kapitel des Zwölften Buches des Sozialgesetzbuches oder von **Hilfe zur Pflege als Leistung der Kriegsopferfürsorge** nach dem Bundesversorgungsgesetz (BVG) oder von **Pflegegeld nach den landesgesetzlichen Vorschriften**",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 190,
+            "x2": 282,
+            "y2": 201,
+            "align": ""
         },
         {
             "content": "Pflegezulagen nach LAG",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 116,
+            "x2": 564,
+            "y2": 128,
+            "align": ""
         },
         {
             "content": "weiter \"Persönliche Daten\"",
             "page": 3,
-            "structure": ">"
+            "structure": ">",
+            "x1": 295,
+            "y1": 139,
+            "x2": 562,
+            "y2": 150,
+            "align": ""
         },
         {
             "content": "\"?\": Pflegezulagen nach LAG:",
             "page": 3,
-            "structure": "?"
+            "structure": "?",
+            "x1": 295,
+            "y1": 164,
+            "x2": 564,
+            "y2": 175,
+            "align": ""
         },
         {
             "content": "Empfänger von **Pflegezulagen** nach § 267 Abs. 1 des Lastenausgleichsgesetzes (LAG) oder Personen, denen wegen Pflegebedürftigkeit nach § 267 Abs. 2 Satz 1 Nr. 2 Buchstabe c LAG ein Freibetrag zuerkannt wird",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 190,
+            "x2": 562,
+            "y2": 201,
+            "align": ""
         },
         {
             "content": "nach SGB VIII (Kinder- und Jugendhilfe)",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 314,
+            "x2": 273,
+            "y2": 326,
+            "align": ""
         },
         {
             "content": "weiter \"Persönliche Daten\"",
             "page": 3,
-            "structure": ">"
+            "structure": ">",
+            "x1": 22,
+            "y1": 340,
+            "x2": 265,
+            "y2": 351,
+            "align": ""
         },
         {
             "content": "\"?\": nach SGB VIII (Kinder- und Jugendhilfe):",
             "page": 3,
-            "structure": "?"
+            "structure": "?",
+            "x1": 22,
+            "y1": 371,
+            "x2": 265,
+            "y2": 382,
+            "align": ""
         },
         {
             "content": "**Volljährige**, die im Rahmen einer Leistungsgewährung nach dem Achten Buch des Sozialgesetzbuches (SGB VIII) **in einer stationären Einrichtung** nach § 45 SGB VIII **leben**",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 402,
+            "x2": 265,
+            "y2": 413,
+            "align": ""
         },
         {
             "content": "Blindenhilfe (SGB XII)",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 314,
+            "x2": 558,
+            "y2": 326,
+            "align": ""
         },
         {
             "content": "weiter \"Persönliche Daten\"",
             "page": 3,
-            "structure": ">"
+            "structure": ">",
+            "x1": 295,
+            "y1": 340,
+            "x2": 558,
+            "y2": 351,
+            "align": ""
         },
         {
             "content": "\"?\": Blindenhilfe (SGB XII):",
             "page": 3,
-            "structure": "?"
+            "structure": "?",
+            "x1": 295,
+            "y1": 371,
+            "x2": 558,
+            "y2": 382,
+            "align": ""
         },
         {
             "content": "Empfänger von Blindenhilfe nach § 72 des Zwölften Buches des Sozialgesetzbuches oder nach § 27d des Bundesversorgungsgesetzes (BVG)",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 295,
+            "y1": 402,
+            "x2": 558,
+            "y2": 413,
+            "align": ""
         },
         {
             "content": "Ich möchte befreit werden, weil ich keine der unter § 4 Abs. 1 Nr. 1-10 RBStV aufgeführten sozialen Leistungen...",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 512,
+            "x2": 542,
+            "y2": 526,
+            "align": ""
         },
         {
             "content": "auf Grund einer Einkommensüberschreitung erhalte.",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 564,
+            "x2": 542,
+            "y2": 576,
+            "align": ""
         },
         {
             "content": "\"?\": auf Grund einer Einkommensüberschreitung erhalte.:",
             "page": 3,
-            "structure": "?"
+            "structure": "?",
+            "x1": 22,
+            "y1": 593,
+            "x2": 542,
+            "y2": 604,
+            "align": ""
         },
         {
             "content": "Personen, denen eine der in § 4 Abs. 1 Nr. 1-10 Rundfunkbeitragsstaatsvertrag genannten **sozialen Leistungen wegen Überschreitung der Bedarfsgrenze versagt wurde**, wobei die Überschreitung **geringer** als die Höhe des Rundfunkbeitrags ist",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 625,
+            "x2": 542,
+            "y2": 636,
+            "align": ""
         },
         {
             "content": "Zurück",
             "page": 3,
-            "structure": ""
+            "structure": "",
+            "x1": 22,
+            "y1": 734,
+            "x2": 122,
+            "y2": 748,
+            "align": ""
         },
         {
             "content": "Hinweis",

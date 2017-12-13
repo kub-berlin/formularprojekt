@@ -1,14 +1,10 @@
 Name und Vorname der antragstellenden Person,Dilekceyi verenin soyadi ve adi
 Kindergeld-Nr.,çockuk Yardım Parası No.
 Familienkasse,Aile fonu
-Bitte beachten Sie die Hinweise zum Antrag auf Kindergeld und das Merkblatt Kindergeld.,
 Anlage Kind,Cocuk fonu eki
 zum Antrag auf Kindergeld vom,Cocuk Yardim Parasi dilekcesi
 Lfd. Nr. ...... .,Siralama No.
 Erstantrag bei Geburt,Dogumdan sonra ilk dilekce
-Angaben zum Kind,
-"Bei erstmaligem Antrag notwendige Unterlagen (Geburtsurkunde bzw. -bescheinigung, Annahmebeschluss) beifügen.",
-"Steuerliche Identifikationsnummer des Kindes (soweit vergeben, zwingend ausfüllen)",
 Vorname,Adı
 ggf. abweichender Familienname,eger soyadi degisikse
 Geburtsdatum,Doğum tarihi
@@ -16,54 +12,30 @@ Geburtsort,Doğum yeri
 Geschlecht,Cinsiyeti
 ggf. abweichende Anschrift (bei Wohnort im Ausland bitte auch den Staat angeben),eger adresi degisikse (lütfen yurtdisinda yasiyorsa lütfen sehiride yaziniz)
 "Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern/in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)",Adresin degisik olmasinin sebepi (mesela büyük annesinde/babasinda veya yurtda yasiyorsa)
-Kindschaftsverhältnis,
-zur antragstellenden Person:,
 leibliches Kind/Adoptivkind,öz cocugu/evlatlik
 Pflegekind,evlatlik
 Enkelkind/Stiefkind,Torun/Üvey cocuk
-zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in:,
-zu anderen Personen:,
 "ja, bitte hier Angaben machen","Evet, lütfen buraya bilgilendirin"
 nein,Hayır
 "Name, Vorname","Adı, soyadı"
 Art des Kindschaftsverhältnisses,Aile yakinlik derece
 letzte bekannte Anschrift,son verilen adres
 Staatsangehörigkeit,Uyruğu
-Ort der Tätigkeit (ggf. im Ausland),
 "Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,",ergin cocugun yakin zamanda 18. yasini dolduran coucugun bilgiler
 sonst weiter bei Punkt 4:,yoksa 4 ile devam edin
 Das Kind,Cocuk..
-ab/von,
 bis,şu tarihe kadar
-"befand sich/befindet sich/wird sich befinden in Schul-, Hochschul- oder Berufsausbildung",
-"Bezeichnung der Schul-, Hochschul- oder Berufsausbildung:",
-konnte/kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen,
-"leistete/leistet/wird leisten ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen, einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz)",
-befand/befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten),
-war/ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet,
-"war/ist wegen einer vor Vollendung des 25. Lebensjahres eingetretenen Behinderung außerstande, sich selbst finanziell zu unterhalten",
 Angaben zur Erwerbstätigkeit eines volljährigen Kindes (nur bei Eintragungen unter a) bis d)),ergen cocugun isi hakkinda bilgileri (sadece a)-d) sikkindaki bilgileri)
-Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Erststudium abgeschlossen bzw. wird diese in Kürze abschließen,
-"ja, am .....",
-nein (weiter bei 4.),
-Das Kind war/ist erwerbstätig bzw. wird erwerbstätig sein,
 ja,Evet
-Tätigkeit,
-"eine oder mehrere geringfügige Beschäftigung(en) im Sinne der §§ 8, 8a SGB IV (sog. Minijob)",
-andere Erwerbstätigkeiten,
 (bei mehreren Beschäftigungen Angaben auf gesondertem Blatt),(birden fazla iste calisiyorsa ayrintili olarak aciklayin)
 Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden,toplam anlasmali haftalik calisma saati
-"Dienstherr bzw. Arbeitgeber (Name, Anschrift):",
 Nachweise zu den Angaben für ein volljähriges Kind:,Ergen cocugun bilgilerin belgeleri
 sind beigefügt,eklenmistir
 liegen bereits vor,verilmistir
 werden nachgereicht,verilecektir
 Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?,Siz veya bir baskasi bu cocuk icin Aile Fonundan Cocuk Yardim Parasi aliyor/musunuz veya dilekce verdi/nizmi?
-"Name, Vorname der antragstellenden bzw. beziehenden Person",
-Datum/Zeitraum (von – bis),
 Kindergeldnummer,cocuk yardim para No.
 "Familienkasse, Anschrift","Aile fonu, adres"
-Besteht oder bestand für Sie oder eine andere Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?,
 "Name, Vorname der beziehenden Person","Parayi alanin soyadi, adi"
 geboren am,Doğum Tarihi
 Leistung,yardim bedeli
@@ -73,8 +45,6 @@ Zeitraum (von – bis),zaman süreci (...itibaren ... kadar)
 leistende Stelle,yardim aldiginz kurum
 "Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung:",Siz veya bir baskasi bu cocukla bir aile bagiminda olan dilekceyi vermeden son 5 senede ...
 im öffentlichen Dienst tätig?,kamu personeli olarak calisdinizmi?
-"außerhalb Deutschlands als Arbeitnehmer/in, Selbständige/Selbständiger, Entwicklungshelfer/in tätig?",
-in Deutschland bei einer Dienststelle oder Einrichtung eines anderen Staates/als Angehöriger/Angehörige der NATO-Streitkräfte tätig?,
 in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?,alman is veren Almanya disindan bir ülkeye calismak icin gönderdimi?
 "Wenn ja, bitte hier Angaben machen:","Eger evetse, lütfen bilgilendirin"
 "Name, Vorname des Beschäftigten","Iscinin soyadi, adi"

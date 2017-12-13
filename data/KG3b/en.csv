@@ -9,7 +9,6 @@ durch Herrn/Frau,by Mr./Ms.
 Name,Surname
 Vorname,First name
 Geburtsdatum,Date of birth
-"Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)",
 Familienstand:,Family status:
 ledig,single
 seit,since
@@ -23,12 +22,8 @@ lfd. Nr.,Serial number
 Name und Vorname des Kindes,Surname and first name of the child
 geboren am,born on
 In Deutschland seit *),In Germany since *)
-"*) Bei Kindern, die *nicht* die deutsche Staatsangehörigkeit haben, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.",
-wie folgt wohnhaft ist/sind.,
 "Person oder Institution, bei der das Kind/die Kinder lebt/leben",Person or institution with whom/which the child/children is/are living
 (Datum),(date)
-(Unterschrift der kindergeldberechtigten Person),
-Bescheinigung der Angaben,
 "Es wird hiermit bescheinigt, dass das/die unter lfd. Nr. .... bis lfd. Nr. ... aufgeführte/n Kind/er nach den hier vorhandenen Unterlagen bzw. Erkenntnissen wie angegeben gemeldet bzw. wohnhaft ist/sind.",This is to certify that according to present documents – to personal state of knowledge – the child/children of consecutive number .... to consecutive number ..... is/are residing as stated.
 Bemerkungen:,Remarks:
 Dienstsiegel oder Stempel (falls vorhanden),Official seal or stamp (if available)

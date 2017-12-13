@@ -67,7 +67,9 @@ def write_translation(form_id, lang_id, data):
             key = row.get('content')
             if key and key not in keys:
                 keys.append(key)
-                w.writerow((key, data.get(key)))
+                value = data.get(key)
+                if value:
+                    w.writerow((key, value))
 
 
 def iter_forms():

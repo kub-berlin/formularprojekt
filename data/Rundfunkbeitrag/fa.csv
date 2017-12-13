@@ -7,7 +7,6 @@ Zusammenfassung prüfen,۳- بررسی جمع بندی
 Antrag ausdrucken,۴- پرینت درخواست
 Antragsdaten,مشخصات درخواست
 Persönliche Daten,داده های شخصی
-Zusammenfassung,
 Drucken,چاپ کنید.
 "Ich möchte befreit/ermäßigt werden, aus...",من می خواهم که معاف شوم/تخفیف بگیرم، به دلیل...
 sozialen Gründen.,دلایل رفاهی.
@@ -46,14 +45,12 @@ Nein,نه
 "Empfänger von BAB können von der Rundfunkbeitragspflicht nur befreit werden, wenn sie nicht bei den Eltern wohnen. Weil Sie bei Ihren Eltern wohnen, kann die Antragsstellung hier nicht fortgesetzt werden.",دریافت کنندگان کمک های حرفه آموزی فقط می توانند درصورتی از پرداخت هزینه های صدا و سیما معاف شوند که با والدینشان زندگی نکنند. چون شما با والدینتان زندگی می کنید درخواست نمی توانید درخواست را ادامه دهید.
 "Falls Sie bereits bei uns angemeldet sind, prüfen Sie bitte, ob ggf. eine Abmeldung für Sie in Frage kommt. Informationen finden Sie hier.",در صورتی که شما خودتان را ثبت نام کرده اید.
 "angeklickt ""Nein"":","کلیک ""نه"":"
-Abbrechen,
 "angeklickt ""weitere Leistungen"":","کلیک"" خدمات دیگر"":"
 Hilfe zur Pflege (SGB XII oder BVG),کمک به منظور مراقبت و پرستاری
 """?"": Hilfe zur Pflege (SGB XII oder BVG):","""؟"":کمک به منظور مراقبت و پرستاری (SGB XII یا BVG):"
 Empfänger von **Hilfe zur Pflege** nach dem Siebten Kapitel des Zwölften Buches des Sozialgesetzbuches oder von **Hilfe zur Pflege als Leistung der Kriegsopferfürsorge** nach dem Bundesversorgungsgesetz (BVG) oder von **Pflegegeld nach den landesgesetzlichen Vorschriften**,دریافت کننده ی **کمک به منظور مراقبت و پرستاری** طبق فصل هفتم از کتاب دوازدهم یا کتاب قانون اجتماعی براساس ** کمک به قربانیان جنگی** بر اساس قانون تامین اجتماعی (BVG) یا ** حقوق مراقبتی و پرستاری بر اساس قانون ایالتی**
 Pflegezulagen nach LAG,کمک هزینه های مراقبت مطابق با LAG
 """?"": Pflegezulagen nach LAG:","""؟"":کمک هزینه های مراقبت مطابق با LAG :"
-"Empfänger von **Pflegezulagen** nach § 267 Abs. 1 des Lastenausgleichsgesetzes (LAG) oder Personen, denen wegen Pflegebedürftigkeit nach § 267 Abs. 2 Satz 1 Nr. 2 Buchstabe c LAG ein Freibetrag zuerkannt wird",
 nach SGB VIII (Kinder- und Jugendhilfe),طبق SGB VIII ( کمک به کودکان و نوجوانان)
 """?"": nach SGB VIII (Kinder- und Jugendhilfe):","""؟"": طبق SGB VIII ( کمک به کودکان و نوجوانان):"
 "**Volljährige**, die im Rahmen einer Leistungsgewährung nach dem Achten Buch des Sozialgesetzbuches (SGB VIII) **in einer stationären Einrichtung** nach § 45 SGB VIII **leben**",(**افراد بالغ**، که در چارچوب مزایای کتاب هشتم( SGB VIII) کتاب قانون اجتماعی ** در یک مرکز مراقبتی** طبق بند 45 SGB VIII **زندگی می کنند**
@@ -62,10 +59,7 @@ Blindenhilfe (SGB XII),کمک به نابینایان (SGB XII)
 Empfänger von Blindenhilfe nach § 72 des Zwölften Buches des Sozialgesetzbuches oder nach § 27d des Bundesversorgungsgesetzes (BVG),دریافت کننده ی کمک های نابینایی طبق بند 72 کتاب دوازدهم از کتاب قانون اجتماعی یا طبق بند 27d قانون تامین اجتماعی (BVG)
 "Ich möchte befreit werden, weil ich keine der unter § 4 Abs. 1 Nr. 1-10 RBStV aufgeführten sozialen Leistungen...",من می خواهم معاف شوم، چون من هیچکدام از خدمات رفاهی نامبرده شده طبق بند 4 پاراگراف 1 Nr. 1-10 RBStV...
 auf Grund einer Einkommensüberschreitung erhalte.,به دلیل تجاوز از سقف درآمد دریافت نمی کنم.
-"""?"": auf Grund einer Einkommensüberschreitung erhalte.:",
 "Personen, denen eine der in § 4 Abs. 1 Nr. 1-10 Rundfunkbeitragsstaatsvertrag genannten **sozialen Leistungen wegen Überschreitung der Bedarfsgrenze versagt wurde**, wobei die Überschreitung **geringer** als die Höhe des Rundfunkbeitrags ist",اشخاصی ، که بر اساس بند 4 پاراگراف 1 شماره ی 1-10 هزینه های صدا و سیما که ** از خدمات رفاهی منع شده اند به دلیل تجاوز از سقف درآمد** ، در حالیکه تجاوز از سقف درآمد **کمتر** از هزینه های صدا و سیما است.
-Hinweis,
-"Erhalten Sie eine andere soziale Leistung, die hier nicht zur Auswahl steht, ist eine Befreiung nicht möglich. Zum Beispiel sind Wohngeld oder ALG I keine Voraussetzung für eine Befreiung von der Rundfunkbeitragspflicht.",
 "angeklickt ""auf Grund einer Einkommensüberschreitung erhalte"":","کلیک ""به دلیل تجاوز از سقف درآمد دریافت می کنم"":"
 Ich habe auf Grund einer Einkommensüberschreitung keinen Anspruch auf eine der unter § 4 Abs. 1 RBStV aufgeführten sozialen Leistungen.,من به دلیل درآمد بیش از حد مشمول هیچکدام از خدمات رفاهی نامبرده شده در بند 4 پاراگراف1 RBStV نمی شوم.
 "Die Einkommensüberschreitung liegt unter 17,50 Euro?","تجاوز از سقف درآمد کمتر از 17,50 Euro؟"
@@ -73,20 +67,15 @@ Ich habe auf Grund einer Einkommensüberschreitung keinen Anspruch auf eine der 
 "angeklickt ""gesundheitliche Gründe"":","کلیک ""دلایل سلامتی"":"
 "Ich möchte eine Ermäßigung des Rundfunkbeitrags beantragen, weil ich zu folgendem Personenkreis gehöre:",من می خواهم یک تخفیف از هزینه های صدا و سیما در خواست دهم، چون به گروه های مقابل متعلق هستم:
 Blinde oder sehbehinderte Menschen mit einem Grad der Behinderung von wenigstens 60,نابینایان یا افراد با معلولیت بینایی با درجه ی معلولیت حداقل 60
-"""?"": Blinde oder sehbehinderte Menschen mit einem Grad der Behinderung von wenigstens 60",
 "**Blinde** oder **nicht nur vorübergehend wesentlich sehbehinderte Menschen** mit einem Grad der Behinderung von wenigstens 60 allein wegen der Sehbehinderung, das **Merkzeichen ""RF""** wurde zuerkannt.","**نابینایان** یا **افراد با معلولیت بینایی دائمی** با درجه معلولیت حداقل 60 فقط به خاطر کم بینایی **شناسه ی ""RF""** تعلق گرفته."
 Hörgeschädigte oder gehörlose Menschen,افراد ناشنوا یا افراد با مشکلات شنوایی
-"""?"": Hörgeschädigte oder gehörlose Menschen",
 "**Hörgeschädigte Menschen**, die gehörlos sind oder denen eine ausreichende Verständigung über das Gehör auch mit Hörhilfen nicht möglich ist, das **Merkzeichen ""RF""** wurde zuerkannt.","**افراد با مشکلات شنوایی**، که یا ناشنوا هستند و یا ارتباط از طریق گوش حتی با وسایل کمکی مثل سمعک میسر نیست که به آنها **شناسه ی ""RF""** تعلق می گیرد."
 Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80,افراد معلول با درجه ی معلولیت حداقل 80
-"""?"": Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80",
 "**Behinderte Menschen**, deren Grad der Behinderung nicht nur vorübergehend wenigstens 80 beträgt und die wegen ihres Leidens an öffentlichen Veranstaltungen ständig nicht teilnehmen können, das **Merkzeichen ""RF""** wurde zuerkannt.","**افراد معلول**، که درجه ی معلولیت نه موقت آنها حداقل 80 باشد و به خاطر مشکلات در مراسم عمومی نمی توانند به طور مستمر شرکت کنند، که **شناسه ی ""RF""** به آنها تعلق می گیرد."
 "Ich möchte befreit werden, weil ich zu einem der folgenden Personenkreise gehöre:",من می خواهم یک تخفیف از هزینه های صدا و سیما در خواست دهم، چون به گروه های مقابل متعلق هستم:
 taubblinde Menschen,افراد ناشنوا و نابینا
-"""?"": taubblinde Menschen",
 "Taubblindheit im Sinne des Rundfunkbeitragsstaatsvertrages liegt vor, wenn auf dem besseren Ohr eine 'an Taubheit grenzende Schwerhörigkeit' und auf dem besseren Auge eine 'hochgradige Sehbehinderung' gegeben ist",نابینایی و ناشنوایی بر اساس قرارداد صدا و سیما وقتی وجود دارد که برای گوش بهتر یک درجه ی بالایی از معلولیت شنوایی وجود دارد و برای چشم بهتر یه معلولیت بالای بینایی وجود دارد.
 Sonderfürsorgeberechtigte,افراد مستحق مراقبت های ویژه
-"""?"": Sonderfürsorgeberechtigte",
 **Sonderfürsorgeberechtigte** im Sinne des § 27e Bundesversorgungsgesetzes (BVG),**افراد مستحق مراقبت های ویژه** براساس قانون 27e قانون تامین اجتماعی (BVG)
 "angeklickt ""Blinde oder sehbehinderte Menschen"" oder ""Behinderte Menschen"" oder ""Hörgeschädigte Menschen"":","کلیک""افراد نابینا یا با معلولیت بینایی"" یا ""افراد معلول"" یا "" افراد با مشکلات شنوایی"":"
 "Wurde Ihnen das Merkzeichen ""RF"" zuerkannt?","شناسه ی ""RF"" به شما تعلق گرفته؟"
@@ -108,7 +97,6 @@ Hinterhaus,ـ حیات پشتی
 Appartement 245,آپارتمان 245
 Sie sind bereits mit einer Wohnung angemeldet?,درحال حاضر شما با یک آپارتمان ثبت نام کردیده اید؟*
 Beitragsnummer,شماره ی اشتراک*
-"""?"": Beitragsnummer",
 "Die 9-stellige Beitragsnummer (früher Teilnehmernummer) finden Sie auf der Anmeldebestätigung, dem Kontoauszug oder auf der Zahlungsaufforderung.",شماره ی اشتراک 9 رقمی را شما روی تاییده ی ثبت نام، رسید بانکی یا درخواست پرداخت پیدا خواهید کرد.
 Anmeldung zu,ثبت نام برای*
 Monat,ماه

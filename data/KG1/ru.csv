@@ -1,14 +1,11 @@
 Name und Vorname der antragstellenden Person,"Фамилия, имя заявителя"
 Kindergeld-Nr.,Номер детского пособия
 Familienkasse,"Отделение социальной службы по защите семьи (""Семейная касса"")"
-Bitte beachten Sie die Hinweise zum Antrag auf Kindergeld und das Merkblatt Kindergeld.,
 Anlage Kind,Сведения о ребенке
 zum Antrag auf Kindergeld vom,к заявлению о предоставлении детского пособия от (дата)
 Lfd. Nr. ...... .,Номер ......
 Erstantrag bei Geburt,Первичное обращение в связи с рождением ребенка
 Angaben zum Kind,Сведения о ребенке
-"Bei erstmaligem Antrag notwendige Unterlagen (Geburtsurkunde bzw. -bescheinigung, Annahmebeschluss) beifügen.",
-"Steuerliche Identifikationsnummer des Kindes (soweit vergeben, zwingend ausfüllen)",
 Vorname,Имя
 ggf. abweichender Familienname,фамилия (если отличается от фамилии заявителя)
 Geburtsdatum,Дата рождения
@@ -16,54 +13,30 @@ Geburtsort,место рождения
 Geschlecht,Пол
 ggf. abweichende Anschrift (bei Wohnort im Ausland bitte auch den Staat angeben),"Другой адрес проживания, если есть (если проживает за границей, пожалуйста, укажите страну)"
 "Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern/in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)","Причина проживания в другом месте (например, проживание с бабушкой и дедушкой/в месте временного содержания/в приюте, учеба в школе или прохождение профессионального обучения)"
-Kindschaftsverhältnis,
-zur antragstellenden Person:,
 leibliches Kind/Adoptivkind,родным/приемным ребенком
 Pflegekind,ребенком под опекой
 Enkelkind/Stiefkind,внуком (внучкой) / пасынком (падчерицей)
-zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in:,
-zu anderen Personen:,
 "ja, bitte hier Angaben machen","да. Пожалуйста, заполните поля ниже"
 nein,нет
 "Name, Vorname","Фамилия, имя"
 Art des Kindschaftsverhältnisses,Кем приходится ребенок указанному лицу
 letzte bekannte Anschrift,"последний адрес проживания, который Вам известен"
 Staatsangehörigkeit,Гражданство
-Ort der Tätigkeit (ggf. im Ausland),
 "Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,","Сведения о ребенке, который достиг или вскоре достигнет 18-летнего возраста"
 sonst weiter bei Punkt 4:,"(если ребенок младше, переходите к пункту 4):"
 Das Kind,Ребенок
-ab/von,
 bis,до
-"befand sich/befindet sich/wird sich befinden in Schul-, Hochschul- oder Berufsausbildung",
-"Bezeichnung der Schul-, Hochschul- oder Berufsausbildung:",
-konnte/kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen,
-"leistete/leistet/wird leisten ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen, einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz)",
-befand/befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten),
-war/ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet,
-"war/ist wegen einer vor Vollendung des 25. Lebensjahres eingetretenen Behinderung außerstande, sich selbst finanziell zu unterhalten",
 Angaben zur Erwerbstätigkeit eines volljährigen Kindes (nur bei Eintragungen unter a) bis d)),"Сведения о трудовой деятельности совершеннолетнего ребенка (заполняются только для случаев, перечисленных в пунктах с а) по d))"
-Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Erststudium abgeschlossen bzw. wird diese in Kürze abschließen,
-"ja, am .....",
-nein (weiter bei 4.),
-Das Kind war/ist erwerbstätig bzw. wird erwerbstätig sein,
 ja,да
-Tätigkeit,
-"eine oder mehrere geringfügige Beschäftigung(en) im Sinne der §§ 8, 8a SGB IV (sog. Minijob)",
-andere Erwerbstätigkeiten,
 (bei mehreren Beschäftigungen Angaben auf gesondertem Blatt),(при нескольких видах занятости укажите их на отдельном листе)
 Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden,Общая (согласованная с работодателем) еженедельная продолжительность рабочего времени ......... часов
-"Dienstherr bzw. Arbeitgeber (Name, Anschrift):",
 Nachweise zu den Angaben für ein volljähriges Kind:,Подтверждающие документы для сведений о совершеннолетнем ребенке:
 sind beigefügt,прилагаются
 liegen bereits vor,были предоставлены ранее
 werden nachgereicht,будут предоставлены дополнительно
 Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?,"4. Вы или другое лицо запрашивали или получали детское пособие на ребенка в другом отделении социальной службы по защите семьи (""семейной кассе"")?"
-"Name, Vorname der antragstellenden bzw. beziehenden Person",
-Datum/Zeitraum (von – bis),
 Kindergeldnummer,Номер детского пособия
 "Familienkasse, Anschrift","""Семейная касса"", адрес"
-Besteht oder bestand für Sie oder eine andere Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?,
 "Name, Vorname der beziehenden Person","Фамилия, имя получателя выплат"
 geboren am,Дата рождения
 Leistung,Пособие
@@ -73,8 +46,6 @@ Zeitraum (von – bis),"Период работы (с - по, укажите д�
 leistende Stelle,"учреждение, предоставившее пособие"
 "Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung:","6. Вы или другое лицо, обладающее родительскими полномочиями в отношении ребенка, занимаетесь или занимались какими-либо из следующих видов деятельности за последние 5 лет до момента подачи данного заявления?"
 im öffentlichen Dienst tätig?,а) государственная служба
-"außerhalb Deutschlands als Arbeitnehmer/in, Selbständige/Selbständiger, Entwicklungshelfer/in tätig?",
-in Deutschland bei einer Dienststelle oder Einrichtung eines anderen Staates/als Angehöriger/Angehörige der NATO-Streitkräfte tätig?,
 in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?,"d) работа в Германии по поручению работодателя, зарегистрированного за пределами Германии?"
 "Wenn ja, bitte hier Angaben machen:","Если да, заполните поля ниже:"
 "Name, Vorname des Beschäftigten","Фамилия, Имя работника"

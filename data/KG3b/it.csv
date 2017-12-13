@@ -9,7 +9,6 @@ durch Herrn/Frau,di sig./ra
 Name,Cognome
 Vorname,Nome
 Geburtsdatum,Data di nascita
-"Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)",
 Familienstand:,Stato civile:
 ledig,nubile/celibe
 seit,da
@@ -23,15 +22,10 @@ lfd. Nr.,Codice n.
 Name und Vorname des Kindes,Cognome e nome del/la figlio/a
 geboren am,data di nascita
 In Deutschland seit *),In Germania dal *)
-"*) Bei Kindern, die *nicht* die deutsche Staatsangehörigkeit haben, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.",
-wie folgt wohnhaft ist/sind.,
 "Person oder Institution, bei der das Kind/die Kinder lebt/leben",Persona o istituzione presso la quale vive/vivono il/i figli
 (Datum),(Data)
-(Unterschrift der kindergeldberechtigten Person),
-Bescheinigung der Angaben,
 "Es wird hiermit bescheinigt, dass das/die unter lfd. Nr. .... bis lfd. Nr. ... aufgeführte/n Kind/er nach den hier vorhandenen Unterlagen bzw. Erkenntnissen wie angegeben gemeldet bzw. wohnhaft ist/sind.","Certifichiamo che per quanto a nostra conoscenza il figlio/i figli indicati con il numero da .... fino al numero … è/sono registrato/i (residente/i) all’indirizzo indicato, come da documentazione allegata."
 Bemerkungen:,Note:
-Dienstsiegel oder Stempel (falls vorhanden),
 (Unterschrift),(Firma)
 Hinweise,Istruzioni
 "Kindergeld kann grundsätzlich nur für die Kinder gezahlt werden, die im Haushalt des Antragstellers leben. Unter bestimmten Voraussetzungen können aber auch Kinder berücksichtigt werden, die außerhalb des Haushalts leben, z.B. Kinder, die in einem Heim untergebracht sind.","Gli assegni familiari di norma possono essere corrisposti solo per i figli che vivono all’interno del nucleo familiare della persona richiedente. A determinate condizioni, tuttavia, saranno presi in considerazione anche i figli che abitano fuori dal nucleo familiare, ad esempio i bambini che sono stati affidati a un istituto."

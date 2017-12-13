@@ -9,7 +9,6 @@ durch Herrn/Frau,kroz g-a / gdje / gdjice
 Name,Ime
 Vorname,Prezime
 Geburtsdatum,Datum rođenja
-"Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)",
 Familienstand:,Bračno stanje:
 ledig,neoženjen/neudata
 seit,od
@@ -23,15 +22,10 @@ lfd. Nr.,Tek. Br.
 Name und Vorname des Kindes,Ime i prezime deteta
 geboren am,rođene dana
 In Deutschland seit *),U Nemačkoj od *)
-"*) Bei Kindern, die *nicht* die deutsche Staatsangehörigkeit haben, ist hier anzugeben, seit wann sich das Kind ununterbrochen in Deutschland aufhält.",
-wie folgt wohnhaft ist/sind.,
 "Person oder Institution, bei der das Kind/die Kinder lebt/leben",Lice ili Ustanova gde dete/deca živi/žive
 (Datum),(Datum)
-(Unterschrift der kindergeldberechtigten Person),
-Bescheinigung der Angaben,
 "Es wird hiermit bescheinigt, dass das/die unter lfd. Nr. .... bis lfd. Nr. ... aufgeführte/n Kind/er nach den hier vorhandenen Unterlagen bzw. Erkenntnissen wie angegeben gemeldet bzw. wohnhaft ist/sind.","Ovim potvrđujemo da je, pod tek. Br... do tekućeg Br. .... navedeno-/a dete/deca prema ovde priloženim spisima - prema ličnom saznanju - prijavljeno-prebiva u skladu sa podacima koji su navedeni u prijavi."
 Bemerkungen:,Primedbe:
-Dienstsiegel oder Stempel (falls vorhanden),
 (Unterschrift),(Potpis)
 Hinweise,Napomene
 "Kindergeld kann grundsätzlich nur für die Kinder gezahlt werden, die im Haushalt des Antragstellers leben. Unter bestimmten Voraussetzungen können aber auch Kinder berücksichtigt werden, die außerhalb des Haushalts leben, z.B. Kinder, die in einem Heim untergebracht sind.","Suštinski se dečiji dodatak isplačuje samo za onu decu koja žive u zajedničkom domaćinstvu sa podnosiocem zahteva. Pod određenim uslovima mogu biti uzeta u obzir i deca koja žive izvan domaćinstva, na pr. deca, koja su smeštena u domu."

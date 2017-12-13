@@ -1,14 +1,10 @@
 Name und Vorname der antragstellenden Person,"Apellidos, Nombre de la persona solicitante"
 Kindergeld-Nr.,Número de Identificación del subsidio familiar
 Familienkasse,Caja Familiar
-Bitte beachten Sie die Hinweise zum Antrag auf Kindergeld und das Merkblatt Kindergeld.,
 Anlage Kind,Anexo Hijo/a
 zum Antrag auf Kindergeld vom,de la solicitud para el subsidio familiar por hijos del
 Lfd. Nr. ...... .,Número de serie ....
 Erstantrag bei Geburt,Solicitud inicial después del nacimiento
-Angaben zum Kind,
-"Bei erstmaligem Antrag notwendige Unterlagen (Geburtsurkunde bzw. -bescheinigung, Annahmebeschluss) beifügen.",
-"Steuerliche Identifikationsnummer des Kindes (soweit vergeben, zwingend ausfüllen)",
 Vorname,nombre
 ggf. abweichender Familienname,"En su caso, apellidos diferentes"
 Geburtsdatum,fecha de nacimiento
@@ -16,54 +12,30 @@ Geburtsort,lugar de nacimiento
 Geschlecht,sexo
 ggf. abweichende Anschrift (bei Wohnort im Ausland bitte auch den Staat angeben),"En su caso, indicar dirección diferente (en el caso de que el lugar de residencia esté en el extranjero, indique también el estado)"
 "Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern/in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)","Razón de la dirección diferente (p. ej. alojamiento con los abuelos/ en un lugar de acogida/ en una institución, por su formación escolar o profesional)"
-Kindschaftsverhältnis,
-zur antragstellenden Person:,
 leibliches Kind/Adoptivkind,hijo propio/ adoptivo
 Pflegekind,hijo/hija de acogida con custodia temporal
 Enkelkind/Stiefkind,nieto/nieta o hijo/hija de la pareja
-zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in:,
-zu anderen Personen:,
 "ja, bitte hier Angaben machen","en el caso que sí, por favor haga declaraciones aquí"
 nein,No
 "Name, Vorname","Apellido, nombre"
 Art des Kindschaftsverhältnisses,Forma de relación con el hijo/la hija
 letzte bekannte Anschrift,última dirección conocida
 Staatsangehörigkeit,nacionalidad
-Ort der Tätigkeit (ggf. im Ausland),
 "Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,","Datos sobre un hijo mayor de 18 años o sobre un hijo que cumplirá, en breve, los 18 años"
 sonst weiter bei Punkt 4:,"si no es el caso, seguir con el punto 4"
 Das Kind,El hijo/la hija
-ab/von,
 bis,hasta
-"befand sich/befindet sich/wird sich befinden in Schul-, Hochschul- oder Berufsausbildung",
-"Bezeichnung der Schul-, Hochschul- oder Berufsausbildung:",
-konnte/kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen,
-"leistete/leistet/wird leisten ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen, einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz)",
-befand/befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten),
-war/ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet,
-"war/ist wegen einer vor Vollendung des 25. Lebensjahres eingetretenen Behinderung außerstande, sich selbst finanziell zu unterhalten",
 Angaben zur Erwerbstätigkeit eines volljährigen Kindes (nur bei Eintragungen unter a) bis d)),Declaraciones respecto a la actividad profesional de un hijo mayor de edad (sólo en el caso que hubo declaraciones en los puntos a) a d))
-Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Erststudium abgeschlossen bzw. wird diese in Kürze abschließen,
-"ja, am .....",
-nein (weiter bei 4.),
-Das Kind war/ist erwerbstätig bzw. wird erwerbstätig sein,
 ja,Sí
-Tätigkeit,
-"eine oder mehrere geringfügige Beschäftigung(en) im Sinne der §§ 8, 8a SGB IV (sog. Minijob)",
-andere Erwerbstätigkeiten,
 (bei mehreren Beschäftigungen Angaben auf gesondertem Blatt),(en el caso de varias actividades profesionales hacer declaraciones en hojas aparte)
 Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden,Total de las horas de trabajo semanales ...... horas
-"Dienstherr bzw. Arbeitgeber (Name, Anschrift):",
 Nachweise zu den Angaben für ein volljähriges Kind:,Documentos que comprueban las declaraciones respecto a un hijo mayor de edad
 sind beigefügt,se añaden
 liegen bereits vor,han sido presentados ya
 werden nachgereicht,se entregarán en fecha posterior
 Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?,Ha solicitado o recibido Ud./otra persona el subsidio familiar para su hijo/su hija en otra Caja Familiar?
-"Name, Vorname der antragstellenden bzw. beziehenden Person",
-Datum/Zeitraum (von – bis),
 Kindergeldnummer,Número de Identificación del subsidio familiar
 "Familienkasse, Anschrift","Caja Familiar, dirección"
-Besteht oder bestand für Sie oder eine andere Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?,
 "Name, Vorname der beziehenden Person","Apellidos, Nombre de la persona que recibe el subsidio"
 geboren am,Fecha de nacimiento
 Leistung,Forma del subsidio
@@ -73,8 +45,6 @@ Zeitraum (von – bis),Período (de - hasta)
 leistende Stelle,Entidad competente
 "Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung:",Ha trabajado Ud. o otra persona con relación con el hijo en los últimos cinco años antes de la solicitud
 im öffentlichen Dienst tätig?,en el servicio público?
-"außerhalb Deutschlands als Arbeitnehmer/in, Selbständige/Selbständiger, Entwicklungshelfer/in tätig?",
-in Deutschland bei einer Dienststelle oder Einrichtung eines anderen Staates/als Angehöriger/Angehörige der NATO-Streitkräfte tätig?,
 in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?,"en Alemania, pero por iniciativa de un empleador con sede fuera de Alemania?"
 "Wenn ja, bitte hier Angaben machen:","En el caso que sí, por favor especifique aquí"
 "Name, Vorname des Beschäftigten","Apellidos, Nombre del empleado/a"

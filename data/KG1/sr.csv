@@ -1,69 +1,38 @@
 Name und Vorname der antragstellenden Person,Ime i prezime lica koje podnosi zahtev
 Kindergeld-Nr.,Dečiji dodatak-Br.
 Familienkasse,Porodična kasa
-Bitte beachten Sie die Hinweise zum Antrag auf Kindergeld und das Merkblatt Kindergeld.,
 Anlage Kind,Predmet Dete
 zum Antrag auf Kindergeld vom,uz Zahtev za dečijim dodatkom od
 Lfd. Nr. ...... .,Tekući Br.…… .
 Erstantrag bei Geburt,Prvi zahtev od rođenja
-Angaben zum Kind,
-"Bei erstmaligem Antrag notwendige Unterlagen (Geburtsurkunde bzw. -bescheinigung, Annahmebeschluss) beifügen.",
-"Steuerliche Identifikationsnummer des Kindes (soweit vergeben, zwingend ausfüllen)",
 Vorname,Prezime
 ggf. abweichender Familienname,evtl. odstupajuće prezime
 Geburtsdatum,Datum rođenja
-Geburtsort,
 Geschlecht,Pol
 ggf. abweichende Anschrift (bei Wohnort im Ausland bitte auch den Staat angeben),"evtl. odstupajuću adresu (ako se radi o mestu stanovanja u inostranstvu, molimo vas navesti i državu)"
 "Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern/in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)","Razlog za odstupajuću adresu (na pr. smeštaj kod baba i deda/u hraniteljskoj porodici/domu, zbog obrazovanja ili stručnog obučavanja)"
-Kindschaftsverhältnis,
-zur antragstellenden Person:,
 leibliches Kind/Adoptivkind,rođeno dete/usvojeno dete
 Pflegekind,Dete pod starateljskim nadzorom
 Enkelkind/Stiefkind,Unuče/pastorče
-zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in:,
-zu anderen Personen:,
 "ja, bitte hier Angaben machen","da, molimo Vas da ovde unesete podatke"
 nein,ne
 "Name, Vorname","Ime, prezime"
 Art des Kindschaftsverhältnisses,Vrsta odnosa sa detetom
 letzte bekannte Anschrift,zadnja poznata adresa
-Staatsangehörigkeit,
-Ort der Tätigkeit (ggf. im Ausland),
 "Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,","Podaci o punoletnom detetu, odn. o detetu koje će uskoro navršiti 18. godinu života,"
 sonst weiter bei Punkt 4:,"u suprotnom, nastavite pod tačkom 4:"
 Das Kind,Dete
-ab/von,
-bis,
-"befand sich/befindet sich/wird sich befinden in Schul-, Hochschul- oder Berufsausbildung",
-"Bezeichnung der Schul-, Hochschul- oder Berufsausbildung:",
-konnte/kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen,
-"leistete/leistet/wird leisten ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen, einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz)",
-befand/befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten),
-war/ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet,
-"war/ist wegen einer vor Vollendung des 25. Lebensjahres eingetretenen Behinderung außerstande, sich selbst finanziell zu unterhalten",
 Angaben zur Erwerbstätigkeit eines volljährigen Kindes (nur bei Eintragungen unter a) bis d)),Podaci o zaposlenju punoletnog deteta (samo ukoliko su uneti podaci pod a) do d)
-Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Erststudium abgeschlossen bzw. wird diese in Kürze abschließen,
-"ja, am .....",
-nein (weiter bei 4.),
-Das Kind war/ist erwerbstätig bzw. wird erwerbstätig sein,
 ja,da
-Tätigkeit,
-"eine oder mehrere geringfügige Beschäftigung(en) im Sinne der §§ 8, 8a SGB IV (sog. Minijob)",
-andere Erwerbstätigkeiten,
 (bei mehreren Beschäftigungen Angaben auf gesondertem Blatt),"(ako obavlja više različitih zanimanja, molimo vas da podatke o tome unesete na posebnom listu papira)"
 Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden,Ukupno (ugovoreno) redovno nedeljno radno vreme........ Sati
-"Dienstherr bzw. Arbeitgeber (Name, Anschrift):",
 Nachweise zu den Angaben für ein volljähriges Kind:,Dokazi uz podatke za punoletno dete:
 sind beigefügt,su priloženi
 liegen bereits vor,već su ranije podneti
 werden nachgereicht,biće naknadno priloženi
 Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?,Da li ste vi ili neko drugo lice podneli kod neke druge Porodične kase zahtev za dečijim dodatkom ili ga već dobijate?
-"Name, Vorname der antragstellenden bzw. beziehenden Person",
-Datum/Zeitraum (von – bis),
 Kindergeldnummer,Registarski broj rešenja o dečijem dodatku
 "Familienkasse, Anschrift","Porodična kasa, adresa"
-Besteht oder bestand für Sie oder eine andere Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?,
 "Name, Vorname der beziehenden Person","Ime, prezime osobe na koju se zahtev odnosi"
 geboren am,rođene dana
 Leistung,Vrednost
@@ -73,8 +42,6 @@ Zeitraum (von – bis),Vremenski period (od-do)
 leistende Stelle,nadležna ustanova
 "Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung:","Da li ste vi, ili neka druga osoba sa kojom je dete u srodstvu, u poslednjih 5 godina pre podnošenja Zahteva:"
 im öffentlichen Dienst tätig?,zaposleni u javnom sektoru?
-"außerhalb Deutschlands als Arbeitnehmer/in, Selbständige/Selbständiger, Entwicklungshelfer/in tätig?",
-in Deutschland bei einer Dienststelle oder Einrichtung eines anderen Staates/als Angehöriger/Angehörige der NATO-Streitkräfte tätig?,
 in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?,zaposleni u Nemačkoj na zahtev poslodavca koji ima sedište izvan Nemačke?
 "Wenn ja, bitte hier Angaben machen:","Ako je odgovor da, molimo Vas ovde uneti sledeće podatke:"
 "Name, Vorname des Beschäftigten","Ime, prezime zaposlenog lica"

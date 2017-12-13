@@ -40,7 +40,6 @@ Kreditinstitut,Banque
 BIC,BIC
 IBAN,IBAN
 BIC und IBAN finden Sie in der Regel auf Ihrem Kontoauszug.,"Normalement, vous trouverez le code BIC et le numéro IBAN sur votre extrait de compte/relevé d'identité bancaire"
-Bearbeitungsvermerke,
 Meine persönlichen Angaben,Mes données personnelles
 Ich habe für den Monat der Antragstellung bereits Leistungen bei einem anderen Jobcenter beantragt oder von diesem bezogen.,Ce mois-ci j'ai déjà déposé une demande d'aide auprès d'un autre Jobcenter ou déjà bénéficié de prestations.
 Ja,Oui
@@ -114,7 +113,6 @@ Anspruch gegenüber der Agentur für Arbeit,Droit vis-à-vis de l'Agentur für A
 "Wenn Sie Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch (SGB III) bereits beantragt haben, tragen Sie dies bitte in **Abschnitt 6.4** ein. Sollte das Arbeitslosengeld aktuell bereits bewilligt sein, tragen Sie dies in **Anlage EK Abschnitt 2** ein, auch dann, wenn eine Sperrzeit eingetreten ist. In beiden Fällen müssen Sie keine Angaben in **Abschnitt 6.1** machen.","Si vous avez déjà demandé l'allocation chômage selon le Troisième livre du Code social allemand (SGB III), veuillez l'indiquer dans **la partie 6.4**. Si votre allocation chômage a déjà été accordée, veuillez l'indiquer dans le formulaire EK partie 2, même si vous vous trouvez en situation de suspension temporaire des allocations. Dans les deux cas, vous ne devez pas remplir la **partie 6.1**."
 "Die nachfolgenden Angaben dienen der Prüfung, ob ein Anspruch auf Arbeitslosengeld bestehen könnte.",Les renseignements suivants servent à examiner le droit à l'allocation chômage.
 **Innerhalb** der letzten 5 Jahre vor der Antragstellung,Au cours des 5 années avant la demande d'allocation chômage
-Hier sind Mehrfachnennungen möglich. Bitte legen Sie entsprechende Nachweise vor.,
 war ich **sozialversicherungspflichtig** beschäftigt.,j'ai été **salarié soumis à l'assurance sociale**.
 von - bis,de - à
 Arbeitgeber,Employeur

@@ -5,6 +5,18 @@ window.ZBS.panel.wechselPanel = function(oldID, newID) {
 	document.getElementById(newID).className = '';
 };
 
+window.schonAngemeldet = function(input) {
+	var rowYes = document.getElementById('befreiungsform:bnr-row');
+	var rowNo = document.getElementById('befreiungsform:anmeldeDatum-row');
+	if (input.value === 'true') {
+		rowYes.classList.remove('hide');
+		rowNo.classList.add('hide');
+	} else {
+		rowYes.classList.add('hide');
+		rowNo.classList.remove('hide');
+	}
+};
+
 var createTooltip = function(html) {
 	var tooltip = document.createElement('div');
 	tooltip.className = 'tooltip fade bottom in';

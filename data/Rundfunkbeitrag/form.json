@@ -1365,6 +1365,16 @@
             "align": ""
         },
         {
+            "content": "angeklickt \"Nein\":",
+            "page": 6,
+            "structure": "#",
+            "x1": 22,
+            "y1": 229,
+            "x2": 542,
+            "y2": 243,
+            "align": ""
+        },
+        {
             "content": "Eine Ermäßigung des Rundfunkbeitrags ist nur möglich, wenn Ihnen das Merkzeichen \"RF\" zuerkannt wurde. Weil Ihnen dieses Merkzeichen nicht zuerkannt wurde, kann die Antragsstellung hier nicht fortgesetzt werden.",
             "page": 6,
             "structure": "",
@@ -1530,6 +1540,11 @@
             "align": ""
         },
         {
+            "content": "\"?\": Adresszusatz",
+            "page": 7,
+            "structure": ""
+        },
+        {
             "content": "Zum Beispiel:",
             "page": 7,
             "structure": "",
@@ -1540,34 +1555,22 @@
             "align": ""
         },
         {
+            "append": "\n\n-   ",
             "content": "c/o Familie Muster",
             "page": 7,
-            "structure": "",
-            "x1": 35,
-            "y1": 275,
-            "x2": 264,
-            "y2": 286,
-            "align": ""
+            "structure": ""
         },
         {
+            "append": "\n-   ",
             "content": "Hinterhaus",
             "page": 7,
-            "structure": "",
-            "x1": 35,
-            "y1": 291,
-            "x2": 255,
-            "y2": 302,
-            "align": ""
+            "structure": ""
         },
         {
+            "append": "\n-   ",
             "content": "Appartement 245",
             "page": 7,
-            "structure": "",
-            "x1": 35,
-            "y1": 308,
-            "x2": 260,
-            "y2": 318,
-            "align": ""
+            "structure": ""
         },
         {
             "content": "Sie sind bereits mit einer Wohnung angemeldet?",
@@ -1578,6 +1581,16 @@
             "x2": 542,
             "y2": 343,
             "align": ""
+        },
+        {
+            "content": "Ja",
+            "page": 7,
+            "structure": ""
+        },
+        {
+            "content": "Nein",
+            "page": 7,
+            "structure": ""
         },
         {
             "content": "angeklickt \"Ja\":",

@@ -550,7 +550,7 @@
         },
         {
             "content": "angeklickt \"Ja\":",
-            "page": 3,
+            "page": 2,
             "structure": "#",
             "x1": 22,
             "y1": 64,
@@ -560,7 +560,7 @@
         },
         {
             "content": "Empfänger von BAB können von der Rundfunkbeitragspflicht nur befreit werden, wenn sie nicht bei den Eltern wohnen. Weil Sie bei Ihren Eltern wohnen, kann die Antragsstellung hier nicht fortgesetzt werden.",
-            "page": 3,
+            "page": 2,
             "structure": "",
             "x1": 22,
             "y1": 98,
@@ -571,12 +571,12 @@
         {
             "append": "\n\n",
             "content": "Falls Sie bereits bei uns angemeldet sind, prüfen Sie bitte, ob ggf. eine Abmeldung für Sie in Frage kommt. Informationen finden Sie hier.",
-            "page": 3,
+            "page": 2,
             "structure": ""
         },
         {
             "content": "angeklickt \"Nein\":",
-            "page": 3,
+            "page": 2,
             "structure": "#",
             "x1": 22,
             "y1": 192,
@@ -586,7 +586,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 3,
+            "page": 2,
             "structure": ">",
             "x1": 22,
             "y1": 225,
@@ -601,7 +601,7 @@
         },
         {
             "content": "angeklickt \"weitere Leistungen\":",
-            "page": 4,
+            "page": 3,
             "structure": "#",
             "x1": 22,
             "y1": 18,
@@ -611,7 +611,7 @@
         },
         {
             "content": "Antragsdaten",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 46,
@@ -621,7 +621,7 @@
         },
         {
             "content": "Persönliche Daten",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 138,
             "y1": 46,
@@ -631,7 +631,7 @@
         },
         {
             "content": "Zusammenfassung",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 296,
             "y1": 46,
@@ -641,7 +641,7 @@
         },
         {
             "content": "Drucken",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 450,
             "y1": 46,
@@ -651,7 +651,7 @@
         },
         {
             "content": "Ich möchte befreit werden, weil ich eine der folgenden Leistungen erhalte...",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 82,
@@ -661,7 +661,7 @@
         },
         {
             "content": "Hilfe zur Pflege (SGB XII oder BVG)",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 116,
@@ -671,7 +671,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 4,
+            "page": 3,
             "structure": ">",
             "x1": 22,
             "y1": 139,
@@ -681,7 +681,7 @@
         },
         {
             "content": "\"?\": Hilfe zur Pflege (SGB XII oder BVG):",
-            "page": 4,
+            "page": 3,
             "structure": "?",
             "x1": 22,
             "y1": 164,
@@ -691,7 +691,7 @@
         },
         {
             "content": "Empfänger von **Hilfe zur Pflege** nach dem Siebten Kapitel des Zwölften Buches des Sozialgesetzbuches oder von **Hilfe zur Pflege als Leistung der Kriegsopferfürsorge** nach dem Bundesversorgungsgesetz (BVG) oder von **Pflegegeld nach den landesgesetzlichen Vorschriften**",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 190,
@@ -701,7 +701,7 @@
         },
         {
             "content": "Pflegezulagen nach LAG",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 295,
             "y1": 116,
@@ -711,7 +711,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 4,
+            "page": 3,
             "structure": ">",
             "x1": 295,
             "y1": 139,
@@ -721,7 +721,7 @@
         },
         {
             "content": "\"?\": Pflegezulagen nach LAG:",
-            "page": 4,
+            "page": 3,
             "structure": "?",
             "x1": 295,
             "y1": 164,
@@ -731,7 +731,7 @@
         },
         {
             "content": "Empfänger von **Pflegezulagen** nach § 267 Abs. 1 des Lastenausgleichsgesetzes (LAG) oder Personen, denen wegen Pflegebedürftigkeit nach § 267 Abs. 2 Satz 1 Nr. 2 Buchstabe c LAG ein Freibetrag zuerkannt wird",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 295,
             "y1": 190,
@@ -741,7 +741,7 @@
         },
         {
             "content": "nach SGB VIII (Kinder- und Jugendhilfe)",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 314,
@@ -751,7 +751,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 4,
+            "page": 3,
             "structure": ">",
             "x1": 22,
             "y1": 340,
@@ -761,7 +761,7 @@
         },
         {
             "content": "\"?\": nach SGB VIII (Kinder- und Jugendhilfe):",
-            "page": 4,
+            "page": 3,
             "structure": "?",
             "x1": 22,
             "y1": 371,
@@ -771,7 +771,7 @@
         },
         {
             "content": "**Volljährige**, die im Rahmen einer Leistungsgewährung nach dem Achten Buch des Sozialgesetzbuches (SGB VIII) **in einer stationären Einrichtung** nach § 45 SGB VIII **leben**",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 402,
@@ -781,7 +781,7 @@
         },
         {
             "content": "Blindenhilfe (SGB XII)",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 295,
             "y1": 314,
@@ -791,7 +791,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 4,
+            "page": 3,
             "structure": ">",
             "x1": 295,
             "y1": 340,
@@ -801,7 +801,7 @@
         },
         {
             "content": "\"?\": Blindenhilfe (SGB XII):",
-            "page": 4,
+            "page": 3,
             "structure": "?",
             "x1": 295,
             "y1": 371,
@@ -811,7 +811,7 @@
         },
         {
             "content": "Empfänger von Blindenhilfe nach § 72 des Zwölften Buches des Sozialgesetzbuches oder nach § 27d des Bundesversorgungsgesetzes (BVG)",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 295,
             "y1": 402,
@@ -821,7 +821,7 @@
         },
         {
             "content": "Ich möchte befreit werden, weil ich keine der unter § 4 Abs. 1 Nr. 1-10 RBStV aufgeführten sozialen Leistungen...",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 512,
@@ -831,7 +831,7 @@
         },
         {
             "content": "auf Grund einer Einkommensüberschreitung erhalte.",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 564,
@@ -841,7 +841,7 @@
         },
         {
             "content": "\"?\": auf Grund einer Einkommensüberschreitung erhalte.:",
-            "page": 4,
+            "page": 3,
             "structure": "?",
             "x1": 22,
             "y1": 593,
@@ -851,7 +851,7 @@
         },
         {
             "content": "Personen, denen eine der in § 4 Abs. 1 Nr. 1-10 Rundfunkbeitragsstaatsvertrag genannten **sozialen Leistungen wegen Überschreitung der Bedarfsgrenze versagt wurde**, wobei die Überschreitung **geringer** als die Höhe des Rundfunkbeitrags ist",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 625,
@@ -861,7 +861,7 @@
         },
         {
             "content": "Zurück",
-            "page": 4,
+            "page": 3,
             "structure": "",
             "x1": 22,
             "y1": 734,
@@ -871,17 +871,17 @@
         },
         {
             "content": "Hinweis",
-            "page": 4,
+            "page": 3,
             "structure": ""
         },
         {
             "content": "Erhalten Sie eine andere soziale Leistung, die hier nicht zur Auswahl steht, ist eine Befreiung nicht möglich. Zum Beispiel sind Wohngeld oder ALG I keine Voraussetzung für eine Befreiung von der Rundfunkbeitragspflicht.",
-            "page": 4,
+            "page": 3,
             "structure": ""
         },
         {
             "content": "angeklickt \"auf Grund einer Einkommensüberschreitung erhalte\":",
-            "page": 5,
+            "page": 4,
             "structure": "#",
             "x1": 22,
             "y1": 17,
@@ -891,7 +891,7 @@
         },
         {
             "content": "Antragsdaten",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 22,
             "y1": 66,
@@ -901,7 +901,7 @@
         },
         {
             "content": "Persönliche Daten",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 138,
             "y1": 66,
@@ -911,7 +911,7 @@
         },
         {
             "content": "Zusammenfassung",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 296,
             "y1": 66,
@@ -921,7 +921,7 @@
         },
         {
             "content": "Drucken",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 450,
             "y1": 66,
@@ -931,7 +931,7 @@
         },
         {
             "content": "Ich habe auf Grund einer Einkommensüberschreitung keinen Anspruch auf eine der unter § 4 Abs. 1 RBStV aufgeführten sozialen Leistungen.",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 21,
             "y1": 111,
@@ -941,7 +941,7 @@
         },
         {
             "content": "Die Einkommensüberschreitung liegt unter 17,50 Euro?",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 22,
             "y1": 164,
@@ -951,7 +951,7 @@
         },
         {
             "content": "Ja",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 22,
             "y1": 197,
@@ -961,7 +961,7 @@
         },
         {
             "content": "Nein",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 22,
             "y1": 223,
@@ -971,7 +971,7 @@
         },
         {
             "content": "angeklickt \"Ja\":",
-            "page": 5,
+            "page": 4,
             "structure": "#",
             "x1": 22,
             "y1": 257,
@@ -981,7 +981,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 5,
+            "page": 4,
             "structure": ">",
             "x1": 22,
             "y1": 289,
@@ -991,7 +991,7 @@
         },
         {
             "content": "angeklickt \"Nein\":",
-            "page": 5,
+            "page": 4,
             "structure": "#",
             "x1": 22,
             "y1": 351,
@@ -1001,7 +1001,7 @@
         },
         {
             "content": "Wenn Sie keine soziale Leistung wegen Einkommensüberschreitung erhalten, ist eine Befreiung von der Rundfunkbeitragspflicht nur möglich, wenn diese weniger als 17,50 Euro beträgt. Weil Ihre Einkommensüberschreitung 17,50 Euro oder mehr beträgt, kann die Antragsstellung hier nicht fortgesetzt werden.",
-            "page": 5,
+            "page": 4,
             "structure": "",
             "x1": 22,
             "y1": 392,
@@ -1011,12 +1011,12 @@
         },
         {
             "content": "Abbrechen",
-            "page": 5,
+            "page": 4,
             "structure": ""
         },
         {
             "content": "angeklickt \"gesundheitliche Gründe\":",
-            "page": 6,
+            "page": 5,
             "structure": "#",
             "x1": 22,
             "y1": 17,
@@ -1026,7 +1026,7 @@
         },
         {
             "content": "Antragsdaten",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 66,
@@ -1036,7 +1036,7 @@
         },
         {
             "content": "Persönliche Daten",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 138,
             "y1": 66,
@@ -1046,7 +1046,7 @@
         },
         {
             "content": "Zusammenfassung",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 296,
             "y1": 66,
@@ -1056,7 +1056,7 @@
         },
         {
             "content": "Drucken",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 450,
             "y1": 66,
@@ -1066,7 +1066,7 @@
         },
         {
             "content": "Ich möchte eine Ermäßigung des Rundfunkbeitrags beantragen, weil ich zu folgendem Personenkreis gehöre:",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 109,
@@ -1076,7 +1076,7 @@
         },
         {
             "content": "Blinde oder sehbehinderte Menschen mit einem Grad der Behinderung von wenigstens 60",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 172,
@@ -1086,7 +1086,7 @@
         },
         {
             "content": "\"?\": Blinde oder sehbehinderte Menschen mit einem Grad der Behinderung von wenigstens 60",
-            "page": 6,
+            "page": 5,
             "structure": "?",
             "x1": 22,
             "y1": 217,
@@ -1096,7 +1096,7 @@
         },
         {
             "content": "**Blinde** oder **nicht nur vorübergehend wesentlich sehbehinderte Menschen** mit einem Grad der Behinderung von wenigstens 60 allein wegen der Sehbehinderung, das **Merkzeichen \"RF\"** wurde zuerkannt.",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 262,
@@ -1106,7 +1106,7 @@
         },
         {
             "content": "Hörgeschädigte oder gehörlose Menschen",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 295,
             "y1": 172,
@@ -1116,7 +1116,7 @@
         },
         {
             "content": "\"?\": Hörgeschädigte oder gehörlose Menschen",
-            "page": 6,
+            "page": 5,
             "structure": "?",
             "x1": 295,
             "y1": 217,
@@ -1126,7 +1126,7 @@
         },
         {
             "content": "**Hörgeschädigte Menschen**, die gehörlos sind oder denen eine ausreichende Verständigung über das Gehör auch mit Hörhilfen nicht möglich ist, das **Merkzeichen \"RF\"** wurde zuerkannt.",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 295,
             "y1": 262,
@@ -1136,7 +1136,7 @@
         },
         {
             "content": "Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 345,
@@ -1146,7 +1146,7 @@
         },
         {
             "content": "\"?\": Behinderte Menschen mit einem Grad der Behinderung von wenigstens 80",
-            "page": 6,
+            "page": 5,
             "structure": "?",
             "x1": 22,
             "y1": 390,
@@ -1156,7 +1156,7 @@
         },
         {
             "content": "**Behinderte Menschen**, deren Grad der Behinderung nicht nur vorübergehend wenigstens 80 beträgt und die wegen ihres Leidens an öffentlichen Veranstaltungen ständig nicht teilnehmen können, das **Merkzeichen \"RF\"** wurde zuerkannt.",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 434,
@@ -1166,7 +1166,7 @@
         },
         {
             "content": "Ich möchte befreit werden, weil ich zu einem der folgenden Personenkreise gehöre:",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 539,
@@ -1176,7 +1176,7 @@
         },
         {
             "content": "taubblinde Menschen",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 593,
@@ -1186,7 +1186,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 6,
+            "page": 5,
             "structure": ">",
             "x1": 22,
             "y1": 621,
@@ -1196,7 +1196,7 @@
         },
         {
             "content": "\"?\": taubblinde Menschen",
-            "page": 6,
+            "page": 5,
             "structure": "?",
             "x1": 22,
             "y1": 645,
@@ -1206,7 +1206,7 @@
         },
         {
             "content": "Taubblindheit im Sinne des Rundfunkbeitragsstaatsvertrages liegt vor, wenn auf dem besseren Ohr eine 'an Taubheit grenzende Schwerhörigkeit' und auf dem besseren Auge eine 'hochgradige Sehbehinderung' gegeben ist",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 669,
@@ -1216,7 +1216,7 @@
         },
         {
             "content": "Sonderfürsorgeberechtigte",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 295,
             "y1": 593,
@@ -1226,7 +1226,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 6,
+            "page": 5,
             "structure": ">",
             "x1": 295,
             "y1": 617,
@@ -1236,7 +1236,7 @@
         },
         {
             "content": "\"?\": Sonderfürsorgeberechtigte",
-            "page": 6,
+            "page": 5,
             "structure": "?",
             "x1": 295,
             "y1": 645,
@@ -1246,7 +1246,7 @@
         },
         {
             "content": "**Sonderfürsorgeberechtigte** im Sinne des § 27e Bundesversorgungsgesetzes (BVG)",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 295,
             "y1": 669,
@@ -1256,7 +1256,7 @@
         },
         {
             "content": "Zurück",
-            "page": 6,
+            "page": 5,
             "structure": "",
             "x1": 22,
             "y1": 762,
@@ -1266,7 +1266,7 @@
         },
         {
             "content": "angeklickt \"Blinde oder sehbehinderte Menschen\" oder \"Behinderte Menschen\" oder \"Hörgeschädigte Menschen\":",
-            "page": 7,
+            "page": 6,
             "structure": "#",
             "x1": 23,
             "y1": 17,
@@ -1276,7 +1276,7 @@
         },
         {
             "content": "Antragsdaten",
-            "page": 7,
+            "page": 6,
             "structure": "",
             "x1": 22,
             "y1": 66,
@@ -1286,7 +1286,7 @@
         },
         {
             "content": "Persönliche Daten",
-            "page": 7,
+            "page": 6,
             "structure": "",
             "x1": 138,
             "y1": 66,
@@ -1296,7 +1296,7 @@
         },
         {
             "content": "Zusammenfassung",
-            "page": 7,
+            "page": 6,
             "structure": "",
             "x1": 296,
             "y1": 66,
@@ -1306,7 +1306,7 @@
         },
         {
             "content": "Drucken",
-            "page": 7,
+            "page": 6,
             "structure": "",
             "x1": 450,
             "y1": 66,
@@ -1316,7 +1316,7 @@
         },
         {
             "content": "Wurde Ihnen das Merkzeichen \"RF\" zuerkannt?",
-            "page": 7,
+            "page": 6,
             "structure": "",
             "x1": 22,
             "y1": 115,
@@ -1326,7 +1326,7 @@
         },
         {
             "content": "Ja",
-            "page": 7,
+            "page": 6,
             "structure": "",
             "x1": 22,
             "y1": 146,
@@ -1336,7 +1336,7 @@
         },
         {
             "content": "Nein",
-            "page": 7,
+            "page": 6,
             "structure": "",
             "x1": 22,
             "y1": 168,
@@ -1346,7 +1346,7 @@
         },
         {
             "content": "angeklickt \"Ja\":",
-            "page": 7,
+            "page": 6,
             "structure": "#",
             "x1": 22,
             "y1": 229,
@@ -1356,7 +1356,7 @@
         },
         {
             "content": "weiter \"Persönliche Daten\"",
-            "page": 7,
+            "page": 6,
             "structure": ">",
             "x1": 22,
             "y1": 262,
@@ -1366,7 +1366,7 @@
         },
         {
             "content": "Eine Ermäßigung des Rundfunkbeitrags ist nur möglich, wenn Ihnen das Merkzeichen \"RF\" zuerkannt wurde. Weil Ihnen dieses Merkzeichen nicht zuerkannt wurde, kann die Antragsstellung hier nicht fortgesetzt werden.",
-            "page": 7,
+            "page": 6,
             "structure": "",
             "x1": 22,
             "y1": 382,
@@ -1376,12 +1376,12 @@
         },
         {
             "content": "Abbrechen",
-            "page": 7,
+            "page": 6,
             "structure": ""
         },
         {
             "content": "Antragsdaten",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 23,
@@ -1391,7 +1391,7 @@
         },
         {
             "content": "Persönliche Daten",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 138,
             "y1": 23,
@@ -1401,7 +1401,7 @@
         },
         {
             "content": "Zusammenfassung",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 296,
             "y1": 23,
@@ -1411,7 +1411,7 @@
         },
         {
             "content": "Drucken",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 450,
             "y1": 23,
@@ -1421,7 +1421,7 @@
         },
         {
             "content": "Pflichtfelder sind mit * gekennzeichnet.",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 61,
@@ -1431,7 +1431,7 @@
         },
         {
             "content": "Anrede",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 95,
@@ -1441,7 +1441,7 @@
         },
         {
             "content": "Frau",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 116,
@@ -1451,7 +1451,7 @@
         },
         {
             "content": "Herr",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 295,
             "y1": 116,
@@ -1461,7 +1461,7 @@
         },
         {
             "content": "Vorname",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 140,
@@ -1471,7 +1471,7 @@
         },
         {
             "content": "Nachname",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 164,
@@ -1481,7 +1481,7 @@
         },
         {
             "content": "PLZ",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 188,
@@ -1491,7 +1491,7 @@
         },
         {
             "content": "Ort",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 295,
             "y1": 188,
@@ -1501,7 +1501,7 @@
         },
         {
             "content": "Straße",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 212,
@@ -1511,7 +1511,7 @@
         },
         {
             "content": "Hausnummer",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 295,
             "y1": 212,
@@ -1521,7 +1521,7 @@
         },
         {
             "content": "Adresszusatz",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 238,
@@ -1531,7 +1531,7 @@
         },
         {
             "content": "Zum Beispiel:",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 30,
             "y1": 259,
@@ -1541,7 +1541,7 @@
         },
         {
             "content": "c/o Familie Muster",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 35,
             "y1": 275,
@@ -1551,7 +1551,7 @@
         },
         {
             "content": "Hinterhaus",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 35,
             "y1": 291,
@@ -1561,7 +1561,7 @@
         },
         {
             "content": "Appartement 245",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 35,
             "y1": 308,
@@ -1571,7 +1571,7 @@
         },
         {
             "content": "Sie sind bereits mit einer Wohnung angemeldet?",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 332,
@@ -1581,7 +1581,7 @@
         },
         {
             "content": "angeklickt \"Ja\":",
-            "page": 8,
+            "page": 7,
             "structure": "#",
             "x1": 22,
             "y1": 389,
@@ -1591,7 +1591,7 @@
         },
         {
             "content": "Beitragsnummer",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 411,
@@ -1601,7 +1601,7 @@
         },
         {
             "content": "\"?\": Beitragsnummer",
-            "page": 8,
+            "page": 7,
             "structure": "?",
             "x1": 22,
             "y1": 430,
@@ -1611,7 +1611,7 @@
         },
         {
             "content": "Die 9-stellige Beitragsnummer (früher Teilnehmernummer) finden Sie auf der Anmeldebestätigung, dem Kontoauszug oder auf der Zahlungsaufforderung.",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 453,
@@ -1621,7 +1621,7 @@
         },
         {
             "content": "angeklickt \"Nein\":",
-            "page": 8,
+            "page": 7,
             "structure": "#",
             "x1": 22,
             "y1": 500,
@@ -1631,7 +1631,7 @@
         },
         {
             "content": "Anmeldung zu",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 525,
@@ -1641,7 +1641,7 @@
         },
         {
             "content": "Monat",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 551,
@@ -1651,7 +1651,7 @@
         },
         {
             "content": "Jahr",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 295,
             "y1": 551,
@@ -1661,7 +1661,7 @@
         },
         {
             "content": "Geburtsdatum",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 575,
@@ -1671,7 +1671,7 @@
         },
         {
             "content": "Tag",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 597,
@@ -1681,7 +1681,7 @@
         },
         {
             "content": "Monat",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 234,
             "y1": 597,
@@ -1691,7 +1691,7 @@
         },
         {
             "content": "Jahr",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 401,
             "y1": 597,
@@ -1701,7 +1701,7 @@
         },
         {
             "content": "Familienstand",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 621,
@@ -1711,7 +1711,7 @@
         },
         {
             "content": "Bitte auswählen",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 28,
             "y1": 639,
@@ -1721,7 +1721,7 @@
         },
         {
             "content": "ledig",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 36,
             "y1": 656,
@@ -1731,7 +1731,7 @@
         },
         {
             "content": "verheiratet",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 36,
             "y1": 670,
@@ -1741,7 +1741,7 @@
         },
         {
             "content": "eingetragene Lebenspartnerschaft",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 36,
             "y1": 685,
@@ -1751,7 +1751,7 @@
         },
         {
             "content": "geschieden",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 36,
             "y1": 701,
@@ -1761,7 +1761,7 @@
         },
         {
             "content": "verwitwet",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 36,
             "y1": 716,
@@ -1771,7 +1771,7 @@
         },
         {
             "content": "getrennt lebend",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 36,
             "y1": 729,
@@ -1781,7 +1781,7 @@
         },
         {
             "content": "Weiter",
-            "page": 8,
+            "page": 7,
             "structure": "",
             "x1": 22,
             "y1": 760,
@@ -1791,7 +1791,7 @@
         },
         {
             "content": "Antragsdaten",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 22,
             "y1": 23,
@@ -1801,7 +1801,7 @@
         },
         {
             "content": "Persönliche Daten",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 138,
             "y1": 23,
@@ -1811,7 +1811,7 @@
         },
         {
             "content": "Zusammenfassung",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 296,
             "y1": 23,
@@ -1821,7 +1821,7 @@
         },
         {
             "content": "Drucken",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 450,
             "y1": 23,
@@ -1831,7 +1831,7 @@
         },
         {
             "content": "Persönliche Daten",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 22,
             "y1": 65,
@@ -1841,7 +1841,7 @@
         },
         {
             "content": "Korrigieren",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 22,
             "y1": 115,
@@ -1851,7 +1851,7 @@
         },
         {
             "content": "Antragsdaten",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 22,
             "y1": 167,
@@ -1861,7 +1861,7 @@
         },
         {
             "content": "Antrag stellen",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 22,
             "y1": 286,
@@ -1871,7 +1871,7 @@
         },
         {
             "content": "Bitte beachten Sie auch unseren Datenschutzhinweis",
-            "page": 9,
+            "page": 8,
             "structure": "",
             "x1": 22,
             "y1": 336,

@@ -118,3 +118,9 @@ ul.inline {
 .stat-style-3 {font-style: italic;}
 .stat-style-1 {font-weight: bold; background: $color-bg-tint;}
 .stat-style-None {color: $color-fg-tint; background: $color-bg-tint;}
+
+@media print {
+    .u-screen-only {
+        display: none;
+    }
+}

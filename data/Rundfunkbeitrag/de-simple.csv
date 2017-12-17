@@ -92,6 +92,7 @@ Ort,Ort*
 Straße,Straße*
 Hausnummer,Hausnummer*
 Adresszusatz,Adresszusatz
+"""?"": Adresszusatz","""?"": Adresszusatz"
 Zum Beispiel:,Zum Beispiel:
 c/o Familie Muster,- bei Familie Muster
 Hinterhaus,- Hinterhaus

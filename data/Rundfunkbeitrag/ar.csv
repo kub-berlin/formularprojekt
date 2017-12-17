@@ -82,6 +82,7 @@ Ort,المكان*
 Straße,الشارع*
 Hausnummer,رقم المنزل*
 Adresszusatz,موقع الشقة / عنوان السكن*
+"""?"": Adresszusatz",عنوان بديل
 Zum Beispiel:,على سبيل المثال.
 Hinterhaus,المنزل الخلفي
 Appartement 245,الشقة 245

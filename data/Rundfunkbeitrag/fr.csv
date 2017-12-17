@@ -92,6 +92,7 @@ Ort,Ville*
 Straße,Rue*
 Hausnummer,Numéro du domicile*
 Adresszusatz,Complément d'adresse
+"""?"": Adresszusatz","""?"": Complément d'adresse"
 Zum Beispiel:,Par exemple
 c/o Familie Muster,- c/o Famille Dupont
 Hinterhaus,- bâtiment arrière

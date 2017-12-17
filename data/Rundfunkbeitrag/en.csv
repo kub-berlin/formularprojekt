@@ -90,6 +90,7 @@ Ort,City*
 Straße,Street*
 Hausnummer,House number*
 Adresszusatz,Addition to address
+"""?"": Adresszusatz","""?"": Addition to address"
 Zum Beispiel:,For example:
 c/o Familie Muster,- c/o Sample family
 Hinterhaus,- rear buidling

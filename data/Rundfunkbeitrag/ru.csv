@@ -92,6 +92,7 @@ Ort,Населенный пункт*
 Straße,Улица*
 Hausnummer,№ дома*
 Adresszusatz,Дополнение к адресу
+"""?"": Adresszusatz","""?"" Дополнение к адресу"
 Zum Beispiel:,Например:
 c/o Familie Muster,-с/о Семья Muster
 Hinterhaus,-задний дом

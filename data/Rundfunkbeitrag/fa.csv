@@ -91,6 +91,7 @@ Ort,شهر*
 Straße,خیابان*
 Hausnummer,پلاک*
 Adresszusatz,آدرس اضافه
+"""?"": Adresszusatz","""؟"": آدرش اضافه"
 Zum Beispiel:,به عنوان مثال:
 c/o Familie Muster,ـ آدرس تحویل خانواده ی
 Hinterhaus,ـ حیات پشتی

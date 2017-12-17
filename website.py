@@ -229,6 +229,14 @@ def translate_filter(s, lang_id, form_id, default=None):
         return default
 
 
+@formularprojekt.app_template_filter('transifex')
+def transifex_filter(form_id, lang_id):
+    if lang_id == 'de-simple':
+        lang_id = 'de_DE'
+    url = 'https://www.transifex.com/kub/formulare/translate/#{}/{}/'
+    return url.format(lang_id, form_id)
+
+
 @formularprojekt.app_template_filter('text_direction')
 def text_direction_filter(lang_id):
     try:

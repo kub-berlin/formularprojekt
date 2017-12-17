@@ -31,6 +31,11 @@
                 <bdi>(<a href="{{ pdf }}" rel="alternate">PDF</a>)</bdi>
             {% endif %}
         </td>
+    </tr><tr>
+        <th></th>
+        <td>
+            <a href="{{ form_id | transifex(lang_id) }}" target="_blank">{{ 'Übersetzung verbessern' | translate(lang_id, 'meta') }}</a>
+        </td>
     </tr>
 </table>
 

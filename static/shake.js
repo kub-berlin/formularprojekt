@@ -21,17 +21,34 @@ prevented with this approach.
 */
 
 (function() {
+	const getPtFactor = function() {
+		let el = document.createElement('div');
+		document.body.appendChild(el);
+		el.style.height = '1000pt';
+		let px = parseInt(getComputedStyle(el).height, 10);
+		document.body.removeChild(el);
+		return 1000 / px;
+	};
+
+	const ptFactor = getPtFactor();
+
+	const getPtStyle = function(el, attr) {
+		let style = getComputedStyle(el);
+		let value = parseFloat(style[attr], 10);
+		return value * ptFactor;
+	};
+
 	const getRect = function(el) {
 		var r = el.getBoundingClientRect();
 		return {
-			x1: r.x,
-			x2: r.x + r.width,
-			y1: r.y,
-			y2: r.y + r.height,
+			x1: r.x * ptFactor,
+			x2: (r.x + r.width) * ptFactor,
+			y1: r.y * ptFactor,
+			y2: (r.y + r.height) * ptFactor,
 		};
 	};
 
-	window.getContext = function(rowEl) {
+	const getContext = function(rowEl) {
 		let pageEl = rowEl.closest('.page');
 		let rows = pageEl.querySelectorAll('.row');
 
@@ -126,16 +143,16 @@ prevented with this approach.
 			let _right = getRight(rowEl, ctx);
 			let bottom = () => getBottom(rowEl, ctx);
 
-			let baseWidth = parseInt(getComputedStyle(rowEl).width, 10);
-			let baseFontSize = parseInt(getComputedStyle(rowEl).fontSize, 10);
-			let baseTop = parseInt(getComputedStyle(rowEl).top, 10);
+			let baseWidth = getPtStyle(rowEl, 'width');
+			let baseFontSize = Math.round(getPtStyle(rowEl, 'fontSize'));
+			let baseTop = getPtStyle(rowEl, 'top');
 
 			const moveUp = function(max) {
 				var top = baseTop;
-				rowEl.style.top = top + 'px';
+				rowEl.style.top = top + 'pt';
 				if (max !== 0 && bottom() < 0 && _top > 0) {
 					top -= Math.min(-bottom(), _top, (max || Infinity));
-					rowEl.style.top = top + 'px';
+					rowEl.style.top = top + 'pt';
 				}
 			};
 
@@ -144,7 +161,7 @@ prevented with this approach.
 				if (factor !== 0) {
 					width += _right * (factor || 1);
 				}
-				rowEl.style.width = width + 'px';
+				rowEl.style.width = width + 'pt';
 			};
 
 			if (bottom() < 0) {
@@ -167,7 +184,7 @@ prevented with this approach.
 						for (let fontSize = baseFontSize; fontSize >= 6; fontSize--) {
 							cost[0] += Math.pow(baseFontSize - fontSize + 1, 2) * 5;
 							if (cost[0] >= minCost) break;
-							rowEl.style.fontSize = fontSize + 'px';
+							rowEl.style.fontSize = fontSize + 'pt';
 
 							cost.unshift(cost[0]);
 							for (let maxUp of [0, 2, 5, Infinity]) {
@@ -190,7 +207,7 @@ prevented with this approach.
 
 				rowEl.style.lineHeight = solution[0];
 				widen(solution[1]);
-				rowEl.style.fontSize = solution[2] + 'px';
+				rowEl.style.fontSize = solution[2] + 'pt';
 				moveUp(solution[3]);
 				// console.log(baseFontSize, solution, minCost);
 				// rowEl.style.backgroundColor = 'red';

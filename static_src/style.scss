@@ -1,8 +1,8 @@
 @import "variables";
-@import "node_modules/mfbs/sass/variables";
-@import "node_modules/mfbs/sass/base";
-@import "node_modules/mfbs/sass/fontsize";
-@import "node_modules/mfbs/sass/layout";
+@import "../node_modules/mfbs/sass/variables";
+@import "../node_modules/mfbs/sass/base";
+@import "../node_modules/mfbs/sass/fontsize";
+@import "../node_modules/mfbs/sass/layout";
 
 html {
     font-family: 'Droid Sans', arial, sans-serif;

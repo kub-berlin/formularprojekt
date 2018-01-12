@@ -17,17 +17,14 @@ pull:
 push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
 
-static/style.css: static_src/style.scss static_src/node_modules .env
-	. .env/bin/activate && node-sass $< > $@
-
-static_src/node_modules:
-	. .env/bin/activate && cd static_src && npm install mfbs
+static/style.css: static_src/style.scss node_modules
+	node_modules/.bin/node-sass $< > $@
 
 annotator/annotator.build.js: annotator/annotator.js annotator/app.js annotator/node_modules
-	browserify $< -o $@
+	annotator/node_modules/.bin/browserify $< -o $@
 
 annotator/node_modules:
-	. .env/bin/activate && cd annotator && npm install "mustache" "set-dom" "markdown-it"
+	cd annotator && npm install "mustache" "set-dom" "markdown-it" "browserify"
 
 de: $(DE_FILES)
 data/%/de.csv: data/%/form.json scripts/de.py
@@ -35,14 +32,14 @@ data/%/de.csv: data/%/form.json scripts/de.py
 
 .env:
 	virtualenv .env
-	. .env/bin/activate && pip install Flask Frozen-Flask CommonMark colorama transifex-client nodeenv
-	echo node-sass >> node_deps
-	. .env/bin/activate && nodeenv --node=system --python-virtualenv -r node_deps
-	rm node_deps
+	. .env/bin/activate && pip install Flask Frozen-Flask CommonMark colorama transifex-client
+
+node_modules:
+	npm install mfbs node-sass
 
 clean:
 	rm -f -r .env
 	rm -f -r build
-	rm -f -r static_src/node_modules
+	rm -f -r node_modules
 	rm -f -r annotator/node_modules
 	rm -f static/style.css

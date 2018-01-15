@@ -31,7 +31,7 @@ a {
 
 .row.selected {
 	background: #333;
-	color: #f2f2f2;
+	color: #f2f2f2 !important;
 }
 
 /* sidebar */

@@ -23,11 +23,9 @@ p:last-child {
 
 .page {
 	width: 20cm;
+	height: 28cm;
 	/* HACK to avoid scrambling the last printed page in firefox */
 	border-top: 1px solid transparent;
-}
-.page {
-	height: 28cm;
 	position: relative;
 	page-break-after: always;
 	text-align: left;

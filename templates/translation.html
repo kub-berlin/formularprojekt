@@ -23,7 +23,7 @@
     </tr><tr>
         <th>{{ 'Originaldokument' | translate(lang_id, 'meta') }}</th>
         <td><a href="{{ forms[form_id].url }}" class="overlong" dir="ltr" rel="external">{{ forms[form_id].url }}</a></td>
-    </tr><tr>
+    </tr><tr class="u-screen-only">
         <th>{{ 'Übersetzung verbessern' | translate(lang_id, 'meta') }}</th>
         <td>
             <a href="{{ form_id | transifex(lang_id) }}" class="overlong" dir="ltr" rel="external">{{ form_id | transifex(lang_id) }}</a>
@@ -64,7 +64,7 @@
     </tbody>
 </table>
 
-<footer class="language-footer">
+<footer class="language-footer u-screen-only">
     {{ 'Sprache wechseln:' | translate(lang_id, 'meta') }}
 
     <ul class="inline">

@@ -52,6 +52,24 @@ p:last-child {
 	padding: 1em;
 }
 
+.running-top,
+.running-bottom {
+	position: absolute;
+	box-sizing: border-box;
+	width: 100%;
+	padding: 0.2em 0.5em;
+	color: red;
+}
+.running-top {
+	top: 0;
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.running-bottom {
+	bottom: 0;
+}
+
 @media screen {
 	.page {
 		margin: 3em auto;

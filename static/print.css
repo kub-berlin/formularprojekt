@@ -74,3 +74,20 @@ p:last-child {
 		box-shadow: 2px 2px 6px 2px #888;
 	}
 }
+
+.page--cover {
+	box-sizing: border-box;
+	text-align: start;
+	padding: 1em;
+}
+.page--cover h1 {
+	text-align: center;
+}
+.overlong {
+	word-break: break-all;
+}
+.disclaimer {
+	font-size: 200%;
+	color: red;
+	margin: 1.5em 0;
+}

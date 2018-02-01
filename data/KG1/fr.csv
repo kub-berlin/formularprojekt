@@ -1,13 +1,13 @@
-Kindergeld-Nr.,N° d'allocataire
-Anlage Kind,Annexe enfant
-Vorname,Prénom
-Geburtsdatum,Date de naissance
-Geburtsort,Lieu de naissance
-Geschlecht,Sexe
-nein,non
+"Kindergeld-Nr.","N° d'allocataire"
+"Anlage Kind","Annexe enfant"
+"Vorname","Prénom"
+"Geburtsdatum","Date de naissance"
+"Geburtsort","Lieu de naissance"
+"Geschlecht","Sexe"
+"nein","non"
 "Name, Vorname","Nom, prénom"
-Staatsangehörigkeit,Nationalité
-bis,au
-ja,oui
-geboren am,Né(e) le
-Leistung,Prestation
+"Staatsangehörigkeit","Nationalité"
+"bis","au"
+"ja","oui"
+"geboren am","Né(e) le"
+"Leistung","Prestation"

@@ -1,10 +1,10 @@
-Vorname,Nome(s)
-Geburtsdatum,Data de nascimento
-Staatsangehörigkeit,Nacionalidade
-Telefonnummer,Número de telefone
-E-Mail-Adresse,E-Mail
-ledig,solteira/o
-verheiratet,casada/o
-verwitwet,viúva/o
-BIC,BIC
-IBAN,IBAN
+"Vorname","Nome(s)"
+"Geburtsdatum","Data de nascimento"
+"Staatsangehörigkeit","Nacionalidade"
+"Telefonnummer","Número de telefone"
+"E-Mail-Adresse","E-Mail"
+"ledig","solteira/o"
+"verheiratet","casada/o"
+"verwitwet","viúva/o"
+"BIC","BIC"
+"IBAN","IBAN"

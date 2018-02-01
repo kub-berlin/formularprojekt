@@ -1,13 +1,13 @@
-Geburtsdatum,Data de nascimento
-Familienstand,Estado civil
-ledig,solteira/o
-verheiratet,casada/o
-dauernd getrennt lebend,separada/o de facto
-geschieden,divorciada/o
-verwitwet,viúva/o
-Staatsangehörigkeit,Nacionalidade
-IBAN,IBAN
-BIC,BIC
-Vorname,Nome(s)
-Geschlecht,Sexo
-seit,desde
+"Geburtsdatum","Data de nascimento"
+"Familienstand","Estado civil"
+"ledig","solteira/o"
+"verheiratet","casada/o"
+"dauernd getrennt lebend","separada/o de facto"
+"geschieden","divorciada/o"
+"verwitwet","viúva/o"
+"Staatsangehörigkeit","Nacionalidade"
+"IBAN","IBAN"
+"BIC","BIC"
+"Vorname","Nome(s)"
+"Geschlecht","Sexo"
+"seit","desde"

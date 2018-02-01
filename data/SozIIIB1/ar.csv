@@ -1,24 +1,24 @@
-Bezirksamt,اسم البلدية
-Charlottenburg-Wilmersdorf von Berlin,شارلوتينبورغ-فيلمرسدورف برلين
-Friedrichshain-Kreuzberg von Berlin,فريدريشسهاين-كرويتزبرغ برلين
-Lichtenberg von Berlin,ليشتنبرغ برلين
-Marzahn-Hellersdorf von Berlin,مارتزان-هيلرسدورف برلين
-Mitte von Berlin,ميته برلين
-Neukölln von Berlin,نوي كولن برلين
-Pankow von Berlin,بانكو برلين
-Reinickendorf von Berlin,راينيكيندورف برلين
-Spandau von Berlin,شبانداو برلين
-Steglitz-Zehlendorf von Berlin,شتيغليتز برلين
-Tempelhof-Schöneberg von Berlin,تيمبيلهوف-شونيبيرغ برلين
-Treptow-Köpenick von Berlin,تريبتو-كوبينيغ برلين
-Geschäftsbereich,الأعمال
-Sozialwesen,الشؤون الاجتماعية
-Landesamt für Gesundheit und Soziales Berlin - ZLA -,المكتب الإتحادي للشؤون الصحية و الاجتماعية برلين - ZLA -
-Die Beantwortung aller Fragen ist für die Bearbeitung Ihres Antrags notwendig. Die gesetzlichen Grundlagen für die Erhebung der Daten entnehmen Sie bitte dem beigefügten Merkblatt.,إن الإجابة على جميع الأسئلة ضروري من أجل معالجة طلبكم. لمعرفة المرجع القانوني لجمع البيانات يرجى الإطلاع على النشرة المرفقة.
-Antrag auf,طلب من أجل
-Sozialhilfe nach SGB XII,المساعدة الاجتماعية حسب SGB XII
-Leistungen nach AsylbLG,الدعم و المساعدة حسب AsylbLG
-Zutreffendes bitte ankreuzen und ausfüllen,يرجى وضع علامة وملئ المعلومات المناسبة
+"Bezirksamt","اسم البلدية"
+"Charlottenburg-Wilmersdorf von Berlin","شارلوتينبورغ-فيلمرسدورف برلين"
+"Friedrichshain-Kreuzberg von Berlin","فريدريشسهاين-كرويتزبرغ برلين"
+"Lichtenberg von Berlin","ليشتنبرغ برلين"
+"Marzahn-Hellersdorf von Berlin","مارتزان-هيلرسدورف برلين"
+"Mitte von Berlin","ميته برلين"
+"Neukölln von Berlin","نوي كولن برلين"
+"Pankow von Berlin","بانكو برلين"
+"Reinickendorf von Berlin","راينيكيندورف برلين"
+"Spandau von Berlin","شبانداو برلين"
+"Steglitz-Zehlendorf von Berlin","شتيغليتز برلين"
+"Tempelhof-Schöneberg von Berlin","تيمبيلهوف-شونيبيرغ برلين"
+"Treptow-Köpenick von Berlin","تريبتو-كوبينيغ برلين"
+"Geschäftsbereich","الأعمال"
+"Sozialwesen","الشؤون الاجتماعية"
+"Landesamt für Gesundheit und Soziales Berlin - ZLA -","المكتب الإتحادي للشؤون الصحية و الاجتماعية برلين - ZLA -"
+"Die Beantwortung aller Fragen ist für die Bearbeitung Ihres Antrags notwendig. Die gesetzlichen Grundlagen für die Erhebung der Daten entnehmen Sie bitte dem beigefügten Merkblatt.","إن الإجابة على جميع الأسئلة ضروري من أجل معالجة طلبكم. لمعرفة المرجع القانوني لجمع البيانات يرجى الإطلاع على النشرة المرفقة."
+"Antrag auf","طلب من أجل"
+"Sozialhilfe nach SGB XII","المساعدة الاجتماعية حسب SGB XII"
+"Leistungen nach AsylbLG","الدعم و المساعدة حسب AsylbLG"
+"Zutreffendes bitte ankreuzen und ausfüllen","يرجى وضع علامة وملئ المعلومات المناسبة"
 "Sofern der vorgegebene Raum nicht ausreicht, machen Sie bitte Ihre Angaben
 
 - unter XI des Antrages oder
@@ -28,306 +28,306 @@ Zutreffendes bitte ankreuzen und ausfüllen,يرجى وضع علامة وملئ 
 - في القسم XI من الإستمارة
 
 - أو في ورقة منفصلة"
-Art der Hilfe,نوع المساعدة
-innerhalb einer Einrichtung,ضمن منشأة أو مرفق
-außerhalb einer Einrichtung,خارج منشأة أو مرفق
-Antragsteller/in (Personenziffer 1),مقدم/ة الطلب ( رقم الشخص 1)
-Ehegatte/Lebenspartner/in (Personenziffer 2),الزوج أو الشريك ( رقم الشخص 2)
-"Name, ggf. Geburtsname, Vorname",الاسم و الكنية
-Geburtsdatum,تاريخ الولادة
-Geburtsort/Kreis/Land,مكان الولادة/المدينة
-männl.,ذكر
-weibl.,أنثى
-nicht im gemeinsamen Haushalt,ليس في نفس المنزل
-keine weiteren Angaben auf dieser Seite; nur Anlage 1 Buchstabe A ausfüllen,لا يوجد أي معلومات إضافية في هذه الصفحة.من فضلكم تعبئة الملحق 1 الحرف A
-im gemeinsamen Haushalt,شريك سكن دائم
-minderjährig,الأطفال تحت السن القانوني
-Bitte Anlage 1 Buchstabe B ausfüllen,من فضلكم تعبئة الملحق 1 الحرف B
-Familienstand,الحالة العائلية
-ledig,أعذب
-eheähnliche Gemeinschaft,شريك تعايش
-eingetragene Lebenspartnerschaft,شريك حياة مسجل
-verheiratet,متزوج
-dauernd getrennt lebend,منفصل
-geschieden,مطلق
-verwitwet,أرمل
-Seit,منذ ذلك
-bitte Anlage 1 Buchstabe A ausfüllen,يرجى تعبئة الملحق 1 الحرف A
-Staatsangehörigkeit,الجنسية
-deutsch,الألمانية
-bitte Anlage 2 ausfüllen,من فضلكم تعبئة الملحق 2
-Personaldokument bitte vorlegen,من فضلكم تقديم وثيقة شخصية
-ausgestellt von (Dienststelle),الصادرة عن (الدائرة المانحة)
-gültig bis,صالح لغاية
-bisher keine Leistungen erhalten,لم تتلق أية مساعدات حتى الآن
-bereits Leistungen erhalten,تلقيت مساعدات مسبقاً
-bis,لغاية
-von (Dienststelle),من (الدائرة المانحة)
-Geschäftszeichen,ساعات العمل
-es besteht eine Betreuung nach dem Betreuungsgesetz,هناك رعاية حسب قانون الرعاية
-es besteht Beistandschaft,يوجد رعاية من شخص آخر
-bitte Bestallung beifügen,من فضلكم إرفاق طلبك
-Heimatvertriebene/r (Aussiedler/in) - Ausweis A -,لاجئ/ة سياسي/ة (مهاجر/ة) - بطاقة شخصية من الفئة A -
-Vertriebene/r (Aussiedler/in) - Ausweis B -,النازح/ة (المهاجر/ة) - الهوية B
-Spätaussiedler/in - Bescheinigung (nach § 15 Abs. 1 BVFG) und Registrierschein des Bundesverwaltungsamtes,عائد/ة - قرار ( حسب § 15 Abs. 1 BVFG) و وثيقة تسجيل من مكتب الإدارة الاتحادية
-Ehegatte oder Abkömmling eines Spätaussiedlers / einer Spätaussiedlerin - Bescheinigung (nach § 15 Abs. 2 BFVG) und Registrierschein des Bundesverwaltungsamtes,زوج أو تابع Spätaussiedlers - قرار ( حسب § 15 Abs. 2 BVFG) و وثيقة تسجيل من مكتب الإدارة الاتحادية
-Sowjetzonenflüchtling - Ausweis C -,اللاجئون من منطقة الإتحاد السوفياتي - بطاقة شخصية من الفئة C -
-ausgestellt am,الصادرة بتاريخ
-Schwerbehindertenausweis (Kopie des Ausweises beifügen),حالة عجز شديد (يرجى تقديم نسخة من بطاقة الهوية)
+"Art der Hilfe","نوع المساعدة"
+"innerhalb einer Einrichtung","ضمن منشأة أو مرفق"
+"außerhalb einer Einrichtung","خارج منشأة أو مرفق"
+"Antragsteller/in (Personenziffer 1)","مقدم/ة الطلب ( رقم الشخص 1)"
+"Ehegatte/Lebenspartner/in (Personenziffer 2)","الزوج أو الشريك ( رقم الشخص 2)"
+"Name, ggf. Geburtsname, Vorname","الاسم و الكنية"
+"Geburtsdatum","تاريخ الولادة"
+"Geburtsort/Kreis/Land","مكان الولادة/المدينة"
+"männl.","ذكر"
+"weibl.","أنثى"
+"nicht im gemeinsamen Haushalt","ليس في نفس المنزل"
+"keine weiteren Angaben auf dieser Seite; nur Anlage 1 Buchstabe A ausfüllen","لا يوجد أي معلومات إضافية في هذه الصفحة.من فضلكم تعبئة الملحق 1 الحرف A"
+"im gemeinsamen Haushalt","شريك سكن دائم"
+"minderjährig","الأطفال تحت السن القانوني"
+"Bitte Anlage 1 Buchstabe B ausfüllen","من فضلكم تعبئة الملحق 1 الحرف B"
+"Familienstand","الحالة العائلية"
+"ledig","أعذب"
+"eheähnliche Gemeinschaft","شريك تعايش"
+"eingetragene Lebenspartnerschaft","شريك حياة مسجل"
+"verheiratet","متزوج"
+"dauernd getrennt lebend","منفصل"
+"geschieden","مطلق"
+"verwitwet","أرمل"
+"Seit","منذ ذلك"
+"bitte Anlage 1 Buchstabe A ausfüllen","يرجى تعبئة الملحق 1 الحرف A"
+"Staatsangehörigkeit","الجنسية"
+"deutsch","الألمانية"
+"bitte Anlage 2 ausfüllen","من فضلكم تعبئة الملحق 2"
+"Personaldokument bitte vorlegen","من فضلكم تقديم وثيقة شخصية"
+"ausgestellt von (Dienststelle)","الصادرة عن (الدائرة المانحة)"
+"gültig bis","صالح لغاية"
+"bisher keine Leistungen erhalten","لم تتلق أية مساعدات حتى الآن"
+"bereits Leistungen erhalten","تلقيت مساعدات مسبقاً"
+"bis","لغاية"
+"von (Dienststelle)","من (الدائرة المانحة)"
+"Geschäftszeichen","ساعات العمل"
+"es besteht eine Betreuung nach dem Betreuungsgesetz","هناك رعاية حسب قانون الرعاية"
+"es besteht Beistandschaft","يوجد رعاية من شخص آخر"
+"bitte Bestallung beifügen","من فضلكم إرفاق طلبك"
+"Heimatvertriebene/r (Aussiedler/in) - Ausweis A -","لاجئ/ة سياسي/ة (مهاجر/ة) - بطاقة شخصية من الفئة A -"
+"Vertriebene/r (Aussiedler/in) - Ausweis B -","النازح/ة (المهاجر/ة) - الهوية B"
+"Spätaussiedler/in - Bescheinigung (nach § 15 Abs. 1 BVFG) und Registrierschein des Bundesverwaltungsamtes","عائد/ة - قرار ( حسب § 15 Abs. 1 BVFG) و وثيقة تسجيل من مكتب الإدارة الاتحادية"
+"Ehegatte oder Abkömmling eines Spätaussiedlers / einer Spätaussiedlerin - Bescheinigung (nach § 15 Abs. 2 BFVG) und Registrierschein des Bundesverwaltungsamtes","زوج أو تابع Spätaussiedlers - قرار ( حسب § 15 Abs. 2 BVFG) و وثيقة تسجيل من مكتب الإدارة الاتحادية"
+"Sowjetzonenflüchtling - Ausweis C -","اللاجئون من منطقة الإتحاد السوفياتي - بطاقة شخصية من الفئة C -"
+"ausgestellt am","الصادرة بتاريخ"
+"Schwerbehindertenausweis (Kopie des Ausweises beifügen)","حالة عجز شديد (يرجى تقديم نسخة من بطاقة الهوية)"
 "Merkzeichen (G, aG)","الرابط (G, aG)"
-Antrag gestellt?,الطلب تم تقديمه
-Ja,نعم
-Nein,لا
-Sozialversicherung,التأمين الاجتماعي
-keine (Begründung auf Seite 4 -XI-),لا يوجد (يرجى كتابة السبب في الصفحة -XI-)
-Rentenversicherung,التأمين التقاعدي
-Pflegeversicherung,التأمين الرعوي
-Krankenversichert bei,التأمين الصحي عن طريق
-Rentenversichert bei,التأمين التقاعدي عن طريق
-Rentenversicherungsnummer,رقم التأمين التقاعدي
-Krankenversicherung:,التأمين الصحي:
-Pflichtversicherung,التأمين الإلزامي
-Freiwillige Versicherung,التأمين الغير إلزامي
-Familienversicherung *,التأمين العائلي*
-Private Versicherung,التأمين الخاص
-Betreuung der Krankenkassen nach § 264 SGB V,عناية عن طريق صندوق الرعاية المرضية حسب القانون § 264 SGB V
-Umfang bzw. Ausschluss der Erwerbsfähigkeit,عجز جزئي أو كلي عن العمل
-Personenziffer 1,رقم الشخص 1
-Personenziffer 2,رقم الشخص 2
-Sind Sie zurzeit erwerbstätig?,هل تعمل حاليا؟
-Tätigkeit:,العمل:
-Arbeitgeber:,صاحب العمل:
-Umfang der Erwerbsfähigkeit,مجال القدرة على العمل
-Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?,يمكنك - حسب تقديرك - ** العمل ما لا يقل عن ثلاث ساعات يوميا** في سوق العمل المفتوح؟
-"Nein, weil",لا، لأن
-Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?,يمكن له/لها - بشكل تقديري- **العمل ما لا يقل عن ثلاث ساعات يوميا** في سوق العمل المفتوحة؟
-Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor? (EU-Rente),يوجد لديك إعاقة كاملة عن العمل حسب § 43 Abs. 2 SGB VI vor? (EU-Rente)
-unbefristet:,غير محدد:
-für welchen Zeitraum?,لأي مدة؟
-Sind Sie pflegebedürftig im Sinne des SGB XI Pflegeversicherungsgesetz?,هل أنت في حاجة إلى رعاية حسب القانون SGB XI للتأمين للرعاية؟
-Stufe:,المستوى:
-Auszubildender/Student - auch in Schulausbildung -,المتدرب / الطالب - أيضاً في التعليم -
-"Ja, in Ausbildung / Studium als",نعم، في التدريب / الدراسة في مجال
-Name und Anschrift des derzeitigen Arbeitgebers bzw. Angabe der Schule,اسم وعنوان صاحب العمل الحالي أو المدرسة
-Unterbringung in einer stationären Einrichtung,الإقامة في منشأة للمرضى الداخليين
+"Antrag gestellt?","الطلب تم تقديمه"
+"Ja","نعم"
+"Nein","لا"
+"Sozialversicherung","التأمين الاجتماعي"
+"keine (Begründung auf Seite 4 -XI-)","لا يوجد (يرجى كتابة السبب في الصفحة -XI-)"
+"Rentenversicherung","التأمين التقاعدي"
+"Pflegeversicherung","التأمين الرعوي"
+"Krankenversichert bei","التأمين الصحي عن طريق"
+"Rentenversichert bei","التأمين التقاعدي عن طريق"
+"Rentenversicherungsnummer","رقم التأمين التقاعدي"
+"Krankenversicherung:","التأمين الصحي:"
+"Pflichtversicherung","التأمين الإلزامي"
+"Freiwillige Versicherung","التأمين الغير إلزامي"
+"Familienversicherung *","التأمين العائلي*"
+"Private Versicherung","التأمين الخاص"
+"Betreuung der Krankenkassen nach § 264 SGB V","عناية عن طريق صندوق الرعاية المرضية حسب القانون § 264 SGB V"
+"Umfang bzw. Ausschluss der Erwerbsfähigkeit","عجز جزئي أو كلي عن العمل"
+"Personenziffer 1","رقم الشخص 1"
+"Personenziffer 2","رقم الشخص 2"
+"Sind Sie zurzeit erwerbstätig?","هل تعمل حاليا؟"
+"Tätigkeit:","العمل:"
+"Arbeitgeber:","صاحب العمل:"
+"Umfang der Erwerbsfähigkeit","مجال القدرة على العمل"
+"Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?","يمكنك - حسب تقديرك - ** العمل ما لا يقل عن ثلاث ساعات يوميا** في سوق العمل المفتوح؟"
+"Nein, weil","لا، لأن"
+"Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?","يمكن له/لها - بشكل تقديري- **العمل ما لا يقل عن ثلاث ساعات يوميا** في سوق العمل المفتوحة؟"
+"Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor? (EU-Rente)","يوجد لديك إعاقة كاملة عن العمل حسب § 43 Abs. 2 SGB VI vor? (EU-Rente)"
+"unbefristet:","غير محدد:"
+"für welchen Zeitraum?","لأي مدة؟"
+"Sind Sie pflegebedürftig im Sinne des SGB XI Pflegeversicherungsgesetz?","هل أنت في حاجة إلى رعاية حسب القانون SGB XI للتأمين للرعاية؟"
+"Stufe:","المستوى:"
+"Auszubildender/Student - auch in Schulausbildung -","المتدرب / الطالب - أيضاً في التعليم -"
+"Ja, in Ausbildung / Studium als","نعم، في التدريب / الدراسة في مجال"
+"Name und Anschrift des derzeitigen Arbeitgebers bzw. Angabe der Schule","اسم وعنوان صاحب العمل الحالي أو المدرسة"
+"Unterbringung in einer stationären Einrichtung","الإقامة في منشأة للمرضى الداخليين"
 "Ja, Zuweisung","نعم, يرجى التحديد"
-vom,من
-Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.,إذا كانت الإجابة بنعم: يرجى تقديم الوثائق ذات الصلة.
+"vom","من"
+"Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.","إذا كانت الإجابة بنعم: يرجى تقديم الوثائق ذات الصلة."
 "\* **Wichtige Hinweise:** Wenn Sie oder Ihr Partner/Ihre Partnerin **das 23. Lebensjahr noch nicht vollendet haben**, können Sie oder Ihr Partner/Ihre Partnerin bei einem Elternteil **familienversichert** werden. Wenn Sie oder Ihr Partner/Ihre Partnerin von Ihrem Ehegatten/eingetragenen Lebenspartner **getrennt** leben, ist zu prüfen, ob Sie dennoch über diesen **familienversichert** werden können.","\* **ملاحظات هامة:** إذا كنت أنت أو شريكك/شريكتك **لم تكملوا بعد سن 23**، فإنه يمكنك أنت أو شريكك/شريكتك الخاص بك أن تكون مؤمَن مع الوالدين كجزء من التأمين العائلي, و إذا كنت أنت و شريكك/شريكتك تعيشون منفصلين , فعندها يجب اثبات ذلك للتأكد من أنكم تستطيعون أن تكونو مأمنين **التأمين العائلي**"
-Haben Sie Leistungen nach dem SGB II beantragt?,هل تقدمت مسبقاً بطلب مساعدات بموجب SGB II؟
-Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen,يرجى إبراز الأدلة أو المعطيات أو قرار الرفض
-Kunden-Nr. der Agentur für Arbeit (falls vorhanden),الرقم التعريفي لمكتب العمل (في حال توفره)
-**\- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde**,**\- لا تملأ من قبل مقدم الطلب/للدائرة الرسمية**
-Mögliche Ausschlussgründe für die Hilfe zum Lebensunterhalt,الأسباب المحتملة لأسباب توقف المعونات الاجتماعية
-Bankverbindung,المعلومات البنكية
-Geldinstitut,اسم البنك
-Bankleitzahl,الرقم التعريفي للبنك
-Kontonummer,رقم الحساب
-Kontoinhaber/in,اسم صاحب الحساب
-IBAN,IBAN
-BIC,BIC
-Aufenthalt,الإقامة
-Anschrift,العنوان
-Lage der Wohnung/Etage,الطابق
-Telefonnummer (freiwillige Angabe),رقم الهاتف (غير إلزامي)
-in Berlin seit,في برلين منذ
-im Bezirk seit,في المنطقة منذ
-zuletzt wohnhaft,السكن السابق
-Unterkunft,المسكن
-Mietwohnung,شقة مستأجرة
-Hauptmieter/in,مستأجر رئيسي
-Untermieter/in,مستأجر ثانوي
-Name und Anschrift des Vermieters,اسم وعنوان المأجر
-Name des Hauptmieters,اسم المستأجر الرئيسي
-Eigenheim,مسكن شخصي
-Eigentumswohnung,شقة مملوكة
-verwandt,قرابة
-Wirtschaftsgemeinschaft,شراكة اقتصادية
+"Haben Sie Leistungen nach dem SGB II beantragt?","هل تقدمت مسبقاً بطلب مساعدات بموجب SGB II؟"
+"Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen","يرجى إبراز الأدلة أو المعطيات أو قرار الرفض"
+"Kunden-Nr. der Agentur für Arbeit (falls vorhanden)","الرقم التعريفي لمكتب العمل (في حال توفره)"
+"**\- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde**","**\- لا تملأ من قبل مقدم الطلب/للدائرة الرسمية**"
+"Mögliche Ausschlussgründe für die Hilfe zum Lebensunterhalt","الأسباب المحتملة لأسباب توقف المعونات الاجتماعية"
+"Bankverbindung","المعلومات البنكية"
+"Geldinstitut","اسم البنك"
+"Bankleitzahl","الرقم التعريفي للبنك"
+"Kontonummer","رقم الحساب"
+"Kontoinhaber/in","اسم صاحب الحساب"
+"IBAN","IBAN"
+"BIC","BIC"
+"Aufenthalt","الإقامة"
+"Anschrift","العنوان"
+"Lage der Wohnung/Etage","الطابق"
+"Telefonnummer (freiwillige Angabe)","رقم الهاتف (غير إلزامي)"
+"in Berlin seit","في برلين منذ"
+"im Bezirk seit","في المنطقة منذ"
+"zuletzt wohnhaft","السكن السابق"
+"Unterkunft","المسكن"
+"Mietwohnung","شقة مستأجرة"
+"Hauptmieter/in","مستأجر رئيسي"
+"Untermieter/in","مستأجر ثانوي"
+"Name und Anschrift des Vermieters","اسم وعنوان المأجر"
+"Name des Hauptmieters","اسم المستأجر الرئيسي"
+"Eigenheim","مسكن شخصي"
+"Eigentumswohnung","شقة مملوكة"
+"verwandt","قرابة"
+"Wirtschaftsgemeinschaft","شراكة اقتصادية"
 "Bitte Anlage 3 ausfüllen, dann weiter bei V.2","من فضلك تعبئة النموذج رقم 3, ثم المتابعة ب V.2"
-Miete insgesamt (EUR/mtl.),القيمة الإجمالية للأجار (€/شهريا)
-Warmwasserkosten,تكاليف المياه الساخنة
-(EUR/mtl.),(€/شهريا)
-Heizkostenvorschuss (EUR/mtl.),تكلفة التدفئة (€/شهريا)
-Kabelfernsehen (EUR/mtl.),كبل التلفزيون (€/شهريا)
-Miete bezahlt bis,الإيجار مدفوع لغاية
-Bitte Nachweis beifügen,يرجى إرفاق إثبات
-Mietrückstände (von/bis/EUR),متأخرات الإيجار (من/لغاية/يورو)
-Gekündigt zum,تم إنهاءه ل
-Bitte Anlage 6 ausfüllen,يرجى تعبئة النموذج رقم 6
-Größe der Unterkunft des Antragstellers,مساحة السكن لمقدم الطلب
-Anzahl der Zimmer ohne Küche/Bad,عدد الغرف دون المطبخ/الحمام
-Gesamtwohnfläche (m2),مساحة السكن الكلية بالمتر المربع
-Wohngeld wird gezahlt,سيتم دفع مصاريف السكن
-Wohngeld wird nicht gezahlt,لن يتم دفع مصاريف السكن
-Bitte Bescheid beifügen,يرجى إرفاق القرار
-Heizungsart/Warmwasser,التدفئة/الماء الساخن
-Sammelheizung,التدفئة الجماعية
-Zentrale Warmwasserversorgung,ماء ساخن مركزي
-Ofenheizung,تدفئة بالموقد
-Gasheizung,تدفئة بالغاز
-Nachtstromspeicherheizung,التدفئة بالكهرباء الليلية التوفيرية
-Wohnraum wird untervermietet,يوجد غرفة في الشقة مؤجرة
-Wohnraum kann untervermietet werden,يمكن تأجيرغرفة بالشقة
-Wohnraum kann nicht untervermietet werden,لا يمكن تأجيرغرفة بالشقة
-Zahl vermieteter Leerzimmer,عدد الغرف الفارغة المأجرة
-Miete (EUR/mtl.),قيمة الأجار (€/شهريا)
-Zahl vermieteter möblierter Zimmer,عدد الغرف المفروشة المأجرة
-Grund,السبب
-Ich/Wir habe/n freies Wohnrecht bei:,أنا/نحن لدينا الحق في السكن المجاني على العنوان التالي:
-Name:,الاسم:
-"Wenn Sie in einer stationären Einrichtung (z. B. Heim, Betreute Wohngemeinschaft, Krankenhaus) leben: **Wo haben Sie vorher gewohnt** (gewöhnlicher Aufenthaltsort)?",إذا كنت تعيش حالياً في منشأة للمرضى الداخليين (مثل المنزل، بمساعدة مستشفى محلية للعناية): **فأين كنت تعيش من قبل** (الإقامة الاعتيادية)؟
-Anschrift der Wohnung **vor der Aufnahme** in die Einrichtung,عنوان الشقة **قبل التسجيل** في المنشأة
-Persönliche Verhältnisse der mit dem Antragsteller/der Antragstellerin in einem Haushalt lebenden weiteren Personen,علاقات شخصية لمقدم/لمقدمة الطلب مع أشخاص آخرين يعيشون معه
-Leben weitere Personen im gemeinsamen Haushalt?,هل يعيش أشخاص آخرين في نفس المنزل؟
-"**Wenn Ja, tragen Sie bitte die weiteren Personen in der Reihenfolge des Geburtsdatums ein.**",**إذا كان الجواب نعم،الرجاء أدخل أسماء الأشخاص حسب ترتيب تاريخ الميلاد.**
-Bei vier oder mehr Personen bitte **Zusatzblatt** verwenden.,في حال وجود أربعة أشخاص أو أكثر يرجى استخدام **ورقة إضافية**.
-Personenziffer 3,رقم الشخص 3
-Personenziffer 4,رقم الشخص 4
-Personenziffer 5,رقم الشخص 5
-Name (ggf. Geburtsname),الاسم عند الولادة
-Vorname,الاسم
-Verwandtschaftsverhältnis zum/zur Antragsteller/in / Partner/in,علاقات قرابة لمقدم/ لمقدمة الطلب
-Geschlecht,الجنس
-weiblich,ذكر
-männlich,أنثى
-Geburtsort,مكان الولادة
-seit,منذ
-andere,أخرى
-"(sofern bereits eine Arbeitsgenehmigung erteilt wurde, bitte beifügen)",(إذا تم إصدار تصريح عمل بالفعل، من فضلك أرفق ذلك)
-Erwerbsfähigkeit (Angabe nur ab vollendetem 15. Lebensjahr erforderlich),القدرة على الكسب (مطلوب فقط من سن 15 و ما فوق)
-Haben die o.g. Personen Leistungen nach dem SGB II beantragt?,هل يحصل الأشخاص المذكورين أعلاه على مساعدات بموجب II SGB ؟
-"Unterhaltspflichtige Angehörige außerhalb des Haushalts (Kinder, Eltern)",أقارب المدين خارج الأسرة (الأطفال والوالدان)
-"Geburtstag, bzw. Alter",تاريخ الميلاد و العمر
-Verwandtschaftsverhältnis zum Antragsteller,العلاقة الأسرية لمقدم الطلب
-ausgeübte Tätigkeit,النشاطات التي تم ممارستها
-Art und Höhe des Unterhaltsbeitrages,طبيعة وكمية رسوم الصيانة
-Einkünfte aller Haushaltsangehörigen,دخل جميع أفراد الأسرة
-Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.),المبالغ (EUR) وتحديد الفترة (شهريا./أسبوعيا./يوميا.)
-Bitte Nachweise beifügen,يرجى إرفاق الأدلة
-Bezeichnung,الرمز
-Bewilligungsstelle,مكتب تصريح
+"Miete insgesamt (EUR/mtl.)","القيمة الإجمالية للأجار (€/شهريا)"
+"Warmwasserkosten","تكاليف المياه الساخنة"
+"(EUR/mtl.)","(€/شهريا)"
+"Heizkostenvorschuss (EUR/mtl.)","تكلفة التدفئة (€/شهريا)"
+"Kabelfernsehen (EUR/mtl.)","كبل التلفزيون (€/شهريا)"
+"Miete bezahlt bis","الإيجار مدفوع لغاية"
+"Bitte Nachweis beifügen","يرجى إرفاق إثبات"
+"Mietrückstände (von/bis/EUR)","متأخرات الإيجار (من/لغاية/يورو)"
+"Gekündigt zum","تم إنهاءه ل"
+"Bitte Anlage 6 ausfüllen","يرجى تعبئة النموذج رقم 6"
+"Größe der Unterkunft des Antragstellers","مساحة السكن لمقدم الطلب"
+"Anzahl der Zimmer ohne Küche/Bad","عدد الغرف دون المطبخ/الحمام"
+"Gesamtwohnfläche (m2)","مساحة السكن الكلية بالمتر المربع"
+"Wohngeld wird gezahlt","سيتم دفع مصاريف السكن"
+"Wohngeld wird nicht gezahlt","لن يتم دفع مصاريف السكن"
+"Bitte Bescheid beifügen","يرجى إرفاق القرار"
+"Heizungsart/Warmwasser","التدفئة/الماء الساخن"
+"Sammelheizung","التدفئة الجماعية"
+"Zentrale Warmwasserversorgung","ماء ساخن مركزي"
+"Ofenheizung","تدفئة بالموقد"
+"Gasheizung","تدفئة بالغاز"
+"Nachtstromspeicherheizung","التدفئة بالكهرباء الليلية التوفيرية"
+"Wohnraum wird untervermietet","يوجد غرفة في الشقة مؤجرة"
+"Wohnraum kann untervermietet werden","يمكن تأجيرغرفة بالشقة"
+"Wohnraum kann nicht untervermietet werden","لا يمكن تأجيرغرفة بالشقة"
+"Zahl vermieteter Leerzimmer","عدد الغرف الفارغة المأجرة"
+"Miete (EUR/mtl.)","قيمة الأجار (€/شهريا)"
+"Zahl vermieteter möblierter Zimmer","عدد الغرف المفروشة المأجرة"
+"Grund","السبب"
+"Ich/Wir habe/n freies Wohnrecht bei:","أنا/نحن لدينا الحق في السكن المجاني على العنوان التالي:"
+"Name:","الاسم:"
+"Wenn Sie in einer stationären Einrichtung (z. B. Heim, Betreute Wohngemeinschaft, Krankenhaus) leben: **Wo haben Sie vorher gewohnt** (gewöhnlicher Aufenthaltsort)?","إذا كنت تعيش حالياً في منشأة للمرضى الداخليين (مثل المنزل، بمساعدة مستشفى محلية للعناية): **فأين كنت تعيش من قبل** (الإقامة الاعتيادية)؟"
+"Anschrift der Wohnung **vor der Aufnahme** in die Einrichtung","عنوان الشقة **قبل التسجيل** في المنشأة"
+"Persönliche Verhältnisse der mit dem Antragsteller/der Antragstellerin in einem Haushalt lebenden weiteren Personen","علاقات شخصية لمقدم/لمقدمة الطلب مع أشخاص آخرين يعيشون معه"
+"Leben weitere Personen im gemeinsamen Haushalt?","هل يعيش أشخاص آخرين في نفس المنزل؟"
+"**Wenn Ja, tragen Sie bitte die weiteren Personen in der Reihenfolge des Geburtsdatums ein.**","**إذا كان الجواب نعم،الرجاء أدخل أسماء الأشخاص حسب ترتيب تاريخ الميلاد.**"
+"Bei vier oder mehr Personen bitte **Zusatzblatt** verwenden.","في حال وجود أربعة أشخاص أو أكثر يرجى استخدام **ورقة إضافية**."
+"Personenziffer 3","رقم الشخص 3"
+"Personenziffer 4","رقم الشخص 4"
+"Personenziffer 5","رقم الشخص 5"
+"Name (ggf. Geburtsname)","الاسم عند الولادة"
+"Vorname","الاسم"
+"Verwandtschaftsverhältnis zum/zur Antragsteller/in / Partner/in","علاقات قرابة لمقدم/ لمقدمة الطلب"
+"Geschlecht","الجنس"
+"weiblich","ذكر"
+"männlich","أنثى"
+"Geburtsort","مكان الولادة"
+"seit","منذ"
+"andere","أخرى"
+"(sofern bereits eine Arbeitsgenehmigung erteilt wurde, bitte beifügen)","(إذا تم إصدار تصريح عمل بالفعل، من فضلك أرفق ذلك)"
+"Erwerbsfähigkeit (Angabe nur ab vollendetem 15. Lebensjahr erforderlich)","القدرة على الكسب (مطلوب فقط من سن 15 و ما فوق)"
+"Haben die o.g. Personen Leistungen nach dem SGB II beantragt?","هل يحصل الأشخاص المذكورين أعلاه على مساعدات بموجب II SGB ؟"
+"Unterhaltspflichtige Angehörige außerhalb des Haushalts (Kinder, Eltern)","أقارب المدين خارج الأسرة (الأطفال والوالدان)"
+"Geburtstag, bzw. Alter","تاريخ الميلاد و العمر"
+"Verwandtschaftsverhältnis zum Antragsteller","العلاقة الأسرية لمقدم الطلب"
+"ausgeübte Tätigkeit","النشاطات التي تم ممارستها"
+"Art und Höhe des Unterhaltsbeitrages","طبيعة وكمية رسوم الصيانة"
+"Einkünfte aller Haushaltsangehörigen","دخل جميع أفراد الأسرة"
+"Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)","المبالغ (EUR) وتحديد الفترة (شهريا./أسبوعيا./يوميا.)"
+"Bitte Nachweise beifügen","يرجى إرفاق الأدلة"
+"Bezeichnung","الرمز"
+"Bewilligungsstelle","مكتب تصريح"
 "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.","ساعات العمل, رقم الفاتورة التقاعدية ..o,ä"
-Nichtselbständige Tätigkeit,عمل غير حر
-"(Erwerbseinkommen, Ausbildungsvergütung, Entgelt der Werkstatt für behinderte Menschen)",(الدخل المكتسب، الأجور والرواتب ورشة العمل لذوي الاحتياجات الخاصة)
-Leistungen der Krankenkasse,التأمين الصحي
-(einschl. Arbeitgeberzuschuss),(مساهمة مدفوعة. صاحب العمل)
-Gewerbebetrieb,أعمال تجارية
-Land- und Forstwirtschaft,زراعة
-Sonstige selbständige Tätigkeiten,أنشطة خاصة أخرى
-Vermietung und Verpachtung,عقود تأجير
-Wohngeld/Lastenzuschuss,مصاريف الإسكان
-Renten/Pensionen,رواتب تقاعد
+"Nichtselbständige Tätigkeit","عمل غير حر"
+"(Erwerbseinkommen, Ausbildungsvergütung, Entgelt der Werkstatt für behinderte Menschen)","(الدخل المكتسب، الأجور والرواتب ورشة العمل لذوي الاحتياجات الخاصة)"
+"Leistungen der Krankenkasse","التأمين الصحي"
+"(einschl. Arbeitgeberzuschuss)","(مساهمة مدفوعة. صاحب العمل)"
+"Gewerbebetrieb","أعمال تجارية"
+"Land- und Forstwirtschaft","زراعة"
+"Sonstige selbständige Tätigkeiten","أنشطة خاصة أخرى"
+"Vermietung und Verpachtung","عقود تأجير"
+"Wohngeld/Lastenzuschuss","مصاريف الإسكان"
+"Renten/Pensionen","رواتب تقاعد"
 "(z. B. Rente wg. Erwerbsminderung, Altersrente, Unfallrente, landwirtschaftliches Altersgeld, Witwen- oder Waisenrente, Erziehungsrente, Kinderzuschuss /-zulage, Pflegegeld zur Rente, Werksrente, Kindererziehungsleistung, Sonstige Renten / Pensionen)","(على سبيل المثال: معاشات تقاعد ,بدل الإعاقة، بدل الحادث، التعويض الزراعي , تعويض للأرامل والأيتام، فوائد الطفل، بدل الطفل،تعويض الأبوة والأمومة، والمعاشات التقاعدية الأخرى)"
-Sozialhilfeleistungen,مساعدة الرعاية الاجتماعية
-Grundsicherungsleistungen,المساعدة التأمينية الأساسية
-Asylbewerberleistung,مساعدات اللاجئين
-Leistungen nach dem Bundesversorgungsgesetz,مساعدات وفقا للقانون الإتحادي
-Leistungen des Lastenausgleichsamtes,مساعدات من مكتب الموازنة
+"Sozialhilfeleistungen","مساعدة الرعاية الاجتماعية"
+"Grundsicherungsleistungen","المساعدة التأمينية الأساسية"
+"Asylbewerberleistung","مساعدات اللاجئين"
+"Leistungen nach dem Bundesversorgungsgesetz","مساعدات وفقا للقانون الإتحادي"
+"Leistungen des Lastenausgleichsamtes","مساعدات من مكتب الموازنة"
 "(z. B. Unterhaltshilfe, Pflegegeld, Entschädigungsrente)","(على سبيل المثال: المساعدة الترفيهية، المعاشات التقاعدية, تعويض الرعاية)"
-Leistungen der Agentur für Arbeit,مساعدات من مكتب شؤون العمل
-"(z. B. Arbeitslosengeld, Arbeitslosengeld II, Eingliederungshilfe, Berufsausbildungsbeihilfe, Arbeitsförderungsgeld u. a.)",(على سبيل المثال: إعانة البطالة، إعانة البطالة II، المساعدة المكملة، مساعدات التدريب وتعزيز العمالة)
-Kindergeld,مساعدات الأطفال كيندرغيلد
-Kindergeldzuschlag,ملحق مساعدات الأطفال كيندرغيلد
-Elterngeld,مساعدات رعاية الآباء
-Ausbildungsförderung,رعاية الآوسبيلدونغ
-Unterhalt,الصيانة
-Unterhaltsvorschuss,الصيانة المتقدمة
-Privatrechtliche geldwerte Ansprüche,المطالبات النقدية القانونية الخاصة
-"(z. B. Beköstigung, Wohnrecht, Taschengeld, Leibrente, Pflegegeld)",(على سبيل المثال: قانون السكن ومصروف الجيب والمعاش، وبدل الحضور المستمر)
-Steuererstattung,تعويضات ضريبية
-Kapitalerträge (z. B. Zinsen),دخل الاستثمار (على سبيل المثال: الفائدة)
-Sonstige Einkünfte,الإيرادات الأخرى
-(z.B. Schadensersatzansprüche),(على سبيل المثال: تعويضات عن الأضرار)
-Kein Einkommen,لا يوجد أي دخل
-"Sind Leistungen nach Nr. VIII. beantragt, über die noch nicht entschieden wurde?",هل تم تقديم طلب من الفوائد تحت البند VIII ،و لم يتم بعد اتخاذ قرار بشأنها؟
-Personenziffer,رقم الشخص
-Antragsdatum,تاريخ الطلب
-Art der Leistung,نوع المساعدة
-Dienststelle und Geschäftszeichen,مكتب وساعات العمل
+"Leistungen der Agentur für Arbeit","مساعدات من مكتب شؤون العمل"
+"(z. B. Arbeitslosengeld, Arbeitslosengeld II, Eingliederungshilfe, Berufsausbildungsbeihilfe, Arbeitsförderungsgeld u. a.)","(على سبيل المثال: إعانة البطالة، إعانة البطالة II، المساعدة المكملة، مساعدات التدريب وتعزيز العمالة)"
+"Kindergeld","مساعدات الأطفال كيندرغيلد"
+"Kindergeldzuschlag","ملحق مساعدات الأطفال كيندرغيلد"
+"Elterngeld","مساعدات رعاية الآباء"
+"Ausbildungsförderung","رعاية الآوسبيلدونغ"
+"Unterhalt","الصيانة"
+"Unterhaltsvorschuss","الصيانة المتقدمة"
+"Privatrechtliche geldwerte Ansprüche","المطالبات النقدية القانونية الخاصة"
+"(z. B. Beköstigung, Wohnrecht, Taschengeld, Leibrente, Pflegegeld)","(على سبيل المثال: قانون السكن ومصروف الجيب والمعاش، وبدل الحضور المستمر)"
+"Steuererstattung","تعويضات ضريبية"
+"Kapitalerträge (z. B. Zinsen)","دخل الاستثمار (على سبيل المثال: الفائدة)"
+"Sonstige Einkünfte","الإيرادات الأخرى"
+"(z.B. Schadensersatzansprüche)","(على سبيل المثال: تعويضات عن الأضرار)"
+"Kein Einkommen","لا يوجد أي دخل"
+"Sind Leistungen nach Nr. VIII. beantragt, über die noch nicht entschieden wurde?","هل تم تقديم طلب من الفوائد تحت البند VIII ،و لم يتم بعد اتخاذ قرار بشأنها؟"
+"Personenziffer","رقم الشخص"
+"Antragsdatum","تاريخ الطلب"
+"Art der Leistung","نوع المساعدة"
+"Dienststelle und Geschäftszeichen","مكتب وساعات العمل"
 "Werden einmalige Einnahmen erwartet, z. B. eine Steuerrückzahlung?","هل يوجد أية إيرادات متوقعة,على سبيل المثال. استردادات ضريبية؟"
-Zeitpunkt,الوقت
-EUR,يورو
-Vom Einkommen evtl. absetzbare Beträge,المبالغ المخصومة من مجموع الدخل
-**Keine absetzbaren Beträge**,**لا يوجد مبالغ للخصم**
-Ausgaben mtl. Betrag,النفقات الشهرية
-Einkommensteuer*,ضريبة الدخل *
-Krankenversicherung*,التأمين الصحي *
-Pflegeversicherung*,تأمين الرعاية *
-Arbeitslosenversicherung*,تأمين البطالة *
-Rentenversicherung*,تأمين التقاعد *
-Kirchensteuer*,ضريبة الكنيسة *
-Unfallversicherung,التأمين ضد الحوادث
-Altersvorsorgebeiträge,اشتراكات التقاعد
-Hausratsversicherung,التأمين المنزلي
-Sterbeversicherung,تأمين الوفاة
-Lebensversicherung,التأمين على الحياة
-Haftpflichtversicherung,التأمين الإلزامي
-Aufwendungen für Arbeitsmittel,نفقات معدات العمل
-Beiträge für Berufsverbände,المساهمات في الجمعيات المهنية
-Mehraufwendungen für doppelte Haushaltsführung,نفقات إضافية للأسرة
-\* Angabe nicht erforderlich soweit die Beträge bereits vom Arbeitgeber oder Rententräger abgesetzt wurden,\* المعلومات غير مطلوبة طالما أن المبالغ المحددة مسبقا مقتطعة من قبل مانح العمل أو المؤسسة التقاعدية
-Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit,المسافة ونفقات السفر بين المنزل ومكان العمل
-km,كم
-öffentlichen Verkehrsmitteln,نقل العام
-PKW,سيارة خاصة
-Kleinst-PKW (bis 500 ccm),سيارة خاصة صغيرة
-Motorrad,دراجة نارية
-Mofa,موتور موفا
-Sonstiges,أخرى
-Nähere Begründung zu „Sonstiges“,"مبررات أخرى ""متنوعة"""
-Vermögensverhältnisse (ggf. auf gesondertem Blatt fortsetzen),الظروف المالية (إذا لزم الأمر يمكن المواصلة على ورقة منفصلة)
-Sparguthaben / Bargeld,التوفير / السيولة النقدية
-Wertpapiere,أوراق ذات قيمة
-Sachwerte von besonderem Wert,الممتلكات الملموسة ذات القيمة
-Art,النوع
-sonstiges Vermögen (Forderungen und anderes),أصول أخرى (الذمم وغيرها)
-Verschenktes Vermögen innerhalb der letzten 10 Jahre (auch Grundvermögen),الأصول المهدورة في غضون ال 10 السنوات الماضية (أيضا الأصول الأساسية)
-Kraftfahrzeug,السيارات
-amtl. Kennzeichen,رقم السيارة
-Fabrikat,المصنع
-Baujahr,سنة البناء
-Halter,المالك
-Hauseigentum oder Grundbesitz,ملكية المنازل أو العقارات
-**Bitte Anlage 3 ausfüllen**,**يرجى تعبئة الملحق 3**
-Staatlich geförderte private Altersvorsorge,المعاشات التقاعدية الخاصة المدعومة من الدولة
-"Ansprüche aus Übertragsverträgen (z. B. Wohnrecht, Nießbrauch, Altenteilsrechte)",المطالبات الناشئة عن اتفاقات نقل (على سبيل المثال. قانون الإسكان، حق الإنتفاع)
-Sonstiges Vermögen,ممتلكات خاصة
-"**Sonstige Angaben,**",**معلومات اخرى**
-"z. B. über persönliche, familiäre, gesundheitliche Verhältnisse",على سبيل المثال. الظروف الشخصية أوالأسرية أوالصحية
-Leistungen für besondere Mehrbedarfe,مساعدات لمطالب إضافية خاصة
-"Unter bestimmten Voraussetzungen können Leistungen für Mehrbedarfe erbracht werden, die nicht durch die Regelleistung abgedeckt sind und aus den vorgenannten Angaben nicht zu beurteilen sind. Dies gilt für alle Personen innerhalb des Haushalts.",في ظل ظروف معينة، ولأداء احتياجات إضافية يجب توفيرها و التي لم تتم تغطيتها من قبل المساعدات القانونية العادية ولا يمكن تقييمها من المعلومات الواردة أعلاه. وهذا ينطبق على جميع الأفراد داخل الأسرة.
-Folgende Mehrbedarfe werden geltend gemacht:,وأؤكد المتطلبات الإضافية التالية:
-Für werdende Mütter nach der 12. Schwangerschaftswoche,للأمهات الحوامل بعد الأسبوع ال12 من الحمل
-Vorlage Mutterschaftspass erforderlich,جواز سفر الأمومة المطلوب
-Vorname:,الكنية:
-Voraussichtlicher Geburtstermin,تاريخ الولادة المتوقع
-"Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten",المعوقين إعاقة شديدة،والذين بلغوا سن 15 عاما و يحصلون على مساعدة المشاركة في الحياة العملية
-Vorlage des Bewilligungsbescheides,نموذج قرار الموافقة
-Kostenaufwendige Ernährung aus medizinischen Gründen,النظام الغذائي مكلف لأسباب طبية
-vom Sozialamt erhältlicher Vordruck ist vom behandelnden Arzt auszufüllen,نسخة مطبوعة من مكتب الخدمات الاجتماعية يجب أن تكون معبئة من قبل الطبيب المعالج
-Bestandteile des Antrages sind die Anlagen,أجزاء من الطلب هي الأوراق المقدمة
-1 - Unterhalt,1 - صيانة
-2 - Ausländer,2 - الخارجية
-3 - Grundbesitz,3 - التملك الحر
-4 – Eingliederungshilfe,4 - بدل التكامل
-6 – Mietschulden,6 - متأخرات إيجار
-Dem Antrag sind folgende Unterlagen beigefügt,مع الطلب يتم إرفاق الوثائق التالية
-Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.,المعلومات الواردة في الطلب ومرفقاته أعطيت تماما وبصدق.
-"Ich werde den Träger der Leistungen (Land Berlin, vertreten durch die Bezirksämter v. Berlin, Geschäftsbereich Sozialwesen / Geschäftsbereich Jugend und Sport bzw. Landesamt für Gesundheit und Soziales Berlin / ZLA) gem. § 60 Abs. 1 Ziff. 2 SGB I unverzüglich informieren, wenn",سأقوم على الفور بإخبار دائرة دعم الخدمات (ولاية برلين، ممثلة في مكاتب مقاطعة برلين، قسم الرعاية الاجتماعية / قسم الشباب والرياضة ومكتب الدولة للصحة والشؤون الاجتماعية برلين / ZLA)حسب القانون. § 60، الفقرة 1. 2 SGB في حال
-- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.,- تغير ظروفك الشخصية والمالية.
-- sich die Verhältnisse meiner Haushaltsangehörigen ändern.,- تغير شروط أفراد الأسرة.
-- ich Renten oder ähnliche Leistungen beantrage.,- في حال التقدم بطلب للحصول على معاشات أو فوائد مماثلة.
-"Des Weiteren bin ich hinreichend darüber informiert worden, dass im Falle eines konkreten Betrugsverdachts die Ermittlungen des Sachverhalts gemäß §§ 20, 21, 69 und 71 SGB X von Amts wegen – ohne meine Beteiligung – erfolgen können.",وعلاوة على ذلك، لقد كنت على علم كاف أنه في حالة وجود اشتباه ملموس من التحقيقات أو تزوير للحقائق فإن القوانين التالية §§ 20 و 21 و 69 و 71 SGB X من قبل المؤسسة - سيتم تطبيقها دون إخباري.
-"Leistungen werden von mir zurückgefordert, sofern ich sie zu Unrecht erhalten habe, z. B. weil ich vorsätzlich oder grob fahrlässig falsche Angaben gemacht habe.",المساعدات يمكن أن تسترد مني، إذا كنت قد تلقيتها بالخطأ، مثلا لأنني قدمت عمداً أو بشكل مقصود معلومات و أدلة خاطئة.
-"Der Träger der Leistungen nach SGB XII bzw. AsylbLG kann für die Zeit, für die ich Leistungen erhalte, meine Ansprüche gegen einen anderen auf entsprechende Leistungen in Höhe seiner Aufwendungen auf sich überleiten.",يحق لوكالة الرعاية الاجتماعية حسب SGB XII أو حسب AsylbLG وضمن المدة التي أحصل فيها على المساعدة أن تقوم بالتوفيق بين المساعدات المستحقة لي من قبل الدوائر الأخرى
-"Der Sozialhilfeträger behält sich vor, bei Vorliegen des entsprechenden Sachverhalts Aufwendungsersatz nach den §§ 19 Abs. 5, 27 Abs. 3 oder § 92 Abs. 1 SGB XII bzw. §§ 7, 9 AsylbLG geltend zu machen. In diesem Umfang habe ich dem Träger der Leistungen die Aufwendungen zu ersetzen.",تحتفظ وكالة الرعاية الاجتماعية بالحق في المطالبة بسداد النفقات ذات الصلة وفقا لل§§ 19 الفقرة 5، 27 الفقرة 3 أو الفقرة 92 المادة1 SGB XII أو §§ 7 9 AsylbLG . و في هذه الحالة، لا بد لي من سداد النفقات لوكالة الرعاية الاجتماعية
-"Dies gilt auch, wenn der Erstattungsanspruch des Trägers der Sozialleistung gegen andere vorrangig verpflichtete Leistungsträger (z.B. Rententräger, Krankenkasse) aus Verfahrensgründen nicht befriedigt werden kann und ich für den gleichen Zeitraum von beiden Leistungsträgern Aufwendungen erhalten habe. In diesen Fällen sind die gewährten Leistungen nach SGB XII / AsylbLG von mir zu erstatten.",وهذا صالح أيضا في حال كان حق التعويض لوكالة الرعاية الاجتماعية بالنسبة للمساعدات الأخرى المستحقة التي لها الأولوية (مثل مؤسسة التقاعد أوالتأمين الصحي) و لأخطاء إجرائية معينة تلقيت المساعدات لفترة محددة من الجهتين. في هذه الحالة، وحسب SGB XII / AsylbLG يجب علي التعويض و إعادة السداد.
-"Ich bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.",أنا على علم بأن عملية التحويل للتأمين الصحي و تأمين الرعاية يتم مباشرة إلى صندوق المستشفى أو مكتب الرعاية.
-Unterschrift des Antragstellers/Datum,توقيع مقدم الطلب/التاريخ
-ggf. Unterschrift des nicht getrennt lebenden Ehegatten,توقيع زوج مقدم الطلب في حال كانوا غير منفصلين
-Falls vom Antragsteller nicht selbst oder nicht vollständig ausgefüllt,في حال كان الطلب مقدم من غير صاحب العلاقة
-"Name, Anschrift, ggf. Dienststelle und Unterschrift des Aufnehmenden/Datum",الاسم والعنوان والتوقيع و التاريخ
-Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG,مذكرة لطلب المساعدة الاجتماعية تحت XII SGB أو استحقاقات بموجب AsylbLG
-"Nach § 60 SGB I muss der Antragsteller / die Antragstellerin bei der Aufklärung des Sachverhaltes und der Feststellung der für die Sozialleistung bestehenden Voraussetzungen mitwirken. Die Nichtbeantwortung von Fragen kann im Einzelfall zur Folge haben, dass die beantragte Leistung nicht gewährt werden kann. Die Grenzen der Mitwirkung sind in § 65 SGB I geregelt.",وفقا المادة 60 I SGB §، يجب على مقدم الطلب / طالب في توضيح الحقائق و التعاون الكامل لتوضيح متطلبات المساعدة الإجتماعية المطلوبة. و في حال عدم الإجابة على أسئلة معينة فإنه يمكن في بعض الحالات أن لا يتم منح المساعدة المطلوبة. كما هو محدد في § 65 I SGB
-"Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:",ويتم تسمية الأسس القانونية التالية، و التي على أساسها تم جمع البيانات اللازمة:
-"**\*Die nachfolgenden Passagen haben wir nicht übersetzt. Wenn Sie sich zu den gesetzlichen Grundlagen kundig machen wollen, suchen Sie sich bitte die Hilfe einer Person, die über ausreichende deutsche Sprachkenntnisse verfügt.**",**\*لبيانات التالية لم نترجمها. إذا تريد ان عرف حول الأسس القانونية، يرجى البحث على مساعدة من شخص لديه معرفة كافية باللغة الألمانية.**
+"Zeitpunkt","الوقت"
+"EUR","يورو"
+"Vom Einkommen evtl. absetzbare Beträge","المبالغ المخصومة من مجموع الدخل"
+"**Keine absetzbaren Beträge**","**لا يوجد مبالغ للخصم**"
+"Ausgaben mtl. Betrag","النفقات الشهرية"
+"Einkommensteuer*","ضريبة الدخل *"
+"Krankenversicherung*","التأمين الصحي *"
+"Pflegeversicherung*","تأمين الرعاية *"
+"Arbeitslosenversicherung*","تأمين البطالة *"
+"Rentenversicherung*","تأمين التقاعد *"
+"Kirchensteuer*","ضريبة الكنيسة *"
+"Unfallversicherung","التأمين ضد الحوادث"
+"Altersvorsorgebeiträge","اشتراكات التقاعد"
+"Hausratsversicherung","التأمين المنزلي"
+"Sterbeversicherung","تأمين الوفاة"
+"Lebensversicherung","التأمين على الحياة"
+"Haftpflichtversicherung","التأمين الإلزامي"
+"Aufwendungen für Arbeitsmittel","نفقات معدات العمل"
+"Beiträge für Berufsverbände","المساهمات في الجمعيات المهنية"
+"Mehraufwendungen für doppelte Haushaltsführung","نفقات إضافية للأسرة"
+"\* Angabe nicht erforderlich soweit die Beträge bereits vom Arbeitgeber oder Rententräger abgesetzt wurden","\* المعلومات غير مطلوبة طالما أن المبالغ المحددة مسبقا مقتطعة من قبل مانح العمل أو المؤسسة التقاعدية"
+"Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit","المسافة ونفقات السفر بين المنزل ومكان العمل"
+"km","كم"
+"öffentlichen Verkehrsmitteln","نقل العام"
+"PKW","سيارة خاصة"
+"Kleinst-PKW (bis 500 ccm)","سيارة خاصة صغيرة"
+"Motorrad","دراجة نارية"
+"Mofa","موتور موفا"
+"Sonstiges","أخرى"
+"Nähere Begründung zu „Sonstiges“","مبررات أخرى ""متنوعة"""
+"Vermögensverhältnisse (ggf. auf gesondertem Blatt fortsetzen)","الظروف المالية (إذا لزم الأمر يمكن المواصلة على ورقة منفصلة)"
+"Sparguthaben / Bargeld","التوفير / السيولة النقدية"
+"Wertpapiere","أوراق ذات قيمة"
+"Sachwerte von besonderem Wert","الممتلكات الملموسة ذات القيمة"
+"Art","النوع"
+"sonstiges Vermögen (Forderungen und anderes)","أصول أخرى (الذمم وغيرها)"
+"Verschenktes Vermögen innerhalb der letzten 10 Jahre (auch Grundvermögen)","الأصول المهدورة في غضون ال 10 السنوات الماضية (أيضا الأصول الأساسية)"
+"Kraftfahrzeug","السيارات"
+"amtl. Kennzeichen","رقم السيارة"
+"Fabrikat","المصنع"
+"Baujahr","سنة البناء"
+"Halter","المالك"
+"Hauseigentum oder Grundbesitz","ملكية المنازل أو العقارات"
+"**Bitte Anlage 3 ausfüllen**","**يرجى تعبئة الملحق 3**"
+"Staatlich geförderte private Altersvorsorge","المعاشات التقاعدية الخاصة المدعومة من الدولة"
+"Ansprüche aus Übertragsverträgen (z. B. Wohnrecht, Nießbrauch, Altenteilsrechte)","المطالبات الناشئة عن اتفاقات نقل (على سبيل المثال. قانون الإسكان، حق الإنتفاع)"
+"Sonstiges Vermögen","ممتلكات خاصة"
+"**Sonstige Angaben,**","**معلومات اخرى**"
+"z. B. über persönliche, familiäre, gesundheitliche Verhältnisse","على سبيل المثال. الظروف الشخصية أوالأسرية أوالصحية"
+"Leistungen für besondere Mehrbedarfe","مساعدات لمطالب إضافية خاصة"
+"Unter bestimmten Voraussetzungen können Leistungen für Mehrbedarfe erbracht werden, die nicht durch die Regelleistung abgedeckt sind und aus den vorgenannten Angaben nicht zu beurteilen sind. Dies gilt für alle Personen innerhalb des Haushalts.","في ظل ظروف معينة، ولأداء احتياجات إضافية يجب توفيرها و التي لم تتم تغطيتها من قبل المساعدات القانونية العادية ولا يمكن تقييمها من المعلومات الواردة أعلاه. وهذا ينطبق على جميع الأفراد داخل الأسرة."
+"Folgende Mehrbedarfe werden geltend gemacht:","وأؤكد المتطلبات الإضافية التالية:"
+"Für werdende Mütter nach der 12. Schwangerschaftswoche","للأمهات الحوامل بعد الأسبوع ال12 من الحمل"
+"Vorlage Mutterschaftspass erforderlich","جواز سفر الأمومة المطلوب"
+"Vorname:","الكنية:"
+"Voraussichtlicher Geburtstermin","تاريخ الولادة المتوقع"
+"Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten","المعوقين إعاقة شديدة،والذين بلغوا سن 15 عاما و يحصلون على مساعدة المشاركة في الحياة العملية"
+"Vorlage des Bewilligungsbescheides","نموذج قرار الموافقة"
+"Kostenaufwendige Ernährung aus medizinischen Gründen","النظام الغذائي مكلف لأسباب طبية"
+"vom Sozialamt erhältlicher Vordruck ist vom behandelnden Arzt auszufüllen","نسخة مطبوعة من مكتب الخدمات الاجتماعية يجب أن تكون معبئة من قبل الطبيب المعالج"
+"Bestandteile des Antrages sind die Anlagen","أجزاء من الطلب هي الأوراق المقدمة"
+"1 - Unterhalt","1 - صيانة"
+"2 - Ausländer","2 - الخارجية"
+"3 - Grundbesitz","3 - التملك الحر"
+"4 – Eingliederungshilfe","4 - بدل التكامل"
+"6 – Mietschulden","6 - متأخرات إيجار"
+"Dem Antrag sind folgende Unterlagen beigefügt","مع الطلب يتم إرفاق الوثائق التالية"
+"Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.","المعلومات الواردة في الطلب ومرفقاته أعطيت تماما وبصدق."
+"Ich werde den Träger der Leistungen (Land Berlin, vertreten durch die Bezirksämter v. Berlin, Geschäftsbereich Sozialwesen / Geschäftsbereich Jugend und Sport bzw. Landesamt für Gesundheit und Soziales Berlin / ZLA) gem. § 60 Abs. 1 Ziff. 2 SGB I unverzüglich informieren, wenn","سأقوم على الفور بإخبار دائرة دعم الخدمات (ولاية برلين، ممثلة في مكاتب مقاطعة برلين، قسم الرعاية الاجتماعية / قسم الشباب والرياضة ومكتب الدولة للصحة والشؤون الاجتماعية برلين / ZLA)حسب القانون. § 60، الفقرة 1. 2 SGB في حال"
+"- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.","- تغير ظروفك الشخصية والمالية."
+"- sich die Verhältnisse meiner Haushaltsangehörigen ändern.","- تغير شروط أفراد الأسرة."
+"- ich Renten oder ähnliche Leistungen beantrage.","- في حال التقدم بطلب للحصول على معاشات أو فوائد مماثلة."
+"Des Weiteren bin ich hinreichend darüber informiert worden, dass im Falle eines konkreten Betrugsverdachts die Ermittlungen des Sachverhalts gemäß §§ 20, 21, 69 und 71 SGB X von Amts wegen – ohne meine Beteiligung – erfolgen können.","وعلاوة على ذلك، لقد كنت على علم كاف أنه في حالة وجود اشتباه ملموس من التحقيقات أو تزوير للحقائق فإن القوانين التالية §§ 20 و 21 و 69 و 71 SGB X من قبل المؤسسة - سيتم تطبيقها دون إخباري."
+"Leistungen werden von mir zurückgefordert, sofern ich sie zu Unrecht erhalten habe, z. B. weil ich vorsätzlich oder grob fahrlässig falsche Angaben gemacht habe.","المساعدات يمكن أن تسترد مني، إذا كنت قد تلقيتها بالخطأ، مثلا لأنني قدمت عمداً أو بشكل مقصود معلومات و أدلة خاطئة."
+"Der Träger der Leistungen nach SGB XII bzw. AsylbLG kann für die Zeit, für die ich Leistungen erhalte, meine Ansprüche gegen einen anderen auf entsprechende Leistungen in Höhe seiner Aufwendungen auf sich überleiten.","يحق لوكالة الرعاية الاجتماعية حسب SGB XII أو حسب AsylbLG وضمن المدة التي أحصل فيها على المساعدة أن تقوم بالتوفيق بين المساعدات المستحقة لي من قبل الدوائر الأخرى"
+"Der Sozialhilfeträger behält sich vor, bei Vorliegen des entsprechenden Sachverhalts Aufwendungsersatz nach den §§ 19 Abs. 5, 27 Abs. 3 oder § 92 Abs. 1 SGB XII bzw. §§ 7, 9 AsylbLG geltend zu machen. In diesem Umfang habe ich dem Träger der Leistungen die Aufwendungen zu ersetzen.","تحتفظ وكالة الرعاية الاجتماعية بالحق في المطالبة بسداد النفقات ذات الصلة وفقا لل§§ 19 الفقرة 5، 27 الفقرة 3 أو الفقرة 92 المادة1 SGB XII أو §§ 7 9 AsylbLG . و في هذه الحالة، لا بد لي من سداد النفقات لوكالة الرعاية الاجتماعية"
+"Dies gilt auch, wenn der Erstattungsanspruch des Trägers der Sozialleistung gegen andere vorrangig verpflichtete Leistungsträger (z.B. Rententräger, Krankenkasse) aus Verfahrensgründen nicht befriedigt werden kann und ich für den gleichen Zeitraum von beiden Leistungsträgern Aufwendungen erhalten habe. In diesen Fällen sind die gewährten Leistungen nach SGB XII / AsylbLG von mir zu erstatten.","وهذا صالح أيضا في حال كان حق التعويض لوكالة الرعاية الاجتماعية بالنسبة للمساعدات الأخرى المستحقة التي لها الأولوية (مثل مؤسسة التقاعد أوالتأمين الصحي) و لأخطاء إجرائية معينة تلقيت المساعدات لفترة محددة من الجهتين. في هذه الحالة، وحسب SGB XII / AsylbLG يجب علي التعويض و إعادة السداد."
+"Ich bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.","أنا على علم بأن عملية التحويل للتأمين الصحي و تأمين الرعاية يتم مباشرة إلى صندوق المستشفى أو مكتب الرعاية."
+"Unterschrift des Antragstellers/Datum","توقيع مقدم الطلب/التاريخ"
+"ggf. Unterschrift des nicht getrennt lebenden Ehegatten","توقيع زوج مقدم الطلب في حال كانوا غير منفصلين"
+"Falls vom Antragsteller nicht selbst oder nicht vollständig ausgefüllt","في حال كان الطلب مقدم من غير صاحب العلاقة"
+"Name, Anschrift, ggf. Dienststelle und Unterschrift des Aufnehmenden/Datum","الاسم والعنوان والتوقيع و التاريخ"
+"Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG","مذكرة لطلب المساعدة الاجتماعية تحت XII SGB أو استحقاقات بموجب AsylbLG"
+"Nach § 60 SGB I muss der Antragsteller / die Antragstellerin bei der Aufklärung des Sachverhaltes und der Feststellung der für die Sozialleistung bestehenden Voraussetzungen mitwirken. Die Nichtbeantwortung von Fragen kann im Einzelfall zur Folge haben, dass die beantragte Leistung nicht gewährt werden kann. Die Grenzen der Mitwirkung sind in § 65 SGB I geregelt.","وفقا المادة 60 I SGB §، يجب على مقدم الطلب / طالب في توضيح الحقائق و التعاون الكامل لتوضيح متطلبات المساعدة الإجتماعية المطلوبة. و في حال عدم الإجابة على أسئلة معينة فإنه يمكن في بعض الحالات أن لا يتم منح المساعدة المطلوبة. كما هو محدد في § 65 I SGB"
+"Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:","ويتم تسمية الأسس القانونية التالية، و التي على أساسها تم جمع البيانات اللازمة:"
+"**\*Die nachfolgenden Passagen haben wir nicht übersetzt. Wenn Sie sich zu den gesetzlichen Grundlagen kundig machen wollen, suchen Sie sich bitte die Hilfe einer Person, die über ausreichende deutsche Sprachkenntnisse verfügt.**","**\*لبيانات التالية لم نترجمها. إذا تريد ان عرف حول الأسس القانونية، يرجى البحث على مساعدة من شخص لديه معرفة كافية باللغة الألمانية.**"

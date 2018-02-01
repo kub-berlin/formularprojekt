@@ -1,25 +1,25 @@
-Name und Vorname der kindergeldberechtigten Person,"Фамилия и имя лица, пользующегося правом на получение детского пособия"
-Kindergeld-Nr.,Номер детского пособия
-Telefonische Rückfrage tagsüber unter Nr.:,Справки по телефону в течение рабочего дня:
-Bitte Hinweise beachten!,"Пожалуйста, обратите внимание на указания по заполнению бланка!"
-zur Vorlage bei der Familienkasse,"для предъявления в отделение социальной службы по защите семьи (""семейную кассу"")"
-Name,Фамилия
-Vorname,Имя
-Geburtsdatum,Дата рождения
+"Name und Vorname der kindergeldberechtigten Person","Фамилия и имя лица, пользующегося правом на получение детского пособия"
+"Kindergeld-Nr.","Номер детского пособия"
+"Telefonische Rückfrage tagsüber unter Nr.:","Справки по телефону в течение рабочего дня:"
+"Bitte Hinweise beachten!","Пожалуйста, обратите внимание на указания по заполнению бланка!"
+"zur Vorlage bei der Familienkasse","для предъявления в отделение социальной службы по защите семьи (""семейную кассу"")"
+"Name","Фамилия"
+"Vorname","Имя"
+"Geburtsdatum","Дата рождения"
 "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","Адрес (улица/площадь, номер дома, почтовый индекс, населенный пункт, страна проживания)"
-Familienstand:,Семейное положение:
-ledig,холост / не замужем
-seit,с (дата)
-verheiratet,женат / замужем
-verwitwet,вдовец / вдова
-in Lebenspartnerschaft lebend,состою в гражданском партнерстве
-geschieden,разведен(-а)
-dauernd getrennt lebend,проживаю отдельно от супруга(-и) длительное время
-lfd. Nr.,Номер п/п
-Name und Vorname des Kindes,Фамилия и имя ребенка
-geboren am,Дата рождения
-In Deutschland seit *),Проживает в Германии с (указать дату) *)
-(Datum),(дата)
-Bemerkungen:,Примечания:
-(Unterschrift),(подпись)
-Hinweise,Указания
+"Familienstand:","Семейное положение:"
+"ledig","холост / не замужем"
+"seit","с (дата)"
+"verheiratet","женат / замужем"
+"verwitwet","вдовец / вдова"
+"in Lebenspartnerschaft lebend","состою в гражданском партнерстве"
+"geschieden","разведен(-а)"
+"dauernd getrennt lebend","проживаю отдельно от супруга(-и) длительное время"
+"lfd. Nr.","Номер п/п"
+"Name und Vorname des Kindes","Фамилия и имя ребенка"
+"geboren am","Дата рождения"
+"In Deutschland seit *)","Проживает в Германии с (указать дату) *)"
+"(Datum)","(дата)"
+"Bemerkungen:","Примечания:"
+"(Unterschrift)","(подпись)"
+"Hinweise","Указания"

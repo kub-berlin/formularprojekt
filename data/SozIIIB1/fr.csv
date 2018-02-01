@@ -1,24 +1,24 @@
-Bezirksamt,Mairie de l'arrondissement
-Charlottenburg-Wilmersdorf von Berlin,Charlottenburg-Wilmersdorf de Berlin
-Friedrichshain-Kreuzberg von Berlin,Friedrichshain-Kreuzberg de Berlin
-Lichtenberg von Berlin,Lichtenberg de Berlin
-Marzahn-Hellersdorf von Berlin,Marzahn-Hellersdorf de Berlin
-Mitte von Berlin,Mitte de Berlin
-Neukölln von Berlin,Neukölln de Berlin
-Pankow von Berlin,Pankow de Berlin
-Reinickendorf von Berlin,Reinickendorf de Berlin
-Spandau von Berlin,Spandau de Berlin
-Steglitz-Zehlendorf von Berlin,Steglitz-Zehlendorf de Berlin
-Tempelhof-Schöneberg von Berlin,Tempelhof-Schöneberg de Berlin
-Treptow-Köpenick von Berlin,Treptow-Köpenick de Berlin
-Geschäftsbereich,Département
-Sozialwesen,Affaires sociales
-Landesamt für Gesundheit und Soziales Berlin - ZLA -,Office régional de la santé et des affaires sociales du Land de Berlin - ZLA -
-Die Beantwortung aller Fragen ist für die Bearbeitung Ihres Antrags notwendig. Die gesetzlichen Grundlagen für die Erhebung der Daten entnehmen Sie bitte dem beigefügten Merkblatt.,"Pour que votre dossier puisse être traité, il est nécessaire que vous répondiez à toutes les questions. Vous trouverez les bases juridiques servant au recueil des données dans la fiche explicative ci-jointe."
-Antrag auf,Demande
-Sozialhilfe nach SGB XII,d'aide sociale selon le livre XII du Code social allemand (SGB XII)
-Leistungen nach AsylbLG,de prestations selon la loi sur les prestations pour demandeurs d'asile (AsylLG)
-Zutreffendes bitte ankreuzen und ausfüllen,Veuillez cocher la case correspondante et remplir les champs
+"Bezirksamt","Mairie de l'arrondissement"
+"Charlottenburg-Wilmersdorf von Berlin","Charlottenburg-Wilmersdorf de Berlin"
+"Friedrichshain-Kreuzberg von Berlin","Friedrichshain-Kreuzberg de Berlin"
+"Lichtenberg von Berlin","Lichtenberg de Berlin"
+"Marzahn-Hellersdorf von Berlin","Marzahn-Hellersdorf de Berlin"
+"Mitte von Berlin","Mitte de Berlin"
+"Neukölln von Berlin","Neukölln de Berlin"
+"Pankow von Berlin","Pankow de Berlin"
+"Reinickendorf von Berlin","Reinickendorf de Berlin"
+"Spandau von Berlin","Spandau de Berlin"
+"Steglitz-Zehlendorf von Berlin","Steglitz-Zehlendorf de Berlin"
+"Tempelhof-Schöneberg von Berlin","Tempelhof-Schöneberg de Berlin"
+"Treptow-Köpenick von Berlin","Treptow-Köpenick de Berlin"
+"Geschäftsbereich","Département"
+"Sozialwesen","Affaires sociales"
+"Landesamt für Gesundheit und Soziales Berlin - ZLA -","Office régional de la santé et des affaires sociales du Land de Berlin - ZLA -"
+"Die Beantwortung aller Fragen ist für die Bearbeitung Ihres Antrags notwendig. Die gesetzlichen Grundlagen für die Erhebung der Daten entnehmen Sie bitte dem beigefügten Merkblatt.","Pour que votre dossier puisse être traité, il est nécessaire que vous répondiez à toutes les questions. Vous trouverez les bases juridiques servant au recueil des données dans la fiche explicative ci-jointe."
+"Antrag auf","Demande"
+"Sozialhilfe nach SGB XII","d'aide sociale selon le livre XII du Code social allemand (SGB XII)"
+"Leistungen nach AsylbLG","de prestations selon la loi sur les prestations pour demandeurs d'asile (AsylLG)"
+"Zutreffendes bitte ankreuzen und ausfüllen","Veuillez cocher la case correspondante et remplir les champs"
 "Sofern der vorgegebene Raum nicht ausreicht, machen Sie bitte Ihre Angaben
 
 - unter XI des Antrages oder
@@ -28,306 +28,306 @@ Zutreffendes bitte ankreuzen und ausfüllen,Veuillez cocher la case correspondan
 - dans la case XI de la demande ou
 
 - sur une feuille séparée"
-Art der Hilfe,Nature de l'aide
-innerhalb einer Einrichtung,au sein d'un établissement
-außerhalb einer Einrichtung,hors d'un établissement
-Antragsteller/in (Personenziffer 1),Demandeur/euse (personne numéro 1)
-Ehegatte/Lebenspartner/in (Personenziffer 2),Époux/épouse ou concubin/e (personne numéro 2)
+"Art der Hilfe","Nature de l'aide"
+"innerhalb einer Einrichtung","au sein d'un établissement"
+"außerhalb einer Einrichtung","hors d'un établissement"
+"Antragsteller/in (Personenziffer 1)","Demandeur/euse (personne numéro 1)"
+"Ehegatte/Lebenspartner/in (Personenziffer 2)","Époux/épouse ou concubin/e (personne numéro 2)"
 "Name, ggf. Geburtsname, Vorname","Nom, le cas échéant nom de naissance (=nom de jeune fille), prénom"
-Geburtsdatum,date de naissance
-Geburtsort/Kreis/Land,Lieu de naissance/district/pays
-männl.,masculin
-weibl.,féminin
-nicht im gemeinsamen Haushalt,ne vivant pas dans le foyer familial commun
-keine weiteren Angaben auf dieser Seite; nur Anlage 1 Buchstabe A ausfüllen,pas d'autres informations sur cette page; remplir uniquement le formulaire 1 lettre A
-im gemeinsamen Haushalt,vivant dans le foyer familial commun
-minderjährig,mineur/e
-Bitte Anlage 1 Buchstabe B ausfüllen,Veuillez remplir le formulaire 1 lettre B
-Familienstand,État civil
-ledig,célibataire
-eheähnliche Gemeinschaft,union libre (comparable au mariage; concubinage)
-eingetragene Lebenspartnerschaft,partenariat enregistré
-verheiratet,marié-e
-dauernd getrennt lebend,séparé-e durablement
-geschieden,divorcé-e
-verwitwet,veuf/veuve
-Seit,Depuis
-bitte Anlage 1 Buchstabe A ausfüllen,veuillez remplir le formulaire 1 lettre A
-Staatsangehörigkeit,Nationalité
-deutsch,allemande
-bitte Anlage 2 ausfüllen,veuillez remplir le formulaire 2
-Personaldokument bitte vorlegen,Veuillez présenter votre pièce d'identité
-ausgestellt von (Dienststelle),délivrée par (nom de l'autorité)
-gültig bis,valable jusqu’au
-bisher keine Leistungen erhalten,n'a reçu aucune prestation à ce jour
-bereits Leistungen erhalten,a déjà reçu des prestations
-bis,au
-von (Dienststelle),de (nom de l'autorité)
-Geschäftszeichen,référence
-es besteht eine Betreuung nach dem Betreuungsgesetz,bénéficie d'une tutelle ou curatelle selon la loi sur les tutelles
-es besteht Beistandschaft,bénéficie d'une curatelle
-bitte Bestallung beifügen,veuillez joindre l'avis de nomination du tuteur/curateur
-Heimatvertriebene/r (Aussiedler/in) - Ausweis A -,Expatrié-e (rapatrié-e) - carte A -
-Vertriebene/r (Aussiedler/in) - Ausweis B -,Expatrié-e (rapatrié-e) - carte B -
-Spätaussiedler/in - Bescheinigung (nach § 15 Abs. 1 BVFG) und Registrierschein des Bundesverwaltungsamtes,Rapatrié-e tardif/tardive - certificat (selon le § 15 al. 1 de la loi fédérale sur les expatriés BVFG) et billet d'enregistrement de l'Office fédéral de l'administration
-Ehegatte oder Abkömmling eines Spätaussiedlers / einer Spätaussiedlerin - Bescheinigung (nach § 15 Abs. 2 BFVG) und Registrierschein des Bundesverwaltungsamtes,Conjoint-e ou descendant-e d'un-e rapatrié-e tardif/tardive - certificat (selon le § 15 al. 2 de la loi fédérale sur les expatriés BVFG) et billet d'enregistrement de l'Office fédéral de l'administration
-Sowjetzonenflüchtling - Ausweis C -,Réfugié-e de la zone soviétique – carte C -
-ausgestellt am,délivrée le
-Schwerbehindertenausweis (Kopie des Ausweises beifügen),carte de grand invalide (joindre une photocopie de la carte)
+"Geburtsdatum","date de naissance"
+"Geburtsort/Kreis/Land","Lieu de naissance/district/pays"
+"männl.","masculin"
+"weibl.","féminin"
+"nicht im gemeinsamen Haushalt","ne vivant pas dans le foyer familial commun"
+"keine weiteren Angaben auf dieser Seite; nur Anlage 1 Buchstabe A ausfüllen","pas d'autres informations sur cette page; remplir uniquement le formulaire 1 lettre A"
+"im gemeinsamen Haushalt","vivant dans le foyer familial commun"
+"minderjährig","mineur/e"
+"Bitte Anlage 1 Buchstabe B ausfüllen","Veuillez remplir le formulaire 1 lettre B"
+"Familienstand","État civil"
+"ledig","célibataire"
+"eheähnliche Gemeinschaft","union libre (comparable au mariage; concubinage)"
+"eingetragene Lebenspartnerschaft","partenariat enregistré"
+"verheiratet","marié-e"
+"dauernd getrennt lebend","séparé-e durablement"
+"geschieden","divorcé-e"
+"verwitwet","veuf/veuve"
+"Seit","Depuis"
+"bitte Anlage 1 Buchstabe A ausfüllen","veuillez remplir le formulaire 1 lettre A"
+"Staatsangehörigkeit","Nationalité"
+"deutsch","allemande"
+"bitte Anlage 2 ausfüllen","veuillez remplir le formulaire 2"
+"Personaldokument bitte vorlegen","Veuillez présenter votre pièce d'identité"
+"ausgestellt von (Dienststelle)","délivrée par (nom de l'autorité)"
+"gültig bis","valable jusqu’au"
+"bisher keine Leistungen erhalten","n'a reçu aucune prestation à ce jour"
+"bereits Leistungen erhalten","a déjà reçu des prestations"
+"bis","au"
+"von (Dienststelle)","de (nom de l'autorité)"
+"Geschäftszeichen","référence"
+"es besteht eine Betreuung nach dem Betreuungsgesetz","bénéficie d'une tutelle ou curatelle selon la loi sur les tutelles"
+"es besteht Beistandschaft","bénéficie d'une curatelle"
+"bitte Bestallung beifügen","veuillez joindre l'avis de nomination du tuteur/curateur"
+"Heimatvertriebene/r (Aussiedler/in) - Ausweis A -","Expatrié-e (rapatrié-e) - carte A -"
+"Vertriebene/r (Aussiedler/in) - Ausweis B -","Expatrié-e (rapatrié-e) - carte B -"
+"Spätaussiedler/in - Bescheinigung (nach § 15 Abs. 1 BVFG) und Registrierschein des Bundesverwaltungsamtes","Rapatrié-e tardif/tardive - certificat (selon le § 15 al. 1 de la loi fédérale sur les expatriés BVFG) et billet d'enregistrement de l'Office fédéral de l'administration"
+"Ehegatte oder Abkömmling eines Spätaussiedlers / einer Spätaussiedlerin - Bescheinigung (nach § 15 Abs. 2 BFVG) und Registrierschein des Bundesverwaltungsamtes","Conjoint-e ou descendant-e d'un-e rapatrié-e tardif/tardive - certificat (selon le § 15 al. 2 de la loi fédérale sur les expatriés BVFG) et billet d'enregistrement de l'Office fédéral de l'administration"
+"Sowjetzonenflüchtling - Ausweis C -","Réfugié-e de la zone soviétique – carte C -"
+"ausgestellt am","délivrée le"
+"Schwerbehindertenausweis (Kopie des Ausweises beifügen)","carte de grand invalide (joindre une photocopie de la carte)"
 "Merkzeichen (G, aG)","tampon (G, aG)"
-Antrag gestellt?,Une demande a-t-elle été déposée?
-Ja,Oui
-Nein,Non
-Sozialversicherung,Assurance sociale
-keine (Begründung auf Seite 4 -XI-),aucune (justification page 4 -XI-)
-Rentenversicherung,assurance retraite
-Pflegeversicherung,assurance dépendance (assurance vieillesse)
-Krankenversichert bei,Assuré-e maladie auprès de
-Rentenversichert bei,Assuré-e pour la retraite auprès de
-Rentenversicherungsnummer,Numéro d'assurance retraite
-Krankenversicherung:,Assurance maladie:
-Pflichtversicherung,assurance obligatoire
-Freiwillige Versicherung,assurance volontaire
-Familienversicherung *,assurance famille *
-Private Versicherung,assurance privée
-Betreuung der Krankenkassen nach § 264 SGB V,prise en charge des assurances maladies en vertu du § 264 du livre V du Code social allemand (SGB V)
-Umfang bzw. Ausschluss der Erwerbsfähigkeit,Étendue ou exclusion de la capacité à exercer une activité professionnelle
-Personenziffer 1,Personne numéro 1
-Personenziffer 2,personne numéro 2
-Sind Sie zurzeit erwerbstätig?,Exercez-vous actuellement une activité professionnelle?
-Tätigkeit:,Activité:
-Arbeitgeber:,Employeur:
-Umfang der Erwerbsfähigkeit,Étendue de la capacité à exercer une activité professionnelle
-Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?,Pensez-vous être en mesure d'exercer une activité professionnelle **au moins trois heures par jour** sur le marché ordinaire de l'emploi?
+"Antrag gestellt?","Une demande a-t-elle été déposée?"
+"Ja","Oui"
+"Nein","Non"
+"Sozialversicherung","Assurance sociale"
+"keine (Begründung auf Seite 4 -XI-)","aucune (justification page 4 -XI-)"
+"Rentenversicherung","assurance retraite"
+"Pflegeversicherung","assurance dépendance (assurance vieillesse)"
+"Krankenversichert bei","Assuré-e maladie auprès de"
+"Rentenversichert bei","Assuré-e pour la retraite auprès de"
+"Rentenversicherungsnummer","Numéro d'assurance retraite"
+"Krankenversicherung:","Assurance maladie:"
+"Pflichtversicherung","assurance obligatoire"
+"Freiwillige Versicherung","assurance volontaire"
+"Familienversicherung *","assurance famille *"
+"Private Versicherung","assurance privée"
+"Betreuung der Krankenkassen nach § 264 SGB V","prise en charge des assurances maladies en vertu du § 264 du livre V du Code social allemand (SGB V)"
+"Umfang bzw. Ausschluss der Erwerbsfähigkeit","Étendue ou exclusion de la capacité à exercer une activité professionnelle"
+"Personenziffer 1","Personne numéro 1"
+"Personenziffer 2","personne numéro 2"
+"Sind Sie zurzeit erwerbstätig?","Exercez-vous actuellement une activité professionnelle?"
+"Tätigkeit:","Activité:"
+"Arbeitgeber:","Employeur:"
+"Umfang der Erwerbsfähigkeit","Étendue de la capacité à exercer une activité professionnelle"
+"Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?","Pensez-vous être en mesure d'exercer une activité professionnelle **au moins trois heures par jour** sur le marché ordinaire de l'emploi?"
 "Nein, weil","Non, parce que"
-Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?,Pensez-vous qu'il/elle soit en mesure d'exercer une activité professionnelle **au moins trois heures par jour** sur le marché ordinaire de l'emploi?
-Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor? (EU-Rente),Avez-vous une incapacité de travail totale selon le § 43 al. 2 du livre VI du Code social allemand (SGB VI) validée par une expertise? (rente UE)
-unbefristet:,illimitée:
-für welchen Zeitraum?,pour quelle période?
-Sind Sie pflegebedürftig im Sinne des SGB XI Pflegeversicherungsgesetz?,"Êtes-vous en situation de dépendance au sens du livre XI du Code social allemand (SGB XI), loi sur la dépendance ?"
-Stufe:,Niveau de dépendance:
-Auszubildender/Student - auch in Schulausbildung -,Personne en formation/étudiant-e – y compris personne scolarisée –
+"Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?","Pensez-vous qu'il/elle soit en mesure d'exercer une activité professionnelle **au moins trois heures par jour** sur le marché ordinaire de l'emploi?"
+"Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor? (EU-Rente)","Avez-vous une incapacité de travail totale selon le § 43 al. 2 du livre VI du Code social allemand (SGB VI) validée par une expertise? (rente UE)"
+"unbefristet:","illimitée:"
+"für welchen Zeitraum?","pour quelle période?"
+"Sind Sie pflegebedürftig im Sinne des SGB XI Pflegeversicherungsgesetz?","Êtes-vous en situation de dépendance au sens du livre XI du Code social allemand (SGB XI), loi sur la dépendance ?"
+"Stufe:","Niveau de dépendance:"
+"Auszubildender/Student - auch in Schulausbildung -","Personne en formation/étudiant-e – y compris personne scolarisée –"
 "Ja, in Ausbildung / Studium als","Oui, en formation / études de"
-Name und Anschrift des derzeitigen Arbeitgebers bzw. Angabe der Schule,Nom et adresse de l'employeur actuel ou nom de l'école
-Unterbringung in einer stationären Einrichtung,Hébergement dans un établissement stationnaire
+"Name und Anschrift des derzeitigen Arbeitgebers bzw. Angabe der Schule","Nom et adresse de l'employeur actuel ou nom de l'école"
+"Unterbringung in einer stationären Einrichtung","Hébergement dans un établissement stationnaire"
 "Ja, Zuweisung","Oui, affectation"
-vom,du
-Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.,Si oui: veuillez joindre les documents correspondants.
+"vom","du"
+"Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.","Si oui: veuillez joindre les documents correspondants."
 "\* **Wichtige Hinweise:** Wenn Sie oder Ihr Partner/Ihre Partnerin **das 23. Lebensjahr noch nicht vollendet haben**, können Sie oder Ihr Partner/Ihre Partnerin bei einem Elternteil **familienversichert** werden. Wenn Sie oder Ihr Partner/Ihre Partnerin von Ihrem Ehegatten/eingetragenen Lebenspartner **getrennt** leben, ist zu prüfen, ob Sie dennoch über diesen **familienversichert** werden können.","\* **Remarques importantes:** si vous ou votre concubin/e **n'avez pas atteint 23 ans révolus**, vous ou votre concubin-e pouvez être assuré-e par un de vos parents au titre de **l'assurance famille**. Si vous ou votre concubin/e vivez **séparé-e** de votre époux/épouse, il convient de vérifier si vous pouvez néanmoins bénéficier d'une **assurance famille** par votre conjoint."
-Haben Sie Leistungen nach dem SGB II beantragt?,Avez-vous fait une demande de prestations selon le livre II du Code social allemand (SGB II)?
-Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen,Joindre le justificatif ou la décision d'acceptation ou de rejet de la demande
-Kunden-Nr. der Agentur für Arbeit (falls vorhanden),Numéro de client de l'Agence pour l'emploi (le cas échéant)
-**\- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde**,**\- Ligne réservée à l'administration**
-Mögliche Ausschlussgründe für die Hilfe zum Lebensunterhalt,Raisons possibles d'exclusion de l'aide à la subsistance
-Bankverbindung,Coordonnées bancaires
-Geldinstitut,Institution bancaire
-Bankleitzahl,Code bancaire
-Kontonummer,Numéro du compte
-Kontoinhaber/in,Titulaire du compte
-IBAN,IBAN
-BIC,BIC
-Aufenthalt,Séjour
-Anschrift,Adresse
-Lage der Wohnung/Etage,Situation de l'appartement/étage
-Telefonnummer (freiwillige Angabe),Numéro de téléphone (mention non obligatoire)
-in Berlin seit,à Berlin depuis
-im Bezirk seit,dans l'arrondissement depuis
-zuletzt wohnhaft,dernier lieu de résidence
-Unterkunft,Logement
-Mietwohnung,appartement de location
-Hauptmieter/in,locataire principal-e
-Untermieter/in,sous-locataire
-Name und Anschrift des Vermieters,Nom et adresse du bailleur
-Name des Hauptmieters,Nom du champ du locataire principal
-Eigenheim,maison individuelle
-Eigentumswohnung,appartement en propriété
-verwandt,lien de parenté
-Wirtschaftsgemeinschaft,communauté économique
+"Haben Sie Leistungen nach dem SGB II beantragt?","Avez-vous fait une demande de prestations selon le livre II du Code social allemand (SGB II)?"
+"Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen","Joindre le justificatif ou la décision d'acceptation ou de rejet de la demande"
+"Kunden-Nr. der Agentur für Arbeit (falls vorhanden)","Numéro de client de l'Agence pour l'emploi (le cas échéant)"
+"**\- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde**","**\- Ligne réservée à l'administration**"
+"Mögliche Ausschlussgründe für die Hilfe zum Lebensunterhalt","Raisons possibles d'exclusion de l'aide à la subsistance"
+"Bankverbindung","Coordonnées bancaires"
+"Geldinstitut","Institution bancaire"
+"Bankleitzahl","Code bancaire"
+"Kontonummer","Numéro du compte"
+"Kontoinhaber/in","Titulaire du compte"
+"IBAN","IBAN"
+"BIC","BIC"
+"Aufenthalt","Séjour"
+"Anschrift","Adresse"
+"Lage der Wohnung/Etage","Situation de l'appartement/étage"
+"Telefonnummer (freiwillige Angabe)","Numéro de téléphone (mention non obligatoire)"
+"in Berlin seit","à Berlin depuis"
+"im Bezirk seit","dans l'arrondissement depuis"
+"zuletzt wohnhaft","dernier lieu de résidence"
+"Unterkunft","Logement"
+"Mietwohnung","appartement de location"
+"Hauptmieter/in","locataire principal-e"
+"Untermieter/in","sous-locataire"
+"Name und Anschrift des Vermieters","Nom et adresse du bailleur"
+"Name des Hauptmieters","Nom du champ du locataire principal"
+"Eigenheim","maison individuelle"
+"Eigentumswohnung","appartement en propriété"
+"verwandt","lien de parenté"
+"Wirtschaftsgemeinschaft","communauté économique"
 "Bitte Anlage 3 ausfüllen, dann weiter bei V.2","Veuillez remplir le formulaire 3, puis continuer au champ V.2"
-Miete insgesamt (EUR/mtl.),Loyer total (EUR/mois)
-Warmwasserkosten,Frais d'eau chaude
-(EUR/mtl.),(EUR/mois)
-Heizkostenvorschuss (EUR/mtl.),Frais de chauffage (EUR/mois)
-Kabelfernsehen (EUR/mtl.),TV par cable (EUR/mois)
-Miete bezahlt bis,Loyer payé jusqu'au
-Bitte Nachweis beifügen,Veuillez joindre un justificatif
-Mietrückstände (von/bis/EUR),Loyers impayés (du/au/EUR)
-Gekündigt zum,Résilié au
-Bitte Anlage 6 ausfüllen,Veuillez remplir le formulaire 6
-Größe der Unterkunft des Antragstellers,Taille du logement du demandeur
-Anzahl der Zimmer ohne Küche/Bad,Nombre de pièces hors cuisine/salle de bains
-Gesamtwohnfläche (m2),Surface totale (m²)
-Wohngeld wird gezahlt,Versement d'allocations logement
-Wohngeld wird nicht gezahlt,Pas de versement d'allocations logement
-Bitte Bescheid beifügen,Veuillez joindre l'avis de décision
-Heizungsart/Warmwasser,Type de chauffage/eau chaude
-Sammelheizung,chauffage collectif
-Zentrale Warmwasserversorgung,approvisionnement centralisé en eau chaude
-Ofenheizung,chauffage au poêle
-Gasheizung,chauffage au gaz
-Nachtstromspeicherheizung,chauffage à accumulation de chaleur (chauffage électrique au courant de nuit)
-Wohnraum wird untervermietet,Une partie du logement est sous-louée
-Wohnraum kann untervermietet werden,Une partie du logement peut être sous-louée
-Wohnraum kann nicht untervermietet werden,Le logement ne peut pas être sous-loué en partie
-Zahl vermieteter Leerzimmer,Nombre de pièces louées vides
-Miete (EUR/mtl.),Loyer (EUR/mois)
-Zahl vermieteter möblierter Zimmer,Nombre de pièces louées meublées
-Grund,Raison
-Ich/Wir habe/n freies Wohnrecht bei:,J'ai/Nous avons un droit d'habitation chez:
-Name:,Nom:
+"Miete insgesamt (EUR/mtl.)","Loyer total (EUR/mois)"
+"Warmwasserkosten","Frais d'eau chaude"
+"(EUR/mtl.)","(EUR/mois)"
+"Heizkostenvorschuss (EUR/mtl.)","Frais de chauffage (EUR/mois)"
+"Kabelfernsehen (EUR/mtl.)","TV par cable (EUR/mois)"
+"Miete bezahlt bis","Loyer payé jusqu'au"
+"Bitte Nachweis beifügen","Veuillez joindre un justificatif"
+"Mietrückstände (von/bis/EUR)","Loyers impayés (du/au/EUR)"
+"Gekündigt zum","Résilié au"
+"Bitte Anlage 6 ausfüllen","Veuillez remplir le formulaire 6"
+"Größe der Unterkunft des Antragstellers","Taille du logement du demandeur"
+"Anzahl der Zimmer ohne Küche/Bad","Nombre de pièces hors cuisine/salle de bains"
+"Gesamtwohnfläche (m2)","Surface totale (m²)"
+"Wohngeld wird gezahlt","Versement d'allocations logement"
+"Wohngeld wird nicht gezahlt","Pas de versement d'allocations logement"
+"Bitte Bescheid beifügen","Veuillez joindre l'avis de décision"
+"Heizungsart/Warmwasser","Type de chauffage/eau chaude"
+"Sammelheizung","chauffage collectif"
+"Zentrale Warmwasserversorgung","approvisionnement centralisé en eau chaude"
+"Ofenheizung","chauffage au poêle"
+"Gasheizung","chauffage au gaz"
+"Nachtstromspeicherheizung","chauffage à accumulation de chaleur (chauffage électrique au courant de nuit)"
+"Wohnraum wird untervermietet","Une partie du logement est sous-louée"
+"Wohnraum kann untervermietet werden","Une partie du logement peut être sous-louée"
+"Wohnraum kann nicht untervermietet werden","Le logement ne peut pas être sous-loué en partie"
+"Zahl vermieteter Leerzimmer","Nombre de pièces louées vides"
+"Miete (EUR/mtl.)","Loyer (EUR/mois)"
+"Zahl vermieteter möblierter Zimmer","Nombre de pièces louées meublées"
+"Grund","Raison"
+"Ich/Wir habe/n freies Wohnrecht bei:","J'ai/Nous avons un droit d'habitation chez:"
+"Name:","Nom:"
 "Wenn Sie in einer stationären Einrichtung (z. B. Heim, Betreute Wohngemeinschaft, Krankenhaus) leben: **Wo haben Sie vorher gewohnt** (gewöhnlicher Aufenthaltsort)?","Si vous vivez dans un établissement stationnaire (p. ex. un foyer d'accueil, une communauté d'habitation encadrée, un hôpital): **où habitiez-vous auparavant** (lieu de résidence habituel)?"
-Anschrift der Wohnung **vor der Aufnahme** in die Einrichtung,Adresse du logement **avant l'entrée** dans l'établissement
-Persönliche Verhältnisse der mit dem Antragsteller/der Antragstellerin in einem Haushalt lebenden weiteren Personen,Liens personnels avec les autres personnes vivant dans le même foyer familial que le demandeur/la demandeuse
-Leben weitere Personen im gemeinsamen Haushalt?,D'autres personnes vivent-elles dans le foyer (familial) commun?
+"Anschrift der Wohnung **vor der Aufnahme** in die Einrichtung","Adresse du logement **avant l'entrée** dans l'établissement"
+"Persönliche Verhältnisse der mit dem Antragsteller/der Antragstellerin in einem Haushalt lebenden weiteren Personen","Liens personnels avec les autres personnes vivant dans le même foyer familial que le demandeur/la demandeuse"
+"Leben weitere Personen im gemeinsamen Haushalt?","D'autres personnes vivent-elles dans le foyer (familial) commun?"
 "**Wenn Ja, tragen Sie bitte die weiteren Personen in der Reihenfolge des Geburtsdatums ein.**","**Si oui, veuillez inscrire le nom des autres personnes dans l'ordre de leur date de naissance.**"
-Bei vier oder mehr Personen bitte **Zusatzblatt** verwenden.,"S'il y a quatre personnes ou plus, veuillez utiliser la **feuille supplémentaire**."
-Personenziffer 3,personne numéro 3
-Personenziffer 4,personne numéro 4
-Personenziffer 5,personne numéro 5
-Name (ggf. Geburtsname),Nom (le cas échéant nom de naissance =nom de jeune fille)
-Vorname,Prénom
-Verwandtschaftsverhältnis zum/zur Antragsteller/in / Partner/in,Lien de parenté vis-à-vis du demandeur/de la demandeuse / du concubin/de la concubine
-Geschlecht,Sexe
-weiblich,féminin
-männlich,masculin
-Geburtsort,lieu de naissance
-seit,depuis
-andere,autre
+"Bei vier oder mehr Personen bitte **Zusatzblatt** verwenden.","S'il y a quatre personnes ou plus, veuillez utiliser la **feuille supplémentaire**."
+"Personenziffer 3","personne numéro 3"
+"Personenziffer 4","personne numéro 4"
+"Personenziffer 5","personne numéro 5"
+"Name (ggf. Geburtsname)","Nom (le cas échéant nom de naissance =nom de jeune fille)"
+"Vorname","Prénom"
+"Verwandtschaftsverhältnis zum/zur Antragsteller/in / Partner/in","Lien de parenté vis-à-vis du demandeur/de la demandeuse / du concubin/de la concubine"
+"Geschlecht","Sexe"
+"weiblich","féminin"
+"männlich","masculin"
+"Geburtsort","lieu de naissance"
+"seit","depuis"
+"andere","autre"
 "(sofern bereits eine Arbeitsgenehmigung erteilt wurde, bitte beifügen)","(si une autorisation de travail a été donnée, veuillez la joindre)"
-Erwerbsfähigkeit (Angabe nur ab vollendetem 15. Lebensjahr erforderlich),Capacité à exercer une activité professionnelle (mention nécessaire seulement à partir de l'âge de 15 ans révolus)
-Haben die o.g. Personen Leistungen nach dem SGB II beantragt?,Les personnes mentionnées plus haut ont-elles fait une demande de prestations selon le livre II du Code social allemand (SGB II)?
+"Erwerbsfähigkeit (Angabe nur ab vollendetem 15. Lebensjahr erforderlich)","Capacité à exercer une activité professionnelle (mention nécessaire seulement à partir de l'âge de 15 ans révolus)"
+"Haben die o.g. Personen Leistungen nach dem SGB II beantragt?","Les personnes mentionnées plus haut ont-elles fait une demande de prestations selon le livre II du Code social allemand (SGB II)?"
 "Unterhaltspflichtige Angehörige außerhalb des Haushalts (Kinder, Eltern)","Membres de la famille à charge ne résidant pas dans le foyer familial (enfants, parents)"
-"Geburtstag, bzw. Alter",Date de naissance ou âge
-Verwandtschaftsverhältnis zum Antragsteller,Lien de parenté vis-à-vis du demandeur
-ausgeübte Tätigkeit,Activité exercée
-Art und Höhe des Unterhaltsbeitrages,Nature et montant de la contribution alimentaire
-Einkünfte aller Haushaltsangehörigen,Revenus de tous les membres du foyer familial
-Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.),Montants (EUR) et pour quelle période (par mois/semaine/jour)
-Bitte Nachweise beifügen,Veuillez joindre les justificatifs
-Bezeichnung,Désignation
-Bewilligungsstelle,Autorité compétente pour la délivrance de l'accord
+"Geburtstag, bzw. Alter","Date de naissance ou âge"
+"Verwandtschaftsverhältnis zum Antragsteller","Lien de parenté vis-à-vis du demandeur"
+"ausgeübte Tätigkeit","Activité exercée"
+"Art und Höhe des Unterhaltsbeitrages","Nature et montant de la contribution alimentaire"
+"Einkünfte aller Haushaltsangehörigen","Revenus de tous les membres du foyer familial"
+"Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)","Montants (EUR) et pour quelle période (par mois/semaine/jour)"
+"Bitte Nachweise beifügen","Veuillez joindre les justificatifs"
+"Bezeichnung","Désignation"
+"Bewilligungsstelle","Autorité compétente pour la délivrance de l'accord"
 "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.","Référence, numéro de décompte de la retraite, ou indications similaires"
-Nichtselbständige Tätigkeit,Activité salariée
+"Nichtselbständige Tätigkeit","Activité salariée"
 "(Erwerbseinkommen, Ausbildungsvergütung, Entgelt der Werkstatt für behinderte Menschen)","(revenus provenant d'une activité professionnelle, rémunération de la formation, rétribution versée par l'atelier pour personnes handicapées)"
-Leistungen der Krankenkasse,Prestations de l'assurance maladie
-(einschl. Arbeitgeberzuschuss),(y compris allocation patronale)
-Gewerbebetrieb,Entreprise artisanale
-Land- und Forstwirtschaft,Agriculture et sylviculture
-Sonstige selbständige Tätigkeiten,Autres activités indépendantes
-Vermietung und Verpachtung,Location et affermage
-Wohngeld/Lastenzuschuss,Allocations logement/aide aux charges
-Renten/Pensionen,Retraites/pensions
+"Leistungen der Krankenkasse","Prestations de l'assurance maladie"
+"(einschl. Arbeitgeberzuschuss)","(y compris allocation patronale)"
+"Gewerbebetrieb","Entreprise artisanale"
+"Land- und Forstwirtschaft","Agriculture et sylviculture"
+"Sonstige selbständige Tätigkeiten","Autres activités indépendantes"
+"Vermietung und Verpachtung","Location et affermage"
+"Wohngeld/Lastenzuschuss","Allocations logement/aide aux charges"
+"Renten/Pensionen","Retraites/pensions"
 "(z. B. Rente wg. Erwerbsminderung, Altersrente, Unfallrente, landwirtschaftliches Altersgeld, Witwen- oder Waisenrente, Erziehungsrente, Kinderzuschuss /-zulage, Pflegegeld zur Rente, Werksrente, Kindererziehungsleistung, Sonstige Renten / Pensionen)","(p. ex. pension pour incapacité de travail, retraite, pension d'accident, retraite agricole, pension de veuvage, rente d'orphelin, pension pour éducation, allocation ou supplément pour enfant, allocation pour soins en complément de la retraite, retraite d'entreprise, prestations pour éducation d'enfant, autres retraites et pensions)"
-Sozialhilfeleistungen,Allocations d'aide sociale
-Grundsicherungsleistungen,Prestations de protection de base
-Asylbewerberleistung,Prestations pour demandeurs d'asile
-Leistungen nach dem Bundesversorgungsgesetz,Prestations selon la loi allemande sur l'assistance aux victimes de guerre
-Leistungen des Lastenausgleichsamtes,Prestations de l'Agence d'égalisation des charges
+"Sozialhilfeleistungen","Allocations d'aide sociale"
+"Grundsicherungsleistungen","Prestations de protection de base"
+"Asylbewerberleistung","Prestations pour demandeurs d'asile"
+"Leistungen nach dem Bundesversorgungsgesetz","Prestations selon la loi allemande sur l'assistance aux victimes de guerre"
+"Leistungen des Lastenausgleichsamtes","Prestations de l'Agence d'égalisation des charges"
 "(z. B. Unterhaltshilfe, Pflegegeld, Entschädigungsrente)","(p. ex. aide à la subsistance, allocations pour soins, pension d'indemnisation)"
-Leistungen der Agentur für Arbeit,Prestations de l'Agence pour l'emploi
+"Leistungen der Agentur für Arbeit","Prestations de l'Agence pour l'emploi"
 "(z. B. Arbeitslosengeld, Arbeitslosengeld II, Eingliederungshilfe, Berufsausbildungsbeihilfe, Arbeitsförderungsgeld u. a.)","(p. ex. allocation chômage, allocation chômage II, allocation d'insertion, allocation de formation professionnelle, prime à l'emploi et autres)"
-Kindergeld,Allocation familiale
-Kindergeldzuschlag,Supplément à l'allocation familiale
-Elterngeld,Allocation parentale
-Ausbildungsförderung,Prime à la formation
-Unterhalt,Pension alimentaire
-Unterhaltsvorschuss,Avance sur pension alimentaire
-Privatrechtliche geldwerte Ansprüche,Prétentions pécuniaires relevant du droit privé
+"Kindergeld","Allocation familiale"
+"Kindergeldzuschlag","Supplément à l'allocation familiale"
+"Elterngeld","Allocation parentale"
+"Ausbildungsförderung","Prime à la formation"
+"Unterhalt","Pension alimentaire"
+"Unterhaltsvorschuss","Avance sur pension alimentaire"
+"Privatrechtliche geldwerte Ansprüche","Prétentions pécuniaires relevant du droit privé"
 "(z. B. Beköstigung, Wohnrecht, Taschengeld, Leibrente, Pflegegeld)","(p. ex. repas, droit d'habitation, argent de poche, rente viagère, allocation pour soins)"
-Steuererstattung,Remboursement d'impôts
-Kapitalerträge (z. B. Zinsen),Revenus du capital (p. ex. intérêts)
-Sonstige Einkünfte,Autres revenus
-(z.B. Schadensersatzansprüche),(par ex. droits à dommages-intérêts)
-Kein Einkommen,Pas de revenus
-"Sind Leistungen nach Nr. VIII. beantragt, über die noch nicht entschieden wurde?",Y a-t-il eu une demande de prestations relevant du n° VIII pour laquelle la décision n'a pas encore été rendue?
-Personenziffer,Pour quelle personne (numéro)
-Antragsdatum,Date de la demande
-Art der Leistung,Type de prestations
-Dienststelle und Geschäftszeichen,Service et référence
+"Steuererstattung","Remboursement d'impôts"
+"Kapitalerträge (z. B. Zinsen)","Revenus du capital (p. ex. intérêts)"
+"Sonstige Einkünfte","Autres revenus"
+"(z.B. Schadensersatzansprüche)","(par ex. droits à dommages-intérêts)"
+"Kein Einkommen","Pas de revenus"
+"Sind Leistungen nach Nr. VIII. beantragt, über die noch nicht entschieden wurde?","Y a-t-il eu une demande de prestations relevant du n° VIII pour laquelle la décision n'a pas encore été rendue?"
+"Personenziffer","Pour quelle personne (numéro)"
+"Antragsdatum","Date de la demande"
+"Art der Leistung","Type de prestations"
+"Dienststelle und Geschäftszeichen","Service et référence"
 "Werden einmalige Einnahmen erwartet, z. B. eine Steuerrückzahlung?","Des rentrées d'argent exceptionnelles sont-elles attendues, p. ex. un remboursement d'impôts?"
-Zeitpunkt,Date du versement
-EUR,EUR
-Vom Einkommen evtl. absetzbare Beträge,Sommes éventuellement déductibles du revenu
-**Keine absetzbaren Beträge**,**Pas de sommes déductibles**
-Ausgaben mtl. Betrag,Montant mensuel des dépenses
-Einkommensteuer*,Impôts sur le revenu*
-Krankenversicherung*,Assurance maladie*
-Pflegeversicherung*,Assurance dépendance* (assurance vieillesse)
-Arbeitslosenversicherung*,Assurance chômage*
-Rentenversicherung*,Assurance retraite*
-Kirchensteuer*,Impôt destiné aux églises
-Unfallversicherung,Assurance accidents
-Altersvorsorgebeiträge,Versements à des fonds de prévoyance
-Hausratsversicherung,Assurance multirisques-habitation
-Sterbeversicherung,Assurance décès
-Lebensversicherung,Assurance vie
-Haftpflichtversicherung,Assurance responsabilité civile
-Aufwendungen für Arbeitsmittel,Dépenses pour outils de travail
-Beiträge für Berufsverbände,Cotisations à des organisations professionnelles
-Mehraufwendungen für doppelte Haushaltsführung,Dépenses supplémentaires pour double résidence
-\* Angabe nicht erforderlich soweit die Beträge bereits vom Arbeitgeber oder Rententräger abgesetzt wurden,\* Informations non nécessaires dans la mesure où les sommes ont déjà été déduites par l'employeur ou l'organisme de retraite
-Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit,distance entre le logement et le lieu de travail Frais de transport jusqu'au lieu de travail en
-km,km
-öffentlichen Verkehrsmitteln,transports publics
-PKW,voiture individuelle
-Kleinst-PKW (bis 500 ccm),petite voiture individuelle (jusqu'à 500 cm3)
-Motorrad,moto
-Mofa,mobylette
-Sonstiges,Autres
-Nähere Begründung zu „Sonstiges“,Justification détaillée sur «Autres»
-Vermögensverhältnisse (ggf. auf gesondertem Blatt fortsetzen),Situation patrimoniale (poursuivre le cas échéant sur une feuille séparée)
-Sparguthaben / Bargeld,Épargne / argent liquide
-Wertpapiere,Titres (valeurs mobilières)
-Sachwerte von besonderem Wert,Biens d'une valeur particulière
-Art,nature
-sonstiges Vermögen (Forderungen und anderes),autre patrimoine (créances et autres)
-Verschenktes Vermögen innerhalb der letzten 10 Jahre (auch Grundvermögen),Dons de biens intervenus au cours des 10 dernières années (y compris patrimoine immobilier)
-Kraftfahrzeug,Véhicule automobile
-amtl. Kennzeichen,numéro d'immatriculation
-Fabrikat,Marque
-Baujahr,année de construction
-Halter,propriétaire
-Hauseigentum oder Grundbesitz,propriété immobilière ou foncière
-**Bitte Anlage 3 ausfüllen**,**Veuillez remplir le formulaire 3**
-Staatlich geförderte private Altersvorsorge,Prévoyance vieillesse privée subventionnée par l'État
+"Zeitpunkt","Date du versement"
+"EUR","EUR"
+"Vom Einkommen evtl. absetzbare Beträge","Sommes éventuellement déductibles du revenu"
+"**Keine absetzbaren Beträge**","**Pas de sommes déductibles**"
+"Ausgaben mtl. Betrag","Montant mensuel des dépenses"
+"Einkommensteuer*","Impôts sur le revenu*"
+"Krankenversicherung*","Assurance maladie*"
+"Pflegeversicherung*","Assurance dépendance* (assurance vieillesse)"
+"Arbeitslosenversicherung*","Assurance chômage*"
+"Rentenversicherung*","Assurance retraite*"
+"Kirchensteuer*","Impôt destiné aux églises"
+"Unfallversicherung","Assurance accidents"
+"Altersvorsorgebeiträge","Versements à des fonds de prévoyance"
+"Hausratsversicherung","Assurance multirisques-habitation"
+"Sterbeversicherung","Assurance décès"
+"Lebensversicherung","Assurance vie"
+"Haftpflichtversicherung","Assurance responsabilité civile"
+"Aufwendungen für Arbeitsmittel","Dépenses pour outils de travail"
+"Beiträge für Berufsverbände","Cotisations à des organisations professionnelles"
+"Mehraufwendungen für doppelte Haushaltsführung","Dépenses supplémentaires pour double résidence"
+"\* Angabe nicht erforderlich soweit die Beträge bereits vom Arbeitgeber oder Rententräger abgesetzt wurden","\* Informations non nécessaires dans la mesure où les sommes ont déjà été déduites par l'employeur ou l'organisme de retraite"
+"Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit","distance entre le logement et le lieu de travail Frais de transport jusqu'au lieu de travail en"
+"km","km"
+"öffentlichen Verkehrsmitteln","transports publics"
+"PKW","voiture individuelle"
+"Kleinst-PKW (bis 500 ccm)","petite voiture individuelle (jusqu'à 500 cm3)"
+"Motorrad","moto"
+"Mofa","mobylette"
+"Sonstiges","Autres"
+"Nähere Begründung zu „Sonstiges“","Justification détaillée sur «Autres»"
+"Vermögensverhältnisse (ggf. auf gesondertem Blatt fortsetzen)","Situation patrimoniale (poursuivre le cas échéant sur une feuille séparée)"
+"Sparguthaben / Bargeld","Épargne / argent liquide"
+"Wertpapiere","Titres (valeurs mobilières)"
+"Sachwerte von besonderem Wert","Biens d'une valeur particulière"
+"Art","nature"
+"sonstiges Vermögen (Forderungen und anderes)","autre patrimoine (créances et autres)"
+"Verschenktes Vermögen innerhalb der letzten 10 Jahre (auch Grundvermögen)","Dons de biens intervenus au cours des 10 dernières années (y compris patrimoine immobilier)"
+"Kraftfahrzeug","Véhicule automobile"
+"amtl. Kennzeichen","numéro d'immatriculation"
+"Fabrikat","Marque"
+"Baujahr","année de construction"
+"Halter","propriétaire"
+"Hauseigentum oder Grundbesitz","propriété immobilière ou foncière"
+"**Bitte Anlage 3 ausfüllen**","**Veuillez remplir le formulaire 3**"
+"Staatlich geförderte private Altersvorsorge","Prévoyance vieillesse privée subventionnée par l'État"
 "Ansprüche aus Übertragsverträgen (z. B. Wohnrecht, Nießbrauch, Altenteilsrechte)","Prétentions résultant de contrats de cession (p. ex. droit d'habitation, usufruit, droit à une rente viagère)"
-Sonstiges Vermögen,Autre patrimoine
-"**Sonstige Angaben,**",**Informations complémentaires**
+"Sonstiges Vermögen","Autre patrimoine"
+"**Sonstige Angaben,**","**Informations complémentaires**"
 "z. B. über persönliche, familiäre, gesundheitliche Verhältnisse","p. ex. sur les conditions personnelles, familiales, état de santé"
-Leistungen für besondere Mehrbedarfe,Prestations pour besoins supplémentaires spéciaux
-"Unter bestimmten Voraussetzungen können Leistungen für Mehrbedarfe erbracht werden, die nicht durch die Regelleistung abgedeckt sind und aus den vorgenannten Angaben nicht zu beurteilen sind. Dies gilt für alle Personen innerhalb des Haushalts.",Il est possible que soient accordées à certaines conditions des prestations pour besoins supplémentaires non couverts par les prestations ordinaires et qu'il n'est pas possible d'évaluer à partir des informations ci-dessus. Ceci s'applique à toutes les personnes du foyer familial.
-Folgende Mehrbedarfe werden geltend gemacht:,Il est possible de faire valoir les besoins supplémentaires suivants:
-Für werdende Mütter nach der 12. Schwangerschaftswoche,Pour les femmes enceintes ayant dépassé la 12e semaine de grossesse
-Vorlage Mutterschaftspass erforderlich,Joindre impérativement le carnet de maternité
-Vorname:,Prénom:
-Voraussichtlicher Geburtstermin,Date d'accouchement prévue
-"Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten",Personnes fortement handicapées ayant atteint l'âge de 15 ans révolus et bénéficié de prestations pour la participation à la vie professionnelle
-Vorlage des Bewilligungsbescheides,Présentation de la décision d'accord
-Kostenaufwendige Ernährung aus medizinischen Gründen,Alimentation onéreuse pour raisons médicales
-vom Sozialamt erhältlicher Vordruck ist vom behandelnden Arzt auszufüllen,le formulaire disponible auprès des services sociaux doit être rempli par le médecin traitant
-Bestandteile des Antrages sind die Anlagen,La demande se compose des formulaires/pièces jointes
-1 - Unterhalt,1 - Pension alimentaire
-2 - Ausländer,2 - Étrangers
-3 - Grundbesitz,3 - Propriété foncière
-4 – Eingliederungshilfe,4 – Aide à l'insertion
-6 – Mietschulden,6 – Dettes locatives
-Dem Antrag sind folgende Unterlagen beigefügt,Les documents suivants sont joints à la demande
-Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.,Les informations portées par mes soins dans la demande et les formulaires/pièces jointes afférents sont exhaustives et vraies.
+"Leistungen für besondere Mehrbedarfe","Prestations pour besoins supplémentaires spéciaux"
+"Unter bestimmten Voraussetzungen können Leistungen für Mehrbedarfe erbracht werden, die nicht durch die Regelleistung abgedeckt sind und aus den vorgenannten Angaben nicht zu beurteilen sind. Dies gilt für alle Personen innerhalb des Haushalts.","Il est possible que soient accordées à certaines conditions des prestations pour besoins supplémentaires non couverts par les prestations ordinaires et qu'il n'est pas possible d'évaluer à partir des informations ci-dessus. Ceci s'applique à toutes les personnes du foyer familial."
+"Folgende Mehrbedarfe werden geltend gemacht:","Il est possible de faire valoir les besoins supplémentaires suivants:"
+"Für werdende Mütter nach der 12. Schwangerschaftswoche","Pour les femmes enceintes ayant dépassé la 12e semaine de grossesse"
+"Vorlage Mutterschaftspass erforderlich","Joindre impérativement le carnet de maternité"
+"Vorname:","Prénom:"
+"Voraussichtlicher Geburtstermin","Date d'accouchement prévue"
+"Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten","Personnes fortement handicapées ayant atteint l'âge de 15 ans révolus et bénéficié de prestations pour la participation à la vie professionnelle"
+"Vorlage des Bewilligungsbescheides","Présentation de la décision d'accord"
+"Kostenaufwendige Ernährung aus medizinischen Gründen","Alimentation onéreuse pour raisons médicales"
+"vom Sozialamt erhältlicher Vordruck ist vom behandelnden Arzt auszufüllen","le formulaire disponible auprès des services sociaux doit être rempli par le médecin traitant"
+"Bestandteile des Antrages sind die Anlagen","La demande se compose des formulaires/pièces jointes"
+"1 - Unterhalt","1 - Pension alimentaire"
+"2 - Ausländer","2 - Étrangers"
+"3 - Grundbesitz","3 - Propriété foncière"
+"4 – Eingliederungshilfe","4 – Aide à l'insertion"
+"6 – Mietschulden","6 – Dettes locatives"
+"Dem Antrag sind folgende Unterlagen beigefügt","Les documents suivants sont joints à la demande"
+"Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.","Les informations portées par mes soins dans la demande et les formulaires/pièces jointes afférents sont exhaustives et vraies."
 "Ich werde den Träger der Leistungen (Land Berlin, vertreten durch die Bezirksämter v. Berlin, Geschäftsbereich Sozialwesen / Geschäftsbereich Jugend und Sport bzw. Landesamt für Gesundheit und Soziales Berlin / ZLA) gem. § 60 Abs. 1 Ziff. 2 SGB I unverzüglich informieren, wenn","Je m'engage à informer immédiatement l'autorité en charge des prestations (Land de Berlin représenté par les mairies d'arrondissement de Berlin, Service des affaires sociales / Service de la jeunesse et des sports ou Office régional de la santé et des affaires sociales de Berlin / ZLA) selon le § 60 al.1 ch. 2 du livre I du Code social allemand (SGB I), si"
-- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.,- mes conditions personnelles et économiques changent.
-- sich die Verhältnisse meiner Haushaltsangehörigen ändern.,- les conditions des membres de mon foyer familial changent.
-- ich Renten oder ähnliche Leistungen beantrage.,- je fais une demande de pension ou de prestation similaire.
+"- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.","- mes conditions personnelles et économiques changent."
+"- sich die Verhältnisse meiner Haushaltsangehörigen ändern.","- les conditions des membres de mon foyer familial changent."
+"- ich Renten oder ähnliche Leistungen beantrage.","- je fais une demande de pension ou de prestation similaire."
 "Des Weiteren bin ich hinreichend darüber informiert worden, dass im Falle eines konkreten Betrugsverdachts die Ermittlungen des Sachverhalts gemäß §§ 20, 21, 69 und 71 SGB X von Amts wegen – ohne meine Beteiligung – erfolgen können.","Par ailleurs, j'ai été dûment informé-e que dans le cas d'un soupçon concret de fraude, une enquête sur les faits selon les §§ 20, 21, 69 et 71 du livre X du Code social allemand (SGB X) peut être ordonnée d'office – sans ma participation."
 "Leistungen werden von mir zurückgefordert, sofern ich sie zu Unrecht erhalten habe, z. B. weil ich vorsätzlich oder grob fahrlässig falsche Angaben gemacht habe.","Il me sera demandé de rembourser les prestations dans la mesure où j'en ai bénéficié à tort, p. ex. parce que j'ai donné des informations erronées intentionnellement ou par négligence grave."
-"Der Träger der Leistungen nach SGB XII bzw. AsylbLG kann für die Zeit, für die ich Leistungen erhalte, meine Ansprüche gegen einen anderen auf entsprechende Leistungen in Höhe seiner Aufwendungen auf sich überleiten.",L'autorité en charge des prestations peut selon le livre XII du Code social allemand (SGB XII) ou selon la loi sur les prestations pour demandeurs d'asile (AsylbLG) faire transférer sur lui pour la période durant laquelle j'ai bénéficié de ces prestations mes propres prétentions envers un tiers à des prestations d'un montant correspondant au montant de ses dépenses.
+"Der Träger der Leistungen nach SGB XII bzw. AsylbLG kann für die Zeit, für die ich Leistungen erhalte, meine Ansprüche gegen einen anderen auf entsprechende Leistungen in Höhe seiner Aufwendungen auf sich überleiten.","L'autorité en charge des prestations peut selon le livre XII du Code social allemand (SGB XII) ou selon la loi sur les prestations pour demandeurs d'asile (AsylbLG) faire transférer sur lui pour la période durant laquelle j'ai bénéficié de ces prestations mes propres prétentions envers un tiers à des prestations d'un montant correspondant au montant de ses dépenses."
 "Der Sozialhilfeträger behält sich vor, bei Vorliegen des entsprechenden Sachverhalts Aufwendungsersatz nach den §§ 19 Abs. 5, 27 Abs. 3 oder § 92 Abs. 1 SGB XII bzw. §§ 7, 9 AsylbLG geltend zu machen. In diesem Umfang habe ich dem Träger der Leistungen die Aufwendungen zu ersetzen.","Si des faits correspondants sont avérés, l'organisme d'aide sociale se réserve le droit de faire valoir un remboursement de ses dépenses en vertu des §§ 19 al. 5, 27 al. 3 ou § 92 al. 1 du livre XII du Code social allemand (SGB XII) ou des §§ 7, 9 de la loi sur les prestations pour demandeurs d'asile (AsylbLG). Je devrai rembourser ses dépenses à l'organisme ayant fourni les prestations."
 "Dies gilt auch, wenn der Erstattungsanspruch des Trägers der Sozialleistung gegen andere vorrangig verpflichtete Leistungsträger (z.B. Rententräger, Krankenkasse) aus Verfahrensgründen nicht befriedigt werden kann und ich für den gleichen Zeitraum von beiden Leistungsträgern Aufwendungen erhalten habe. In diesen Fällen sind die gewährten Leistungen nach SGB XII / AsylbLG von mir zu erstatten.","Cette disposition s'applique également si la prétention à remboursement de l'organisme d'aide sociale ne peut être satisfaite vis-à-vis d'autres fournisseurs de prestations engagés et prioritaires (p. ex. organisme de retraite, assurance maladie) pour des raisons de procédure et que j'ai bénéficié pour la même période de prestations de la part des deux fournisseurs de prestations. Dans ces cas, je devrai rembourser les prestations accordées selon le livre XII du Code social allemand (SGB XII) / la loi sur les prestations pour demandeurs d'asile (AsylbLG)."
-"Ich bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.",J'ai été informé-e du fait que le versement des cotisations pour mon assurance maladie /et de dépendance se fait directement à la caisse maladie ou caisse de soins.
-Unterschrift des Antragstellers/Datum,Signature du demandeur/date
-ggf. Unterschrift des nicht getrennt lebenden Ehegatten,le cas échéant signature du conjoint ne vivant pas séparé
-Falls vom Antragsteller nicht selbst oder nicht vollständig ausgefüllt,Si la demande n'a pas ou pas entièrement été remplie par le demandeur lui-même
+"Ich bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.","J'ai été informé-e du fait que le versement des cotisations pour mon assurance maladie /et de dépendance se fait directement à la caisse maladie ou caisse de soins."
+"Unterschrift des Antragstellers/Datum","Signature du demandeur/date"
+"ggf. Unterschrift des nicht getrennt lebenden Ehegatten","le cas échéant signature du conjoint ne vivant pas séparé"
+"Falls vom Antragsteller nicht selbst oder nicht vollständig ausgefüllt","Si la demande n'a pas ou pas entièrement été remplie par le demandeur lui-même"
 "Name, Anschrift, ggf. Dienststelle und Unterschrift des Aufnehmenden/Datum","Nom, adresse, le cas échéant service et signature de la personne effectuant la réception/date"
-Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG,Fiche explicative accompagnant la demande d'aide sociale selon le livre XII du Code social allemand (SGB XII) ou de prestations selon la loi sur les prestations pour demandeurs d'asile (AsylbLG)
+"Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG","Fiche explicative accompagnant la demande d'aide sociale selon le livre XII du Code social allemand (SGB XII) ou de prestations selon la loi sur les prestations pour demandeurs d'asile (AsylbLG)"
 "Nach § 60 SGB I muss der Antragsteller / die Antragstellerin bei der Aufklärung des Sachverhaltes und der Feststellung der für die Sozialleistung bestehenden Voraussetzungen mitwirken. Die Nichtbeantwortung von Fragen kann im Einzelfall zur Folge haben, dass die beantragte Leistung nicht gewährt werden kann. Die Grenzen der Mitwirkung sind in § 65 SGB I geregelt.","En vertu du § 60 du livre I du Code social allemand (SGB I), le demandeur / la demandeuse doit participer à la clarification des faits et à l'identification des conditions nécessaires pour l'octroi des prestations sociales. Le fait de ne pas répondre à des questions peut dans certains cas avoir pour conséquence que les prestations demandées ne pourront pas être accordées. Les limites de cette participation sont fixées au § 65 du livre I du Code social allemand (SGB I)."
-"Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:",Vous trouverez ci-dessous une liste des bases juridiques selon lesquelles les données nécessaires ont été recueillies:
+"Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:","Vous trouverez ci-dessous une liste des bases juridiques selon lesquelles les données nécessaires ont été recueillies:"
 "**\*Die nachfolgenden Passagen haben wir nicht übersetzt. Wenn Sie sich zu den gesetzlichen Grundlagen kundig machen wollen, suchen Sie sich bitte die Hilfe einer Person, die über ausreichende deutsche Sprachkenntnisse verfügt.**","**\*Nous n'avons pas traduit les passages suivants. Si vous souhaitez vous informer sur les bases juridiques, veuillez demander de l'aide à une personne possédant des connaissances suffisantes de la langue allemande.**"

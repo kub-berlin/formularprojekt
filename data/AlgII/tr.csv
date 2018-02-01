@@ -1,19 +1,19 @@
-Vorname,Adı
-Geburtsort,Doğum yeri
-Geburtsdatum,Doğum tarihi
-Staatsangehörigkeit,Uyruğu
-Rentenversicherungsnummer,Emeklilik sigortası numarası
-Telefonnummer,telefon nosu
-E-Mail-Adresse,email adresi
-ledig,bekar
-verheiratet,evli
-verwitwet,dul
-BIC,BIC
-IBAN,IBAN
-Ja,Evet
-Nein,Hayır
-Art der Tätigkeit,Yapdıgınız iş
-Leistung,yardim bedeli
-Anschrift,Adresi
-Grund,Nedeni
-Antragsdatum,Dilekçe tarihi
+"Vorname","Adı"
+"Geburtsort","Doğum yeri"
+"Geburtsdatum","Doğum tarihi"
+"Staatsangehörigkeit","Uyruğu"
+"Rentenversicherungsnummer","Emeklilik sigortası numarası"
+"Telefonnummer","telefon nosu"
+"E-Mail-Adresse","email adresi"
+"ledig","bekar"
+"verheiratet","evli"
+"verwitwet","dul"
+"BIC","BIC"
+"IBAN","IBAN"
+"Ja","Evet"
+"Nein","Hayır"
+"Art der Tätigkeit","Yapdıgınız iş"
+"Leistung","yardim bedeli"
+"Anschrift","Adresi"
+"Grund","Nedeni"
+"Antragsdatum","Dilekçe tarihi"

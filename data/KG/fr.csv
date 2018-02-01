@@ -1,69 +1,69 @@
-Kindergeld-Nr.,N° d'allocataire
-Telefonische Rückfrage tagsüber unter Nr.:,"Pour toute question, téléphonez pendant la journée au :"
-Antrag auf Kindergeld,Demande d'allocation familiale
+"Kindergeld-Nr.","N° d'allocataire"
+"Telefonische Rückfrage tagsüber unter Nr.:","Pour toute question, téléphonez pendant la journée au :"
+"Antrag auf Kindergeld","Demande d'allocation familiale"
 "Bitte fügen Sie für jedes Kind, für das Kindergeld beantragt wird, eine „Anlage Kind“ bei.","Prière d'ajouter une ""Annexe enfant"" pour chaque enfant pour lequel l'allocation familiale est demandée"
 "Anzahl der beigefügten ""Anlage Kind""","Nombre d'""annexe enfant"" ajoutées"
-Angaben zur antragstellenden Person,Données du demandeur
-Name,Nom
-Titel,Titre
-Vorname,Prénom
-ggf. Geburtsname und Name aus früherer Ehe,Nom de naissance et nom de mariage
-Geburtsdatum,Date de naissance
-Geburtsort,Lieu de naissance
-Geschlecht,Sexe
-Familienstand,Situation familiale
-ledig,célibataire
-seit,depuis
-verheiratet,marié(e)
-verwitwet,veuf/veuve
-in Lebenspartnerschaft lebend,pacsé(e)
-geschieden,divorcé-e
-dauernd getrennt lebend,séparé-e durablement
-Angaben zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in der antragstellenden Person,Données concernant l'époux/épouse ou le compagnon/la compagne du demandeur
-Staatsangehörigkeit,Nationalité
-Angaben zum Zahlungsweg,Données pour le paiement
-IBAN,IBAN
-BIC,BIC
+"Angaben zur antragstellenden Person","Données du demandeur"
+"Name","Nom"
+"Titel","Titre"
+"Vorname","Prénom"
+"ggf. Geburtsname und Name aus früherer Ehe","Nom de naissance et nom de mariage"
+"Geburtsdatum","Date de naissance"
+"Geburtsort","Lieu de naissance"
+"Geschlecht","Sexe"
+"Familienstand","Situation familiale"
+"ledig","célibataire"
+"seit","depuis"
+"verheiratet","marié(e)"
+"verwitwet","veuf/veuve"
+"in Lebenspartnerschaft lebend","pacsé(e)"
+"geschieden","divorcé-e"
+"dauernd getrennt lebend","séparé-e durablement"
+"Angaben zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in der antragstellenden Person","Données concernant l'époux/épouse ou le compagnon/la compagne du demandeur"
+"Staatsangehörigkeit","Nationalité"
+"Angaben zum Zahlungsweg","Données pour le paiement"
+"IBAN","IBAN"
+"BIC","BIC"
 "Bank, Finanzinstitut (ggf. auch Zweigstelle)","Banque, institution (et agence)"
-Kontoinhaber/in ist,Le titulaire du compte
-antragstellende Person wie unter 1,"est le demandeur, comme renseigné en 1"
+"Kontoinhaber/in ist","Le titulaire du compte"
+"antragstellende Person wie unter 1","est le demandeur, comme renseigné en 1"
 "nicht antragstellende Person, sondern:","n'est pas le demandeur, mais :"
 "Name, Vorname","Nom, prénom"
 "Der Bescheid soll nicht mir, sondern folgender Person zugesandt werden:","Merci d'envoyer la réponse à cette demande, non pas à moi, mais au contact suivant:"
-Angaben zu Kindern,Données concernants les enfants
+"Angaben zu Kindern","Données concernants les enfants"
 "Für jedes Kind, für das Kindergeld neu beantragt wird, ist eine gesonderte „Anlage Kind“ ausgefüllt einzureichen.","Pour chaque enfant, pour lequel vous ferez une demande d'allocation, vous devez fournir une ""Annexe enfant"""
-Für folgende Kinder beziehe ich bereits Kindergeld,Je recois déjà une allocation pour les enfants suivants:
-Vorname des Kindes ggf. abweichender Familienname,Prénom de l'enfant et éventuellement ancien nom de famille s'il a changé
+"Für folgende Kinder beziehe ich bereits Kindergeld","Je recois déjà une allocation pour les enfants suivants:"
+"Vorname des Kindes ggf. abweichender Familienname","Prénom de l'enfant et éventuellement ancien nom de famille s'il a changé"
 "Bei welcher Familienkasse (Kindergeldnummer, Personalnummer)?","A quelle caisse d'allocation familiale (numéro de dossier, matricule) ?"
-Folgende Zählkinder sollen berücksichtigt werden:,Les enfants suivants doivent être pris en compte:
+"Folgende Zählkinder sollen berücksichtigt werden:","Les enfants suivants doivent être pris en compte:"
 "Wer bezieht das Kindergeld (Name, Vorname)?","Qui est concerné par l'allocation familiale (nom,prénom) ?"
 "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommenssteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.","Indication à propos de la loi relative à la protection des données: les données seront relevées, travaillées et utilisées au regard des paragraphes 31, 62 à 78 de la loi relative à l'impôt sur le revenu et de la reglementation du code fiscal et au regard de la loi relative aux allocations familiales."
-Datum,Date
-"Ich bin damit einverstanden, dass dem/der Antragsteller/in das Kindergeld gezahlt wird.",J'accepte que le demandeur recoive l'argent de l'allocation familiale.
-Unterschrift des/der Antragsteller/in bzw. des/der gesetzlichen Vertreters/Vertreterin,Signature du demandeur ou du représentant(e) légal
-Unterschrift des gemeinsam mit dem/der Antragsteller/in in einem Haushalt lebenden Ehegatten/Ehegattin bzw. Lebenspartners/Lebenspartnerin oder anderen Elternteils bzw. dessen/deren gesetzlichen/gesetzliche Vertreters/Vertreterin,Signature de l'époux/épouse vivant en ménage avec le demandeur ou du compagnon/de la compagne ou d'autres parents représentants légaux.
-Alle Eingaben löschen,Effacer toutes les informations
-Drucken,Imprimer
-Speichern,enregistrer
-Nur von der Familienkasse auszufüllen,A remplir par la caisse d'allocation famililale
-Hinweise zum Antrag auf Kindergeld und zur Anlage Kind,Indications concernant la demande d'allocation et les annexes enfants
-Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in,Pour 1 et 2: Données du demandeur et de l'époux/épouse ou compagnon/compagne
-Anlage Kind,Annexe enfant
-Allgemeines,Généralités
-Zu 1: Angaben zum Kind,Données pour un enfant
-Zu 3: Angaben für ein volljähriges Kind,Données pour un enfant majeur
-Besondere Anspruchsvoraussetzungen,Conditions d'octroi particulières
+"Datum","Date"
+"Ich bin damit einverstanden, dass dem/der Antragsteller/in das Kindergeld gezahlt wird.","J'accepte que le demandeur recoive l'argent de l'allocation familiale."
+"Unterschrift des/der Antragsteller/in bzw. des/der gesetzlichen Vertreters/Vertreterin","Signature du demandeur ou du représentant(e) légal"
+"Unterschrift des gemeinsam mit dem/der Antragsteller/in in einem Haushalt lebenden Ehegatten/Ehegattin bzw. Lebenspartners/Lebenspartnerin oder anderen Elternteils bzw. dessen/deren gesetzlichen/gesetzliche Vertreters/Vertreterin","Signature de l'époux/épouse vivant en ménage avec le demandeur ou du compagnon/de la compagne ou d'autres parents représentants légaux."
+"Alle Eingaben löschen","Effacer toutes les informations"
+"Drucken","Imprimer"
+"Speichern","enregistrer"
+"Nur von der Familienkasse auszufüllen","A remplir par la caisse d'allocation famililale"
+"Hinweise zum Antrag auf Kindergeld und zur Anlage Kind","Indications concernant la demande d'allocation et les annexes enfants"
+"Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in","Pour 1 et 2: Données du demandeur et de l'époux/épouse ou compagnon/compagne"
+"Anlage Kind","Annexe enfant"
+"Allgemeines","Généralités"
+"Zu 1: Angaben zum Kind","Données pour un enfant"
+"Zu 3: Angaben für ein volljähriges Kind","Données pour un enfant majeur"
+"Besondere Anspruchsvoraussetzungen","Conditions d'octroi particulières"
 "Die Berücksichtigung eines volljährigen Kindes ist möglich, wenn es","La prise en compte d'un enfant majeur est possible, si l'enfant"
 "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder","1. n'a pas encore terminé sa 21ème année, n'est pas sous contrat de travail et est inscrit au pôle emploi dans le pays en tant que demandeur d'emploi ou"
-2. noch nicht das 25. Lebensjahr vollendet hat und,2. n'a pas terminé sa 25ème année et
-a) für einen Beruf ausgebildet wird oder,a) est formé à une profession ou
-b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder,b) se trouve dans une période transitoire de 4 mois maximum ou
-c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder,c) ne peut pas commencer ou continuer de formation professionnelle par manque de place de formation
-d) einen geregelten Freiwilligendienst leistet oder,d) effectue un volontariat
+"2. noch nicht das 25. Lebensjahr vollendet hat und","2. n'a pas terminé sa 25ème année et"
+"a) für einen Beruf ausgebildet wird oder","a) est formé à une profession ou"
+"b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder","b) se trouve dans une période transitoire de 4 mois maximum ou"
+"c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder","c) ne peut pas commencer ou continuer de formation professionnelle par manque de place de formation"
+"d) einen geregelten Freiwilligendienst leistet oder","d) effectue un volontariat"
 "3. wegen körperlicher, geistiger oder seelischer Behinderung außerstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze).","3. est atteint de handicap moteur, mental ou psychique, et doit s'occuper de lui seul; la condition indispensable est que le début du handicap doit dater d'avant la fin de la 25ème année (sans limite d'âge)"
-Rechtslage ab 2012,Situation juridique depuis 2012
-"Bitte weisen Sie die wöchentliche Arbeitszeit anhand geeigneter Unterlagen (z.B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierfür durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit oder ähnliches mindern die vertraglich vereinbarte Arbeitszeit nicht.",Merci de justifier votre temps de travail hebdomadaire par un document approprié (par ex. contrat de travail/ justificatif de votre employeur).
-Rechtslage bis 2011,Situation juridique depuis 2011
+"Rechtslage ab 2012","Situation juridique depuis 2012"
+"Bitte weisen Sie die wöchentliche Arbeitszeit anhand geeigneter Unterlagen (z.B. Arbeitsvertrag / Bescheinigung des Arbeitgebers) nach. Wurde von den vertraglich vereinbarten Arbeitszeiten abgewichen, kann ein Nachweis hierfür durch Vorlage von Gehaltsabrechnungen, einem Auszug aus dem Arbeitskonto oder einer Arbeitgeberbescheinigung erfolgen. Fehlzeiten aufgrund von Urlaub, Krankheit oder ähnliches mindern die vertraglich vereinbarte Arbeitszeit nicht.","Merci de justifier votre temps de travail hebdomadaire par un document approprié (par ex. contrat de travail/ justificatif de votre employeur)."
+"Rechtslage bis 2011","Situation juridique depuis 2011"
 "„Tätigkeit im öffentlichen Dienst“ bedeutet eine Tätigkeit als Beamter/Versorgungsempfänger/(Tarif-)Beschäftigte des Bundes, eines Landes, einer Gemeinde, eines Gemeindeverbandes oder einer sonstigen Körperschaft, Anstalt oder Stiftung des öffentlichen Rechts oder als Richter, Berufssoldat oder Soldat auf Zeit.",""" Profession du service public"" signifie que vous êtes fonctionnaire, employé de l'état, d'une commune, d'une communauté de communes ou d'une collectivité publique, d'un office ou d'une fondation de droit public ou juge ou soldat."
 "Die Fragen 6b bzw. 6c sind auch dann mit „ja“ zu beantworten, wenn Sie, Ihr Ehegatte bzw. Lebenspartner oder eine andere Person, zu der eines der Kinder in einem Kindschaftsverhältnis steht, im diplomatischen oder konsularischen Dienst tätig sind oder waren.","Répondre aux questions 6b et 6c par ""oui"""
-Ausführliche Informationen zum Kindergeld finden Sie im Internet unter www.bzst.de bzw. unter www.familienkasse.de.,Plus d'informations sur les allocations familiales sur le site internet www.bzst.de ou sur www.familienkasse.de.
+"Ausführliche Informationen zum Kindergeld finden Sie im Internet unter www.bzst.de bzw. unter www.familienkasse.de.","Plus d'informations sur les allocations familiales sur le site internet www.bzst.de ou sur www.familienkasse.de."

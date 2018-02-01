@@ -1,24 +1,24 @@
-Bezirksamt,Oficina comarcal
-Charlottenburg-Wilmersdorf von Berlin,Charlottenburg-Wilmerdorf de Berlín
-Friedrichshain-Kreuzberg von Berlin,Friedrichshain-Kreuzberg de Berlín
-Lichtenberg von Berlin,Lichtenberg de Berlín
-Marzahn-Hellersdorf von Berlin,Marzahn-Hellersdorf de Berlín
-Mitte von Berlin,Mitte de Berlín
-Neukölln von Berlin,Neukölln de Berlín
-Pankow von Berlin,Pankow de Berlín
-Reinickendorf von Berlin,Reinickendorf de Berlín
-Spandau von Berlin,Spandau de Berlín
-Steglitz-Zehlendorf von Berlin,Steglitz-Zehlendorf de Berlín
-Tempelhof-Schöneberg von Berlin,Tempelhof-Schöneberg de Berlín
-Treptow-Köpenick von Berlin,Treptow-Köpenick de Berlín
-Geschäftsbereich,ámbito de competencia
-Sozialwesen,asuntos sociales
-Landesamt für Gesundheit und Soziales Berlin - ZLA -,Oficina Estatal de Sanidad y Asuntos Sociales - ZLA
-Die Beantwortung aller Fragen ist für die Bearbeitung Ihres Antrags notwendig. Die gesetzlichen Grundlagen für die Erhebung der Daten entnehmen Sie bitte dem beigefügten Merkblatt.,Es necesario que conteste todas las preguntas para que su solicitud pueda ser tramitada. Puede consultar las bases juríicas sobre la recogida de datos en la hoja informativa que se encuentra en anexo.
-Antrag auf,Solicitud de
-Sozialhilfe nach SGB XII,asistencia social según SGB XII
-Leistungen nach AsylbLG,prestaciones según AsylbLG
-Zutreffendes bitte ankreuzen und ausfüllen,"Por favor, marque y complete lo que corresponda"
+"Bezirksamt","Oficina comarcal"
+"Charlottenburg-Wilmersdorf von Berlin","Charlottenburg-Wilmerdorf de Berlín"
+"Friedrichshain-Kreuzberg von Berlin","Friedrichshain-Kreuzberg de Berlín"
+"Lichtenberg von Berlin","Lichtenberg de Berlín"
+"Marzahn-Hellersdorf von Berlin","Marzahn-Hellersdorf de Berlín"
+"Mitte von Berlin","Mitte de Berlín"
+"Neukölln von Berlin","Neukölln de Berlín"
+"Pankow von Berlin","Pankow de Berlín"
+"Reinickendorf von Berlin","Reinickendorf de Berlín"
+"Spandau von Berlin","Spandau de Berlín"
+"Steglitz-Zehlendorf von Berlin","Steglitz-Zehlendorf de Berlín"
+"Tempelhof-Schöneberg von Berlin","Tempelhof-Schöneberg de Berlín"
+"Treptow-Köpenick von Berlin","Treptow-Köpenick de Berlín"
+"Geschäftsbereich","ámbito de competencia"
+"Sozialwesen","asuntos sociales"
+"Landesamt für Gesundheit und Soziales Berlin - ZLA -","Oficina Estatal de Sanidad y Asuntos Sociales - ZLA"
+"Die Beantwortung aller Fragen ist für die Bearbeitung Ihres Antrags notwendig. Die gesetzlichen Grundlagen für die Erhebung der Daten entnehmen Sie bitte dem beigefügten Merkblatt.","Es necesario que conteste todas las preguntas para que su solicitud pueda ser tramitada. Puede consultar las bases juríicas sobre la recogida de datos en la hoja informativa que se encuentra en anexo."
+"Antrag auf","Solicitud de"
+"Sozialhilfe nach SGB XII","asistencia social según SGB XII"
+"Leistungen nach AsylbLG","prestaciones según AsylbLG"
+"Zutreffendes bitte ankreuzen und ausfüllen","Por favor, marque y complete lo que corresponda"
 "Sofern der vorgegebene Raum nicht ausreicht, machen Sie bitte Ihre Angaben
 
 - unter XI des Antrages oder
@@ -28,306 +28,306 @@ Zutreffendes bitte ankreuzen und ausfüllen,"Por favor, marque y complete lo que
 - en el punto XI de esta solicitud
 
 - en una hoja adicional"
-Art der Hilfe,tipo de asistencia
-innerhalb einer Einrichtung,dentro de una facilidad
-außerhalb einer Einrichtung,fuera de una facilidad
-Antragsteller/in (Personenziffer 1),solicitante (persona nº 1)
-Ehegatte/Lebenspartner/in (Personenziffer 2),esposo(a) / compañero(a) (persona nº 2)
-"Name, ggf. Geburtsname, Vorname",apellido (si es necesario apellido de soltera)
-Geburtsdatum,fecha de nacimiento
-Geburtsort/Kreis/Land,lugar de nacimiento/distrito administrativo/país
-männl.,masculino
-weibl.,femenino
-nicht im gemeinsamen Haushalt,hogar separado
-keine weiteren Angaben auf dieser Seite; nur Anlage 1 Buchstabe A ausfüllen,ningúna otra información en esta página; solamente complete anexo 1 parte A
-im gemeinsamen Haushalt,en el mismo hogar
-minderjährig,menor de edad
-Bitte Anlage 1 Buchstabe B ausfüllen,"Por favor, rellene anexo 1 parte B"
-Familienstand,estado civil
-ledig,soltero/a
-eheähnliche Gemeinschaft,unión libre
-eingetragene Lebenspartnerschaft,unión civil
-verheiratet,casado/a
-dauernd getrennt lebend,permanentamente separado/a
-geschieden,divorciado/a
-verwitwet,viudo/a
-Seit,página
-bitte Anlage 1 Buchstabe A ausfüllen,"por favor, rellene anexo 1 parte A"
-Staatsangehörigkeit,nacionalidad
-deutsch,alemana
-bitte Anlage 2 ausfüllen,"por favor, rellene anexo 2"
-Personaldokument bitte vorlegen,"por favor, presente su documento de identidad"
-ausgestellt von (Dienststelle),expedido por (autoridad)
-gültig bis,válido hasta
-bisher keine Leistungen erhalten,aún no se han recibido ningúnas prestaciones
-bereits Leistungen erhalten,ya se han recibido prestaciones
-bis,hasta
-von (Dienststelle),de (autoridad)
-Geschäftszeichen,referencia
-es besteht eine Betreuung nach dem Betreuungsgesetz,existe una asistencia según la ley de asistencia
-es besteht Beistandschaft,existe curatela
-bitte Bestallung beifügen,"por favor, adjunte la autorización"
-Heimatvertriebene/r (Aussiedler/in) - Ausweis A -,desplazado/a (emigrante) - documento A -
-Vertriebene/r (Aussiedler/in) - Ausweis B -,expulsado/a (emigrante) - documento B -
-Spätaussiedler/in - Bescheinigung (nach § 15 Abs. 1 BVFG) und Registrierschein des Bundesverwaltungsamtes,emigrante de origen alemán de los estados de Europa del este - certificado (de § 15 párrafo 1 BVFG) y documento de registro de la oficina federal de administración
-Ehegatte oder Abkömmling eines Spätaussiedlers / einer Spätaussiedlerin - Bescheinigung (nach § 15 Abs. 2 BFVG) und Registrierschein des Bundesverwaltungsamtes,esposo/a o descendiente de un/a emigrante de origen alemán de los estados de Europa del este - certificado (de §15 párrafo 2 BFVG) y documento de registo de la oficina federal de administración
-Sowjetzonenflüchtling - Ausweis C -,refugiado de la zona soviética - documento C -
-ausgestellt am,expedido el
-Schwerbehindertenausweis (Kopie des Ausweises beifügen),Certificado de discapacidad (adjuntar copia del documento)
+"Art der Hilfe","tipo de asistencia"
+"innerhalb einer Einrichtung","dentro de una facilidad"
+"außerhalb einer Einrichtung","fuera de una facilidad"
+"Antragsteller/in (Personenziffer 1)","solicitante (persona nº 1)"
+"Ehegatte/Lebenspartner/in (Personenziffer 2)","esposo(a) / compañero(a) (persona nº 2)"
+"Name, ggf. Geburtsname, Vorname","apellido (si es necesario apellido de soltera)"
+"Geburtsdatum","fecha de nacimiento"
+"Geburtsort/Kreis/Land","lugar de nacimiento/distrito administrativo/país"
+"männl.","masculino"
+"weibl.","femenino"
+"nicht im gemeinsamen Haushalt","hogar separado"
+"keine weiteren Angaben auf dieser Seite; nur Anlage 1 Buchstabe A ausfüllen","ningúna otra información en esta página; solamente complete anexo 1 parte A"
+"im gemeinsamen Haushalt","en el mismo hogar"
+"minderjährig","menor de edad"
+"Bitte Anlage 1 Buchstabe B ausfüllen","Por favor, rellene anexo 1 parte B"
+"Familienstand","estado civil"
+"ledig","soltero/a"
+"eheähnliche Gemeinschaft","unión libre"
+"eingetragene Lebenspartnerschaft","unión civil"
+"verheiratet","casado/a"
+"dauernd getrennt lebend","permanentamente separado/a"
+"geschieden","divorciado/a"
+"verwitwet","viudo/a"
+"Seit","página"
+"bitte Anlage 1 Buchstabe A ausfüllen","por favor, rellene anexo 1 parte A"
+"Staatsangehörigkeit","nacionalidad"
+"deutsch","alemana"
+"bitte Anlage 2 ausfüllen","por favor, rellene anexo 2"
+"Personaldokument bitte vorlegen","por favor, presente su documento de identidad"
+"ausgestellt von (Dienststelle)","expedido por (autoridad)"
+"gültig bis","válido hasta"
+"bisher keine Leistungen erhalten","aún no se han recibido ningúnas prestaciones"
+"bereits Leistungen erhalten","ya se han recibido prestaciones"
+"bis","hasta"
+"von (Dienststelle)","de (autoridad)"
+"Geschäftszeichen","referencia"
+"es besteht eine Betreuung nach dem Betreuungsgesetz","existe una asistencia según la ley de asistencia"
+"es besteht Beistandschaft","existe curatela"
+"bitte Bestallung beifügen","por favor, adjunte la autorización"
+"Heimatvertriebene/r (Aussiedler/in) - Ausweis A -","desplazado/a (emigrante) - documento A -"
+"Vertriebene/r (Aussiedler/in) - Ausweis B -","expulsado/a (emigrante) - documento B -"
+"Spätaussiedler/in - Bescheinigung (nach § 15 Abs. 1 BVFG) und Registrierschein des Bundesverwaltungsamtes","emigrante de origen alemán de los estados de Europa del este - certificado (de § 15 párrafo 1 BVFG) y documento de registro de la oficina federal de administración"
+"Ehegatte oder Abkömmling eines Spätaussiedlers / einer Spätaussiedlerin - Bescheinigung (nach § 15 Abs. 2 BFVG) und Registrierschein des Bundesverwaltungsamtes","esposo/a o descendiente de un/a emigrante de origen alemán de los estados de Europa del este - certificado (de §15 párrafo 2 BFVG) y documento de registo de la oficina federal de administración"
+"Sowjetzonenflüchtling - Ausweis C -","refugiado de la zona soviética - documento C -"
+"ausgestellt am","expedido el"
+"Schwerbehindertenausweis (Kopie des Ausweises beifügen)","Certificado de discapacidad (adjuntar copia del documento)"
 "Merkzeichen (G, aG)","señalización (G, aG)"
-Antrag gestellt?,Se ha presentado una solicitud?
-Ja,Sí
-Nein,No
-Sozialversicherung,seguro social
-keine (Begründung auf Seite 4 -XI-),ningúno (causas en la pagina 4 -XI-)
-Rentenversicherung,seguro de pensiones
-Pflegeversicherung,seguro de dependencia
-Krankenversichert bei,afiliado al seguro de enfermedad de
-Rentenversichert bei,afiliado al seguro de pensiones de
-Rentenversicherungsnummer,número del seguro de pensiones
-Krankenversicherung:,seguro de enfermedad
-Pflichtversicherung,seguro obligatorio
-Freiwillige Versicherung,seguro voluntario
-Familienversicherung *,seguro de dependientes*
-Private Versicherung,seguro privado
-Betreuung der Krankenkassen nach § 264 SGB V,asistencia de seguro de enfermedad según § 264 SGB V
-Umfang bzw. Ausschluss der Erwerbsfähigkeit,Capacidad o incapacidad laboral
-Personenziffer 1,persona nº 1
-Personenziffer 2,persona nº 2
-Sind Sie zurzeit erwerbstätig?,Está trabajando?
-Tätigkeit:,Tipo de actividad laboral:
-Arbeitgeber:,empleador:
-Umfang der Erwerbsfähigkeit,Capadidad laboral
-Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?,"Puede usted, a su juicio, trabajar **por lo menos tres horas cada día** en el mercado laboral?"
+"Antrag gestellt?","Se ha presentado una solicitud?"
+"Ja","Sí"
+"Nein","No"
+"Sozialversicherung","seguro social"
+"keine (Begründung auf Seite 4 -XI-)","ningúno (causas en la pagina 4 -XI-)"
+"Rentenversicherung","seguro de pensiones"
+"Pflegeversicherung","seguro de dependencia"
+"Krankenversichert bei","afiliado al seguro de enfermedad de"
+"Rentenversichert bei","afiliado al seguro de pensiones de"
+"Rentenversicherungsnummer","número del seguro de pensiones"
+"Krankenversicherung:","seguro de enfermedad"
+"Pflichtversicherung","seguro obligatorio"
+"Freiwillige Versicherung","seguro voluntario"
+"Familienversicherung *","seguro de dependientes*"
+"Private Versicherung","seguro privado"
+"Betreuung der Krankenkassen nach § 264 SGB V","asistencia de seguro de enfermedad según § 264 SGB V"
+"Umfang bzw. Ausschluss der Erwerbsfähigkeit","Capacidad o incapacidad laboral"
+"Personenziffer 1","persona nº 1"
+"Personenziffer 2","persona nº 2"
+"Sind Sie zurzeit erwerbstätig?","Está trabajando?"
+"Tätigkeit:","Tipo de actividad laboral:"
+"Arbeitgeber:","empleador:"
+"Umfang der Erwerbsfähigkeit","Capadidad laboral"
+"Können Sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?","Puede usted, a su juicio, trabajar **por lo menos tres horas cada día** en el mercado laboral?"
 "Nein, weil","No, porque"
-Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?,"Puede el individuo, según su juicio, trabajar en el mercado laboral **por lo menos tres horas cada día**?"
-Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor? (EU-Rente),Se le ha determinado una incapacidad laboral según § 43 párrafo 2 SGB VI? (pensión de la UE)
-unbefristet:,por tiempo indefinido
-für welchen Zeitraum?,Válida para que plazo?
-Sind Sie pflegebedürftig im Sinne des SGB XI Pflegeversicherungsgesetz?,Necesita asistencia según SGB XI de la ley de seguro de dependencia?
-Stufe:,grado:
-Auszubildender/Student - auch in Schulausbildung -,aprendiz(a)/estudiante - también estudiante escolar
+"Kann er/sie – Ihrer Einschätzung nach – **mindestens drei Stunden täglich** einer Erwerbstätigkeit auf dem allgemeinen Arbeitsmarkt nachgehen?","Puede el individuo, según su juicio, trabajar en el mercado laboral **por lo menos tres horas cada día**?"
+"Liegt bei Ihnen eine bereits begutachtete volle Erwerbsminderung nach § 43 Abs. 2 SGB VI vor? (EU-Rente)","Se le ha determinado una incapacidad laboral según § 43 párrafo 2 SGB VI? (pensión de la UE)"
+"unbefristet:","por tiempo indefinido"
+"für welchen Zeitraum?","Válida para que plazo?"
+"Sind Sie pflegebedürftig im Sinne des SGB XI Pflegeversicherungsgesetz?","Necesita asistencia según SGB XI de la ley de seguro de dependencia?"
+"Stufe:","grado:"
+"Auszubildender/Student - auch in Schulausbildung -","aprendiz(a)/estudiante - también estudiante escolar"
 "Ja, in Ausbildung / Studium als","sí, en formación o estudio de"
-Name und Anschrift des derzeitigen Arbeitgebers bzw. Angabe der Schule,nombre y dirección del empleador actual o de la escuela
-Unterbringung in einer stationären Einrichtung,alojamiento en una facilidad clínica
+"Name und Anschrift des derzeitigen Arbeitgebers bzw. Angabe der Schule","nombre y dirección del empleador actual o de la escuela"
+"Unterbringung in einer stationären Einrichtung","alojamiento en una facilidad clínica"
 "Ja, Zuweisung","sí, asignación"
-vom,desde
-Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.,Caso que sí: por favor presente los documentos pertinentes.
+"vom","desde"
+"Wenn Ja: Bitte legen Sie entsprechende Unterlagen vor.","Caso que sí: por favor presente los documentos pertinentes."
 "\* **Wichtige Hinweise:** Wenn Sie oder Ihr Partner/Ihre Partnerin **das 23. Lebensjahr noch nicht vollendet haben**, können Sie oder Ihr Partner/Ihre Partnerin bei einem Elternteil **familienversichert** werden. Wenn Sie oder Ihr Partner/Ihre Partnerin von Ihrem Ehegatten/eingetragenen Lebenspartner **getrennt** leben, ist zu prüfen, ob Sie dennoch über diesen **familienversichert** werden können.","\* **Notas importantes:** Si usted o su pareja **son menores que 23 años**, usted o su pareja puede ser cubierto por el seguro de su madre o su padre. Si usted o su pareja vive **seperado** de su esposo(a)/pareja registrada, hay que verificar si puede estar asegurado/a por él/ella."
-Haben Sie Leistungen nach dem SGB II beantragt?,Ha solicitado prestaciones según SGB II?
-Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen,presentar prueba o notificación de autorización o rechazo
-Kunden-Nr. der Agentur für Arbeit (falls vorhanden),número de cliente de la oficina de empleo (si existe)
-**\- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde**,**\- esta parte no debe ser completada por el/la solicitante/nota de autoridad**
-Mögliche Ausschlussgründe für die Hilfe zum Lebensunterhalt,Posibles razones de rechazar la ayuda de subsistencia
-Bankverbindung,datos bancarios
-Geldinstitut,institución bancaria
-Bankleitzahl,código de identificación bancaria
-Kontonummer,número de cuenta
-Kontoinhaber/in,titular de cuenta
-IBAN,IBAN
-BIC,BIC
-Aufenthalt,domicilio
-Anschrift,dirección
-Lage der Wohnung/Etage,piso/planta
-Telefonnummer (freiwillige Angabe),número de teléfono (información voluntaria)
-in Berlin seit,en Berlín desde
-im Bezirk seit,en departamento desde
-zuletzt wohnhaft,último lugar de residencia
-Unterkunft,alojamiento
-Mietwohnung,piso alquilado
-Hauptmieter/in,inquilino/a principal
-Untermieter/in,subinquilino/a
-Name und Anschrift des Vermieters,nombre y dirección del arrendador
-Name des Hauptmieters,nombre del inquilino/a principal
-Eigenheim,casa propia
-Eigentumswohnung,piso propio
-verwandt,emparentado
-Wirtschaftsgemeinschaft,comunidad económica
+"Haben Sie Leistungen nach dem SGB II beantragt?","Ha solicitado prestaciones según SGB II?"
+"Nachweis bzw. Bewilligungs- oder Ablehnungsbescheid vorlegen","presentar prueba o notificación de autorización o rechazo"
+"Kunden-Nr. der Agentur für Arbeit (falls vorhanden)","número de cliente de la oficina de empleo (si existe)"
+"**\- Nicht vom Antragsteller ausfüllen/Vermerk der Behörde**","**\- esta parte no debe ser completada por el/la solicitante/nota de autoridad**"
+"Mögliche Ausschlussgründe für die Hilfe zum Lebensunterhalt","Posibles razones de rechazar la ayuda de subsistencia"
+"Bankverbindung","datos bancarios"
+"Geldinstitut","institución bancaria"
+"Bankleitzahl","código de identificación bancaria"
+"Kontonummer","número de cuenta"
+"Kontoinhaber/in","titular de cuenta"
+"IBAN","IBAN"
+"BIC","BIC"
+"Aufenthalt","domicilio"
+"Anschrift","dirección"
+"Lage der Wohnung/Etage","piso/planta"
+"Telefonnummer (freiwillige Angabe)","número de teléfono (información voluntaria)"
+"in Berlin seit","en Berlín desde"
+"im Bezirk seit","en departamento desde"
+"zuletzt wohnhaft","último lugar de residencia"
+"Unterkunft","alojamiento"
+"Mietwohnung","piso alquilado"
+"Hauptmieter/in","inquilino/a principal"
+"Untermieter/in","subinquilino/a"
+"Name und Anschrift des Vermieters","nombre y dirección del arrendador"
+"Name des Hauptmieters","nombre del inquilino/a principal"
+"Eigenheim","casa propia"
+"Eigentumswohnung","piso propio"
+"verwandt","emparentado"
+"Wirtschaftsgemeinschaft","comunidad económica"
 "Bitte Anlage 3 ausfüllen, dann weiter bei V.2","Por favor, rellene el anexo 3 y continue con el punto V.2"
-Miete insgesamt (EUR/mtl.),alquiler en total (Euro/mes)
-Warmwasserkosten,costes por agua caliente
-(EUR/mtl.),(Euro/mes)
-Heizkostenvorschuss (EUR/mtl.),pago anticipado de los costes de calefacción (Euro/mes)
-Kabelfernsehen (EUR/mtl.),televisión por cable (Euro/mes)
-Miete bezahlt bis,alquiler pagado hasta
-Bitte Nachweis beifügen,Por favor incluya/añada la certificación
-Mietrückstände (von/bis/EUR),alquileres pendientes (de/hasta/Euro)
-Gekündigt zum,contrato rescindido para la fecha
-Bitte Anlage 6 ausfüllen,"Por favor, complete anexo 6"
-Größe der Unterkunft des Antragstellers,tamaño de la vivienda del solicitante
-Anzahl der Zimmer ohne Küche/Bad,número de habitaciónes sin cocina/baño
-Gesamtwohnfläche (m2),superficie total (m2)
-Wohngeld wird gezahlt,se reciben prestaciones por vivienda
-Wohngeld wird nicht gezahlt,no se reciben prestaciones por vivienda
-Bitte Bescheid beifügen,"Por favor, incluya el comprobante"
-Heizungsart/Warmwasser,tipo de calefacción/agua caliente
-Sammelheizung,calefacción colectiva
-Zentrale Warmwasserversorgung,suministro central de agua caliente
-Ofenheizung,calefacción con estufa
-Gasheizung,calefacción a gas
-Nachtstromspeicherheizung,calefacción con acumulador de calor nocturno
-Wohnraum wird untervermietet,Subarrendamiento (parcial) de la vivienda
-Wohnraum kann untervermietet werden,vivienda puede ser subarrendada
-Wohnraum kann nicht untervermietet werden,vivienda no puede ser subarrendada
-Zahl vermieteter Leerzimmer,número de habitaciónes no amuebladas y subarrendadas
-Miete (EUR/mtl.),alquiler (EURO/mes)
-Zahl vermieteter möblierter Zimmer,número de habitaciónes amuebladas subarrendadas
-Grund,superficie
-Ich/Wir habe/n freies Wohnrecht bei:,Tengo/Tenemos permiso de vivir en casa de :
-Name:,apellido:
+"Miete insgesamt (EUR/mtl.)","alquiler en total (Euro/mes)"
+"Warmwasserkosten","costes por agua caliente"
+"(EUR/mtl.)","(Euro/mes)"
+"Heizkostenvorschuss (EUR/mtl.)","pago anticipado de los costes de calefacción (Euro/mes)"
+"Kabelfernsehen (EUR/mtl.)","televisión por cable (Euro/mes)"
+"Miete bezahlt bis","alquiler pagado hasta"
+"Bitte Nachweis beifügen","Por favor incluya/añada la certificación"
+"Mietrückstände (von/bis/EUR)","alquileres pendientes (de/hasta/Euro)"
+"Gekündigt zum","contrato rescindido para la fecha"
+"Bitte Anlage 6 ausfüllen","Por favor, complete anexo 6"
+"Größe der Unterkunft des Antragstellers","tamaño de la vivienda del solicitante"
+"Anzahl der Zimmer ohne Küche/Bad","número de habitaciónes sin cocina/baño"
+"Gesamtwohnfläche (m2)","superficie total (m2)"
+"Wohngeld wird gezahlt","se reciben prestaciones por vivienda"
+"Wohngeld wird nicht gezahlt","no se reciben prestaciones por vivienda"
+"Bitte Bescheid beifügen","Por favor, incluya el comprobante"
+"Heizungsart/Warmwasser","tipo de calefacción/agua caliente"
+"Sammelheizung","calefacción colectiva"
+"Zentrale Warmwasserversorgung","suministro central de agua caliente"
+"Ofenheizung","calefacción con estufa"
+"Gasheizung","calefacción a gas"
+"Nachtstromspeicherheizung","calefacción con acumulador de calor nocturno"
+"Wohnraum wird untervermietet","Subarrendamiento (parcial) de la vivienda"
+"Wohnraum kann untervermietet werden","vivienda puede ser subarrendada"
+"Wohnraum kann nicht untervermietet werden","vivienda no puede ser subarrendada"
+"Zahl vermieteter Leerzimmer","número de habitaciónes no amuebladas y subarrendadas"
+"Miete (EUR/mtl.)","alquiler (EURO/mes)"
+"Zahl vermieteter möblierter Zimmer","número de habitaciónes amuebladas subarrendadas"
+"Grund","superficie"
+"Ich/Wir habe/n freies Wohnrecht bei:","Tengo/Tenemos permiso de vivir en casa de :"
+"Name:","apellido:"
 "Wenn Sie in einer stationären Einrichtung (z. B. Heim, Betreute Wohngemeinschaft, Krankenhaus) leben: **Wo haben Sie vorher gewohnt** (gewöhnlicher Aufenthaltsort)?","Si vive en una institución clínica (p.e. institución, vivienda asistida, hospital): **Donde ha vivido antes** (residencia habitual)?"
-Anschrift der Wohnung **vor der Aufnahme** in die Einrichtung,Dirección de la vivienda **antes del alojamiento** en la institución
-Persönliche Verhältnisse der mit dem Antragsteller/der Antragstellerin in einem Haushalt lebenden weiteren Personen,Qué relación personal tiene la persona que vive en el mismo hogar con la/el solicitante?
-Leben weitere Personen im gemeinsamen Haushalt?,Viven otras personas en el mismo hogar?
+"Anschrift der Wohnung **vor der Aufnahme** in die Einrichtung","Dirección de la vivienda **antes del alojamiento** en la institución"
+"Persönliche Verhältnisse der mit dem Antragsteller/der Antragstellerin in einem Haushalt lebenden weiteren Personen","Qué relación personal tiene la persona que vive en el mismo hogar con la/el solicitante?"
+"Leben weitere Personen im gemeinsamen Haushalt?","Viven otras personas en el mismo hogar?"
 "**Wenn Ja, tragen Sie bitte die weiteren Personen in der Reihenfolge des Geburtsdatums ein.**","**Caso que sí, por favor, inscriba las otras personas por orden de fecha de nacimiento.**"
-Bei vier oder mehr Personen bitte **Zusatzblatt** verwenden.,"Casi haya cuatro personas o más, por favor utilice **una hoja suplementaria**."
-Personenziffer 3,Número de persona 3
-Personenziffer 4,persona nº 4
-Personenziffer 5,persona nº 5
-Name (ggf. Geburtsname),apellido (si es necesario apellido de soltera)
-Vorname,nombre
-Verwandtschaftsverhältnis zum/zur Antragsteller/in / Partner/in,parentesco con el/la solicitante o la pareja
-Geschlecht,sexo
-weiblich,femenino
-männlich,masculino
-Geburtsort,lugar de nacimiento
-seit,desde
-andere,otra
+"Bei vier oder mehr Personen bitte **Zusatzblatt** verwenden.","Casi haya cuatro personas o más, por favor utilice **una hoja suplementaria**."
+"Personenziffer 3","Número de persona 3"
+"Personenziffer 4","persona nº 4"
+"Personenziffer 5","persona nº 5"
+"Name (ggf. Geburtsname)","apellido (si es necesario apellido de soltera)"
+"Vorname","nombre"
+"Verwandtschaftsverhältnis zum/zur Antragsteller/in / Partner/in","parentesco con el/la solicitante o la pareja"
+"Geschlecht","sexo"
+"weiblich","femenino"
+"männlich","masculino"
+"Geburtsort","lugar de nacimiento"
+"seit","desde"
+"andere","otra"
 "(sofern bereits eine Arbeitsgenehmigung erteilt wurde, bitte beifügen)","(si ya tiene permiso de trabajo, por favor lo adjunte la documentación)"
-Erwerbsfähigkeit (Angabe nur ab vollendetem 15. Lebensjahr erforderlich),capacidad laboral (indicar solo si usted ha cumplido al menos 15 años)
-Haben die o.g. Personen Leistungen nach dem SGB II beantragt?,"Las personas citadas arriba, han solicitado prestaciones según SGB II?"
+"Erwerbsfähigkeit (Angabe nur ab vollendetem 15. Lebensjahr erforderlich)","capacidad laboral (indicar solo si usted ha cumplido al menos 15 años)"
+"Haben die o.g. Personen Leistungen nach dem SGB II beantragt?","Las personas citadas arriba, han solicitado prestaciones según SGB II?"
 "Unterhaltspflichtige Angehörige außerhalb des Haushalts (Kinder, Eltern)","obligación de alimentos para parientes fuera del hogar (niños, padres)"
-"Geburtstag, bzw. Alter",fecha de nacimiento o edad
-Verwandtschaftsverhältnis zum Antragsteller,parentesco con el/la solicitante
-ausgeübte Tätigkeit,actividad ejercida
-Art und Höhe des Unterhaltsbeitrages,tipo e importe de prestaciones
-Einkünfte aller Haushaltsangehörigen,ingresos de todos los miembros del hogar
-Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.),"importes (Euro) y período (al mes, a la semana, al día)."
-Bitte Nachweise beifügen,"Por favor, añadir comprobantes"
-Bezeichnung,denominación
-Bewilligungsstelle,oficina de autoridad
+"Geburtstag, bzw. Alter","fecha de nacimiento o edad"
+"Verwandtschaftsverhältnis zum Antragsteller","parentesco con el/la solicitante"
+"ausgeübte Tätigkeit","actividad ejercida"
+"Art und Höhe des Unterhaltsbeitrages","tipo e importe de prestaciones"
+"Einkünfte aller Haushaltsangehörigen","ingresos de todos los miembros del hogar"
+"Beträge (EUR) und Angabe des Zeitraumes (mtl./wöchentl./tgl.)","importes (Euro) y período (al mes, a la semana, al día)."
+"Bitte Nachweise beifügen","Por favor, añadir comprobantes"
+"Bezeichnung","denominación"
+"Bewilligungsstelle","oficina de autoridad"
 "Geschäftszeichen, Rentenabrechnungsnummer, o. ä.","referencia, número de cuenta de pensiones, o similares"
-Nichtselbständige Tätigkeit,actividad por cuenta ajena
+"Nichtselbständige Tätigkeit","actividad por cuenta ajena"
 "(Erwerbseinkommen, Ausbildungsvergütung, Entgelt der Werkstatt für behinderte Menschen)","(remuneración de trabajo, importe de la beca de estudios, retribución del taller para personas personas con discapacidad)"
-Leistungen der Krankenkasse,prestaciones del seguro médico
-(einschl. Arbeitgeberzuschuss),(incluyendo el subsidio del empleador)
-Gewerbebetrieb,empresa comercial
-Land- und Forstwirtschaft,agricultura y silvicultura
-Sonstige selbständige Tätigkeiten,otras actividades por cuenta propia
-Vermietung und Verpachtung,alquiler y arrendamiento
-Wohngeld/Lastenzuschuss,subsidio de vivienda/subvención a las cargas
-Renten/Pensionen,pensiones/jubilaciones
+"Leistungen der Krankenkasse","prestaciones del seguro médico"
+"(einschl. Arbeitgeberzuschuss)","(incluyendo el subsidio del empleador)"
+"Gewerbebetrieb","empresa comercial"
+"Land- und Forstwirtschaft","agricultura y silvicultura"
+"Sonstige selbständige Tätigkeiten","otras actividades por cuenta propia"
+"Vermietung und Verpachtung","alquiler y arrendamiento"
+"Wohngeld/Lastenzuschuss","subsidio de vivienda/subvención a las cargas"
+"Renten/Pensionen","pensiones/jubilaciones"
 "(z. B. Rente wg. Erwerbsminderung, Altersrente, Unfallrente, landwirtschaftliches Altersgeld, Witwen- oder Waisenrente, Erziehungsrente, Kinderzuschuss /-zulage, Pflegegeld zur Rente, Werksrente, Kindererziehungsleistung, Sonstige Renten / Pensionen)","(p.e. pensión por causa de incapacidad laboral parcial, pensión de jubilación, pensión en caso de accidente, pensión agrícola, pensión de viudedad u orfandad, pensión por educación, subsidio familiar por hijos, asistencia por dependencia adicional a la pensión, pensión empresarial, pensión por educación de hijos, otras pensiones)"
-Sozialhilfeleistungen,prestaciones de asistencia social
-Grundsicherungsleistungen,prestaciones en seguridad básica
-Asylbewerberleistung,prestaciones para solicitantes de asilo
-Leistungen nach dem Bundesversorgungsgesetz,prestaciones según BVG (Ley alemana relativa a las prestaciones alimenticias)
-Leistungen des Lastenausgleichsamtes,prestaciones de oficina de compensación de cargas
+"Sozialhilfeleistungen","prestaciones de asistencia social"
+"Grundsicherungsleistungen","prestaciones en seguridad básica"
+"Asylbewerberleistung","prestaciones para solicitantes de asilo"
+"Leistungen nach dem Bundesversorgungsgesetz","prestaciones según BVG (Ley alemana relativa a las prestaciones alimenticias)"
+"Leistungen des Lastenausgleichsamtes","prestaciones de oficina de compensación de cargas"
 "(z. B. Unterhaltshilfe, Pflegegeld, Entschädigungsrente)","(p.e. ayuda a la subsistencia, asistencia por dependencia, pensión de indemnización)"
-Leistungen der Agentur für Arbeit,prestaciones de la oficina de empleo
+"Leistungen der Agentur für Arbeit","prestaciones de la oficina de empleo"
 "(z. B. Arbeitslosengeld, Arbeitslosengeld II, Eingliederungshilfe, Berufsausbildungsbeihilfe, Arbeitsförderungsgeld u. a.)","(p.e. subsidio de desempleo, subsidio de desempleo II, ayuda a la integración, subsidio durante la formación profesional, subsidio de fomento del empleo y similares)"
-Kindergeld,subsidio familiar por hijos
-Kindergeldzuschlag,suplemento de subsidio familiar por hijos
-Elterngeld,subsidio por maternidad o paternidad
-Ausbildungsförderung,fomento de la formación profesional
-Unterhalt,alimentos
-Unterhaltsvorschuss,anticipo de alimentos
-Privatrechtliche geldwerte Ansprüche,Derecho a otras prestaciones monetarias privadas
+"Kindergeld","subsidio familiar por hijos"
+"Kindergeldzuschlag","suplemento de subsidio familiar por hijos"
+"Elterngeld","subsidio por maternidad o paternidad"
+"Ausbildungsförderung","fomento de la formación profesional"
+"Unterhalt","alimentos"
+"Unterhaltsvorschuss","anticipo de alimentos"
+"Privatrechtliche geldwerte Ansprüche","Derecho a otras prestaciones monetarias privadas"
 "(z. B. Beköstigung, Wohnrecht, Taschengeld, Leibrente, Pflegegeld)","(p.e. alimentación, derecho de habitación, dinero asignado, renta vitalicia, asistencia por dependencia)"
-Steuererstattung,devolución de impuestos
-Kapitalerträge (z. B. Zinsen),rendimientos del capital (p.e. intereses)
-Sonstige Einkünfte,otros ingresos
-(z.B. Schadensersatzansprüche),(p.e. derecho a indemnización de daños y perjuicios
-Kein Einkommen,ningún ingreso
+"Steuererstattung","devolución de impuestos"
+"Kapitalerträge (z. B. Zinsen)","rendimientos del capital (p.e. intereses)"
+"Sonstige Einkünfte","otros ingresos"
+"(z.B. Schadensersatzansprüche)","(p.e. derecho a indemnización de daños y perjuicios"
+"Kein Einkommen","ningún ingreso"
 "Sind Leistungen nach Nr. VIII. beantragt, über die noch nicht entschieden wurde?","Se han solicitado prestaciones según el número VIII., cuya decisión aun está pendiente?"
-Personenziffer,persona nº
-Antragsdatum,fecha de solicitud
-Art der Leistung,tipo de prestación
-Dienststelle und Geschäftszeichen,autoridad y referencia
+"Personenziffer","persona nº"
+"Antragsdatum","fecha de solicitud"
+"Art der Leistung","tipo de prestación"
+"Dienststelle und Geschäftszeichen","autoridad y referencia"
 "Werden einmalige Einnahmen erwartet, z. B. eine Steuerrückzahlung?","Usted espera ingresos excepcionales, p.e. reembolso de impuestos?"
-Zeitpunkt,fecha
-EUR,Euro
-Vom Einkommen evtl. absetzbare Beträge,importes (posibles) deducibles fiscalmente del ingreso
-**Keine absetzbaren Beträge**,**ningunos importes deducibles**
-Ausgaben mtl. Betrag,"gastos, importe mensual"
-Einkommensteuer*,impuesto sobre la renta*
-Krankenversicherung*,seguro de enfermedad*
-Pflegeversicherung*,seguro de dependencia*
-Arbeitslosenversicherung*,seguro de desempleo*
-Rentenversicherung*,seguro de pensiones*
-Kirchensteuer*,impuesto eclesiástico*
-Unfallversicherung,seguro de accidentes
-Altersvorsorgebeiträge,cuota de plan de pensiones
-Hausratsversicherung,seguro del hogar
-Sterbeversicherung,seguro de deceso
-Lebensversicherung,seguro de vida
-Haftpflichtversicherung,seguro de responsabilidad civil
-Aufwendungen für Arbeitsmittel,gastos para material de trabajo
-Beiträge für Berufsverbände,cuotas para asociaciones de profesionales
-Mehraufwendungen für doppelte Haushaltsführung,gastos adicionales para doble ingreso
-\* Angabe nicht erforderlich soweit die Beträge bereits vom Arbeitgeber oder Rententräger abgesetzt wurden,\* Indicar solamente si los importes no son deducidos por el empleador o la caja de pensiones.
-Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit,"distancia entre su hogar y su trabajo, gastos de transporte al trabajo con"
-km,km
-öffentlichen Verkehrsmitteln,transportes públicos
-PKW,coche
-Kleinst-PKW (bis 500 ccm),coche pequeño (hasta 500 ccm)
-Motorrad,motoclicleta
-Mofa,ciclomotor
-Sonstiges,otros
-Nähere Begründung zu „Sonstiges“,"motivación detallada sobre ""otros"""
-Vermögensverhältnisse (ggf. auf gesondertem Blatt fortsetzen),situación económica (en caso necesario adjunte una hoja separada)
-Sparguthaben / Bargeld,ahorros / dinero efectivo
-Wertpapiere,valores
-Sachwerte von besonderem Wert,bienes reales de valor especial
-Art,tipo
-sonstiges Vermögen (Forderungen und anderes),otro capital (deudas o otros)
-Verschenktes Vermögen innerhalb der letzten 10 Jahre (auch Grundvermögen),capital regalado en los últimos 10 años (también bienes inmuebles)
-Kraftfahrzeug,automóvil
-amtl. Kennzeichen,placa de matrícula
-Fabrikat,marca
-Baujahr,año de fabricación
-Halter,dueño(a)
-Hauseigentum oder Grundbesitz,propiedad de una casa o de bienes inmuebles
-**Bitte Anlage 3 ausfüllen**,"**Por favor, complete anexo 3**"
-Staatlich geförderte private Altersvorsorge,plan de pensiones privado subvencionado por el estado
+"Zeitpunkt","fecha"
+"EUR","Euro"
+"Vom Einkommen evtl. absetzbare Beträge","importes (posibles) deducibles fiscalmente del ingreso"
+"**Keine absetzbaren Beträge**","**ningunos importes deducibles**"
+"Ausgaben mtl. Betrag","gastos, importe mensual"
+"Einkommensteuer*","impuesto sobre la renta*"
+"Krankenversicherung*","seguro de enfermedad*"
+"Pflegeversicherung*","seguro de dependencia*"
+"Arbeitslosenversicherung*","seguro de desempleo*"
+"Rentenversicherung*","seguro de pensiones*"
+"Kirchensteuer*","impuesto eclesiástico*"
+"Unfallversicherung","seguro de accidentes"
+"Altersvorsorgebeiträge","cuota de plan de pensiones"
+"Hausratsversicherung","seguro del hogar"
+"Sterbeversicherung","seguro de deceso"
+"Lebensversicherung","seguro de vida"
+"Haftpflichtversicherung","seguro de responsabilidad civil"
+"Aufwendungen für Arbeitsmittel","gastos para material de trabajo"
+"Beiträge für Berufsverbände","cuotas para asociaciones de profesionales"
+"Mehraufwendungen für doppelte Haushaltsführung","gastos adicionales para doble ingreso"
+"\* Angabe nicht erforderlich soweit die Beträge bereits vom Arbeitgeber oder Rententräger abgesetzt wurden","\* Indicar solamente si los importes no son deducidos por el empleador o la caja de pensiones."
+"Entfernung zwischen Wohnung und Arbeitsstelle Fahrkosten zur Arbeitsstelle mit","distancia entre su hogar y su trabajo, gastos de transporte al trabajo con"
+"km","km"
+"öffentlichen Verkehrsmitteln","transportes públicos"
+"PKW","coche"
+"Kleinst-PKW (bis 500 ccm)","coche pequeño (hasta 500 ccm)"
+"Motorrad","motoclicleta"
+"Mofa","ciclomotor"
+"Sonstiges","otros"
+"Nähere Begründung zu „Sonstiges“","motivación detallada sobre ""otros"""
+"Vermögensverhältnisse (ggf. auf gesondertem Blatt fortsetzen)","situación económica (en caso necesario adjunte una hoja separada)"
+"Sparguthaben / Bargeld","ahorros / dinero efectivo"
+"Wertpapiere","valores"
+"Sachwerte von besonderem Wert","bienes reales de valor especial"
+"Art","tipo"
+"sonstiges Vermögen (Forderungen und anderes)","otro capital (deudas o otros)"
+"Verschenktes Vermögen innerhalb der letzten 10 Jahre (auch Grundvermögen)","capital regalado en los últimos 10 años (también bienes inmuebles)"
+"Kraftfahrzeug","automóvil"
+"amtl. Kennzeichen","placa de matrícula"
+"Fabrikat","marca"
+"Baujahr","año de fabricación"
+"Halter","dueño(a)"
+"Hauseigentum oder Grundbesitz","propiedad de una casa o de bienes inmuebles"
+"**Bitte Anlage 3 ausfüllen**","**Por favor, complete anexo 3**"
+"Staatlich geförderte private Altersvorsorge","plan de pensiones privado subvencionado por el estado"
 "Ansprüche aus Übertragsverträgen (z. B. Wohnrecht, Nießbrauch, Altenteilsrechte)","derecho de contratos de traspaso (p.e. derecho de habitación, usufructo, derecho de asistencia a los padres)"
-Sonstiges Vermögen,otro capital
-"**Sonstige Angaben,**",**otras indicaciónes**
+"Sonstiges Vermögen","otro capital"
+"**Sonstige Angaben,**","**otras indicaciónes**"
 "z. B. über persönliche, familiäre, gesundheitliche Verhältnisse","p.e. sobre condiciones personales, familiares, sanitarias"
-Leistungen für besondere Mehrbedarfe,prestaciones para necesidades adicionales
-"Unter bestimmten Voraussetzungen können Leistungen für Mehrbedarfe erbracht werden, die nicht durch die Regelleistung abgedeckt sind und aus den vorgenannten Angaben nicht zu beurteilen sind. Dies gilt für alle Personen innerhalb des Haushalts.",En determinadas condiciones se pueden conceder prestaciones para necesidades adicionales que no cubiertas por las prestaciones regulares y no pueden ser avaliadas con base en la información indicada arriba. Esto se aplica a todas las personas del hogar.
-Folgende Mehrbedarfe werden geltend gemacht:,Se declaran necesidades adicionales para los siguientes casos:
-Für werdende Mütter nach der 12. Schwangerschaftswoche,Para futuras madres después de la 12ª semana de embarazo
-Vorlage Mutterschaftspass erforderlich,Por favor presente su carnet de maternidad
-Vorname:,nombre:
-Voraussichtlicher Geburtstermin,fecha prevista de nacimiento
-"Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten",personas con discapacidad grave que han cumplido 15 años y reciben prestaciones para la participación en la vida laboral
-Vorlage des Bewilligungsbescheides,presentación de la notificación de aprobación
-Kostenaufwendige Ernährung aus medizinischen Gründen,alimentos especiales exigidos por razones médicas con un coste elevado
-vom Sozialamt erhältlicher Vordruck ist vom behandelnden Arzt auszufüllen,su médico tiene que completar el formulario que se puede encontrar en el departamento de asistencia social
-Bestandteile des Antrages sind die Anlagen,Los siguientes anexos forman parte de esta solicitud:
-1 - Unterhalt,1 - alimentos
-2 - Ausländer,2 - extranjeros
-3 - Grundbesitz,3 - propiedad inmobiliaria
-4 – Eingliederungshilfe,4 - ayuda a la integración
-6 – Mietschulden,6 - deudas del alquiler
-Dem Antrag sind folgende Unterlagen beigefügt,Se adjuntan los siguientes documentos a esta solicitud:
-Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.,Todas las declaraciones hechas en esta solicitud y en los respectivos anexos son completas y verídicas.
+"Leistungen für besondere Mehrbedarfe","prestaciones para necesidades adicionales"
+"Unter bestimmten Voraussetzungen können Leistungen für Mehrbedarfe erbracht werden, die nicht durch die Regelleistung abgedeckt sind und aus den vorgenannten Angaben nicht zu beurteilen sind. Dies gilt für alle Personen innerhalb des Haushalts.","En determinadas condiciones se pueden conceder prestaciones para necesidades adicionales que no cubiertas por las prestaciones regulares y no pueden ser avaliadas con base en la información indicada arriba. Esto se aplica a todas las personas del hogar."
+"Folgende Mehrbedarfe werden geltend gemacht:","Se declaran necesidades adicionales para los siguientes casos:"
+"Für werdende Mütter nach der 12. Schwangerschaftswoche","Para futuras madres después de la 12ª semana de embarazo"
+"Vorlage Mutterschaftspass erforderlich","Por favor presente su carnet de maternidad"
+"Vorname:","nombre:"
+"Voraussichtlicher Geburtstermin","fecha prevista de nacimiento"
+"Schwerbehinderte Menschen, die das 15. Lebensjahr vollendet haben und Leistungen zur Teilhabe am Arbeitsleben erhalten","personas con discapacidad grave que han cumplido 15 años y reciben prestaciones para la participación en la vida laboral"
+"Vorlage des Bewilligungsbescheides","presentación de la notificación de aprobación"
+"Kostenaufwendige Ernährung aus medizinischen Gründen","alimentos especiales exigidos por razones médicas con un coste elevado"
+"vom Sozialamt erhältlicher Vordruck ist vom behandelnden Arzt auszufüllen","su médico tiene que completar el formulario que se puede encontrar en el departamento de asistencia social"
+"Bestandteile des Antrages sind die Anlagen","Los siguientes anexos forman parte de esta solicitud:"
+"1 - Unterhalt","1 - alimentos"
+"2 - Ausländer","2 - extranjeros"
+"3 - Grundbesitz","3 - propiedad inmobiliaria"
+"4 – Eingliederungshilfe","4 - ayuda a la integración"
+"6 – Mietschulden","6 - deudas del alquiler"
+"Dem Antrag sind folgende Unterlagen beigefügt","Se adjuntan los siguientes documentos a esta solicitud:"
+"Die Angaben im Antrag und den dazugehörigen Anlagen habe ich vollständig und wahrheitsgemäß gemacht.","Todas las declaraciones hechas en esta solicitud y en los respectivos anexos son completas y verídicas."
 "Ich werde den Träger der Leistungen (Land Berlin, vertreten durch die Bezirksämter v. Berlin, Geschäftsbereich Sozialwesen / Geschäftsbereich Jugend und Sport bzw. Landesamt für Gesundheit und Soziales Berlin / ZLA) gem. § 60 Abs. 1 Ziff. 2 SGB I unverzüglich informieren, wenn","Voy a informar la entidad responsable (estado federado Berlin, representado de las autoridades territoriales, ámbito de competencias asunto social/ ámbito de competencias jóvenes y deporte u oficina estatal para sanidad y asuntos sociales Berlin / ZLA) inmediatamente según § 60 párrafo 1 número 2 SGB I, siempre que"
-- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.,- haya una alteración en mis circunstancias personales o económicas.
-- sich die Verhältnisse meiner Haushaltsangehörigen ändern.,- haya una alteración en las circunstancias de personas de mi hogar.
-- ich Renten oder ähnliche Leistungen beantrage.,- solicite pensiones u otras prestaciones similares.
+"- sich meine persönlichen und wirtschaftlichen Verhältnisse ändern.","- haya una alteración en mis circunstancias personales o económicas."
+"- sich die Verhältnisse meiner Haushaltsangehörigen ändern.","- haya una alteración en las circunstancias de personas de mi hogar."
+"- ich Renten oder ähnliche Leistungen beantrage.","- solicite pensiones u otras prestaciones similares."
 "Des Weiteren bin ich hinreichend darüber informiert worden, dass im Falle eines konkreten Betrugsverdachts die Ermittlungen des Sachverhalts gemäß §§ 20, 21, 69 und 71 SGB X von Amts wegen – ohne meine Beteiligung – erfolgen können.","Además, fui informado de forma exhaustiva sobre el facto de que cuando exista una sospecha de fraude concreta, las investigaciones relacionadas con el asunto serán efectuadas de forma oficial según §§ 20, 21, 69 y 71 SGB X y sin mi participación."
 "Leistungen werden von mir zurückgefordert, sofern ich sie zu Unrecht erhalten habe, z. B. weil ich vorsätzlich oder grob fahrlässig falsche Angaben gemacht habe.","Prestaciones recibidas de forma indebida serán recuperadas de mi, p.e. si he hecho declaraciones falsas, deliberadamente o por negligencia grave."
 "Der Träger der Leistungen nach SGB XII bzw. AsylbLG kann für die Zeit, für die ich Leistungen erhalte, meine Ansprüche gegen einen anderen auf entsprechende Leistungen in Höhe seiner Aufwendungen auf sich überleiten.","La entidad responsable para las prestaciones según SGB XII o AsylbLG puede conectar mis exigencias con otras prestaciones similares, según el valor de sus gastos, para el período en que yo reciba prestaciones."
 "Der Sozialhilfeträger behält sich vor, bei Vorliegen des entsprechenden Sachverhalts Aufwendungsersatz nach den §§ 19 Abs. 5, 27 Abs. 3 oder § 92 Abs. 1 SGB XII bzw. §§ 7, 9 AsylbLG geltend zu machen. In diesem Umfang habe ich dem Träger der Leistungen die Aufwendungen zu ersetzen.","La entidad responsable para la asistencia social se reserva el derecho de, según las condiciones existentes, ejercer la acción del resarcimiento de los gastos según §§ 19 paráfo 5, 27 párrafo 3 o § 92 párrafo 1 SGB XII o §§ 7, 9 AsylbLG. En este caso, estaré obligado a reembolsar los gastos a la entidad responsable."
 "Dies gilt auch, wenn der Erstattungsanspruch des Trägers der Sozialleistung gegen andere vorrangig verpflichtete Leistungsträger (z.B. Rententräger, Krankenkasse) aus Verfahrensgründen nicht befriedigt werden kann und ich für den gleichen Zeitraum von beiden Leistungsträgern Aufwendungen erhalten habe. In diesen Fällen sind die gewährten Leistungen nach SGB XII / AsylbLG von mir zu erstatten.","Eso se aplica también, si el derecho de restitución de la entidad responsable para la asistencia social, por razones procesuales, no puede ser satisfecha por parte de otras entidades de prestación prioritaria (p.e. entidad que es responsable de las pensiones, seguro médico) y he recibido prestaciones de las dos entidades prestatarias por el mismo período. En este caso, estaré obligado a reembolsar las prestaciones concedidas según SGB XII / AsylbLG."
-"Ich bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.",Fui informado/a de que las transferencias de mis contribuciones para mi seguro voluntario de enferemedad y de dependencia se efectuan directamente a los respectivos seguros.
-Unterschrift des Antragstellers/Datum,firma de solicitante/fecha
-ggf. Unterschrift des nicht getrennt lebenden Ehegatten,en caso necesario firma de esposo/a que vive en el mismo hogar
-Falls vom Antragsteller nicht selbst oder nicht vollständig ausgefüllt,"Caso la solicitud no fuera rellenada por el solicitante en persona, o fuera incompleta"
+"Ich bin davon in Kenntnis gesetzt, dass die Überweisung der Beiträge für meine freiwillige Kranken- und Pflegeversicherung direkt an die Kranken- bzw. Pflegekasse vorgenommen wird.","Fui informado/a de que las transferencias de mis contribuciones para mi seguro voluntario de enferemedad y de dependencia se efectuan directamente a los respectivos seguros."
+"Unterschrift des Antragstellers/Datum","firma de solicitante/fecha"
+"ggf. Unterschrift des nicht getrennt lebenden Ehegatten","en caso necesario firma de esposo/a que vive en el mismo hogar"
+"Falls vom Antragsteller nicht selbst oder nicht vollständig ausgefüllt","Caso la solicitud no fuera rellenada por el solicitante en persona, o fuera incompleta"
 "Name, Anschrift, ggf. Dienststelle und Unterschrift des Aufnehmenden/Datum","nombre, dirección, en caso necesario autoridad y firma de la persona que rellenó la solicitud/fecha"
-Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG,hoja informative sobre la solicitud para asistencia social según SGB XII o prestaciones según AsylbLG
-"Nach § 60 SGB I muss der Antragsteller / die Antragstellerin bei der Aufklärung des Sachverhaltes und der Feststellung der für die Sozialleistung bestehenden Voraussetzungen mitwirken. Die Nichtbeantwortung von Fragen kann im Einzelfall zur Folge haben, dass die beantragte Leistung nicht gewährt werden kann. Die Grenzen der Mitwirkung sind in § 65 SGB I geregelt.",Según § 60 SGB I el / la solicitante tiene que cooperar en la resolución de las circunstancias y en la averiguación de los requisitos existentes para las prestaciones sociales. Caso usted omita preguntas puede resultar en el rechazo de las prestaciones solicitadas. Los límites del deber de cooperación son regulados en § 65 SGB I.
-"Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:",A seguir se indican las regulaciones legales según las cuales se recogieron los datos necescarios:
+"Merkblatt zum Antrag auf Sozialhilfe nach dem SGB XII bzw. Leistungen nach AsylbLG","hoja informative sobre la solicitud para asistencia social según SGB XII o prestaciones según AsylbLG"
+"Nach § 60 SGB I muss der Antragsteller / die Antragstellerin bei der Aufklärung des Sachverhaltes und der Feststellung der für die Sozialleistung bestehenden Voraussetzungen mitwirken. Die Nichtbeantwortung von Fragen kann im Einzelfall zur Folge haben, dass die beantragte Leistung nicht gewährt werden kann. Die Grenzen der Mitwirkung sind in § 65 SGB I geregelt.","Según § 60 SGB I el / la solicitante tiene que cooperar en la resolución de las circunstancias y en la averiguación de los requisitos existentes para las prestaciones sociales. Caso usted omita preguntas puede resultar en el rechazo de las prestaciones solicitadas. Los límites del deber de cooperación son regulados en § 65 SGB I."
+"Im folgenden werden Ihnen die Rechtsgrundlagen benannt, aufgrund derer die erforderlichen Daten erhoben wurden:","A seguir se indican las regulaciones legales según las cuales se recogieron los datos necescarios:"
 "**\*Die nachfolgenden Passagen haben wir nicht übersetzt. Wenn Sie sich zu den gesetzlichen Grundlagen kundig machen wollen, suchen Sie sich bitte die Hilfe einer Person, die über ausreichende deutsche Sprachkenntnisse verfügt.**","**\*No hemos traducido las siguientes partes. Si usted quiere informarse sobre las regulaciones legales, por favor pida ayuda a una persona con conocimientos lingüísticos suficientes en alemán.**"

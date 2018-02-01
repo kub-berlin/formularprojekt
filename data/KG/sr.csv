@@ -1,53 +1,53 @@
-Kindergeld-Nr.,Dečiji dodatak-Br.
-Familienkasse,Porodična kasa
-Beachten Sie bitte die anhängenden Hinweise und das Merkblatt Kindergeld.,Molimo vas da obratite pažnju na uputstva u prilogu kao i na informator o dečijem dodatku
-Telefonische Rückfrage tagsüber unter Nr.:,Telefonska obaveštenja preko dana na br:
-Antrag auf Kindergeld,Zahtev za dečijim dodatkom
-Name,Ime
-Vorname,Prezime
-Geburtsdatum,Datum rođenja
-Geschlecht,Pol
-ledig,neoženjen/neudata
-seit,od
-verheiratet,oženjen/udata
-verwitwet,udovac/udovica
-in Lebenspartnerschaft lebend,živi u registrovanoj životnoj zajednici
-geschieden,razveden/razvedena
-dauernd getrennt lebend,živi trajno razdvojeno
-antragstellende Person wie unter 1,lice koje podnosi zahtev kao što je navedeno pod tačkom 1
+"Kindergeld-Nr.","Dečiji dodatak-Br."
+"Familienkasse","Porodična kasa"
+"Beachten Sie bitte die anhängenden Hinweise und das Merkblatt Kindergeld.","Molimo vas da obratite pažnju na uputstva u prilogu kao i na informator o dečijem dodatku"
+"Telefonische Rückfrage tagsüber unter Nr.:","Telefonska obaveštenja preko dana na br:"
+"Antrag auf Kindergeld","Zahtev za dečijim dodatkom"
+"Name","Ime"
+"Vorname","Prezime"
+"Geburtsdatum","Datum rođenja"
+"Geschlecht","Pol"
+"ledig","neoženjen/neudata"
+"seit","od"
+"verheiratet","oženjen/udata"
+"verwitwet","udovac/udovica"
+"in Lebenspartnerschaft lebend","živi u registrovanoj životnoj zajednici"
+"geschieden","razveden/razvedena"
+"dauernd getrennt lebend","živi trajno razdvojeno"
+"antragstellende Person wie unter 1","lice koje podnosi zahtev kao što je navedeno pod tačkom 1"
 "nicht antragstellende Person, sondern:","nije lice koje podnosi zahtev, već:"
 "Name, Vorname","Ime, prezime"
 "Der Bescheid soll nicht mir, sondern folgender Person zugesandt werden:","Rešenje ne treba dostaviti meni, već treba slati sledećem licu:"
-Angaben zu Kindern,Podaci o deci
-Folgende Zählkinder sollen berücksichtigt werden:,U razmatranje uzeti sledeću decu koja se računaju:
-Datum,Datum
-Alle Eingaben löschen,Izbrisati sve unose
-Drucken,Štampati
-Speichern,Memorisati
-Nur von der Familienkasse auszufüllen,Popunjava isključivo Porodična kasa
-Hinweise zum Antrag auf Kindergeld und zur Anlage Kind,Napomene uz Zahtev za dečijim dodatkom i uz Predmet Dete
-Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in,Uz 1 i 2: Podaci o licu koje podnosi Zahtev i o bračnom partneru odn. životnom partneru
-Zu 6: Folgende Zählkinder sollen berücksichtigt werden,"Molimo vas navedite tekući račun na koji treba uplaćivati dečiji dodatak. IBAN (Međunarodni broj bankovnog računa) i BIC (međunarodni, standardizovani kod banke) zamenjuju dosadašnje nacionalne podatke o računu i mogu se naći na izvodu iz banke."
-"Kinder, für die eine andere Person Kindergeld erhält, können sich bei Ihnen kindergelderhöhend auswirken (Zählkinder). Sofern Sie die Berücksichtigung von Zählkindern geltend machen wollen, geben Sie bitte in jedem Fall an, wer für die Zählkinder das Kindergeld bei welcher Familienkasse bezieht.",Uz 6: U obzir treba uzeti sledeću decu koja se računaju
-Anlage Kind,Predmet Dete
-Allgemeines,Predmet Dete
+"Angaben zu Kindern","Podaci o deci"
+"Folgende Zählkinder sollen berücksichtigt werden:","U razmatranje uzeti sledeću decu koja se računaju:"
+"Datum","Datum"
+"Alle Eingaben löschen","Izbrisati sve unose"
+"Drucken","Štampati"
+"Speichern","Memorisati"
+"Nur von der Familienkasse auszufüllen","Popunjava isključivo Porodična kasa"
+"Hinweise zum Antrag auf Kindergeld und zur Anlage Kind","Napomene uz Zahtev za dečijim dodatkom i uz Predmet Dete"
+"Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in","Uz 1 i 2: Podaci o licu koje podnosi Zahtev i o bračnom partneru odn. životnom partneru"
+"Zu 6: Folgende Zählkinder sollen berücksichtigt werden","Molimo vas navedite tekući račun na koji treba uplaćivati dečiji dodatak. IBAN (Međunarodni broj bankovnog računa) i BIC (međunarodni, standardizovani kod banke) zamenjuju dosadašnje nacionalne podatke o računu i mogu se naći na izvodu iz banke."
+"Kinder, für die eine andere Person Kindergeld erhält, können sich bei Ihnen kindergelderhöhend auswirken (Zählkinder). Sofern Sie die Berücksichtigung von Zählkindern geltend machen wollen, geben Sie bitte in jedem Fall an, wer für die Zählkinder das Kindergeld bei welcher Familienkasse bezieht.","Uz 6: U obzir treba uzeti sledeću decu koja se računaju"
+"Anlage Kind","Predmet Dete"
+"Allgemeines","Predmet Dete"
 "„Andere Personen“, zu denen ein Kindschaftsverhältnis besteht, sind: Eltern, Stiefeltern, Adoptiveltern, Pflegeeltern, Großeltern.","Ukoliko je vaše dete invalid, molimo vas da dodatno popunite formular „Zahtev za punoletno dete koje je invalid“. Kod dece pod starateljstvom molimo priložiti i Rešenje o starateljstvu izdato od strane nadležnog suda."
-Zu 1: Angaben zum Kind,"„Druga lica“ sa kojima je dete u srodstvu su: Roditelji, očuh, maćeha, staratelji, hranitelji, babe i dede."
-Zu 3: Angaben für ein volljähriges Kind,"Vde je neophodno uneti sve tražene podatke. Ukoliko je drugi roditelj -/ su roditelji deteta preminuo-preminuli, taj podatak mora biti naveden uz napomenu „preminuo“. Ukoliko za dete očinstvo nije pravno utvrđeno, potrebno je upisati „nepoznat“, odn. upisati „nije utvrđeno očinstvo“."
-Besondere Anspruchsvoraussetzungen,Uz 3: Podaci o punoletnom detetu
-"Die Berücksichtigung eines volljährigen Kindes ist möglich, wenn es",Posebni preduslovi za zahtev
-"1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder",Moguće je razmatranje zahteva za punoletno dete ukoliko dete
-2. noch nicht das 25. Lebensjahr vollendet hat und,"1. još nije navršilo 21. Godinu života, ne nalazi se u radnom odnosu i ako je kod Zavoda za zapošljavanje u zemlji prijavljeno kao lice koje traži posao ili"
-a) für einen Beruf ausgebildet wird oder,2. još nije navršilo 25. Godinu života i
-b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder,a) trenutno se obrazuje za određeno zanimanje ili
-c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder,b) se nalazi u prelaznom roku ne dužem od četiri meseca ili
-d) einen geregelten Freiwilligendienst leistet oder,c) ne može da započne ili da nastavi sa stručnim obrazovanjem usled nedostaka potrebnih mesta za obuku ili
+"Zu 1: Angaben zum Kind","„Druga lica“ sa kojima je dete u srodstvu su: Roditelji, očuh, maćeha, staratelji, hranitelji, babe i dede."
+"Zu 3: Angaben für ein volljähriges Kind","Vde je neophodno uneti sve tražene podatke. Ukoliko je drugi roditelj -/ su roditelji deteta preminuo-preminuli, taj podatak mora biti naveden uz napomenu „preminuo“. Ukoliko za dete očinstvo nije pravno utvrđeno, potrebno je upisati „nepoznat“, odn. upisati „nije utvrđeno očinstvo“."
+"Besondere Anspruchsvoraussetzungen","Uz 3: Podaci o punoletnom detetu"
+"Die Berücksichtigung eines volljährigen Kindes ist möglich, wenn es","Posebni preduslovi za zahtev"
+"1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder","Moguće je razmatranje zahteva za punoletno dete ukoliko dete"
+"2. noch nicht das 25. Lebensjahr vollendet hat und","1. još nije navršilo 21. Godinu života, ne nalazi se u radnom odnosu i ako je kod Zavoda za zapošljavanje u zemlji prijavljeno kao lice koje traži posao ili"
+"a) für einen Beruf ausgebildet wird oder","2. još nije navršilo 25. Godinu života i"
+"b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder","a) trenutno se obrazuje za određeno zanimanje ili"
+"c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder","b) se nalazi u prelaznom roku ne dužem od četiri meseca ili"
+"d) einen geregelten Freiwilligendienst leistet oder","c) ne može da započne ili da nastavi sa stručnim obrazovanjem usled nedostaka potrebnih mesta za obuku ili"
 "3. wegen körperlicher, geistiger oder seelischer Behinderung außerstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze).","3. je usled telesne, mentalne ili duševne poremećenosti onemogućeno da se samostalno izdržava; uslov je da je sprečenost nastupila pre 25. godine (nema starosne granice)."
-Rechtslage ab 2012,"usled telesne, mentalne ili duševne sprečenosti nije u stanju da se samostalno izdržava; preduslov je da je sprečenost nastupila pre 25. Godine (nema starosne granice)."
+"Rechtslage ab 2012","usled telesne, mentalne ili duševne sprečenosti nije u stanju da se samostalno izdržava; preduslov je da je sprečenost nastupila pre 25. Godine (nema starosne granice)."
 "Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den Fällen der Nummer 2 (a bis d) nur berücksichtigt, wenn das Kind keiner (schädlichen) Erwerbstätigkeit nachgeht.","Po završetku prvobitne stručne obuke ili prvih studija, dete će u slučaju pod brojem 2 (a do d) biti razmotreno samo ukoliko ne obavlja nikakvo (štetno) zanimanje."
 "Ein Kind ist erwerbstätig, wenn es einer auf die Erzielung von Einkünften gerichteten Beschäftigung nachgeht, die den Einsatz seiner persönlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff „Erwerbstätigkeit“ durch eine nichtselbständige Tätigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbständige Tätigkeit erfüllt werden kann. Die Verwaltung eigenen Vermögens ist demgegenüber keine Erwerbstätigkeit.","Po završetku prvobitnog obrazovanja za određeno zanimanje ili prvobitnih studija, dete će u slučajevima navedenim pod brojem 2 (od a do d) biti uzeto u obzir, samo ukoliko ne obavlja nikakvu (štetnu) delatnost. Obrazovanje (stručno obrazovanje ili studije) su završene ukoliko omogućavaju obavljanje nekog zanimanja, čak i onda, kada je za to potrebno dodatno obrazovanje. Ovo važi i kada završetak školovanja ne znači da takvo lice ima pravo da se bavi zanimanjem za koje se obrazovalo (na pr. prodavac, radnik u Hitnoj pomoći, nastavnik ili pravnik nakon polaganja 1. Državnog ispita)."
-Rechtslage bis 2011,"Molimo Vas za dostavljanjem dokaza o nedeljnom radnom vremenu na osnovu odgovarajućih dokumenata (na pr. Ugovora o radu/ potvrde poslodavca). Ukoliko postoji neusklađenost u odnosu na ugovoreno radno vreme, to se može dokazati davanjem na uvid obračuna ličnog dohotka, izvoda sa tekućeg računa ili povrde izdate od poslodavca. Ugovoreno radno vreme se ne umanjuje usled godišnjih odmora, bolesti ili sl."
-"Die Berücksichtigung eines über 18 Jahre alten Kindes hinsichtlich der Zahlung von Kindergeld ist ausgeschlossen, wenn das Kind Einkünfte und Bezüge von mehr als 8.004 Euro hat, die zur Bestreitung seines Unterhalts oder seiner Berufsausbildung bestimmt oder geeignet sind. Aus diesem Grund ist der Antrag auf Kindergeld für ein volljähriges Kind immer um die „Erklärung zu den Einkünften und Bezügen“ und ggf. die „Erklärung zu den Werbungskosten“ zu ergänzen.",Pravno stanje od 2011
-Zu 5: Anspruch auf eine Geldleistung von einer Stelle außerhalb Deutschlands / von einer zwischen- oder überstaatlichen Stelle,"Razmatranje zahteva za dete, starosti preko 18 godina, vezano za isplatu dečijeg dodatka je isključeno, u slučaju da dete ima zaradu i primanja preko 8.004 evra koji služe ili su namenjeni za pokrivanje njegovih troškova života ili za stručno obrazovanje. Iz tog razloga je potrebno, kada se radi o punoletnom detetu, priložiti uz Zahtev za dečijim dodatkom i „Izjavu o primanjima i zaradama“ kao i evtl. „Izjavu o troškovima oglašavanja“."
+"Rechtslage bis 2011","Molimo Vas za dostavljanjem dokaza o nedeljnom radnom vremenu na osnovu odgovarajućih dokumenata (na pr. Ugovora o radu/ potvrde poslodavca). Ukoliko postoji neusklađenost u odnosu na ugovoreno radno vreme, to se može dokazati davanjem na uvid obračuna ličnog dohotka, izvoda sa tekućeg računa ili povrde izdate od poslodavca. Ugovoreno radno vreme se ne umanjuje usled godišnjih odmora, bolesti ili sl."
+"Die Berücksichtigung eines über 18 Jahre alten Kindes hinsichtlich der Zahlung von Kindergeld ist ausgeschlossen, wenn das Kind Einkünfte und Bezüge von mehr als 8.004 Euro hat, die zur Bestreitung seines Unterhalts oder seiner Berufsausbildung bestimmt oder geeignet sind. Aus diesem Grund ist der Antrag auf Kindergeld für ein volljähriges Kind immer um die „Erklärung zu den Einkünften und Bezügen“ und ggf. die „Erklärung zu den Werbungskosten“ zu ergänzen.","Pravno stanje od 2011"
+"Zu 5: Anspruch auf eine Geldleistung von einer Stelle außerhalb Deutschlands / von einer zwischen- oder überstaatlichen Stelle","Razmatranje zahteva za dete, starosti preko 18 godina, vezano za isplatu dečijeg dodatka je isključeno, u slučaju da dete ima zaradu i primanja preko 8.004 evra koji služe ili su namenjeni za pokrivanje njegovih troškova života ili za stručno obrazovanje. Iz tog razloga je potrebno, kada se radi o punoletnom detetu, priložiti uz Zahtev za dečijim dodatkom i „Izjavu o primanjima i zaradama“ kao i evtl. „Izjavu o troškovima oglašavanja“."
 "Zu 6: Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung: (...)","Ovde treba navesti, na primer, prava na porodične beneficije za decu koja se nalaze u inostranstvu ili prava na beneficije vezano za decu koja se dobijaju od nekog zavoda za zapošljavanje (na pr. iz Evropske Unije)."
 "Die Fragen 6b bzw. 6c sind auch dann mit „ja“ zu beantworten, wenn Sie, Ihr Ehegatte bzw. Lebenspartner oder eine andere Person, zu der eines der Kinder in einem Kindschaftsverhältnis steht, im diplomatischen oder konsularischen Dienst tätig sind oder waren.","Ovde spada i delatnost obavljena kod privatnog poslodavca, ukoliko su službenici javnog sektora bili na odmoru. U javnu službu se ne ubrajaju verske zajednice javnog prava (crkve uklj. rednovničke zajednice, crkvene bolnice, škole, vrtiće i sl.) kao i glavna-/ pridružna volonterska udruženja kao i ustanove koje su im priključene."

@@ -1,61 +1,61 @@
-Kindergeld-Nr.,N.º do abono de família
-Familienkasse,Programa de previdência familiar
-Beachten Sie bitte die anhängenden Hinweise und das Merkblatt Kindergeld.,Tome em conta as informações em anexo e a folha informativa sobre o abono de família.
-Telefonische Rückfrage tagsüber unter Nr.:,Pedidos de informação por telefone para o n.º:
-Antrag auf Kindergeld,Requerimento de abono de família
+"Kindergeld-Nr.","N.º do abono de família"
+"Familienkasse","Programa de previdência familiar"
+"Beachten Sie bitte die anhängenden Hinweise und das Merkblatt Kindergeld.","Tome em conta as informações em anexo e a folha informativa sobre o abono de família."
+"Telefonische Rückfrage tagsüber unter Nr.:","Pedidos de informação por telefone para o n.º:"
+"Antrag auf Kindergeld","Requerimento de abono de família"
 "Anzahl der beigefügten ""Anlage Kind""","Número de ""anexos criança"""
-Angaben zur antragstellenden Person,Dados sobre a/o requerente
-Name,Apelido(s)
-Titel,Título
-Vorname,Nome(s)
-ggf. Geburtsname und Name aus früherer Ehe,"Eventualmente, nome de nascimento e nome adotado em matrimónio anterior"
-Geburtsdatum,Data de nascimento
-Geschlecht,Sexo
-Familienstand,Estado civil
-ledig,solteira/o
-seit,desde
-verheiratet,casada/o
-verwitwet,viúva/o
-in Lebenspartnerschaft lebend,em união de facto registada
-geschieden,divorciada/o
-dauernd getrennt lebend,separada/o de facto
-Staatsangehörigkeit,Nacionalidade
-Angaben zum Zahlungsweg,Dados sobre a forma de pagamento
-IBAN,IBAN
-BIC,BIC
-antragstellende Person wie unter 1,é a/o requerente (ver ponto 1)
+"Angaben zur antragstellenden Person","Dados sobre a/o requerente"
+"Name","Apelido(s)"
+"Titel","Título"
+"Vorname","Nome(s)"
+"ggf. Geburtsname und Name aus früherer Ehe","Eventualmente, nome de nascimento e nome adotado em matrimónio anterior"
+"Geburtsdatum","Data de nascimento"
+"Geschlecht","Sexo"
+"Familienstand","Estado civil"
+"ledig","solteira/o"
+"seit","desde"
+"verheiratet","casada/o"
+"verwitwet","viúva/o"
+"in Lebenspartnerschaft lebend","em união de facto registada"
+"geschieden","divorciada/o"
+"dauernd getrennt lebend","separada/o de facto"
+"Staatsangehörigkeit","Nacionalidade"
+"Angaben zum Zahlungsweg","Dados sobre a forma de pagamento"
+"IBAN","IBAN"
+"BIC","BIC"
+"antragstellende Person wie unter 1","é a/o requerente (ver ponto 1)"
 "nicht antragstellende Person, sondern:","Endereço, quando diferente do endereço da/do requerente (rua/praça, número, código postal, cidade)"
 "Name, Vorname","Apelido(s), nome(s)"
 "Der Bescheid soll nicht mir, sondern folgender Person zugesandt werden:","O aviso não será enviado para mim, mas sim para o endereço da seguinte pessoa:"
-Angaben zu Kindern,Dados sobre as crianças
-Folgende Zählkinder sollen berücksichtigt werden:,Crianças suplementares a contemplar:
+"Angaben zu Kindern","Dados sobre as crianças"
+"Folgende Zählkinder sollen berücksichtigt werden:","Crianças suplementares a contemplar:"
 "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommenssteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.","Nota sobre a lei federal sobre a proteção de dados pessoais: os dados serão recolhidos, processados e utilizados consoante os artigos 31.º e 62.º até 78.º da lei do imposto sobre o rendimento (Código do IRS) e das disposições da lei geral tributária, ou consoante a lei sobre as prestações por filhos a cargo e o código da segurança social."
-Datum,Data
-Alle Eingaben löschen,Apagar todos os dados
-Drucken,Imprimir
-Speichern,Guardar
-Nur von der Familienkasse auszufüllen,A ser preenchido só pelo programa de previdência familiar
-Hinweise zum Antrag auf Kindergeld und zur Anlage Kind,"Nota sobre o requerimento ao abono de família e o ""anexo criança"""
-Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in,Ponto 1 e 2: Dados sobre a/o requerente e sobre o cônjuge ou companheira/o que vive em união de facto
-Zu 6: Folgende Zählkinder sollen berücksichtigt werden,Ponto 6: Crianças suplementares a contemplar
+"Datum","Data"
+"Alle Eingaben löschen","Apagar todos os dados"
+"Drucken","Imprimir"
+"Speichern","Guardar"
+"Nur von der Familienkasse auszufüllen","A ser preenchido só pelo programa de previdência familiar"
+"Hinweise zum Antrag auf Kindergeld und zur Anlage Kind","Nota sobre o requerimento ao abono de família e o ""anexo criança"""
+"Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in","Ponto 1 e 2: Dados sobre a/o requerente e sobre o cônjuge ou companheira/o que vive em união de facto"
+"Zu 6: Folgende Zählkinder sollen berücksichtigt werden","Ponto 6: Crianças suplementares a contemplar"
 "Kinder, für die eine andere Person Kindergeld erhält, können sich bei Ihnen kindergelderhöhend auswirken (Zählkinder). Sofern Sie die Berücksichtigung von Zählkindern geltend machen wollen, geben Sie bitte in jedem Fall an, wer für die Zählkinder das Kindergeld bei welcher Familienkasse bezieht.","Crianças, cujo abono de familia é atribuído a outra pessoa, podem contribuir para um aumento do seu abono de família (crianças suplementares). Se quiser reinvindicar o direito a este suplemento, não se esqueça de indicar quem recebe o abono de família por esta(s) criança(s) e através de que programa de previdência familiar."
-Anlage Kind,Anexo Criança
-Allgemeines,Observações gerais
+"Anlage Kind","Anexo Criança"
+"Allgemeines","Observações gerais"
 "„Andere Personen“, zu denen ein Kindschaftsverhältnis besteht, sind: Eltern, Stiefeltern, Adoptiveltern, Pflegeeltern, Großeltern.","""Outras pessoas"" com as quais existem laços de filiação, são: pais, padrastos/madrastas, pais adotivos, pais de acolhimento e avós."
-Zu 1: Angaben zum Kind,Ponto 1: Dados sobre a criança
-Zu 3: Angaben für ein volljähriges Kind,Ponto 3: Dados sobre uma criança maior de idade
-Besondere Anspruchsvoraussetzungen,Pré-requisitos especiais para atribuição
-"Die Berücksichtigung eines volljährigen Kindes ist möglich, wenn es",Um jovem maior de idade é tida em conta quando
+"Zu 1: Angaben zum Kind","Ponto 1: Dados sobre a criança"
+"Zu 3: Angaben für ein volljähriges Kind","Ponto 3: Dados sobre uma criança maior de idade"
+"Besondere Anspruchsvoraussetzungen","Pré-requisitos especiais para atribuição"
+"Die Berücksichtigung eines volljährigen Kindes ist möglich, wenn es","Um jovem maior de idade é tida em conta quando"
 "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder","1.º ainda não completou 21 anos, não tem vínculo laboral e está inscrito num centro de emprego nacional ou"
-2. noch nicht das 25. Lebensjahr vollendet hat und,2.º ainda não completou 25 anos e
-a) für einen Beruf ausgebildet wird oder,a) está em formação profissional ou
-b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder,b) se encontra num período de transição de no máximo quatro meses ou
-c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder,c) não pode começar ou continuar uma formação profissional por falta de vagas
-d) einen geregelten Freiwilligendienst leistet oder,d) esteja a cumprir um serviço voluntário oficial
-Rechtslage ab 2012,Situação jurídica a partir de 2012
+"2. noch nicht das 25. Lebensjahr vollendet hat und","2.º ainda não completou 25 anos e"
+"a) für einen Beruf ausgebildet wird oder","a) está em formação profissional ou"
+"b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder","b) se encontra num período de transição de no máximo quatro meses ou"
+"c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder","c) não pode começar ou continuar uma formação profissional por falta de vagas"
+"d) einen geregelten Freiwilligendienst leistet oder","d) esteja a cumprir um serviço voluntário oficial"
+"Rechtslage ab 2012","Situação jurídica a partir de 2012"
 "Ein Kind ist erwerbstätig, wenn es einer auf die Erzielung von Einkünften gerichteten Beschäftigung nachgeht, die den Einsatz seiner persönlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff „Erwerbstätigkeit“ durch eine nichtselbständige Tätigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbständige Tätigkeit erfüllt werden kann. Die Verwaltung eigenen Vermögens ist demgegenüber keine Erwerbstätigkeit.","Um jovem é considerado empregado, quando desempenha uma actividade profissional com objectivo de remuneração e que exija empregar a sua própria força de trabalho. O conceito de ""emprego"" inclui o trabalho por conta de outrem, na agricultura e silvicultura ou trabalho como trabalhador independente. Não é considerado como emprego a administração de bens próprios."
-Rechtslage bis 2011,Situação jurídica até 2011
+"Rechtslage bis 2011","Situação jurídica até 2011"
 "Die Berücksichtigung eines über 18 Jahre alten Kindes hinsichtlich der Zahlung von Kindergeld ist ausgeschlossen, wenn das Kind Einkünfte und Bezüge von mehr als 8.004 Euro hat, die zur Bestreitung seines Unterhalts oder seiner Berufsausbildung bestimmt oder geeignet sind. Aus diesem Grund ist der Antrag auf Kindergeld für ein volljähriges Kind immer um die „Erklärung zu den Einkünften und Bezügen“ und ggf. die „Erklärung zu den Werbungskosten“ zu ergänzen.","Um jovem maior de idade não é tido em conta para o abono de família se o seu salário e rendimentos ultrapassarem 8004 euros, destinados ao seu sustento ou formação profissional. Por esta razão, o requerimento do abono de família para um jovem maior de idade terá sempre de ser acompanhado de uma ""Declaração salarial e de rendimentos"" e, se necessário, de uma ""Declaração das despesas profissionais""."
-Zu 5: Anspruch auf eine Geldleistung von einer Stelle außerhalb Deutschlands / von einer zwischen- oder überstaatlichen Stelle,Ponto 5: Direito a uma prestação pecuniária por parte duma entidade fora da Alemanha / de uma entidade intergovernamental ou supra-estatal
+"Zu 5: Anspruch auf eine Geldleistung von einer Stelle außerhalb Deutschlands / von einer zwischen- oder überstaatlichen Stelle","Ponto 5: Direito a uma prestação pecuniária por parte duma entidade fora da Alemanha / de uma entidade intergovernamental ou supra-estatal"
 "Zu 6: Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung: (...)","Ponto 6: A sua situação ou a de outra pessoa, com a qual exista laços de filiação, nos últimos 5 anos antes do requerimento é ou era:"
 "Die Fragen 6b bzw. 6c sind auch dann mit „ja“ zu beantworten, wenn Sie, Ihr Ehegatte bzw. Lebenspartner oder eine andere Person, zu der eines der Kinder in einem Kindschaftsverhältnis steht, im diplomatischen oder konsularischen Dienst tätig sind oder waren.","As perguntas 6b ou 6c também devem ser respondidas com ""sim"" se a/o sua/seu cônjuge, companheira/o ou outra pessoa, com laços de filiação com a criança, estiver ou tenha estado a trabalhar no serviço diplomático ou consular."

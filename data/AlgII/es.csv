@@ -1,19 +1,19 @@
-Vorname,nombre
-Geburtsort,lugar de nacimiento
-Geburtsdatum,fecha de nacimiento
-Staatsangehörigkeit,nacionalidad
-Rentenversicherungsnummer,número del seguro de pensiones
-Telefonnummer,Teléfono
-E-Mail-Adresse,Correo electrónico
-ledig,soltero/a
-verheiratet,casado/a
-verwitwet,viudo/a
-BIC,BIC
-IBAN,IBAN
-Ja,Sí
-Nein,No
-Art der Tätigkeit,Tipo de actividad
-Leistung,Forma del subsidio
-Anschrift,Dirección
-Grund,superficie
-Antragsdatum,fecha de solicitud
+"Vorname","nombre"
+"Geburtsort","lugar de nacimiento"
+"Geburtsdatum","fecha de nacimiento"
+"Staatsangehörigkeit","nacionalidad"
+"Rentenversicherungsnummer","número del seguro de pensiones"
+"Telefonnummer","Teléfono"
+"E-Mail-Adresse","Correo electrónico"
+"ledig","soltero/a"
+"verheiratet","casado/a"
+"verwitwet","viudo/a"
+"BIC","BIC"
+"IBAN","IBAN"
+"Ja","Sí"
+"Nein","No"
+"Art der Tätigkeit","Tipo de actividad"
+"Leistung","Forma del subsidio"
+"Anschrift","Dirección"
+"Grund","superficie"
+"Antragsdatum","fecha de solicitud"

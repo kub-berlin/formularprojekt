@@ -1,66 +1,66 @@
-Kindergeld-Nr.,Número de Identificación del subsidio familiar
-Familienkasse,Caja Familiar
-Beachten Sie bitte die anhängenden Hinweise und das Merkblatt Kindergeld.,"Por favor, tenga presente las indicaciones que se adjuntan y el folleto explicativo ""Subsidio familiar por hijos"""
-Telefonische Rückfrage tagsüber unter Nr.:,Consultas telefónicas (durante el día) bajo el número:
-Antrag auf Kindergeld,Solicitud del subsidio familiar por hijos
+"Kindergeld-Nr.","Número de Identificación del subsidio familiar"
+"Familienkasse","Caja Familiar"
+"Beachten Sie bitte die anhängenden Hinweise und das Merkblatt Kindergeld.","Por favor, tenga presente las indicaciones que se adjuntan y el folleto explicativo ""Subsidio familiar por hijos"""
+"Telefonische Rückfrage tagsüber unter Nr.:","Consultas telefónicas (durante el día) bajo el número:"
+"Antrag auf Kindergeld","Solicitud del subsidio familiar por hijos"
 "Anzahl der beigefügten ""Anlage Kind""","Cantidad de los formularios ""anexo hijo/a"" adjuntos"
-Angaben zur antragstellenden Person,Datos de la persona solicitante
-Name,Apellidos
-Titel,Nombre
-Vorname,nombre
-ggf. Geburtsname und Name aus früherer Ehe,"En su caso, apellidos de nacimiento y otros apellidos anteriores"
-Geburtsdatum,fecha de nacimiento
-Geburtsort,lugar de nacimiento
-Geschlecht,sexo
-Familienstand,estado civil
-ledig,soltero/a
-seit,desde
-verheiratet,casado/a
-verwitwet,viudo/a
-in Lebenspartnerschaft lebend,vive en una unión civil
-geschieden,divorciado/a
-dauernd getrennt lebend,permanentamente separado/a
-Staatsangehörigkeit,nacionalidad
-Angaben zum Zahlungsweg,Datos acerca del método de pago
-IBAN,IBAN
-BIC,BIC
+"Angaben zur antragstellenden Person","Datos de la persona solicitante"
+"Name","Apellidos"
+"Titel","Nombre"
+"Vorname","nombre"
+"ggf. Geburtsname und Name aus früherer Ehe","En su caso, apellidos de nacimiento y otros apellidos anteriores"
+"Geburtsdatum","fecha de nacimiento"
+"Geburtsort","lugar de nacimiento"
+"Geschlecht","sexo"
+"Familienstand","estado civil"
+"ledig","soltero/a"
+"seit","desde"
+"verheiratet","casado/a"
+"verwitwet","viudo/a"
+"in Lebenspartnerschaft lebend","vive en una unión civil"
+"geschieden","divorciado/a"
+"dauernd getrennt lebend","permanentamente separado/a"
+"Staatsangehörigkeit","nacionalidad"
+"Angaben zum Zahlungsweg","Datos acerca del método de pago"
+"IBAN","IBAN"
+"BIC","BIC"
 "Bank, Finanzinstitut (ggf. auch Zweigstelle)","Banco, Caja de ahorros (en su caso, también una sucursal)"
-antragstellende Person wie unter 1,la persona solicitante como en el punto 1
+"antragstellende Person wie unter 1","la persona solicitante como en el punto 1"
 "nicht antragstellende Person, sondern:","no la persona solicitante, sino"
 "Name, Vorname","Apellido, nombre"
 "Der Bescheid soll nicht mir, sondern folgender Person zugesandt werden:","Por favor, mandar la notificación a la persona siguiente (y no a mí)"
-Angaben zu Kindern,Datos de los hijos
-Folgende Zählkinder sollen berücksichtigt werden:,"Por favor, considerar además a los hijos siguientes de relaciones anteriores"
+"Angaben zu Kindern","Datos de los hijos"
+"Folgende Zählkinder sollen berücksichtigt werden:","Por favor, considerar además a los hijos siguientes de relaciones anteriores"
 "Wer bezieht das Kindergeld (Name, Vorname)?","Quién recibe el subsidio familiar por hijos (Apellidos, Nombre)?"
 "Hinweis nach dem Bundesdatenschutzgesetz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommenssteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.","Indicación según la Ley Federal de Protección de Datos: Las declaraciones hechas se guardan por y con el fin de los párrafos 31, y 62 a 78 de la Ley de Impuestos sobre la Renta y las reglamentaciones de la Ley fiscal, o bien son recabados, procedidos y utilizadas por la Ley Federal de Subsidios Familiares y el Código de Seguridad Social."
-Datum,Fecha
-Alle Eingaben löschen,Suprimir todas las entradas
-Drucken,imprimir
-Speichern,guardar
-Nur von der Familienkasse auszufüllen,Solo debe completarse por la Caja Familiar
-Hinweise zum Antrag auf Kindergeld und zur Anlage Kind,"Indicaciones para rellenar el formulario de solicitud para el subsidio familiar por hijos y el ""anexo hijo/a"""
-Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in,Acerca de 1 y 2: Datos de la persona solicitante y del/ de la cónyuge o la pareja de unión civil
-Zu 6: Folgende Zählkinder sollen berücksichtigt werden,"Por favor, considere a los hijos siguientes de relaciones anteriores"
+"Datum","Fecha"
+"Alle Eingaben löschen","Suprimir todas las entradas"
+"Drucken","imprimir"
+"Speichern","guardar"
+"Nur von der Familienkasse auszufüllen","Solo debe completarse por la Caja Familiar"
+"Hinweise zum Antrag auf Kindergeld und zur Anlage Kind","Indicaciones para rellenar el formulario de solicitud para el subsidio familiar por hijos y el ""anexo hijo/a"""
+"Zu 1 und 2: Angaben zur antragstellenden Person und zum/zur Ehegatten/Ehegattin bzw. Lebenspartner/in","Acerca de 1 y 2: Datos de la persona solicitante y del/ de la cónyuge o la pareja de unión civil"
+"Zu 6: Folgende Zählkinder sollen berücksichtigt werden","Por favor, considere a los hijos siguientes de relaciones anteriores"
 "Kinder, für die eine andere Person Kindergeld erhält, können sich bei Ihnen kindergelderhöhend auswirken (Zählkinder). Sofern Sie die Berücksichtigung von Zählkindern geltend machen wollen, geben Sie bitte in jedem Fall an, wer für die Zählkinder das Kindergeld bei welcher Familienkasse bezieht.","Hijos, para los que otra persona recibe el subsidio familiar, pueden aumentar también la suma de su subsidio familiar. Si quiere que se consideren sus hijos de relaciones anteriores, por favor señale, quién recibe el subsidio familiar para estos hijos y de qué Caja Familiar."
-Anlage Kind,Anexo Hijo/a
-Allgemeines,Informaciones generales
+"Anlage Kind","Anexo Hijo/a"
+"Allgemeines","Informaciones generales"
 "„Andere Personen“, zu denen ein Kindschaftsverhältnis besteht, sind: Eltern, Stiefeltern, Adoptiveltern, Pflegeeltern, Großeltern.","""Otras personas"" son: los padres, el padrastro o la madrastra, padres adoptivos, padres de acogida, abuelos."
-Zu 1: Angaben zum Kind,Acerca de 1: Datos sobre el hijo/la hija
-Zu 3: Angaben für ein volljähriges Kind,Acerca de 3: Datos sobre un hijo mayor de 18 años
-Besondere Anspruchsvoraussetzungen,Requisitos especiales
+"Zu 1: Angaben zum Kind","Acerca de 1: Datos sobre el hijo/la hija"
+"Zu 3: Angaben für ein volljähriges Kind","Acerca de 3: Datos sobre un hijo mayor de 18 años"
+"Besondere Anspruchsvoraussetzungen","Requisitos especiales"
 "Die Berücksichtigung eines volljährigen Kindes ist möglich, wenn es","Es posible que se considere a un hijo mayor de 18 años, si"
 "1. noch nicht das 21. Lebensjahr vollendet hat, nicht in einem Beschäftigungsverhältnis steht und bei einer Agentur für Arbeit im Inland als Arbeitsuchender gemeldet ist oder","1. no ha cumplido los 21 años, no ocupa un empleo y no se apuntó como solicitante de empleo en la Agencia Federal Alemana de Empleo"
-2. noch nicht das 25. Lebensjahr vollendet hat und,2. no ha cumplido los 25 años y
-a) für einen Beruf ausgebildet wird oder,a) prosigue una formación profesional
-b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder,b) se encuentra en un período transitorio de no más que cuatro meses
-c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder,c) no puede empezar o proseguir una formación profesional por la falta de un puesto de formación profesional
-d) einen geregelten Freiwilligendienst leistet oder,d) está realizando un servicio voluntario (social o ecológico) legalmente reconocido
+"2. noch nicht das 25. Lebensjahr vollendet hat und","2. no ha cumplido los 25 años y"
+"a) für einen Beruf ausgebildet wird oder","a) prosigue una formación profesional"
+"b) sich in einer Übergangszeit von höchstens vier Monaten befindet oder","b) se encuentra en un período transitorio de no más que cuatro meses"
+"c) eine Berufsausbildung mangels Ausbildungsplatzes nicht beginnen oder fortsetzen kann oder","c) no puede empezar o proseguir una formación profesional por la falta de un puesto de formación profesional"
+"d) einen geregelten Freiwilligendienst leistet oder","d) está realizando un servicio voluntario (social o ecológico) legalmente reconocido"
 "3. wegen körperlicher, geistiger oder seelischer Behinderung außerstande ist, sich selbst zu unterhalten; Voraussetzung ist, dass die Behinderung vor Vollendung des 25. Lebensjahres eingetreten ist (ohne Altersgrenze).","3. Por sufrir discapacidades graves producto de daños físicos,mentales o psicológicos se ve incapaz de autofinanciarse; el requisito es que las discapacidades se hayan dado antes de cumplir los 25 años (sin límite de edad)."
-Rechtslage ab 2012,Situación legal a partir del 2012
-"Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den Fällen der Nummer 2 (a bis d) nur berücksichtigt, wenn das Kind keiner (schädlichen) Erwerbstätigkeit nachgeht.",En el caso de haber finalizado una formación profesional inicial sólo se va a considerar a su(s) hijo(s) en los casos 2 (a - d) si no ejerce un empleo (perjudicial).
+"Rechtslage ab 2012","Situación legal a partir del 2012"
+"Nach Abschluss einer erstmaligen Berufsausbildung oder eines Erststudiums wird ein Kind in den Fällen der Nummer 2 (a bis d) nur berücksichtigt, wenn das Kind keiner (schädlichen) Erwerbstätigkeit nachgeht.","En el caso de haber finalizado una formación profesional inicial sólo se va a considerar a su(s) hijo(s) en los casos 2 (a - d) si no ejerce un empleo (perjudicial)."
 "Ein Kind ist erwerbstätig, wenn es einer auf die Erzielung von Einkünften gerichteten Beschäftigung nachgeht, die den Einsatz seiner persönlichen Arbeitskraft erfordert. Hieraus folgt, dass der Begriff „Erwerbstätigkeit“ durch eine nichtselbständige Tätigkeit, eine land- und forstwirtschaftliche, eine gewerbliche und eine selbständige Tätigkeit erfüllt werden kann. Die Verwaltung eigenen Vermögens ist demgegenüber keine Erwerbstätigkeit.","El hijo/la hija ejerce una actividad económica, si ocupa un empleo destinado a constituir ingresos y que exige su mano de obra personal. Por consiguiente, la ""actividad económica"" puede ser constituida por activitdades por cuenta ajena, actividades agrícolas y forestales, actividades comerciales y actividades por cuenta propia. Por lo tanto, la gestión de los propios bienes no constituye una actividad económica."
-Rechtslage bis 2011,Situación legal hasta el 2011
+"Rechtslage bis 2011","Situación legal hasta el 2011"
 "Die Berücksichtigung eines über 18 Jahre alten Kindes hinsichtlich der Zahlung von Kindergeld ist ausgeschlossen, wenn das Kind Einkünfte und Bezüge von mehr als 8.004 Euro hat, die zur Bestreitung seines Unterhalts oder seiner Berufsausbildung bestimmt oder geeignet sind. Aus diesem Grund ist der Antrag auf Kindergeld für ein volljähriges Kind immer um die „Erklärung zu den Einkünften und Bezügen“ und ggf. die „Erklärung zu den Werbungskosten“ zu ergänzen.","Considerar a un hijo mayor de 18 años en el subsidio familiar por hijos está excluido, si el hijo tiene ingresos o sueldos mayores de 8.004 Euros, que se destinan a o sirven para cubrir sus gastos o su formación profesional. Por esta razón, siempre es necesario adjuntar a la solicitud del subsidio familiar por un hijo mayor de 18 años, la ""Declaración de los ingresos y sueldos"" y, en su caso, la ""Declaración de gastos profesionales""."
-Zu 5: Anspruch auf eine Geldleistung von einer Stelle außerhalb Deutschlands / von einer zwischen- oder überstaatlichen Stelle,Acerca de 5: Derecho a pagos de una entidad no alemana o de una institución intergubernamental o supranacional
-"Zu 6: Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung: (...)",Acerca de 6: Ha trabajado Ud. o otra persona con relación con el hijo en los últimos cinco años antes de la solicitud
+"Zu 5: Anspruch auf eine Geldleistung von einer Stelle außerhalb Deutschlands / von einer zwischen- oder überstaatlichen Stelle","Acerca de 5: Derecho a pagos de una entidad no alemana o de una institución intergubernamental o supranacional"
+"Zu 6: Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung: (...)","Acerca de 6: Ha trabajado Ud. o otra persona con relación con el hijo en los últimos cinco años antes de la solicitud"
 "Die Fragen 6b bzw. 6c sind auch dann mit „ja“ zu beantworten, wenn Sie, Ihr Ehegatte bzw. Lebenspartner oder eine andere Person, zu der eines der Kinder in einem Kindschaftsverhältnis steht, im diplomatischen oder konsularischen Dienst tätig sind oder waren.","Las preguntas 6b y 6c también se responden con ""sí"", si Ud., su cónyuge o su pareja de la unión civil, u otra persona que tenga una relación con uno de los hijos/as, trabajó al servicio de misiones diplomáticas o de oficinas consulares."

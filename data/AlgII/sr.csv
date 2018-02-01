@@ -1,11 +1,11 @@
-Vorname,Prezime
-Geburtsdatum,Datum rođenja
-Telefonnummer,Broj telefona
-E-Mail-Adresse,E-Mail - adresa
-ledig,neoženjen/neudata
-verheiratet,oženjen/udata
-verwitwet,udovac/udovica
-Ja,Da
-Art der Tätigkeit,Vrsta rada
-Leistung,Vrednost
-Anschrift,Adresa
+"Vorname","Prezime"
+"Geburtsdatum","Datum rođenja"
+"Telefonnummer","Broj telefona"
+"E-Mail-Adresse","E-Mail - adresa"
+"ledig","neoženjen/neudata"
+"verheiratet","oženjen/udata"
+"verwitwet","udovac/udovica"
+"Ja","Da"
+"Art der Tätigkeit","Vrsta rada"
+"Leistung","Vrednost"
+"Anschrift","Adresa"

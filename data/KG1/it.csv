@@ -1,49 +1,49 @@
-Name und Vorname der antragstellenden Person,Nome e cognome della persona richiedente
-Kindergeld-Nr.,Numero di riferimento dell’assegno familiare
-Familienkasse,Cassa per la famiglia (Familienkasse)
-Anlage Kind,Allegato con i dati del figlio (Anlage Kind)
-zum Antrag auf Kindergeld vom,per la richiesta di assegni familiari da parte di
-Lfd. Nr. ...... .,n. …… .
-Erstantrag bei Geburt,Richiesta iniziale alla nascita
-Vorname,Nome
-ggf. abweichender Familienname,"cognome, se diverso da quello della persona richiedente"
-Geburtsdatum,Data di nascita
-Geschlecht,Sesso
-ggf. abweichende Anschrift (bei Wohnort im Ausland bitte auch den Staat angeben),"Indirizzo, se diverso da quello della persona richiedente (in caso di residenza all’estero, indicare anche la nazione)"
+"Name und Vorname der antragstellenden Person","Nome e cognome della persona richiedente"
+"Kindergeld-Nr.","Numero di riferimento dell’assegno familiare"
+"Familienkasse","Cassa per la famiglia (Familienkasse)"
+"Anlage Kind","Allegato con i dati del figlio (Anlage Kind)"
+"zum Antrag auf Kindergeld vom","per la richiesta di assegni familiari da parte di"
+"Lfd. Nr. ...... .","n. …… ."
+"Erstantrag bei Geburt","Richiesta iniziale alla nascita"
+"Vorname","Nome"
+"ggf. abweichender Familienname","cognome, se diverso da quello della persona richiedente"
+"Geburtsdatum","Data di nascita"
+"Geschlecht","Sesso"
+"ggf. abweichende Anschrift (bei Wohnort im Ausland bitte auch den Staat angeben)","Indirizzo, se diverso da quello della persona richiedente (in caso di residenza all’estero, indicare anche la nazione)"
 "Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern/in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)","Motivo per cui l’indirizzo è diverso (ad es. se il figlio vive con i nonni, o è affidato a un istituto, o frequenta corsi di formazione scolastica o professionale)"
-leibliches Kind/Adoptivkind,figlio naturale/adottivo
-Pflegekind,minore in affidamento
-Enkelkind/Stiefkind,nipote/figliastro
-"ja, bitte hier Angaben machen",sì (inserire qui i dati)
-nein,no
+"leibliches Kind/Adoptivkind","figlio naturale/adottivo"
+"Pflegekind","minore in affidamento"
+"Enkelkind/Stiefkind","nipote/figliastro"
+"ja, bitte hier Angaben machen","sì (inserire qui i dati)"
+"nein","no"
 "Name, Vorname","Cognome, Nome"
-Art des Kindschaftsverhältnisses,Tipo di rapporto di filiazione
-letzte bekannte Anschrift,Indirizzo più recente
-Staatsangehörigkeit,Nazionalità
+"Art des Kindschaftsverhältnisses","Tipo di rapporto di filiazione"
+"letzte bekannte Anschrift","Indirizzo più recente"
+"Staatsangehörigkeit","Nazionalità"
 "Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,","Dati del figlio se è maggiorenne o sta per compiere i 18 anni,"
-sonst weiter bei Punkt 4:,altrimenti continuare al punto 4:
-Das Kind,Il figlio
-Angaben zur Erwerbstätigkeit eines volljährigen Kindes (nur bei Eintragungen unter a) bis d)),Dati su attività lavorativa di figlio maggiorenne (solo se si sono compilati i punti da a) a d))
-ja,sì
-(bei mehreren Beschäftigungen Angaben auf gesondertem Blatt),"(in caso di più attività lavorative, fornire i dati su un foglio a parte)"
-Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden,Orario di lavoro settimanale regolare complessivo (come previsto dal contratto)… Ore
-Nachweise zu den Angaben für ein volljähriges Kind:,La documentazione attestante i dati sul figlio maggiorenne:
-sind beigefügt,è allegata
-liegen bereits vor,è già stata fornita
-werden nachgereicht,sarà fornita in seguito
-Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?,Avete già fatto richiesta di assegni familiari o li avete già ricevuti da un’altra Familienkasse per questo figlio?
-Kindergeldnummer,Numero di riferimento dell’assegno familiare
+"sonst weiter bei Punkt 4:","altrimenti continuare al punto 4:"
+"Das Kind","Il figlio"
+"Angaben zur Erwerbstätigkeit eines volljährigen Kindes (nur bei Eintragungen unter a) bis d))","Dati su attività lavorativa di figlio maggiorenne (solo se si sono compilati i punti da a) a d))"
+"ja","sì"
+"(bei mehreren Beschäftigungen Angaben auf gesondertem Blatt)","(in caso di più attività lavorative, fornire i dati su un foglio a parte)"
+"Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden","Orario di lavoro settimanale regolare complessivo (come previsto dal contratto)… Ore"
+"Nachweise zu den Angaben für ein volljähriges Kind:","La documentazione attestante i dati sul figlio maggiorenne:"
+"sind beigefügt","è allegata"
+"liegen bereits vor","è già stata fornita"
+"werden nachgereicht","sarà fornita in seguito"
+"Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?","Avete già fatto richiesta di assegni familiari o li avete già ricevuti da un’altra Familienkasse per questo figlio?"
+"Kindergeldnummer","Numero di riferimento dell’assegno familiare"
 "Familienkasse, Anschrift","Cassa per la famiglia (Familienkasse), Indirizzo"
 "Name, Vorname der beziehenden Person","Cognome, Nome della persona in questione"
-geboren am,data di nascita
-Leistung,Prestazione
-monatlicher Betrag,importo mensile
-..... Euro,..... Euro
-Zeitraum (von – bis),Periodo (da/a)
-leistende Stelle,Ente erogatore
+"geboren am","data di nascita"
+"Leistung","Prestazione"
+"monatlicher Betrag","importo mensile"
+"..... Euro","..... Euro"
+"Zeitraum (von – bis)","Periodo (da/a)"
+"leistende Stelle","Ente erogatore"
 "Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung:","Negli ultimi 5 anni prima della presentazione della richiesta, voi o un’altra persona con rapporto di filiazione con il figlio siete stati:"
-im öffentlichen Dienst tätig?,impiegati come dipendenti pubblici?
-in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?,impiegati in Germania su richiesta di un datore di lavoro con sede al di fuori della Germania?
+"im öffentlichen Dienst tätig?","impiegati come dipendenti pubblici?"
+"in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?","impiegati in Germania su richiesta di un datore di lavoro con sede al di fuori della Germania?"
 "Wenn ja, bitte hier Angaben machen:","Se sì, inserire qui i dati:"
 "Name, Vorname des Beschäftigten","Cognome, Nome della persona impiegata"
 "Name/Bezeichnung des Dienstherrn/Arbeitgebers (ggf. Personalnummer) bzw. des Unternehmens, der Dienststelle oder Einrichtung","Nome/designazione del datore di lavoro (o numero di riferimento del lavoratore) o dell’azienda, dell’ente o dell’istituzione"

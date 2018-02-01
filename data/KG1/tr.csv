@@ -1,52 +1,52 @@
-Name und Vorname der antragstellenden Person,Dilekceyi verenin soyadi ve adi
-Kindergeld-Nr.,çockuk Yardım Parası No.
-Familienkasse,Aile fonu
-Anlage Kind,Cocuk fonu eki
-zum Antrag auf Kindergeld vom,Cocuk Yardim Parasi dilekcesi
-Lfd. Nr. ...... .,Siralama No.
-Erstantrag bei Geburt,Dogumdan sonra ilk dilekce
-Vorname,Adı
-ggf. abweichender Familienname,eger soyadi degisikse
-Geburtsdatum,Doğum tarihi
-Geburtsort,Doğum yeri
-Geschlecht,Cinsiyeti
-ggf. abweichende Anschrift (bei Wohnort im Ausland bitte auch den Staat angeben),eger adresi degisikse (lütfen yurtdisinda yasiyorsa lütfen sehiride yaziniz)
-"Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern/in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)",Adresin degisik olmasinin sebepi (mesela büyük annesinde/babasinda veya yurtda yasiyorsa)
-leibliches Kind/Adoptivkind,öz cocugu/evlatlik
-Pflegekind,evlatlik
-Enkelkind/Stiefkind,Torun/Üvey cocuk
+"Name und Vorname der antragstellenden Person","Dilekceyi verenin soyadi ve adi"
+"Kindergeld-Nr.","çockuk Yardım Parası No."
+"Familienkasse","Aile fonu"
+"Anlage Kind","Cocuk fonu eki"
+"zum Antrag auf Kindergeld vom","Cocuk Yardim Parasi dilekcesi"
+"Lfd. Nr. ...... .","Siralama No."
+"Erstantrag bei Geburt","Dogumdan sonra ilk dilekce"
+"Vorname","Adı"
+"ggf. abweichender Familienname","eger soyadi degisikse"
+"Geburtsdatum","Doğum tarihi"
+"Geburtsort","Doğum yeri"
+"Geschlecht","Cinsiyeti"
+"ggf. abweichende Anschrift (bei Wohnort im Ausland bitte auch den Staat angeben)","eger adresi degisikse (lütfen yurtdisinda yasiyorsa lütfen sehiride yaziniz)"
+"Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern/in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)","Adresin degisik olmasinin sebepi (mesela büyük annesinde/babasinda veya yurtda yasiyorsa)"
+"leibliches Kind/Adoptivkind","öz cocugu/evlatlik"
+"Pflegekind","evlatlik"
+"Enkelkind/Stiefkind","Torun/Üvey cocuk"
 "ja, bitte hier Angaben machen","Evet, lütfen buraya bilgilendirin"
-nein,Hayır
+"nein","Hayır"
 "Name, Vorname","Adı, soyadı"
-Art des Kindschaftsverhältnisses,Aile yakinlik derece
-letzte bekannte Anschrift,son verilen adres
-Staatsangehörigkeit,Uyruğu
-"Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,",ergin cocugun yakin zamanda 18. yasini dolduran coucugun bilgiler
-sonst weiter bei Punkt 4:,yoksa 4 ile devam edin
-Das Kind,Cocuk..
-bis,şu tarihe kadar
-Angaben zur Erwerbstätigkeit eines volljährigen Kindes (nur bei Eintragungen unter a) bis d)),ergen cocugun isi hakkinda bilgileri (sadece a)-d) sikkindaki bilgileri)
-ja,Evet
-(bei mehreren Beschäftigungen Angaben auf gesondertem Blatt),(birden fazla iste calisiyorsa ayrintili olarak aciklayin)
-Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden,toplam anlasmali haftalik calisma saati
-Nachweise zu den Angaben für ein volljähriges Kind:,Ergen cocugun bilgilerin belgeleri
-sind beigefügt,eklenmistir
-liegen bereits vor,verilmistir
-werden nachgereicht,verilecektir
-Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?,Siz veya bir baskasi bu cocuk icin Aile Fonundan Cocuk Yardim Parasi aliyor/musunuz veya dilekce verdi/nizmi?
-Kindergeldnummer,cocuk yardim para No.
+"Art des Kindschaftsverhältnisses","Aile yakinlik derece"
+"letzte bekannte Anschrift","son verilen adres"
+"Staatsangehörigkeit","Uyruğu"
+"Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,","ergin cocugun yakin zamanda 18. yasini dolduran coucugun bilgiler"
+"sonst weiter bei Punkt 4:","yoksa 4 ile devam edin"
+"Das Kind","Cocuk.."
+"bis","şu tarihe kadar"
+"Angaben zur Erwerbstätigkeit eines volljährigen Kindes (nur bei Eintragungen unter a) bis d))","ergen cocugun isi hakkinda bilgileri (sadece a)-d) sikkindaki bilgileri)"
+"ja","Evet"
+"(bei mehreren Beschäftigungen Angaben auf gesondertem Blatt)","(birden fazla iste calisiyorsa ayrintili olarak aciklayin)"
+"Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden","toplam anlasmali haftalik calisma saati"
+"Nachweise zu den Angaben für ein volljähriges Kind:","Ergen cocugun bilgilerin belgeleri"
+"sind beigefügt","eklenmistir"
+"liegen bereits vor","verilmistir"
+"werden nachgereicht","verilecektir"
+"Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?","Siz veya bir baskasi bu cocuk icin Aile Fonundan Cocuk Yardim Parasi aliyor/musunuz veya dilekce verdi/nizmi?"
+"Kindergeldnummer","cocuk yardim para No."
 "Familienkasse, Anschrift","Aile fonu, adres"
 "Name, Vorname der beziehenden Person","Parayi alanin soyadi, adi"
-geboren am,Doğum Tarihi
-Leistung,yardim bedeli
-monatlicher Betrag,aylik mihtar
-..... Euro,... Euro
-Zeitraum (von – bis),zaman süreci (...itibaren ... kadar)
-leistende Stelle,yardim aldiginz kurum
-"Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung:",Siz veya bir baskasi bu cocukla bir aile bagiminda olan dilekceyi vermeden son 5 senede ...
-im öffentlichen Dienst tätig?,kamu personeli olarak calisdinizmi?
-in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?,alman is veren Almanya disindan bir ülkeye calismak icin gönderdimi?
+"geboren am","Doğum Tarihi"
+"Leistung","yardim bedeli"
+"monatlicher Betrag","aylik mihtar"
+"..... Euro","... Euro"
+"Zeitraum (von – bis)","zaman süreci (...itibaren ... kadar)"
+"leistende Stelle","yardim aldiginz kurum"
+"Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung:","Siz veya bir baskasi bu cocukla bir aile bagiminda olan dilekceyi vermeden son 5 senede ..."
+"im öffentlichen Dienst tätig?","kamu personeli olarak calisdinizmi?"
+"in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?","alman is veren Almanya disindan bir ülkeye calismak icin gönderdimi?"
 "Wenn ja, bitte hier Angaben machen:","Eger evetse, lütfen bilgilendirin"
 "Name, Vorname des Beschäftigten","Iscinin soyadi, adi"
 "Name/Bezeichnung des Dienstherrn/Arbeitgebers (ggf. Personalnummer) bzw. des Unternehmens, der Dienststelle oder Einrichtung","Is verenin adi (varsa personel no.) ve firmanin/kurumunun/sirketin adi,"
-"Anschrift des Dienstherrn/Arbeitgebers, des Unternehmens, der Dienststelle oder Einrichtung",is verenin firmanin/kurumun adresi
+"Anschrift des Dienstherrn/Arbeitgebers, des Unternehmens, der Dienststelle oder Einrichtung","is verenin firmanin/kurumun adresi"

@@ -1,12 +1,12 @@
-Geschäftszeichen,номер документа
-Zum Antrag vom,к заявлению какого числа
+"Geschäftszeichen","номер документа"
+"Zum Antrag vom","к заявлению какого числа"
 "Name, Vorname","Фамилия, имя"
-Geburtsdatum,Дата рождения
-Anschrift,адрес
-Ja,да
-Nein,нет
-Grund,земля
-Gericht,Суд
-Aktenzeichen,№ дела
-Art,вид
-Arbeitgeber,Работодатель
+"Geburtsdatum","Дата рождения"
+"Anschrift","адрес"
+"Ja","да"
+"Nein","нет"
+"Grund","земля"
+"Gericht","Суд"
+"Aktenzeichen","№ дела"
+"Art","вид"
+"Arbeitgeber","Работодатель"

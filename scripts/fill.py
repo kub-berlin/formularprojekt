@@ -62,7 +62,7 @@ def write_translation(form_id, lang_id, data):
     path = os.path.join('data', form_id, lang_id + '.csv')
     keys = []
     with open(path, 'w') as fh:
-        w = csv.writer(fh)
+        w = csv.writer(fh, dialect='unix')
         for row in form['rows']:
             key = row.get('content')
             if key and key not in keys:

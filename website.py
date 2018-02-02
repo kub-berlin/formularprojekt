@@ -128,13 +128,16 @@ def load_data(top):
                         translations[lang_id][form_id] = translation
 
 
-def get_pdf(lang_id, form_id):
+def get_pdf(lang_id, form_id, url=True):
     fn = '{form_id}_{lang_id}_{date}.pdf'.format(
         lang_id=lang_id,
         form_id=form_id,
         date=forms[form_id]['date'])
     if os.path.exists(os.path.join('static', 'pdf', fn)):
-        return url_for('static', filename='pdf/' + fn)
+        if url:
+            return url_for('static', filename='pdf/' + fn)
+        else:
+            return True
 
 
 def log(s, style=None, indent=0):
@@ -171,6 +174,8 @@ def _form_stats(form_id, langs, verbose):
 
         n = len(translated) + len(untranslated)
         s = '%s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
+        if form_id != 'meta' and get_pdf(lang_id, form_id, url=False):
+            s += ' (pdf)'
         log(s, style, 2)
 
         if verbose:

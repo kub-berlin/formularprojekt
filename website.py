@@ -9,7 +9,7 @@ import csv
 import json
 import argparse
 
-from flask import Flask, Blueprint, render_template
+from flask import Flask, Blueprint, render_template, url_for
 from flask import abort
 from flask import Markup
 from flask.helpers import send_from_directory
@@ -129,12 +129,12 @@ def load_data(top):
 
 
 def get_pdf(lang_id, form_id):
-    fn = 'static/pdf/{form_id}_{lang_id}_{date}.pdf'.format(
+    fn = '{form_id}_{lang_id}_{date}.pdf'.format(
         lang_id=lang_id,
         form_id=form_id,
         date=forms[form_id]['date'])
-    if os.path.exists(fn):
-        return '/' + fn
+    if os.path.exists(os.path.join('static', 'pdf', fn)):
+        return url_for('static', filename='pdf/' + fn)
 
 
 def log(s, style=None, indent=0):

@@ -14,6 +14,9 @@ fill: .env
 pull:
 	cd .drive && drive pull -ignore-name-clashes -export=csv -exports-dir="../.exports/" -explicitly-export
 
+txpull:
+	tx pull -af --mode=onlytranslated
+
 push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
 

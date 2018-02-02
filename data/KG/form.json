@@ -1,6 +1,9 @@
 {
     "checksum": "7cafe94f8890476b625175781032fc0b",
     "date": "2016-09-01",
+    "external": {
+        "Arbeitsagentur": "http://www.arbeitsagentur.de/web/content/DE/Detail/index.htm?dfContentId=L6019022DSTBAI707968"
+    },
     "rows": [
         {
             "align": "left",

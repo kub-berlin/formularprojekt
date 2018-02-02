@@ -1,6 +1,10 @@
 {
     "checksum": "856d684f4d269305b273de919a4f1507",
     "date": "2017-01-01",
+    "external": {
+        "Arbeitsagentur": "http://www.arbeitsagentur.de/web/content/DE/Formulare/Detail/index.htm?dfContentId=L6019022DSTBAI485740",
+        "Flüchtlingshilfe Castrop-Rauxel": "http://www.fluechtlingshilfe-castrop.de/information-for-refugees/jobcenter/"
+    },
     "rows": [
         {
             "align": "left",

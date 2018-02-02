@@ -15,7 +15,7 @@ pull:
 	cd .drive && drive pull -ignore-name-clashes -export=csv -exports-dir="../.exports/" -explicitly-export
 
 txpull:
-	tx pull -af --mode=onlytranslated
+	tx pull -af --mode=onlytranslated --minimum-perc=10
 
 push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/

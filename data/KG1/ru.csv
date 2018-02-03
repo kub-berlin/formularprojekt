@@ -13,6 +13,7 @@
 "Geburtsort","место рождения"
 "Geschlecht","Пол"
 "Staatsangehörigkeit","Гражданство"
+"Anschrift, wenn abweichend von antragstellender Person (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","Адрес, если не адрес заявителя (улица/площадь, № дома, почтовый индекс, населенный пункт, страна проживания)"
 "Kindschaftsverhältnis","Родительскими полномочиями в отношении ребенка"
 "Pflegekind","ребенком под опекой"
 "Name, Vorname","Фамилия, имя"

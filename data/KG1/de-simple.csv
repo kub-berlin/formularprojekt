@@ -7,6 +7,7 @@
 "Geburtsort","Geburtsort (Wo ist die Person geboren?)"
 "Geschlecht","Geschlecht"
 "Staatsangehörigkeit","Staatsangehörigkeit (Von welchem Land hat die Person einen Pass?)"
+"Anschrift, wenn abweichend von antragstellender Person (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","Adresse (Straße/Platz, Hausnummer, Postleitzahl, Ort, Land): Bitte angeben, wenn Sie nicht in derselben Wohnung wohnen"
 "Name, Vorname","Name, Vorname"
 "bis","bis"
 "nein","nein"

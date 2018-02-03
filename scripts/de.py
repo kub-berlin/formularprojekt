@@ -10,7 +10,7 @@ if __name__ == '__main__':
     keys = []
 
     with open(sys.argv[2], 'w') as fh:
-        w = csv.writer(fh)
+        w = csv.writer(fh, dialect='unix')
         for row in data['rows']:
             key = row.get('content')
             if key and key not in keys:

@@ -9,6 +9,7 @@
 "Name","Apellidos"
 "Vorname","nombre"
 "Geburtsdatum","fecha de nacimiento"
+"Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","Dirección (calle/plaza, número, código postal, lugar de residencia, país de residencia)"
 "Familienstand:","Estado civil:"
 "ledig","soltero/a"
 "seit","desde"

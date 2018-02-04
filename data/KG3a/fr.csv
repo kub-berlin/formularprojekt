@@ -9,6 +9,7 @@
 "Name","Nom"
 "Vorname","Prénom"
 "Geburtsdatum","Date de naissance"
+"Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","Adresse (rue/place, numéro, code postal, domicile, pays de résidence)"
 "Familienstand:","Situation de famille :"
 "ledig","célibataire"
 "seit","depuis"

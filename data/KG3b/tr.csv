@@ -8,6 +8,7 @@
 "Name","Adı, soyadı"
 "Vorname","Adı"
 "Geburtsdatum","Doğum tarihi"
+"Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","Adres (Cadde/meydan, ev numarası, posta kodu, ikamet yeri, ikamet edilen ülke)"
 "Familienstand:","Medeni hali"
 "ledig","bekar"
 "seit","ne zamandan beri"

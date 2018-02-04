@@ -10,6 +10,7 @@
 "Geburtsort","lugar de nacimiento"
 "Geschlecht","sexo"
 "Staatsangehörigkeit","nacionalidad"
+"Anschrift, wenn abweichend von antragstellender Person (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","Dirección, si difiere de la del/de la solicitante (calle/plaza, número, código postal, lugar de residencia, país de residencia)"
 "Pflegekind","hijo/hija de acogida con custodia temporal"
 "Name, Vorname","Apellido, nombre"
 "Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,","Datos sobre un hijo mayor de 18 años o sobre un hijo que cumplirá, en breve, los 18 años"
@@ -38,4 +39,5 @@
 "Name/Bezeichnung des Dienstherrn/Arbeitgebers (ggf. Personalnummer) bzw. des Unternehmens, der Dienststelle oder Einrichtung","Apellidos/ Título del empleador (si es posible, indicar el número de referencia) o de la empresa, la institución o el organismo"
 "Anschrift des Dienstherrn/Arbeitgebers, des Unternehmens, der Dienststelle oder Einrichtung","Dirección del empleador, de la empresa, la institución o el organismo"
 "Datum","Fecha"
+"(Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung)","Firma del solicitante/ de la solicitante / del representante/ de la representante legal"
 "Hinweis zum Datenschutz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.","Indicación según la Ley Federal de Protección de Datos: Las declaraciones hechas se guardan por y con el fin de los párrafos 31, y 62 a 78 de la Ley de Impuestos sobre la Renta y las reglamentaciones de la Ley fiscal, o bien son recabados, procedidos y utilizadas por la Ley Federal de Subsidios Familiares y el Código de Seguridad Social."

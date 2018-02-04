@@ -113,11 +113,21 @@ ul.inline {
     }
 }
 
-.stat-style-5 {color: red;}
-.stat-style-4 {font-style: italic;}
-.stat-style-3 {font-style: italic;}
-.stat-style-1 {font-weight: bold; background: $color-bg-tint;}
-.stat-style-None {color: $color-fg-tint; background: $color-bg-tint;}
+.stat-style-5 {
+    color: red;
+}
+.stat-style-5,
+.stat-style-4,
+.stat-style-3,
+.stat-style-2 {
+    background: $color-bg-tint;
+}
+.stat-style-1 {
+    font-weight: bold;
+}
+.stat-style-None {
+    color: $color-fg-tint;
+}
 
 @media print {
     .u-screen-only {

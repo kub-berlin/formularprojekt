@@ -11,6 +11,7 @@
 "Geburtsort","مكان الولادة"
 "Geschlecht","الجنس"
 "Staatsangehörigkeit","الجنسية"
+"Anschrift, wenn abweichend von antragstellender Person (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","العنوان، إن كان مختلف لمقدم الطلب (الشارع / الساحة، رقم المنزل، الرمز البريدي، المدينة، البلد)"
 "Pflegekind","الطفل المتبنى"
 "Name, Vorname","اللقب, الاسم"
 "Angaben für ein volljähriges Kind bzw. für ein Kind, das in Kürze das 18. Lebensjahr vollenden wird,","معلومات عن الطفل البالغ ١٨ سنة, أو الطفل الذي سيكمل قريبا ١٨ سنة"
@@ -41,3 +42,4 @@
 "Anschrift des Dienstherrn/Arbeitgebers, des Unternehmens, der Dienststelle oder Einrichtung","عنوان صاحب العمل، الشركة، الإدارة أو الوكالة"
 "Datum","التاريخ"
 "(Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung)","توقيع مقدم الطلب او توقيع الوكيل القانوني"
+"Hinweis zum Datenschutz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.","ملاحظة لقانون حماية البيانات الاتحادية: يتم جمع البيانات ومعالجتها واستخدامها لغرض وأساس §§ 31، 62-78 قانون ضريبة الدخل والأنظمة المعمول بها في قانون الضرائب أو بسبب قانون إعانة الطفل الاتحادي وقانون الضمان الاجتماعي."

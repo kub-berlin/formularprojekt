@@ -21,6 +21,10 @@ p:last-child {
 	margin-bottom: 0;
 }
 
+table th[scope="row"] {
+	text-align: start;
+}
+
 .page {
 	width: 20cm;
 	height: 28cm;

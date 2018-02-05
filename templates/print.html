@@ -18,13 +18,13 @@
         <h1><bdi lang="de" dir="ltr">{{ forms[form_id].title }}</bdi></h1>
         <table class="m-dl">
             <tr>
-                <th>{{ 'Sprache' | translate(lang_id, 'meta') }}</th>
+                <th scope="row">{{ 'Sprache' | translate(lang_id, 'meta') }}</th>
                 <td>{{ 'language' | translate(lang_id, 'meta') }}</td>
             </tr><tr>
-                <th>{{ 'Zuletzt aktualisiert' | translate(lang_id, 'meta') }}</th>
+                <th scope="row">{{ 'Zuletzt aktualisiert' | translate(lang_id, 'meta') }}</th>
                 <td><time>{{ forms[form_id].date }}</time></td>
             </tr><tr>
-                <th>{{ 'Originaldokument' | translate(lang_id, 'meta') }}</th>
+                <th scope="row">{{ 'Originaldokument' | translate(lang_id, 'meta') }}</th>
                 <td><a href="{{ forms[form_id].url }}" class="overlong" dir="ltr" rel="external">{{ forms[form_id].url }}</a></td>
             </tr>
         </table>

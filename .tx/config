@@ -74,6 +74,12 @@ source_lang = de
 type = MAGENTO
 file_filter = data/SozIIIB1.2/<lang>.csv
 
+[formulare.WBS]
+source_file = data/WBS/de.csv
+source_lang = de
+type = MAGENTO
+file_filter = data/WBS/<lang>.csv
+
 [formulare.ZP40]
 source_file = data/ZP40/de.csv
 source_lang = de

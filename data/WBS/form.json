@@ -1,0 +1,1827 @@
+{
+    "checksum": "7af703429505ce7c9485a48df33d7198",
+    "date": "2016-03-01",
+    "rows": [
+        {
+            "content": "Bevor Sie diesen Vordruck ausfüllen, lesen Sie bitte die **Hinweise**. Sie sparen sich und uns Rückfragen.",
+            "page": 0,
+            "x1": 29,
+            "y1": 24,
+            "x2": 250,
+            "y2": 34,
+            "align": ""
+        },
+        {
+            "content": "Bitte deutlich, möglichst in Blockschrift ausfüllen.",
+            "page": 0,
+            "x1": 29,
+            "y1": 64,
+            "x2": 250,
+            "y2": 74,
+            "align": ""
+        },
+        {
+            "content": "Zutreffendes bitte ankreuzen!",
+            "page": 0,
+            "x1": 29,
+            "y1": 84,
+            "x2": 250,
+            "y2": 94,
+            "align": ""
+        },
+        {
+            "content": "Nicht vom Antragsteller auszufüllen!",
+            "page": 0,
+            "x1": 366,
+            "y1": 23,
+            "x2": 540,
+            "y2": 33,
+            "align": "center"
+        },
+        {
+            "content": "Antragsnummer",
+            "page": 0,
+            "x1": 366,
+            "y1": 44,
+            "x2": 540,
+            "y2": 54,
+            "align": ""
+        },
+        {
+            "content": "Eingangsstempel",
+            "page": 0,
+            "x1": 366,
+            "y1": 77,
+            "x2": 540,
+            "y2": 87,
+            "align": ""
+        },
+        {
+            "content": "Antrag auf einen Wohnberechtigungsschein (WBS)",
+            "style": "font-weight: bold",
+            "page": 0,
+            "x1": 26,
+            "y1": 109,
+            "x2": 361,
+            "y2": 121,
+            "align": ""
+        },
+        {
+            "content": "Nach § 5 des Wohnungsbindungsgesetzes (WoBindG) bzw. § 27 Wohnraumförderungsgesetz (WoFG)",
+            "page": 0,
+            "x1": 26,
+            "y1": 130,
+            "x2": 542,
+            "y2": 140,
+            "align": ""
+        },
+        {
+            "content": "Ich bitte/Wir bitten gemeinsam um Bestätigung der Wohnberechtigung für den Bezug einer belegungsgebundenen Wohnung.",
+            "page": 0,
+            "x1": 26,
+            "y1": 148,
+            "x2": 542,
+            "y2": 158,
+            "align": ""
+        },
+        {
+            "content": "Die künftige Wohnung wollen gemeinsam beziehen (Haushaltsangehörige gem. § 5 WoBindG / § 27 WoFG i.V. m. § 18 WoFG):",
+            "structure": "1.",
+            "page": 0,
+            "x1": 48,
+            "y1": 189,
+            "x2": 540,
+            "y2": 199,
+            "align": ""
+        },
+        {
+            "content": "Name, Vorname / ggf. Geburtsname",
+            "page": 0,
+            "x1": 48,
+            "y1": 218,
+            "x2": 145,
+            "y2": 228,
+            "align": "left"
+        },
+        {
+            "content": "Geburtsdatum",
+            "page": 0,
+            "x1": 149,
+            "y1": 218,
+            "x2": 211,
+            "y2": 228,
+            "align": "left"
+        },
+        {
+            "content": "Familienstand",
+            "page": 0,
+            "x1": 215,
+            "y1": 218,
+            "x2": 322,
+            "y2": 228,
+            "align": "center"
+        },
+        {
+            "content": "Verwandtschaftsverhältnis",
+            "page": 0,
+            "x1": 327,
+            "y1": 218,
+            "x2": 403,
+            "y2": 228,
+            "align": ""
+        },
+        {
+            "content": "Staatsangehörigkeit",
+            "page": 0,
+            "x1": 407,
+            "y1": 218,
+            "x2": 463,
+            "y2": 228,
+            "align": ""
+        },
+        {
+            "content": "Eigene Einkünfte (§ 21 WoFG)",
+            "page": 0,
+            "x1": 467,
+            "y1": 218,
+            "x2": 540,
+            "y2": 228,
+            "align": ""
+        },
+        {
+            "content": "wenn",
+            "page": 0,
+            "x1": 217,
+            "y1": 267,
+            "x2": 321,
+            "y2": 277,
+            "align": ""
+        },
+        {
+            "content": "verheiratet",
+            "page": 0,
+            "x1": 228,
+            "y1": 279,
+            "x2": 321,
+            "y2": 289,
+            "align": ""
+        },
+        {
+            "content": "eingetr. Lebenspartn.",
+            "page": 0,
+            "x1": 228,
+            "y1": 292,
+            "x2": 321,
+            "y2": 302,
+            "align": ""
+        },
+        {
+            "content": "seit:",
+            "page": 0,
+            "x1": 217,
+            "y1": 305,
+            "x2": 321,
+            "y2": 315,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 0,
+            "x1": 483,
+            "y1": 265,
+            "x2": 506,
+            "y2": 275,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "x1": 518,
+            "y1": 265,
+            "x2": 540,
+            "y2": 275,
+            "align": ""
+        },
+        {
+            "content": "wenn",
+            "page": 0,
+            "x1": 217,
+            "y1": 347,
+            "x2": 321,
+            "y2": 357
+        },
+        {
+            "content": "verheiratet",
+            "page": 0,
+            "x1": 228,
+            "y1": 361,
+            "x2": 321,
+            "y2": 371,
+            "align": ""
+        },
+        {
+            "content": "eingetr. Lebenspartn.",
+            "page": 0,
+            "x1": 228,
+            "y1": 373,
+            "x2": 321,
+            "y2": 383,
+            "align": ""
+        },
+        {
+            "content": "seit:",
+            "page": 0,
+            "x1": 217,
+            "y1": 387,
+            "x2": 321,
+            "y2": 397,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 0,
+            "x1": 483,
+            "y1": 344,
+            "x2": 506,
+            "y2": 354,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "x1": 518,
+            "y1": 344,
+            "x2": 540,
+            "y2": 354
+        },
+        {
+            "content": "wenn",
+            "page": 0,
+            "x1": 217,
+            "y1": 427,
+            "x2": 321,
+            "y2": 437,
+            "align": ""
+        },
+        {
+            "content": "verheiratet",
+            "page": 0,
+            "x1": 228,
+            "y1": 440,
+            "x2": 321,
+            "y2": 450,
+            "align": ""
+        },
+        {
+            "content": "eingetr. Lebenspartn.",
+            "page": 0,
+            "x1": 228,
+            "y1": 452,
+            "x2": 321,
+            "y2": 462,
+            "align": ""
+        },
+        {
+            "content": "seit:",
+            "page": 0,
+            "x1": 217,
+            "y1": 465,
+            "x2": 321,
+            "y2": 475
+        },
+        {
+            "content": "ja",
+            "page": 0,
+            "x1": 483,
+            "y1": 424,
+            "x2": 506,
+            "y2": 434,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "x1": 518,
+            "y1": 424,
+            "x2": 540,
+            "y2": 434,
+            "align": ""
+        },
+        {
+            "content": "wenn",
+            "page": 0,
+            "x1": 217,
+            "y1": 509,
+            "x2": 321,
+            "y2": 519
+        },
+        {
+            "content": "verheiratet",
+            "page": 0,
+            "x1": 228,
+            "y1": 521,
+            "x2": 321,
+            "y2": 531,
+            "align": ""
+        },
+        {
+            "content": "eingetr. Lebenspartn.",
+            "page": 0,
+            "x1": 228,
+            "y1": 533,
+            "x2": 321,
+            "y2": 543,
+            "align": ""
+        },
+        {
+            "content": "seit:",
+            "page": 0,
+            "x1": 217,
+            "y1": 547,
+            "x2": 321,
+            "y2": 557,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 0,
+            "x1": 483,
+            "y1": 507,
+            "x2": 506,
+            "y2": 517,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "x1": 518,
+            "y1": 507,
+            "x2": 540,
+            "y2": 517,
+            "align": ""
+        },
+        {
+            "content": "wenn",
+            "page": 0,
+            "x1": 217,
+            "y1": 588,
+            "x2": 321,
+            "y2": 598,
+            "align": ""
+        },
+        {
+            "content": "verheiratet",
+            "page": 0,
+            "x1": 228,
+            "y1": 601,
+            "x2": 321,
+            "y2": 611,
+            "align": ""
+        },
+        {
+            "content": "eingetr. Lebenspartn.",
+            "page": 0,
+            "x1": 228,
+            "y1": 614,
+            "x2": 321,
+            "y2": 624,
+            "align": ""
+        },
+        {
+            "content": "seit:",
+            "page": 0,
+            "x1": 217,
+            "y1": 628,
+            "x2": 321,
+            "y2": 638,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 0,
+            "x1": 483,
+            "y1": 587,
+            "x2": 506,
+            "y2": 597,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "x1": 518,
+            "y1": 587,
+            "x2": 540,
+            "y2": 597,
+            "align": ""
+        },
+        {
+            "content": "wenn",
+            "page": 0,
+            "x1": 217,
+            "y1": 667,
+            "x2": 321,
+            "y2": 677,
+            "align": ""
+        },
+        {
+            "content": "verheiratet",
+            "page": 0,
+            "x1": 228,
+            "y1": 680,
+            "x2": 321,
+            "y2": 690,
+            "align": ""
+        },
+        {
+            "content": "eingetr. Lebenspartn.",
+            "page": 0,
+            "x1": 228,
+            "y1": 693,
+            "x2": 321,
+            "y2": 703,
+            "align": ""
+        },
+        {
+            "content": "seit:",
+            "page": 0,
+            "x1": 217,
+            "y1": 708,
+            "x2": 321,
+            "y2": 718,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 0,
+            "x1": 483,
+            "y1": 671,
+            "x2": 506,
+            "y2": 681,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 0,
+            "x1": 518,
+            "y1": 671,
+            "x2": 540,
+            "y2": 681,
+            "align": ""
+        },
+        {
+            "content": "weitere mitziehende Personen auf besonderem Blatt.",
+            "page": 0,
+            "x1": 48,
+            "y1": 734,
+            "x2": 540,
+            "y2": 744,
+            "align": ""
+        },
+        {
+            "content": "Wir beabsichtigen spätestens innerhalb von 6 Monaten nach Überlassung der Wohnung die Ehe zu schließen.",
+            "page": 0,
+            "x1": 64,
+            "y1": 749,
+            "x2": 540,
+            "y2": 759
+        },
+        {
+            "content": "Derzeitige Wohnanschrift",
+            "style": "font-weight: bold",
+            "structure": "2.A",
+            "page": 1,
+            "x1": 47,
+            "y1": 33,
+            "x2": 540,
+            "y2": 43,
+            "align": "center"
+        },
+        {
+            "content": "der Person/(en) 1 und",
+            "page": 1,
+            "x1": 47,
+            "y1": 63,
+            "x2": 147,
+            "y2": 73,
+            "align": ""
+        },
+        {
+            "content": "Der Bescheid wird an diese Anschrift gesandt, wenn nicht unter 3. ein Bevollmächtigter angegeben ist.",
+            "page": 1,
+            "x1": 294,
+            "y1": 52,
+            "x2": 540,
+            "y2": 62,
+            "align": ""
+        },
+        {
+            "content": "Straße",
+            "page": 1,
+            "x1": 47,
+            "y1": 80,
+            "x2": 291,
+            "y2": 90,
+            "align": ""
+        },
+        {
+            "content": "PLZ und Ort",
+            "page": 1,
+            "x1": 294,
+            "y1": 80,
+            "x2": 540,
+            "y2": 90,
+            "align": ""
+        },
+        {
+            "content": "Ich bewohne / Wir bewohnen die Wohnung",
+            "page": 1,
+            "x1": 47,
+            "y1": 106,
+            "x2": 540,
+            "y2": 116,
+            "align": ""
+        },
+        {
+            "content": "als Hauptmieter",
+            "page": 1,
+            "x1": 64,
+            "y1": 124,
+            "x2": 142,
+            "y2": 134,
+            "align": ""
+        },
+        {
+            "content": "als Untermieter",
+            "page": 1,
+            "x1": 64,
+            "y1": 137,
+            "x2": 142,
+            "y2": 147,
+            "align": ""
+        },
+        {
+            "content": "mit den Eltern, die die Wohnung weiterhin nutzen",
+            "page": 1,
+            "x1": 154,
+            "y1": 132,
+            "x2": 315,
+            "y2": 142
+        },
+        {
+            "content": "Sozialwohnung",
+            "page": 1,
+            "x1": 317,
+            "y1": 127,
+            "x2": 417,
+            "y2": 137,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 1,
+            "x1": 471,
+            "y1": 127,
+            "x2": 493,
+            "y2": 137,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 1,
+            "x1": 505,
+            "y1": 127,
+            "x2": 540,
+            "y2": 137,
+            "align": ""
+        },
+        {
+            "content": "Name des Hauptmieters:",
+            "page": 1,
+            "x1": 47,
+            "y1": 154,
+            "x2": 159,
+            "y2": 164,
+            "align": ""
+        },
+        {
+            "content": "(Angabe ist nach § 27 Abs. 3 Nr. 2 WoFG erforderlich)",
+            "page": 1,
+            "x1": 47,
+            "y1": 168,
+            "x2": 540,
+            "y2": 178,
+            "align": ""
+        },
+        {
+            "content": "Die Wohnung wird bewohnt seit dem",
+            "page": 1,
+            "x1": 47,
+            "y1": 187,
+            "x2": 216,
+            "y2": 197,
+            "align": ""
+        },
+        {
+            "content": "Sammelheizung",
+            "page": 1,
+            "x1": 329,
+            "y1": 187,
+            "x2": 420,
+            "y2": 197,
+            "align": ""
+        },
+        {
+            "content": "Ofenheizung",
+            "page": 1,
+            "x1": 432,
+            "y1": 187,
+            "x2": 540,
+            "y2": 197,
+            "align": ""
+        },
+        {
+            "content": "Größe:",
+            "page": 1,
+            "x1": 47,
+            "y1": 209,
+            "x2": 87,
+            "y2": 219,
+            "align": ""
+        },
+        {
+            "content": "Zimmer,",
+            "page": 1,
+            "x1": 120,
+            "y1": 209,
+            "x2": 168,
+            "y2": 219,
+            "align": ""
+        },
+        {
+            "content": "m² Wohnfläche",
+            "page": 1,
+            "x1": 218,
+            "y1": 209,
+            "x2": 309,
+            "y2": 219,
+            "align": ""
+        },
+        {
+            "content": "Aufzug",
+            "page": 1,
+            "x1": 317,
+            "y1": 212,
+            "x2": 364,
+            "y2": 222,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 1,
+            "x1": 376,
+            "y1": 212,
+            "x2": 397,
+            "y2": 222,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 1,
+            "x1": 409,
+            "y1": 212,
+            "x2": 460,
+            "y2": 222,
+            "align": ""
+        },
+        {
+            "content": "Etage",
+            "page": 1,
+            "x1": 493,
+            "y1": 211,
+            "x2": 540,
+            "y2": 221,
+            "align": ""
+        },
+        {
+            "content": "(Die Angaben sind freiwillig, jedoch bei der Beantragung eines besonderen Wohnbedarfs notwendig.)",
+            "page": 1,
+            "x1": 47,
+            "y1": 229,
+            "x2": 540,
+            "y2": 239,
+            "align": ""
+        },
+        {
+            "content": "Derzeitige Wohnanschrift",
+            "style": "font-weight: bold",
+            "structure": "2.B",
+            "page": 1,
+            "x1": 47,
+            "y1": 258,
+            "x2": 540,
+            "y2": 268,
+            "align": "center"
+        },
+        {
+            "content": "gegebenenfalls weitere Personen, die in dem Haushalt aufgenommen werden sollen.",
+            "style": "font-weight: bold",
+            "page": 1,
+            "x1": 47,
+            "y1": 278,
+            "x2": 540,
+            "y2": 288,
+            "align": ""
+        },
+        {
+            "content": "der Person/(en) zu",
+            "page": 1,
+            "x1": 47,
+            "y1": 307,
+            "x2": 540,
+            "y2": 317,
+            "align": ""
+        },
+        {
+            "content": "Straße",
+            "page": 1,
+            "x1": 47,
+            "y1": 321,
+            "x2": 291,
+            "y2": 331,
+            "align": ""
+        },
+        {
+            "content": "PLZ und Ort",
+            "page": 1,
+            "x1": 294,
+            "y1": 321,
+            "x2": 540,
+            "y2": 331,
+            "align": ""
+        },
+        {
+            "content": "Ich bewohne / Wir bewohnen die Wohnung",
+            "page": 1,
+            "x1": 47,
+            "y1": 349,
+            "x2": 540,
+            "y2": 359,
+            "align": ""
+        },
+        {
+            "content": "als Hauptmieter",
+            "page": 1,
+            "x1": 64,
+            "y1": 369,
+            "x2": 142,
+            "y2": 379,
+            "align": ""
+        },
+        {
+            "content": "als Untermieter",
+            "page": 1,
+            "x1": 64,
+            "y1": 382,
+            "x2": 142,
+            "y2": 392,
+            "align": ""
+        },
+        {
+            "content": "mit den Eltern, die die Wohnung weiterhin nutzen",
+            "page": 1,
+            "x1": 154,
+            "y1": 377,
+            "x2": 315,
+            "y2": 387,
+            "align": ""
+        },
+        {
+            "content": "Sozialwohnung",
+            "page": 1,
+            "x1": 317,
+            "y1": 371,
+            "x2": 417,
+            "y2": 381,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 1,
+            "x1": 471,
+            "y1": 371,
+            "x2": 493,
+            "y2": 381,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 1,
+            "x1": 505,
+            "y1": 371,
+            "x2": 540,
+            "y2": 381
+        },
+        {
+            "content": "Name des Hauptmieters:",
+            "page": 1,
+            "x1": 47,
+            "y1": 402,
+            "x2": 159,
+            "y2": 412,
+            "align": ""
+        },
+        {
+            "content": "(Angabe ist nach § 27 Abs. 3 Nr. 2 WoFG erforderlich).",
+            "page": 1,
+            "x1": 47,
+            "y1": 417,
+            "x2": 540,
+            "y2": 427,
+            "align": ""
+        },
+        {
+            "content": "Die Wohnung wird bewohnt seit dem",
+            "page": 1,
+            "x1": 47,
+            "y1": 437,
+            "x2": 216,
+            "y2": 447,
+            "align": ""
+        },
+        {
+            "content": "Sammelheizung",
+            "page": 1,
+            "x1": 329,
+            "y1": 437,
+            "x2": 420,
+            "y2": 447,
+            "align": ""
+        },
+        {
+            "content": "Ofenheizung",
+            "page": 1,
+            "x1": 432,
+            "y1": 437,
+            "x2": 540,
+            "y2": 447,
+            "align": ""
+        },
+        {
+            "content": "Größe:",
+            "page": 1,
+            "x1": 47,
+            "y1": 460,
+            "x2": 87,
+            "y2": 470,
+            "align": ""
+        },
+        {
+            "content": "Zimmer,",
+            "page": 1,
+            "x1": 120,
+            "y1": 460,
+            "x2": 168,
+            "y2": 470,
+            "align": ""
+        },
+        {
+            "content": "m² Wohnfläche",
+            "page": 1,
+            "x1": 218,
+            "y1": 460,
+            "x2": 309,
+            "y2": 470,
+            "align": ""
+        },
+        {
+            "content": "Aufzug",
+            "page": 1,
+            "x1": 317,
+            "y1": 463,
+            "x2": 364,
+            "y2": 473,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 1,
+            "x1": 376,
+            "y1": 463,
+            "x2": 397,
+            "y2": 473,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 1,
+            "x1": 409,
+            "y1": 463,
+            "x2": 460,
+            "y2": 473,
+            "align": ""
+        },
+        {
+            "content": "Etage",
+            "page": 1,
+            "x1": 493,
+            "y1": 460,
+            "x2": 540,
+            "y2": 470,
+            "align": ""
+        },
+        {
+            "content": "(Die Angaben sind freiwillig, jedoch bei der Beantragung eines besonderen Wohnbedarfs notwendig.)",
+            "page": 1,
+            "x1": 47,
+            "y1": 478,
+            "x2": 540,
+            "y2": 488,
+            "align": ""
+        },
+        {
+            "content": "Bitte den Bescheid an meine/meinen Bevollmächtigte(n) senden.",
+            "structure": "3.",
+            "page": 1,
+            "x1": 47,
+            "y1": 507,
+            "x2": 540,
+            "y2": 517,
+            "align": ""
+        },
+        {
+            "content": "Name, Vorname",
+            "page": 1,
+            "x1": 47,
+            "y1": 524,
+            "x2": 226,
+            "y2": 534,
+            "align": ""
+        },
+        {
+            "content": "Straße",
+            "page": 1,
+            "x1": 228,
+            "y1": 524,
+            "x2": 389,
+            "y2": 534,
+            "align": ""
+        },
+        {
+            "content": "PLZ und Ort",
+            "page": 1,
+            "x1": 391,
+            "y1": 524,
+            "x2": 540,
+            "y2": 534,
+            "align": ""
+        },
+        {
+            "content": "Ich bin / Wir sind (Angabe erforderlich nach § 24 WoFG.)",
+            "structure": "4.",
+            "page": 1,
+            "x1": 47,
+            "y1": 563,
+            "x2": 540,
+            "y2": 573,
+            "align": ""
+        },
+        {
+            "content": "Name, Vorname der/des Behinderten",
+            "page": 1,
+            "x1": 219,
+            "y1": 582,
+            "x2": 421,
+            "y2": 592,
+            "align": ""
+        },
+        {
+            "content": "Schwerbehindert GdB",
+            "page": 1,
+            "x1": 70,
+            "y1": 596,
+            "x2": 176,
+            "y2": 606,
+            "align": ""
+        },
+        {
+            "content": "Schwerbehindert GdB",
+            "page": 1,
+            "x1": 70,
+            "y1": 613,
+            "x2": 176,
+            "y2": 623,
+            "align": ""
+        },
+        {
+            "content": "häuslich pflegebedürftig *",
+            "page": 1,
+            "x1": 449,
+            "y1": 583,
+            "x2": 540,
+            "y2": 593,
+            "align": ""
+        },
+        {
+            "content": "häuslich pflegebedürftig *",
+            "page": 1,
+            "x1": 449,
+            "y1": 605,
+            "x2": 540,
+            "y2": 615,
+            "align": ""
+        },
+        {
+            "content": "Schwerbehinderte mit Rollstuhl",
+            "page": 1,
+            "x1": 70,
+            "y1": 634,
+            "x2": 540,
+            "y2": 644,
+            "align": ""
+        },
+        {
+            "content": "(Diese Angaben sind notwendig für die Bescheinigung der Personenkreiszugehörigkeit nach § 27 Abs. 5 WoFG)",
+            "page": 1,
+            "x1": 47,
+            "y1": 650,
+            "x2": 540,
+            "y2": 660,
+            "align": ""
+        },
+        {
+            "content": "\\* im Sinne des § 14 des Elften Buches Sozialgesetzbuch",
+            "page": 1,
+            "x1": 47,
+            "y1": 665,
+            "x2": 540,
+            "y2": 674,
+            "align": ""
+        },
+        {
+            "content": "Für mich/uns besteht ein besonderer Wohnbedarf, weil folgende besondere Gründe vorliegen:",
+            "structure": "5.",
+            "page": 1,
+            "x1": 47,
+            "y1": 695,
+            "x2": 540,
+            "y2": 705,
+            "align": ""
+        },
+        {
+            "content": "(siehe Hinweise unter: D. Sonstige Erläuterungen, Ziff. 5.)",
+            "page": 1,
+            "x1": 47,
+            "y1": 710,
+            "x2": 540,
+            "y2": 720,
+            "align": ""
+        },
+        {
+            "content": "(Die folgenden Angaben sind freiwillig, jedoch bei der Geltendmachung eines besonderen Wohnbedarfs unumgänglich.)",
+            "page": 1,
+            "x1": 47,
+            "y1": 727,
+            "x2": 540,
+            "y2": 736,
+            "align": ""
+        },
+        {
+            "content": "Ich beantrage/Wir beantragen, über die regelmäßige Wohnungsgröße (je Person ein Wohnraum) hinaus, aufgrund folgender **besonderer** persönlicher oder beruflicher Bedürfnisse einen **zusätzlichen** Raumbedarf anzuerkennen (freiwillige Angabe).",
+            "structure": "6.",
+            "page": 2,
+            "x1": 47,
+            "y1": 40,
+            "x2": 540,
+            "y2": 50,
+            "align": ""
+        },
+        {
+            "content": "Haben Sie oder eine der unter 1. aufgeführten Personen in den letzten 12 Monaten einen WBS erhalten?",
+            "structure": "7.",
+            "page": 2,
+            "x1": 47,
+            "y1": 141,
+            "x2": 540,
+            "y2": 151,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 2,
+            "x1": 62,
+            "y1": 162,
+            "x2": 84,
+            "y2": 172,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 2,
+            "x1": 97,
+            "y1": 162,
+            "x2": 197,
+            "y2": 172,
+            "align": ""
+        },
+        {
+            "content": "Falls die Frage bejaht wurde, fügen Sie bitte den WBS Ihrem Antrag bei.",
+            "page": 2,
+            "x1": 47,
+            "y1": 178,
+            "x2": 540,
+            "y2": 188,
+            "align": ""
+        },
+        {
+            "content": "Die Erhebung, Speicherung, Änderung und Nutzung von Daten erfolgt gemäß § 2 WoBindG bzw. § 32 Abs. 2 bis 4 WoFG.",
+            "page": 2,
+            "x1": 47,
+            "y1": 210,
+            "x2": 540,
+            "y2": 220,
+            "align": "start"
+        },
+        {
+            "append": "\n\n",
+            "content": "Ich/Wir stimme(n) der Verarbeitung (erheben, speichern, ändern und nutzen) sämtlicher zuvor aufgeführter persönlicher Daten zu.",
+            "page": 2
+        },
+        {
+            "append": "\n\n",
+            "content": "Darüber hinaus erkläre(n) ich mich/wir uns damit einverstanden, dass für die Zuerkennung eines besonderen Wohnbedarfs bzw. eines Mehrraumbedarfs aus gesundheitlichen Gründen eine gutachterliche Stellungnahme des Landesamtes für Gesundheit und Soziales - Versorgungsamt - unter Bekanntgabe der erforderlichen Daten (Name, Adresse, derzeitige Wohnverhältnisse, Schwerbehindertenbescheid/Atteste) eingeholt werden darf.",
+            "page": 2
+        },
+        {
+            "append": "\n\n",
+            "content": "Mir/Uns ist bekannt, dass ein Wohnberechtigungsschein widerrufen werden kann, wenn er aufgrund unvollständiger oder unrichtiger Angaben, auch in Bezug auf die Einkommensverhältnisse, die mitziehenden Angehörigen und der erklärten zukünftigen Eheschließung erteilt wurde.",
+            "page": 2
+        },
+        {
+            "append": "\n\n",
+            "content": "Arbeitgeber und Finanzämter sind verpflichtet, Auskünfte zum Einkommen zu erteilen, wenn berechtigte Zweifel an der Richtigkeit der Angaben des Antragstellers auftreten.",
+            "page": 2
+        },
+        {
+            "append": "\n\n",
+            "content": "Die Unterzeichner dieses Antrages sind damit einverstanden, dass der Bescheid der 1. im Antrag aufgeführten Personen bzw. der/dem Bevollmächtigten zugeht und die Bekanntgabe des Bescheids gegenüber allen im Antrag aufgeführten Personen gilt.",
+            "page": 2
+        },
+        {
+            "content": "Ich versichere / Wir versichern die Richtigkeit aller Angaben.",
+            "page": 2,
+            "x1": 59,
+            "y1": 478,
+            "x2": 314,
+            "y2": 488,
+            "align": ""
+        },
+        {
+            "content": "Mir ist bekannt, dass falsche Angaben ggf. zur Einleitung eines Ermittlungsverfahrens führen können.",
+            "page": 2,
+            "x1": 59,
+            "y1": 503,
+            "x2": 314,
+            "y2": 513,
+            "align": ""
+        },
+        {
+            "content": "Unterschrift(en)",
+            "page": 2,
+            "x1": 328,
+            "y1": 480,
+            "x2": 517,
+            "y2": 490,
+            "align": ""
+        },
+        {
+            "content": "(aller im Antrag aufgeführten volljährigen Personen)",
+            "page": 2,
+            "x1": 328,
+            "y1": 495,
+            "x2": 517,
+            "y2": 505,
+            "align": ""
+        },
+        {
+            "content": "Ort",
+            "page": 2,
+            "x1": 59,
+            "y1": 531,
+            "x2": 202,
+            "y2": 541,
+            "align": ""
+        },
+        {
+            "content": "Datum",
+            "page": 2,
+            "x1": 241,
+            "y1": 531,
+            "x2": 314,
+            "y2": 541,
+            "align": ""
+        },
+        {
+            "content": ", den",
+            "page": 2,
+            "x1": 204,
+            "y1": 546,
+            "x2": 241,
+            "y2": 556,
+            "align": ""
+        },
+        {
+            "content": "Telefon - Nummer (für Rückfragen tagsüber)",
+            "page": 2,
+            "x1": 59,
+            "y1": 593,
+            "x2": 314,
+            "y2": 603,
+            "align": ""
+        },
+        {
+            "content": "Diesem Antrag sind beizufügen:",
+            "style": "font-weight: bold",
+            "page": 2,
+            "x1": 154,
+            "y1": 667,
+            "x2": 540,
+            "y2": 677,
+            "align": ""
+        },
+        {
+            "content": "Für jede im Antrag aufgeführte Person eine Einkommenserklärung nach Vordruck und die entsprechenden Einkommensnachweise (z.B. Einkommensbescheinigung des Arbeitgebers, Einkommensteuerbescheid bei Selbstständigen, Rentenbescheide).",
+            "style": "font-weight: bold",
+            "page": 2,
+            "x1": 154,
+            "y1": 689,
+            "x2": 540,
+            "y2": 699,
+            "align": ""
+        },
+        {
+            "content": "Hinweise",
+            "page": 3,
+            "x1": 26,
+            "y1": 26,
+            "x2": 542,
+            "y2": 40,
+            "align": "start"
+        },
+        {
+            "content": "Allgemeines",
+            "structure": "A.",
+            "page": 3,
+            "x1": 26,
+            "y1": 48,
+            "x2": 542,
+            "y2": 58,
+            "align": "start"
+        },
+        {
+            "content": "Eine belegungsgebundene Wohnung darf einem Wohnungssuchenden nur überlassen werden, wenn er - gemäß § 5 des Wohnungsbindungsgesetzes (WoBindG) bzw. § 27 Wohnraumförderungsgesetz (WoFG) in der jeweils geltenden Fassung - wohnberechtigt ist. Danach ist einem/einer antragsberechtigten Wohnungssuchenden auf Antrag ein Wohnberechtigungsschein (WBS) zu erteilen, wenn das Gesamteinkommen die sich aus § 9 Wohnraumförderungsgesetz (WoFG) i.V.m. der Verordnung über die Abweichung von den Einkommensgrenzen des § 9 Abs. 2 des Wohnraumfördergesetzes ergebende Einkommensgrenze nicht übersteigt. Für die Ermittlung des Einkommens gelten die Bestimmungen der §§ 20 bis 24 WoFG.",
+            "page": 3,
+            "x1": 36,
+            "y1": 63,
+            "x2": 542,
+            "y2": 73,
+            "align": "start"
+        },
+        {
+            "append": "\n\n",
+            "content": "Ein(e) Vermieter(in) einer belegungsgebundenen Wohnung darf diese nur gegen Vorlage eines WBS überlassen.  Die Überlassung einer Wohnung an den Inhaber eines WBS setzt im Einzelnen noch voraus, dass",
+            "page": 3
+        },
+        {
+            "append": "\n\n",
+            "content": "a) die Wohnung nicht mehr Räume hat, als im WBS angegeben sind;",
+            "page": 3
+        },
+        {
+            "append": "\n\n",
+            "content": "b) ggf. im WBS eine Zugehörigkeit zu dem Personenkreis angegeben ist, dem die Wohnung vorbehalten wurde;",
+            "page": 3
+        },
+        {
+            "append": "\n\n",
+            "content": "Die Erfüllung der Voraussetzungen, unter denen ein WBS ggf. erteilt wurde, müssen auf Anforderung des Wohnungsamtes nachgewiesen werden.",
+            "page": 3
+        },
+        {
+            "content": "Hinweise für die Antragstellung",
+            "structure": "B.",
+            "page": 3,
+            "x1": 26,
+            "y1": 259,
+            "x2": 542,
+            "y2": 269,
+            "align": "start"
+        },
+        {
+            "content": "Vermeiden Sie die zwangsläufig auftretenden Wartezeiten. Senden Sie den **vollständig ausgefüllten und unterschriebenen Antrag mit allen Erklärungen und erforderlichen Nachweisen** - ggf. Ablichtung hiervon - ausreichend frankiert an das für Sie zuständige Bezirksamt, Wohnungsamt.",
+            "page": 3,
+            "x1": 36,
+            "y1": 276,
+            "x2": 542,
+            "y2": 286,
+            "align": "start"
+        },
+        {
+            "append": "\n\n",
+            "content": "**Zuständig ist das Wohnungsamt in dessen Wohnbezirk Sie melderechtlich erfasst sind**. Ist keiner der im Antrag aufgeführten volljährigen Personen bisher in Berlin wohnhaft, kann eines der zwölf in Berlin befindlichen Wohnungsämter als zuständiges Wohnungsamt ausgewählt werden.",
+            "page": 3
+        },
+        {
+            "append": "\n\n",
+            "content": "Bitte füllen Sie den Vordruck erst aus, nachdem Sie die nachfolgenden Erläuterungen gelesen haben. Sie können die Bearbeitung Ihres Antrages erleichtern, wenn Sie den Vordruck deutlich lesbar ausfüllen.",
+            "page": 3
+        },
+        {
+            "content": "Erläuterungen zu",
+            "structure": "C.",
+            "page": 3,
+            "x1": 26,
+            "y1": 397,
+            "x2": 542,
+            "y2": 407,
+            "align": "start"
+        },
+        {
+            "content": "Im WBS können nur Haushaltsangehörige im Sinne des § 18 WoFG berücksichtigt werden. Hierzu rechnen Ehegatten, Lebenspartner, der Partner einer sonstigen auf Dauer angelegten Lebensgemeinschaft und minderjährige Kinder (eheliche, nichteheliche, Adoptiv- und Pflegekinder), die bereits im gemeinsamen Haushalt leben oder auf Dauer aufgenommen werden sollen; ferner volljährige Kinder, Eltern, Großeltern, Enkelkinder und Geschwister, die auf Dauer in die Wohnung mitziehen.",
+            "structure": "1.",
+            "page": 3,
+            "x1": 36,
+            "y1": 413,
+            "x2": 542,
+            "y2": 423,
+            "align": "start"
+        },
+        {
+            "content": "Wird durch Vorlage des Mutterpasses (Ablichtungen der Seite 2 - Name, Seite 6 und 7 - Entbindungstermin/Schwangerschaftswoche) oder einer gleichwertigen ärztlichen Bescheinigung eine mindestens in der 14. Woche bestehende Schwangerschaft nachgewiesen, ist das noch ungeborene Kind im WBS zu berücksichtigen.",
+            "style": "font-weight: bold",
+            "page": 3,
+            "x1": 36,
+            "y1": 478,
+            "x2": 542,
+            "y2": 488,
+            "align": "start"
+        },
+        {
+            "append": "\n\n",
+            "content": "In den vorgenannten Unterlagen können dabei alle Daten/Angaben unkenntlich gemacht werden, die nicht einer Zuordnung der bestehenden Schwangerschaft betreffen.",
+            "page": 3
+        },
+        {
+            "content": "Es bedarf eines besonderen Nachweises über die Berechtigung der Aufenthaltsbestimmung für nichteheliche Kinder, Kinder aus früheren Ehen, Pflegekinder und - sofern Sie in Scheidung oder von Ihrem Ehegatten dauernd getrennt leben - auch für eheliche Kinder (ggf. Beschluss des Familiengerichts oder beglaubigte Abschrift vom Jugendamt über das Sorgerecht, Pflegeerlaubnis). Bei Ausübung eines gemeinsamen Sorgerechts bedarf es einer ergänzenden Erklärung beider Erziehungsberechtigten auf dem Formular BauWohn 549.",
+            "page": 3,
+            "x1": 36,
+            "y1": 565,
+            "x2": 542,
+            "y2": 575,
+            "align": "start"
+        },
+        {
+            "append": "\n\n",
+            "content": "Der **zukünftige Ehegatte** ist kein Angehöriger im Sinne des WoFG; er kann nur berücksichtigt werden, wenn beabsichtigt ist, spätestens innerhalb von sechs Monaten nach Überlassung der gemeinsam zu beziehenden Wohnung die Ehe zu schließen. Der WBS enthält ggf. einen entsprechenden Widerrufsvorbehalt, nämlich immer dann, wenn bei der Bescheiderteilung Vergünstigungen für junge Ehepaare (zusätzlicher Wohnraum und Freibetrag in Höhe von 4000 €) zugebilligt wurden.",
+            "page": 3
+        },
+        {
+            "append": "\n\n",
+            "content": "Ist eine **Eheschließung nicht mit Sicherheit** bis spätestens innerhalb von sechs Monaten nach Überlassung der gemeinsam zu beziehenden Wohnung **vorgesehen**, wird empfohlen, den WBS als Partner einer sonstigen auf Dauer angelegten Lebensgemeinschaft zu beantragen. Andernfalls ist nicht auszuschließen, dass im Wege des Widerrufs des Wohnberechtigungscheines die unberechtigt bezogene Wohnung aufzugeben ist.",
+            "page": 3
+        },
+        {
+            "content": "**Partner einer sonstigen auf Dauer angelegten Lebensgemeinschaft** können im WBS berücksichtigt werden, wenn bereits eine gemeinsame Haushaltsführung nachgewiesen wird oder spätestens innerhalb von sechs Monaten nach Überlassung der Wohnung eine auf Dauer angelegte Lebensgemeinschaft begründet werden soll. Im letzteren Fall ist eine ergänzende Erklärung für zukünftige Lebenspartner abzugeben. Der entsprechende Vordruck (Vordruck BauWohn 550) ist beim Wohnungsamt erhältlich oder kann im Internet abgerufen werden.",
+            "page": 4,
+            "x1": 36,
+            "y1": 21,
+            "x2": 542,
+            "y2": 31,
+            "align": "start"
+        },
+        {
+            "append": "\n\n",
+            "content": "Sofern Sie und Ihr Ehegatte / Ihre Ehegattin noch nicht 40 Jahre alt sind und nach dem Jahr Ihrer Eheschließung nicht mehr als fünf Kalenderjahre vergangen sind, fügen Sie bitte eine Ablichtung Ihrer Heiratsurkunde bei; nur dann kann der Freibetrag für junge Eheleute abgesetzt werden.",
+            "page": 4
+        },
+        {
+            "append": "\n\n",
+            "content": "Sollten Sie von Ihrem Ehegatten / Ihrer Ehegattin oder eingetragenen Lebenspartner(in) **dauernd getrennt leben**, so erläutern Sie dies im Einzelnen auf einem beigefügten Blatt, geben Sie auch die Anschrift der Wohnung Ihres Ehegatten / Ihrer Ehegattin / eingetragenen Lebenspartners / Lebenspartnerin an; fügen Sie bitte Nachweise bei, z. B. Ablichtung der Scheidungsklage, Klage auf Aufhebung der eingetragenen Lebenspartnerschaft, Unterhaltsvereinbarung, Aufenthaltsbescheinigung der Meldebehörde, Miet - oder Untermietvertrag. Sollten Sie und / oder Ihre Haushaltsangehörigen nicht die deutsche Staatsangehörigkeit besitzen, sind Nachweise (Ablichtungen) über den nicht nur vorübergehenden und für längere Dauer berechtigten Aufenthalt in der Bundesrepublik Deutschland zu erbringen.",
+            "page": 4
+        },
+        {
+            "append": "\n\n",
+            "content": "Sie und jede mitziehende Person hat eine Einkommenserklärung (Vordruck BauWohn 504) auszufüllen und ggf. eine Einkommensbescheinigung (Vordruck BauWohn 504a) einzureichen.",
+            "page": 4
+        },
+        {
+            "content": "Unter 2A geben Sie bitte Ihre Wohnanschrift an und machen kenntlich, welche der unter 1. aufgeführten Personen ebenfalls dort zurzeit wohnen. Unter 2B tragen Sie bitte die Anschrift der Personen ein, die zurzeit mit Ihnen in einem Haushalt leben, aber spätestens sechs Monate nach Überlassung der Wohnung in den Haushalt aufgenommen werden sollen.",
+            "structure": "2.",
+            "page": 4,
+            "x1": 36,
+            "y1": 263,
+            "x2": 542,
+            "y2": 273,
+            "align": "start"
+        },
+        {
+            "content": "Hier wird nach einem Bevollmächtigten gefragt, falls diesem der Bescheid übersandt werden soll.",
+            "structure": "3.",
+            "page": 4,
+            "x1": 36,
+            "y1": 317,
+            "x2": 542,
+            "y2": 327,
+            "align": "start"
+        },
+        {
+            "content": "Sonstige Erläuterungen",
+            "style": "font-weight: bold",
+            "structure": "D.",
+            "page": 4,
+            "x1": 26,
+            "y1": 339,
+            "x2": 542,
+            "y2": 349,
+            "align": "start"
+        },
+        {
+            "content": "Für die Angaben müssen die entsprechenden Belege (z. B. Anerkennungsbescheid für Schwerbehinderte, Nachweis der häuslichen Pflegebedürftigkeit) beigefügt werden. Schwerbehinderungen mit einem Grad der Behinderung von unter 100 mindestens jedoch 80 vom Hundert führen nur bei häuslicher Pflegebedürftigkeit im Sinne des § 14 des Elften Buches Sozialgesetzbuch zu einem Freibetrag.",
+            "structure": "4.",
+            "page": 4,
+            "x1": 36,
+            "y1": 359,
+            "x2": 542,
+            "y2": 369,
+            "align": "start"
+        },
+        {
+            "content": "Anspruch auf einen \"WBS mit besonderem Wohnbedarf\" haben folgende Berechtigungsgruppen:",
+            "style": "font-weight: bold",
+            "structure": "5.",
+            "page": 4,
+            "x1": 26,
+            "y1": 414,
+            "x2": 542,
+            "y2": 424,
+            "align": "start"
+        },
+        {
+            "content": "1. Alleinerziehende, Familien und Lebensgemeinschaften mit Kind/ Kindern",
+            "page": 4,
+            "x1": 26,
+            "y1": 437,
+            "x2": 542,
+            "y2": 447,
+            "align": "start"
+        },
+        {
+            "append": "\n\n\t- ",
+            "content": "in räumlich unzureichenden Wohnverhältnissen oder",
+            "page": 4
+        },
+        {
+            "append": "\n\t- ",
+            "content": "ohne eigene Wohnung oder",
+            "page": 4
+        },
+        {
+            "append": "\n\t- ",
+            "content": "bei erheblichen Mietsteigerungen der bisherigen Wohnung.",
+            "page": 4
+        },
+        {
+            "append": "\n\n\t",
+            "content": "Als Kind gilt auch, wenn durch Vorlage des Mutterpasses oder einer gleichwertigen ärztlichen Bescheinigung eine Schwangerschaft von der 14. Woche ab nachgewiesen ist.",
+            "page": 4
+        },
+        {
+            "append": "\n\n\t",
+            "content": "Unzureichende Wohnverhältnisse liegen - unbeschadet weitergehender Regelungen in Gesetzen und Verordnungen - vor, wenn in der Regel nicht mindestens zur Verfügung stehen:",
+            "page": 4
+        },
+        {
+            "append": "\n\n\t- ",
+            "content": "für zwei Personen",
+            "page": 4
+        },
+        {
+            "append": "\t",
+            "content": "ein Wohnraum",
+            "page": 4
+        },
+        {
+            "append": "\n\t- ",
+            "content": "für drei Personen",
+            "page": 4
+        },
+        {
+            "append": "\t",
+            "content": "zwei Wohnräume",
+            "page": 4
+        },
+        {
+            "append": "\n\t- ",
+            "content": "für vier und fünf Personen",
+            "page": 4
+        },
+        {
+            "append": "\t",
+            "content": "drei Wohnräume",
+            "page": 4
+        },
+        {
+            "append": "\n\t- ",
+            "content": "für sechs Personen und mehr",
+            "page": 4
+        },
+        {
+            "append": "\t",
+            "content": "vier Wohnräume",
+            "page": 4
+        },
+        {
+            "append": "\n\n\t",
+            "content": "Eine erhebliche Mietsteigerung liegt vor, wenn sich die tatsächlich verlangte Nettokaltmiete um mehr als 15 Prozent erhöht und mindestens 5,50 €/m2 Wohnfläche monatlich nettokalt beträgt.",
+            "page": 4
+        },
+        {
+            "content": "2. Ältere Personen (die das 65. Lebensjahr überschritten haben)",
+            "page": 4,
+            "x1": 26,
+            "y1": 659,
+            "x2": 542,
+            "y2": 669,
+            "align": "start"
+        },
+        {
+            "append": "\n\n\t- ",
+            "content": "bei Aufgabe einer unterbelegten Mietwohnung (Wohnraumzahl > Personenzahl) oder",
+            "page": 4
+        },
+        {
+            "append": "\n\t- ",
+            "content": "ohne eigene Wohnung oder",
+            "page": 4
+        },
+        {
+            "append": "\n\t- ",
+            "content": "bei erheblichen Mietsteigerungen der bisherigen Wohnung.",
+            "page": 4
+        },
+        {
+            "content": "Der Personenkreis ältere Personen umfasst Alleinstehende, Eheleute und Lebensgemeinschaften.  Eine Zuordnung zur Berechtigungsgruppe kann nicht erfolgen, sofern unterbelegte Eigentumswohnungen oder Häuser aufgegeben werden.",
+            "page": 5,
+            "x1": 46,
+            "y1": 25,
+            "x2": 542,
+            "y2": 35,
+            "align": "start"
+        },
+        {
+            "append": "\n\n",
+            "content": "Eine erhebliche Mietsteigerung liegt vor, wenn sich die tatsächlich verlangte Nettokaltmiete um mehr als 15 Prozent erhöht und mindestens 5,50 €/m2 Wohnfläche nettokalt beträgt.",
+            "page": 5
+        },
+        {
+            "content": "3. Personen mit behördlich anerkannter und nachgewiesener Schwerbehinderung (50 v.H. und mehr), wenn die derzeitigen Wohnverhältnisse wegen der anerkannten Leiden für sie objektiv ungeeignet sind und sie deshalb",
+            "page": 5,
+            "x1": 26,
+            "y1": 95,
+            "x2": 542,
+            "y2": 105,
+            "align": "start"
+        },
+        {
+            "append": "\n\n\t- ",
+            "content": "einer anderen Wohnung bedürfen oder",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "einer eigenen Wohnung bedürfen.",
+            "page": 5
+        },
+        {
+            "append": "\n\n\t",
+            "content": "Bestehen bei der Zuordnung zur Berechtigungsgruppe Zweifel am Wohnungsbedarf, so hat die für die Zuordnung zuständige Stelle eine gutachterliche Stellungnahme bei der behördlich zuständigen Stelle für die Anerkennung der Behinderung einzuholen.",
+            "page": 5
+        },
+        {
+            "append": "\n\n",
+            "content": "4. Alleinstehende psychisch Kranke ohne eigene Wohnung, die aufgrund ihres Krankheitsbildes nicht in der Lage sind, sich nach der Klinikentlassung mit eigenem Wohnraum zu versorgen.",
+            "page": 5
+        },
+        {
+            "append": "\n\n",
+            "content": "5. Umzusetzende, die nach einer Bescheinigung der zuständigen Stelle während der Geltungsdauer ihres Wohnberechtigungsscheines zur Freimachung verpflichtet sind aufgrund",
+            "page": 5
+        },
+        {
+            "append": "\n\n\t- ",
+            "content": "anerkannter Maßnahmen der Gewerbe- und Industrieansiedlung oder",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "öffentlicher Hoch- und Tiefbau- sowie Garten- und Landschaftsbaumaßnahmen oder",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "anerkannter Stadterneuerungs- oder Modernisierungsmaßnahmen.",
+            "page": 5
+        },
+        {
+            "append": "\n\n",
+            "content": "6. Opfer der nationalsozialistischen Verfolgung ohne eigene Wohnung in Berlin.",
+            "page": 5
+        },
+        {
+            "append": "\n\n",
+            "content": "7. Folgende Personen ohne eigene Wohnung in Berlin",
+            "page": 5
+        },
+        {
+            "append": "\n\n\t- ",
+            "content": "Anspruchsberechtigte nach dem Häftlingshilfegesetz,",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "aus Freiheitsentziehung Entlassene,",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "Flüchtlinge mit anerkanntem (mindestens noch für ein Jahr) Aufenthaltsrecht sowie",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "Personen, die in Einrichtungen der sozialen Wohnhilfe oder sonstigen Behelfsunterkünften oder vergleichbaren Unterkünften des Jugend-, Frauen- und Sozialwesens (z. B. Frauenhäuser, Zufluchtswohnungen für geschlagene Frauen oder Mädchenhaus) - mit Ausnahme von Einrichtungen für Aus- und Übersiedler - leben.",
+            "page": 5
+        },
+        {
+            "append": "\n\n",
+            "content": "8. Räumungspflichtige Wohnungsinhaber",
+            "page": 5
+        },
+        {
+            "append": "\n\n\t- ",
+            "content": "in der Regel nach Vorlage eines gerichtlichen Räumungstitels oder",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "aufgrund eines bau- oder wohnungsaufsichtlichen Benutzungsverbotes oder",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "deren Mietverhältnis wegen Beendigung ihres Arbeitsverhältnisses endet, sofern dieses mindestens ein Jahr bestanden hat oder",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "mit Hauswart-Dienstvertrag, sofern dieser wegen Erreichens der Altersgrenze oder aus gesundheitlichen Gründen gekündigt worden ist oder",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "die als Hinterbliebene von Dienst- oder Werkwohnungsinhabern zur Aufgabe der Wohnung verpflichtet sind oder",
+            "page": 5
+        },
+        {
+            "append": "\n\t- ",
+            "content": "getrennt lebende Ehepaare mit Kindern, sofern nach der Stellungnahme des Jugendamtes ein Verbleiben des Wohnungssuchenden mit den im Wohnberechtigungsschein zu berücksichtigenden Kindern in der ehelichen Wohnung unzumutbar ist oder es sich um eine Wohnung handelt, die aufgrund ihrer Zweckbestimmung dem anderen Ehegatten zusteht (Dienst-, Werkwohnung).",
+            "page": 5
+        },
+        {
+            "append": "\n\n",
+            "content": "9. Empfänger von Leistungen der Grundsicherung für Arbeitsuchende nach dem SGB II sowie Empfänger von Leistungen der Sozialhilfe nach dem SBG XII, sofern eine konkrete Aufforderung zum Umzug in eine \"angemessene Wohnung\" durch die zuständige Stelle vorliegt.",
+            "page": 5
+        },
+        {
+            "append": "\n\n\t",
+            "content": "**Beachten Sie**: Zur Anerkennung des besonderen Wohnbedarfs müssen Sie mindestens ein Jahr mit Hauptwohnsitz in Berlin gemeldet sein.",
+            "page": 5
+        },
+        {
+            "content": "Zusätzlicher Raumbedarf kann nur anerkannt werden, wenn besondere persönliche oder berufliche Bedürfnisse vorliegen oder nach allgemeiner Lebenserfahrung in absehbarer Zeit zu erwarten sind (z. B. Geburt eines Kindes).  Fügen Sie bitte die erforderlichen Nachweise bei.",
+            "structure": "6.",
+            "page": 5,
+            "x1": 36,
+            "y1": 624,
+            "x2": 542,
+            "y2": 634,
+            "align": "start"
+        },
+        {
+            "content": "Wie groß darf eine Sozialwohnung bzw. Belegungsbindungswohnung sein?",
+            "style": "font-weight: bold",
+            "page": 6,
+            "x1": 36,
+            "y1": 14,
+            "x2": 542,
+            "y2": 24,
+            "align": ""
+        },
+        {
+            "content": "Ist ein WBS-Antrag geprüft und gehören Sie zum Kreis der Berechtigten, wird der (ein Jahr lang) gültige Wohnberechtigungsschein zugeschickt. Darauf ist u.a. die angemessene Wohnungsgröße vermerkt.",
+            "page": 6,
+            "x1": 36,
+            "y1": 38,
+            "x2": 542,
+            "y2": 48,
+            "align": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Grundsätzlich gilt Folgendes: Je ein Wohnraum für den Wohnberechtigten und jeden seiner mit einziehenden Angehörigen. Also: Ein Alleinstehender hätte Anspruch auf eine Einzimmerwohnung, einem Ehepaar mit drei Kindern stünden maximal fünf Wohnräume zu.",
+            "page": 6
+        },
+        {
+            "append": "\n\n",
+            "content": "Können besondere persönliche oder berufliche Bedürfnisse geltend gemacht werden, wird auch zusätzlicher Wohnraum anerkannt.",
+            "page": 6
+        },
+        {
+            "append": "\n\n",
+            "content": "Hier nur einige Beispiele:",
+            "page": 6
+        },
+        {
+            "append": "\n\n- ",
+            "content": "Ein Mieter braucht in seiner Wohnung eine ständige Betreuungsperson, um die Aufnahme in ein Pflegeheim zu vermeiden.",
+            "page": 6
+        },
+        {
+            "append": "\n- ",
+            "content": "Ein Mieter kann seinen Beruf nur in der Wohnung ausüben, von der damit auch seine Existenz abhängt.",
+            "page": 6
+        },
+        {
+            "append": "\n\n",
+            "content": "Es gibt auch noch andere Gründe, auf dem WBS einen zusätzlichen Raumbedarf anzuerkennen. Zum Beispiel für junge, bisher kinderlose Ehepaare, die nicht gleich wieder auf Wohnungssuche gehen sollen, wenn sich Nachwuchs einstellt.",
+            "page": 6
+        },
+        {
+            "content": "Rechtliche Grundlagen/Erläuterung der Abkürzungen, Fundstellen",
+            "style": "font-weight: bold",
+            "structure": "E.",
+            "page": 6,
+            "x1": 26,
+            "y1": 258,
+            "x2": 542,
+            "y2": 268,
+            "align": ""
+        },
+        {
+            "content": "WoBindG",
+            "page": 6,
+            "x1": 56,
+            "y1": 281,
+            "x2": 156,
+            "y2": 291,
+            "align": ""
+        },
+        {
+            "content": "Gesetz zur Sicherung der Zweckbestimmung von Sozialwohnungen (Wohnungsbindungsgesetz - WoBindG) in der Fassung der Bekanntmachung vom 13. September 2001 (BGBl. I S. 2404), zuletzt geändert durch Artikel 126 der Verordnung vom 31. August 2015 (BGBl. I S. 1474)",
+            "page": 6,
+            "x1": 158,
+            "y1": 281,
+            "x2": 542,
+            "y2": 291,
+            "align": ""
+        },
+        {
+            "content": "WoFG",
+            "page": 6,
+            "x1": 56,
+            "y1": 336,
+            "x2": 156,
+            "y2": 346,
+            "align": ""
+        },
+        {
+            "content": "Gesetz über die soziale Wohnraumförderung (Wohnraumförderungsgesetz - WoFG) vom 13. September 2001 (BGBl. I S. 2376), zuletzt geändert durch Artikel 3 des Gesetzes vom 02. Oktober 2015 (BGBl. I S. 1610)",
+            "page": 6,
+            "x1": 158,
+            "y1": 336,
+            "x2": 542,
+            "y2": 346,
+            "align": ""
+        },
+        {
+            "content": "Verordnung über die Abweichung von den Einkommensgrenzen des § 9 Abs. 2 des WoFG vom 3. Dezember 2013 (GVBl. S. 895).",
+            "page": 6,
+            "x1": 158,
+            "y1": 383,
+            "x2": 542,
+            "y2": 393,
+            "align": ""
+        }
+    ],
+    "title": "Antrag auf einen Wohnberechtigungsschein (WBS)",
+    "url": "https://senstadtfms.stadt-berlin.de/intelliform/forms/Wohnen/berlin/BW502/index"
+}

@@ -1,0 +1,1364 @@
+{
+    "checksum": "15db70322fd2bc837e432390be568b47",
+    "date": "2015-12-01",
+    "rows": [
+        {
+            "content": "Einkommenserklärung",
+            "page": 0,
+            "x1": 45,
+            "y1": 27,
+            "x2": 178,
+            "y2": 40,
+            "align": ""
+        },
+        {
+            "content": "Anlage zum Antrag auf eine(n)",
+            "page": 0,
+            "x1": 180,
+            "y1": 30,
+            "x2": 366,
+            "y2": 40,
+            "align": ""
+        },
+        {
+            "content": "Wohnberechtigungsschein (WBS)",
+            "page": 0,
+            "x1": 380,
+            "y1": 29,
+            "x2": 545,
+            "y2": 39,
+            "align": ""
+        },
+        {
+            "content": "Mietzuschuss für den **Sozialen Wohnungsbau** nach WoG Bln",
+            "page": 0,
+            "x1": 380,
+            "y1": 48,
+            "x2": 545,
+            "y2": 58,
+            "align": ""
+        },
+        {
+            "content": "Einkommensbescheinigung nach § 9 Abs. 2 WoFG",
+            "page": 0,
+            "x1": 380,
+            "y1": 77,
+            "x2": 545,
+            "y2": 87,
+            "align": ""
+        },
+        {
+            "content": "Bescheinigung nach der RLvF",
+            "page": 0,
+            "x1": 380,
+            "y1": 105,
+            "x2": 545,
+            "y2": 115,
+            "align": ""
+        },
+        {
+            "content": "Genehmigung zur Selbstnutzung nach § 7 Abs. 3 WoBindG i.V.m.  § 27 Abs. 7 Nr. 1 WoFG",
+            "page": 0,
+            "x1": 380,
+            "y1": 123,
+            "x2": 545,
+            "y2": 133,
+            "align": ""
+        },
+        {
+            "content": "Dieser Vordruck ist *jeweils* vom Antragsteller und von jedem *Haushaltsangehörigen* auszufüllen!",
+            "page": 0,
+            "x1": 55,
+            "y1": 56,
+            "x2": 366,
+            "y2": 66,
+            "align": ""
+        },
+        {
+            "content": "Wichtig:",
+            "page": 0,
+            "x1": 55,
+            "y1": 98,
+            "x2": 366,
+            "y2": 108,
+            "align": ""
+        },
+        {
+            "content": "Die Nummern 1.1 - 4.3 und 7 sind mit ja oder nein zu beantworten!",
+            "page": 0,
+            "x1": 55,
+            "y1": 112,
+            "x2": 366,
+            "y2": 122,
+            "align": ""
+        },
+        {
+            "content": "für",
+            "page": 0,
+            "x1": 45,
+            "y1": 173,
+            "x2": 366,
+            "y2": 183,
+            "align": ""
+        },
+        {
+            "content": "Name, Vorname, Anschrift",
+            "page": 0,
+            "x1": 41,
+            "y1": 190,
+            "x2": 350,
+            "y2": 200,
+            "align": ""
+        },
+        {
+            "content": "Name, Vorname des Antragstellers",
+            "page": 0,
+            "x1": 355,
+            "y1": 190,
+            "x2": 544,
+            "y2": 200,
+            "align": ""
+        },
+        {
+            "content": "Bitte Erläuterungen auf Seite 3 beachten !",
+            "page": 0,
+            "x1": 41,
+            "y1": 253,
+            "x2": 289,
+            "y2": 263,
+            "align": "center"
+        },
+        {
+            "content": "Bitte Nachweise (Kopien) beifügen !",
+            "page": 0,
+            "x1": 353,
+            "y1": 253,
+            "x2": 545,
+            "y2": 263,
+            "align": "center"
+        },
+        {
+            "content": "letzte 12 Monate vor Antragstellung",
+            "page": 0,
+            "x1": 353,
+            "y1": 268,
+            "x2": 456,
+            "y2": 278,
+            "align": "center"
+        },
+        {
+            "content": "im Monat der Antragstellung",
+            "page": 0,
+            "x1": 460,
+            "y1": 268,
+            "x2": 545,
+            "y2": 278,
+            "align": "center"
+        },
+        {
+            "content": "Nein",
+            "page": 0,
+            "x1": 292,
+            "y1": 296,
+            "x2": 321,
+            "y2": 306,
+            "align": "center"
+        },
+        {
+            "content": "Ja",
+            "page": 0,
+            "x1": 324,
+            "y1": 296,
+            "x2": 350,
+            "y2": 306,
+            "align": "center"
+        },
+        {
+            "content": "Betrag:",
+            "page": 0,
+            "x1": 353,
+            "y1": 296,
+            "x2": 456,
+            "y2": 306,
+            "align": "center"
+        },
+        {
+            "content": "Betrag:",
+            "page": 0,
+            "x1": 460,
+            "y1": 296,
+            "x2": 545,
+            "y2": 306,
+            "align": "center"
+        },
+        {
+            "content": "Ich bezog bzw. beziehe",
+            "structure": "1.",
+            "page": 0,
+            "x1": 62,
+            "y1": 296,
+            "x2": 289,
+            "y2": 306,
+            "align": ""
+        },
+        {
+            "content": "Einnahmen aus nichtselbstständiger Arbeit (Brutto) (auch Minijob oder geringfügige Tätigkeit)",
+            "structure": "1.1",
+            "page": 0,
+            "x1": 62,
+            "y1": 313,
+            "x2": 289,
+            "y2": 323,
+            "align": ""
+        },
+        {
+            "content": "Einnahmen aus Pensionen und/oder Firmenrenten (Brutto)",
+            "structure": "1.2",
+            "page": 0,
+            "x1": 62,
+            "y1": 339,
+            "x2": 289,
+            "y2": 349,
+            "align": ""
+        },
+        {
+            "content": "Einnahmen aus Renten (z.B. LVA, BfA, BVG) (Brutto)",
+            "structure": "1.3",
+            "page": 0,
+            "x1": 62,
+            "y1": 371,
+            "x2": 289,
+            "y2": 381,
+            "align": ""
+        },
+        {
+            "content": "Einnahmen aus Lohnersatzleistungen, z.B. Arbeitslosengeld, Krankengeld, Elterngeld",
+            "structure": "1.4",
+            "page": 0,
+            "x1": 62,
+            "y1": 392,
+            "x2": 289,
+            "y2": 402,
+            "align": ""
+        },
+        {
+            "content": "Einnahmen aus BAFöG, Berufsausbildungsbeihilfe nach AFG, Begabtenförderung o.ä.",
+            "structure": "1.5",
+            "page": 0,
+            "x1": 62,
+            "y1": 419,
+            "x2": 289,
+            "y2": 429,
+            "align": ""
+        },
+        {
+            "content": "Leistungen nach dem Unterhaltsvorschussgesetz, aus gesetzlichem Unterhalt",
+            "structure": "1.6",
+            "page": 0,
+            "x1": 62,
+            "y1": 444,
+            "x2": 289,
+            "y2": 454,
+            "align": ""
+        },
+        {
+            "content": "andere Einnahmen / Einkünfte / Sachleistungen",
+            "structure": "1.7",
+            "page": 0,
+            "x1": 62,
+            "y1": 476,
+            "x2": 289,
+            "y2": 486,
+            "align": ""
+        },
+        {
+            "content": "Einnahmen aus Kapitalvermögen - insgesamt -",
+            "structure": "1.8",
+            "page": 0,
+            "x1": 62,
+            "y1": 498,
+            "x2": 289,
+            "y2": 508,
+            "align": ""
+        },
+        {
+            "content": "- ohne Abzug des Betrages von 100 EUR i.S. des § 21 Abs. 2 Nr. 3.1 WoFG",
+            "page": 0,
+            "x1": 56,
+            "y1": 510,
+            "x2": 289,
+            "y2": 520,
+            "align": ""
+        },
+        {
+            "content": "- ohne Absetzung des Sparer-Pauschbetrags - (z.B. Zinsen aus Sparguthaben, Wertpapieren)",
+            "append": "\n",
+            "page": 0
+        },
+        {
+            "content": "Betrag im Jahr vor Antragstellung",
+            "page": 0,
+            "x1": 353,
+            "y1": 498,
+            "x2": 545,
+            "y2": 508,
+            "align": "center"
+        },
+        {
+            "content": "Einkünfte aus selbstständiger Arbeit",
+            "structure": "1.9",
+            "page": 0,
+            "x1": 62,
+            "y1": 562,
+            "x2": 289,
+            "y2": 572,
+            "align": ""
+        },
+        {
+            "content": "Einkünfte aus Gewerbebetrieb",
+            "structure": "1.10",
+            "page": 0,
+            "x1": 62,
+            "y1": 588,
+            "x2": 289,
+            "y2": 598,
+            "align": ""
+        },
+        {
+            "content": "Einkünfte aus Land und Forstwirtschaft",
+            "structure": "1.11",
+            "page": 0,
+            "x1": 62,
+            "y1": 613,
+            "x2": 289,
+            "y2": 623,
+            "align": ""
+        },
+        {
+            "content": "Einkünfte aus Vermietung und Verpachtung",
+            "structure": "1.12",
+            "page": 0,
+            "x1": 62,
+            "y1": 639,
+            "x2": 289,
+            "y2": 649,
+            "align": ""
+        },
+        {
+            "content": "Ich mache anerkannte erhöhte Werbungskosten geltend (Bescheid/Bescheinigung vom Finanzamt)",
+            "structure": "2.",
+            "page": 0,
+            "x1": 62,
+            "y1": 672,
+            "x2": 289,
+            "y2": 682,
+            "align": ""
+        },
+        {
+            "content": "letzte 12 Monate vor Antragstellung",
+            "page": 1,
+            "x1": 355,
+            "y1": 38,
+            "x2": 458,
+            "y2": 48,
+            "align": "center"
+        },
+        {
+            "content": "im Monat der Antragstellung",
+            "page": 1,
+            "x1": 462,
+            "y1": 38,
+            "x2": 547,
+            "y2": 48,
+            "align": "center"
+        },
+        {
+            "content": "Nein",
+            "page": 1,
+            "x1": 293,
+            "y1": 34,
+            "x2": 322,
+            "y2": 44,
+            "align": "center"
+        },
+        {
+            "content": "Ja",
+            "page": 1,
+            "x1": 325,
+            "y1": 34,
+            "x2": 351,
+            "y2": 44,
+            "align": "center"
+        },
+        {
+            "content": "Ich mache Kinderbetreuungskosten i.S. des § 10 Abs. 1 Nr. 5 i.V. mit § 2 Abs. 5a EStG geltend, und zwar für den",
+            "structure": "3.",
+            "page": 1,
+            "x1": 61,
+            "y1": 33,
+            "x2": 290,
+            "y2": 43,
+            "align": ""
+        },
+        {
+            "content": "Zeitraum vom",
+            "page": 1,
+            "x1": 61,
+            "y1": 79,
+            "x2": 290,
+            "y2": 89,
+            "align": ""
+        },
+        {
+            "content": "bis voraussichtlich",
+            "page": 1,
+            "x1": 61,
+            "y1": 101,
+            "x2": 290,
+            "y2": 111,
+            "align": ""
+        },
+        {
+            "content": "Es wurden oder werden Kinderbetreuungskosten i.S. des § 10 Abs. 1 Nr. 5 i.V. mit § 2 Abs. 5a EStG von Dritten übernommen oder haben Sie einen Antrag auf Übernahme gestellt ?",
+            "structure": "3.1",
+            "page": 1,
+            "x1": 61,
+            "y1": 122,
+            "x2": 290,
+            "y2": 132,
+            "align": ""
+        },
+        {
+            "content": "Ggf. Angabe des Leistungsträgers :",
+            "page": 1,
+            "x1": 61,
+            "y1": 179,
+            "x2": 290,
+            "y2": 189,
+            "align": ""
+        },
+        {
+            "content": "Ich mache die Berücksichtigung folgender Beträge geltend, die ich als gesetzlichen Unterhalt gezahlt habe bzw. bezahle für",
+            "structure": "4.",
+            "page": 1,
+            "x1": 61,
+            "y1": 236,
+            "x2": 290,
+            "y2": 246,
+            "align": ""
+        },
+        {
+            "content": "letzte 12 Monate vor Antragstellung",
+            "page": 1,
+            "x1": 355,
+            "y1": 275,
+            "x2": 458,
+            "y2": 285,
+            "align": "center"
+        },
+        {
+            "content": "im Monat der Antragstellung",
+            "page": 1,
+            "x1": 462,
+            "y1": 275,
+            "x2": 547,
+            "y2": 285,
+            "align": "center"
+        },
+        {
+            "content": "meine(n) geschiedene(n) oder dauernd getrennt lebende(n) Ehegatten / Ehegattin.",
+            "structure": "4.1",
+            "page": 1,
+            "x1": 61,
+            "y1": 273,
+            "x2": 290,
+            "y2": 283,
+            "align": ""
+        },
+        {
+            "content": "Name:",
+            "page": 1,
+            "x1": 61,
+            "y1": 299,
+            "x2": 290,
+            "y2": 309,
+            "align": ""
+        },
+        {
+            "content": "Geburtsdatum:",
+            "page": 1,
+            "x1": 61,
+            "y1": 319,
+            "x2": 290,
+            "y2": 329,
+            "align": ""
+        },
+        {
+            "content": "Unterhaltspflichtig bis:",
+            "page": 1,
+            "x1": 61,
+            "y1": 337,
+            "x2": 290,
+            "y2": 347,
+            "align": ""
+        },
+        {
+            "content": "zum Haushalt rechnende auswärts untergebrachte Familienmitglieder.",
+            "structure": "4.2",
+            "page": 1,
+            "x1": 61,
+            "y1": 352,
+            "x2": 290,
+            "y2": 362,
+            "align": ""
+        },
+        {
+            "content": "Name:",
+            "page": 1,
+            "x1": 61,
+            "y1": 378,
+            "x2": 290,
+            "y2": 388,
+            "align": ""
+        },
+        {
+            "content": "Geburtsdatum:",
+            "page": 1,
+            "x1": 61,
+            "y1": 397,
+            "x2": 290,
+            "y2": 407,
+            "align": ""
+        },
+        {
+            "content": "Verwandtschaftsverhältnis:",
+            "page": 1,
+            "x1": 61,
+            "y1": 416,
+            "x2": 290,
+            "y2": 426,
+            "align": ""
+        },
+        {
+            "content": "Unterhaltspflichtig bis:",
+            "page": 1,
+            "x1": 61,
+            "y1": 434,
+            "x2": 290,
+            "y2": 444,
+            "align": ""
+        },
+        {
+            "content": "nicht zum Haushalt rechnende Familienmitglieder.",
+            "structure": "4.3",
+            "page": 1,
+            "x1": 61,
+            "y1": 450,
+            "x2": 290,
+            "y2": 460,
+            "align": ""
+        },
+        {
+            "content": "Name:",
+            "page": 1,
+            "x1": 61,
+            "y1": 466,
+            "x2": 290,
+            "y2": 476,
+            "align": ""
+        },
+        {
+            "content": "Geburtsdatum:",
+            "page": 1,
+            "x1": 61,
+            "y1": 486,
+            "x2": 290,
+            "y2": 496,
+            "align": ""
+        },
+        {
+            "content": "Verwandtschaftsverhältnis:",
+            "page": 1,
+            "x1": 61,
+            "y1": 503,
+            "x2": 290,
+            "y2": 513,
+            "align": ""
+        },
+        {
+            "content": "Unterhaltspflichtig bis:",
+            "page": 1,
+            "x1": 61,
+            "y1": 521,
+            "x2": 290,
+            "y2": 531,
+            "align": ""
+        },
+        {
+            "content": "Ich erhalte Kindergeld für folgende Kinder, die das 18. Lebensjahr vollendet haben:",
+            "structure": "5.",
+            "page": 1,
+            "x1": 61,
+            "y1": 545,
+            "x2": 546,
+            "y2": 555,
+            "align": ""
+        },
+        {
+            "content": "Bitte aktuelle Nachweise beifügen.",
+            "page": 1,
+            "x1": 61,
+            "y1": 597,
+            "x2": 546,
+            "y2": 607,
+            "align": ""
+        },
+        {
+            "content": "Ich habe bzw. hatte keine Einnahmen / Einkünfte / Leistungen aus folgendem Grund: (z.B. Hausfrau / Hausmann)",
+            "structure": "6.",
+            "page": 1,
+            "x1": 61,
+            "y1": 622,
+            "x2": 546,
+            "y2": 632,
+            "align": ""
+        },
+        {
+            "content": "von",
+            "page": 1,
+            "x1": 340,
+            "y1": 640,
+            "x2": 372,
+            "y2": 650,
+            "align": "center"
+        },
+        {
+            "content": "bis",
+            "page": 1,
+            "x1": 445,
+            "y1": 640,
+            "x2": 471,
+            "y2": 650,
+            "align": "center"
+        },
+        {
+            "content": "von",
+            "page": 1,
+            "x1": 340,
+            "y1": 662,
+            "x2": 372,
+            "y2": 672,
+            "align": "center"
+        },
+        {
+            "content": "bis",
+            "page": 1,
+            "x1": 445,
+            "y1": 661,
+            "x2": 471,
+            "y2": 671,
+            "align": "center"
+        },
+        {
+            "content": "von",
+            "page": 1,
+            "x1": 340,
+            "y1": 685,
+            "x2": 372,
+            "y2": 695,
+            "align": "center"
+        },
+        {
+            "content": "bis",
+            "page": 1,
+            "x1": 445,
+            "y1": 683,
+            "x2": 471,
+            "y2": 693,
+            "align": "center"
+        },
+        {
+            "content": "Ich entrichte Steuern vom Einkommen",
+            "structure": "7.",
+            "page": 1,
+            "x1": 61,
+            "y1": 712,
+            "x2": 263,
+            "y2": 722,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 1,
+            "x1": 279,
+            "y1": 715,
+            "x2": 347,
+            "y2": 725,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 1,
+            "x1": 517,
+            "y1": 715,
+            "x2": 546,
+            "y2": 725,
+            "align": ""
+        },
+        {
+            "content": "Ich entrichte Beiträge zur Krankenversicherung",
+            "page": 1,
+            "x1": 62,
+            "y1": 734,
+            "x2": 263,
+            "y2": 744,
+            "align": ""
+        },
+        {
+            "content": "Pflichtbeiträge",
+            "page": 1,
+            "x1": 279,
+            "y1": 734,
+            "x2": 347,
+            "y2": 744,
+            "align": ""
+        },
+        {
+            "content": "freiwillig (Nachweis erforderlich)",
+            "page": 1,
+            "x1": 361,
+            "y1": 734,
+            "x2": 503,
+            "y2": 744,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 1,
+            "x1": 517,
+            "y1": 734,
+            "x2": 546,
+            "y2": 744,
+            "align": ""
+        },
+        {
+            "content": "Ich entrichte Beiträge zur Rentenversicherung",
+            "page": 1,
+            "x1": 62,
+            "y1": 754,
+            "x2": 263,
+            "y2": 764,
+            "align": ""
+        },
+        {
+            "content": "Pflichtbeiträge",
+            "page": 1,
+            "x1": 279,
+            "y1": 754,
+            "x2": 347,
+            "y2": 764,
+            "align": ""
+        },
+        {
+            "content": "freiwillig (Nachweis erforderlich)",
+            "page": 1,
+            "x1": 361,
+            "y1": 754,
+            "x2": 503,
+            "y2": 764,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 1,
+            "x1": 517,
+            "y1": 754,
+            "x2": 546,
+            "y2": 764,
+            "align": ""
+        },
+        {
+            "content": "Meine Einnahmen / Einkünfte / Leistungen werden sich in den nächsten 12 Monaten mit Sicherheit verändern:",
+            "structure": "8.",
+            "page": 2,
+            "x1": 62,
+            "y1": 31,
+            "x2": 545,
+            "y2": 41,
+            "align": ""
+        },
+        {
+            "content": "von",
+            "page": 2,
+            "x1": 62,
+            "y1": 55,
+            "x2": 131,
+            "y2": 65,
+            "align": ""
+        },
+        {
+            "content": "bis",
+            "page": 2,
+            "x1": 154,
+            "y1": 55,
+            "x2": 181,
+            "y2": 65,
+            "align": "center"
+        },
+        {
+            "content": "aus folgendem Grund:",
+            "page": 2,
+            "x1": 62,
+            "y1": 80,
+            "x2": 545,
+            "y2": 90
+        },
+        {
+            "content": "Ich hatte in den letzten drei Jahren vor Antragstellung folgende einmalige Einnahmen (z.B. Unterhalts- oder Gehaltsvorauszahlungen, Abfindungen):",
+            "structure": "9.",
+            "page": 2,
+            "x1": 62,
+            "y1": 132,
+            "x2": 545,
+            "y2": 142,
+            "align": ""
+        },
+        {
+            "content": "Für die umseitig im Vordruck erklärten Einnahmen / Einkünfte aus",
+            "structure": "10.",
+            "page": 2,
+            "x1": 62,
+            "y1": 239,
+            "x2": 545,
+            "y2": 249,
+            "align": ""
+        },
+        {
+            "content": "Kapitalvermögen (1.8)",
+            "page": 2,
+            "x1": 74,
+            "y1": 265,
+            "x2": 364,
+            "y2": 275,
+            "align": ""
+        },
+        {
+            "content": "- außer privates Kapitalvermögen ab 01.01.2009 -",
+            "append": " ",
+            "page": 2
+        },
+        {
+            "content": "Selbstständiger Tätigkeit (1.9)",
+            "page": 2,
+            "x1": 378,
+            "y1": 265,
+            "x2": 545,
+            "y2": 275,
+            "align": ""
+        },
+        {
+            "content": "Gewerbebetrieb (1.10)",
+            "page": 2,
+            "x1": 74,
+            "y1": 290,
+            "x2": 195,
+            "y2": 300,
+            "align": ""
+        },
+        {
+            "content": "Land und Forstwirtschaft (1.11)",
+            "page": 2,
+            "x1": 209,
+            "y1": 290,
+            "x2": 364,
+            "y2": 300,
+            "align": ""
+        },
+        {
+            "content": "Vermietung und Verpachtung (1.12)",
+            "page": 2,
+            "x1": 378,
+            "y1": 290,
+            "x2": 545,
+            "y2": 300,
+            "align": ""
+        },
+        {
+            "content": "wurden erhöhte Absetzungen und Sonderabschreibungen abgezogen",
+            "page": 2,
+            "x1": 74,
+            "y1": 306,
+            "x2": 409,
+            "y2": 316,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 2,
+            "x1": 422,
+            "y1": 307,
+            "x2": 463,
+            "y2": 317,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 2,
+            "x1": 476,
+            "y1": 307,
+            "x2": 545,
+            "y2": 317,
+            "align": ""
+        },
+        {
+            "content": "sind Rücklagen (Ansparabschreibungen) aufgelöst oder gebildet worden",
+            "page": 2,
+            "x1": 74,
+            "y1": 323,
+            "x2": 409,
+            "y2": 333,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 2,
+            "x1": 422,
+            "y1": 325,
+            "x2": 463,
+            "y2": 335,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 2,
+            "x1": 476,
+            "y1": 325,
+            "x2": 545,
+            "y2": 335,
+            "align": ""
+        },
+        {
+            "content": "ist ein steuerpflichtiger Teil enthalten, für den das Halbeinkünfteverfahren bzw. ab dem Veranlagungszeitraum 2009 das Teileinkünfteverfahren gilt",
+            "page": 2,
+            "x1": 74,
+            "y1": 340,
+            "x2": 409,
+            "y2": 350,
+            "align": ""
+        },
+        {
+            "content": "ja",
+            "page": 2,
+            "x1": 422,
+            "y1": 342,
+            "x2": 463,
+            "y2": 352,
+            "align": ""
+        },
+        {
+            "content": "nein",
+            "page": 2,
+            "x1": 476,
+            "y1": 342,
+            "x2": 545,
+            "y2": 352,
+            "align": ""
+        },
+        {
+            "content": "Ich versichere die Richtigkeit und Vollständigkeit aller in vorstehender Erklärung gemachten Angaben.",
+            "page": 2,
+            "x1": 62,
+            "y1": 383,
+            "x2": 545,
+            "y2": 393,
+            "align": ""
+        },
+        {
+            "content": "Datum",
+            "page": 2,
+            "x1": 62,
+            "y1": 409,
+            "x2": 264,
+            "y2": 419,
+            "align": ""
+        },
+        {
+            "content": "Unterschrift / gesetzlicher Vertreter",
+            "page": 2,
+            "x1": 266,
+            "y1": 409,
+            "x2": 545,
+            "y2": 419,
+            "align": ""
+        },
+        {
+            "content": "Erläuterungen zur Einkommenserklärung",
+            "page": 2,
+            "x1": 44,
+            "y1": 461,
+            "x2": 545,
+            "y2": 473,
+            "align": ""
+        },
+        {
+            "content": "Grundsätzlich hat **jeder** Haushaltsangehörige eine Einkommenserklärung abzugeben. Bei Minderjährigen ist die Erklärung vom gesetzlichen Vertreter zu unterschreiben.",
+            "page": 2,
+            "x1": 44,
+            "y1": 482,
+            "x2": 545,
+            "y2": 492,
+            "align": ""
+        },
+        {
+            "content": "Weitere Vordrucke - u. a. auch weitere **Hinweise** zu dem Vordruck - **Bau Wohn 504** - erhalten Sie bei den Bürgerberatungsstellen der Bezirksämter oder können im Internet unter *www.stadtentwicklung.berlin.de/service/formulare/de/wohnen.shtml* abgerufen werden.",
+            "append": "\n\n",
+            "page": 2
+        },
+        {
+            "content": "Geben Sie **alle Einnahmen / Einkünfte / Leistungen** an, unabhängig davon, ob sie versteuert werden oder unversteuert bleiben. Die Einkommensberechnung richtet sich nach den Bestimmungen der §§ 20 - 24 WoFG.  Welche Einkommensarten nach § 21 WoFG zum Jahreseinkommen gehören, können Sie dem Hinweis zur Einkommenserklärung (**Bau Wohn 504-Hinweis**) entnehmen.",
+            "append": "\n\n",
+            "page": 2
+        },
+        {
+            "content": "**Beantworten Sie bitte jede Frage und fügen Sie die entsprechenden Belege bei.** So kann die Bearbeitungszeit reduziert werden",
+            "append": "\n\n",
+            "page": 2
+        },
+        {
+            "content": "Zu 1.1",
+            "page": 2,
+            "x1": 45,
+            "y1": 641,
+            "x2": 87,
+            "y2": 651,
+            "align": ""
+        },
+        {
+            "content": "Lassen Sie bitte die Einkommensbescheinigung von Ihrem Arbeitgeber (Vordruck BauWohn 504a) ausfüllen und fügen Sie die letzte **Verdienstabrechnung** bei. Haben Sie mehrere Arbeitsverhältnisse, lassen Sie bitte für jedes Arbeitsverhältnis eine Einkommensbescheinigung ausfüllen.",
+            "page": 2,
+            "x1": 88,
+            "y1": 641,
+            "x2": 545,
+            "y2": 651,
+            "align": ""
+        },
+        {
+            "content": "Hier sind auch der von Ihnen bezogene, vom Arbeitgeber pauschal versteuerte Arbeitslohn oder steuerfreie Einnahmen aus einem geringfügigen Beschäftigungsverhältnis anzugeben.",
+            "append": "\n\n",
+            "page": 2
+        },
+        {
+            "content": "Zu 1.2 und 1.3",
+            "page": 2,
+            "x1": 45,
+            "y1": 719,
+            "x2": 87,
+            "y2": 729,
+            "align": ""
+        },
+        {
+            "content": "Beziehen Sie mehrere Renten bzw. Pensionen nebeneinander, geben Sie bitte alle an und fügen Sie die entsprechenden Rentenbescheide und die letzte Rentenanpassungsmitteilung bei.",
+            "page": 2,
+            "x1": 88,
+            "y1": 719,
+            "x2": 545,
+            "y2": 729,
+            "align": ""
+        },
+        {
+            "content": "Zu 1.4 und 1.5",
+            "page": 2,
+            "x1": 45,
+            "y1": 753,
+            "x2": 87,
+            "y2": 763,
+            "align": ""
+        },
+        {
+            "content": "Fügen Sie die entsprechenden Bescheide bei.",
+            "page": 2,
+            "x1": 88,
+            "y1": 753,
+            "x2": 545,
+            "y2": 763,
+            "align": ""
+        },
+        {
+            "content": "Zu 1.6",
+            "page": 3,
+            "x1": 45,
+            "y1": 34,
+            "x2": 87,
+            "y2": 44,
+            "align": ""
+        },
+        {
+            "content": "Fügen Sie bitte den Titel bzw. die Unterhaltsvereinbarung oder den Bewilligungsbescheid nach dem Unterhaltsvorschussgesetz und entsprechende Zahlungsbelege bei.",
+            "page": 3,
+            "x1": 88,
+            "y1": 34,
+            "x2": 545,
+            "y2": 44,
+            "align": ""
+        },
+        {
+            "content": "Zu 1.7",
+            "page": 3,
+            "x1": 45,
+            "y1": 68,
+            "x2": 87,
+            "y2": 78,
+            "align": ""
+        },
+        {
+            "content": "Z.B. Bezüge von Abgeordneten, Einkünfte aus privaten Veräußerungsgeschäften u.s.w.",
+            "page": 3,
+            "x1": 88,
+            "y1": 68,
+            "x2": 545,
+            "y2": 78,
+            "align": ""
+        },
+        {
+            "content": "Zu 1.8",
+            "page": 3,
+            "x1": 45,
+            "y1": 91,
+            "x2": 87,
+            "y2": 101,
+            "align": ""
+        },
+        {
+            "content": "Hierzu rechnen z.B. Zinsen aus Sparguthaben, Dividenden usw.",
+            "page": 3,
+            "x1": 88,
+            "y1": 91,
+            "x2": 545,
+            "y2": 101,
+            "align": ""
+        },
+        {
+            "content": "Zu 1.9 bis 1.12",
+            "page": 3,
+            "x1": 45,
+            "y1": 114,
+            "x2": 87,
+            "y2": 124,
+            "align": ""
+        },
+        {
+            "content": "Bei Einkünften aus selbstständiger Arbeit, Gewerbebetrieb, Land- und Forstwirtschaft sowie Vermietung und Verpachtung ist der Gewinn des vor Antragstellung liegenden Kalenderjahres maßgebend. Sollte Ihnen der Einkommensteuerbescheid für das letzte Kalenderjahr noch nicht vorliegen, fügen Sie bitte den letzten Einkommensteuerbescheid und die Einkommensteuererklärung mit sämtlichen Anlagen für alle darauf folgenden Jahre, einschließlich des Jahres vor Antragstellung - mit einer Bestätigung des Finanzamtes über die Abgabe - bei.",
+            "page": 3,
+            "x1": 88,
+            "y1": 114,
+            "x2": 545,
+            "y2": 124,
+            "align": ""
+        },
+        {
+            "content": "Zu 2.",
+            "page": 3,
+            "x1": 45,
+            "y1": 192,
+            "x2": 87,
+            "y2": 202,
+            "align": ""
+        },
+        {
+            "content": "Ihre erhöhten Werbungskosten weisen Sie durch Vorlage des Einkommensteuerbescheides für das vorangegangene Kalenderjahr oder durch eine Bescheinigung Ihres zuständigen Finanzamtes nach.",
+            "page": 3,
+            "x1": 88,
+            "y1": 192,
+            "x2": 545,
+            "y2": 202,
+            "align": ""
+        },
+        {
+            "content": "Zu 3.",
+            "page": 3,
+            "x1": 45,
+            "y1": 226,
+            "x2": 87,
+            "y2": 236,
+            "align": ""
+        },
+        {
+            "content": "Die Aufwendungen können von den Einnahmen aus Erwerbstätigkeit abgesetzt werden und zwar in Höhe von 2/3 der Aufwendungen, höchstens jedoch 4.000 EUR jährlich für jedes leibliche Kind sowie für jedes Adoptiv- und Pflegekind, nicht jedoch für Stiefkinder.",
+            "page": 3,
+            "x1": 88,
+            "y1": 226,
+            "x2": 545,
+            "y2": 236,
+            "align": ""
+        },
+        {
+            "content": "Die Aufwendungen sind durch Vorlage des Kostenbeteiligungsbescheides oder einer Rechnung nachzuweisen und die Zahlung auf das Konto der betreuenden Einrichtung / betreuenden Person zu belegen (Barzahlung oder ein Nachweis per Quittung können nicht anerkannt werden).",
+            "append": "\n\n",
+            "page": 3
+        },
+        {
+            "content": "Zu 3.1",
+            "page": 3,
+            "x1": 45,
+            "y1": 315,
+            "x2": 87,
+            "y2": 325,
+            "align": ""
+        },
+        {
+            "content": "Die Kinderbetreuungskosten können nicht abgesetzt werden, wenn diese von Dritten (z.B. im Rahmen der Jugendhilfe) übernommen werden. Wenn Sie einen Antrag auf Übernahme der Kinderbetreuung durch einen Dritten gestellt haben, teilen Sie bitte den zukünftigen Leistungsträger mit (z.B. Bundes- agentur für Arbeit, Integrationssamt).",
+            "page": 3,
+            "x1": 88,
+            "y1": 315,
+            "x2": 545,
+            "y2": 325,
+            "align": ""
+        },
+        {
+            "content": "Zu 4.",
+            "page": 3,
+            "x1": 45,
+            "y1": 371,
+            "x2": 87,
+            "y2": 381,
+            "align": ""
+        },
+        {
+            "content": "Gemäß § 24 Abs. 2 WoFG werden Unterhaltszahlungen zur Erfüllung gesetzlicher Unterhaltsverpflicht- ungen bis zu dem in einer **notariell beurkundeten** Unterhaltsvereinbarung oder einem Unterhaltstitel oder Bescheid festgestellten Betrag abgesetzt. Ohne Vorliegen von Unterhaltsvereinbarung, Titel oder Bescheid können Unterhaltsleistungen nur bis zur Höhe von 3.000 bzw. 6. 000 EUR jährlich abgesetzt werden.  Die Verpflichtung zur Leistung von Unterhalt, die Höhe und die geleisteten Zahlungen der letzten 12 Monate sind in jedem Fall durch entsprechende Nachweise zu belegen.",
+            "page": 3,
+            "x1": 88,
+            "y1": 371,
+            "x2": 545,
+            "y2": 381,
+            "align": ""
+        },
+        {
+            "content": "Zu 5.",
+            "page": 3,
+            "x1": 45,
+            "y1": 449,
+            "x2": 87,
+            "y2": 459,
+            "align": ""
+        },
+        {
+            "content": "Aktuelle Nachweise sind beizufügen.",
+            "page": 3,
+            "x1": 88,
+            "y1": 449,
+            "x2": 545,
+            "y2": 459,
+            "align": ""
+        },
+        {
+            "content": "Zu 6.",
+            "page": 3,
+            "x1": 45,
+            "y1": 472,
+            "x2": 87,
+            "y2": 482,
+            "align": ""
+        },
+        {
+            "content": "Geben Sie bitte alle Zeiträume - gegebenenfalls auf gesondertem Blatt - an, in denen Sie keine Einnahmen / Einkünfte/ Leistungen hatten und fügen Sie die entsprechenden Nachweise bei (z.B. Schulbescheinigung, Semesterbescheinigung o. ä.).",
+            "page": 3,
+            "x1": 88,
+            "y1": 472,
+            "x2": 545,
+            "y2": 482,
+            "align": ""
+        },
+        {
+            "content": "Zu 7.",
+            "page": 3,
+            "x1": 45,
+            "y1": 517,
+            "x2": 87,
+            "y2": 527,
+            "align": ""
+        },
+        {
+            "content": "Gemäß § 23 WoFG werden Pauschalabzüge bei der Ermittlung des Jahreseinkommens vorgenommen.  Geben Sie auch hier an, wenn Sie laufende Beiträge an öffentliche oder private Versicherungen oder ähnliche Einrichtungen entrichten, die der gesetzlichen Krankenversicherung/Pflegeversicherung bzw. den Pflichtbeiträgen zur Rentenversicherung in ihrer Zweckbestimmung entsprechen. Dies gilt auch für entsprechende Beiträge, die zu Gunsten eines zum Haushalt rechnenden Angehörigen entrichtet werden.",
+            "page": 3,
+            "x1": 88,
+            "y1": 517,
+            "x2": 545,
+            "y2": 527,
+            "align": ""
+        },
+        {
+            "content": "Zu 8.",
+            "page": 3,
+            "x1": 45,
+            "y1": 584,
+            "x2": 87,
+            "y2": 594,
+            "align": ""
+        },
+        {
+            "content": "Geben Sie - gegebenenfalls auf gesondertem Blatt - Hinweise zur Änderung Ihrer Einnahmen / Einkünfte / Leistungen. Die Änderung muss mit Sicherheit eintreten. Grund, Zeitpunkt und Höhe der Änderung sind anzugeben.",
+            "page": 3,
+            "x1": 88,
+            "y1": 584,
+            "x2": 545,
+            "y2": 594,
+            "align": ""
+        },
+        {
+            "content": "Zu 9.",
+            "page": 3,
+            "x1": 45,
+            "y1": 629,
+            "x2": 87,
+            "y2": 639,
+            "align": ""
+        },
+        {
+            "content": "Der Zeitraum, dem die einmalig gezahlte Einnahme zuzurechnen ist, wird durch § 22 Abs. 4 WoFG bestimmt.",
+            "page": 3,
+            "x1": 88,
+            "y1": 629,
+            "x2": 545,
+            "y2": 639,
+            "align": ""
+        },
+        {
+            "content": "Zu 10.",
+            "page": 3,
+            "x1": 45,
+            "y1": 663,
+            "x2": 87,
+            "y2": 673,
+            "align": ""
+        },
+        {
+            "content": "Die Angaben sind ggf. nach Aufforderung durch das Wohnungsamt vom zuständigen Finanzamt zu bestätigen.",
+            "page": 3,
+            "x1": 88,
+            "y1": 663,
+            "x2": 545,
+            "y2": 673,
+            "align": ""
+        },
+        {
+            "content": "Zu 10.3",
+            "page": 3,
+            "x1": 45,
+            "y1": 697,
+            "x2": 87,
+            "y2": 707,
+            "align": ""
+        },
+        {
+            "content": "Für privates Kapitalvermögen findet das Halbeinkünfteverfahren - jetzt Teileinkünfteverfahren - ab dem Veranlagungszeitraum 2009 keine Anwendung mehr.",
+            "page": 3,
+            "x1": 88,
+            "y1": 697,
+            "x2": 545,
+            "y2": 707,
+            "align": ""
+        }
+    ],
+    "title": "Einkommenserklärung (Berlin)",
+    "url": "https://senstadtfms.stadt-berlin.de/intelliform/forms/Wohnen/berlin/BW504/index"
+}

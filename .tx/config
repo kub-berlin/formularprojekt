@@ -80,6 +80,12 @@ source_lang = de
 type = MAGENTO
 file_filter = data/WBS/<lang>.csv
 
+[formulare.wbs-einkommen]
+source_file = data/WBS-Einkommen/de.csv
+source_lang = de
+type = MAGENTO
+file_filter = data/WBS-Einkommen/<lang>.csv
+
 [formulare.ZP40]
 source_file = data/ZP40/de.csv
 source_lang = de

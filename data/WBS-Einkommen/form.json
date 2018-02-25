@@ -4,17 +4,18 @@
     "rows": [
         {
             "content": "Einkommenserklärung",
+            "style": "font-weight: bold",
             "page": 0,
             "x1": 45,
             "y1": 27,
-            "x2": 178,
+            "x2": 192,
             "y2": 40,
             "align": ""
         },
         {
             "content": "Anlage zum Antrag auf eine(n)",
             "page": 0,
-            "x1": 180,
+            "x1": 193,
             "y1": 30,
             "x2": 366,
             "y2": 40,
@@ -67,6 +68,7 @@
         },
         {
             "content": "Dieser Vordruck ist *jeweils* vom Antragsteller und von jedem *Haushaltsangehörigen* auszufüllen!",
+            "style": "font-weight: bold",
             "page": 0,
             "x1": 55,
             "y1": 56,
@@ -76,6 +78,7 @@
         },
         {
             "content": "Wichtig:",
+            "style": "font-weight: bold",
             "page": 0,
             "x1": 55,
             "y1": 98,
@@ -85,6 +88,7 @@
         },
         {
             "content": "Die Nummern 1.1 - 4.3 und 7 sind mit ja oder nein zu beantworten!",
+            "style": "font-weight: bold",
             "page": 0,
             "x1": 55,
             "y1": 112,
@@ -121,6 +125,7 @@
         },
         {
             "content": "Bitte Erläuterungen auf Seite 3 beachten !",
+            "style": "font-weight: bold",
             "page": 0,
             "x1": 41,
             "y1": 253,
@@ -130,6 +135,7 @@
         },
         {
             "content": "Bitte Nachweise (Kopien) beifügen !",
+            "style": "font-weight: bold",
             "page": 0,
             "x1": 353,
             "y1": 253,
@@ -157,6 +163,7 @@
         },
         {
             "content": "Nein",
+            "style": "font-weight: bold",
             "page": 0,
             "x1": 292,
             "y1": 296,
@@ -166,6 +173,7 @@
         },
         {
             "content": "Ja",
+            "style": "font-weight: bold",
             "page": 0,
             "x1": 324,
             "y1": 296,
@@ -374,6 +382,7 @@
         },
         {
             "content": "Nein",
+            "style": "font-weight: bold",
             "page": 1,
             "x1": 293,
             "y1": 34,
@@ -383,6 +392,7 @@
         },
         {
             "content": "Ja",
+            "style": "font-weight: bold",
             "page": 1,
             "x1": 325,
             "y1": 34,
@@ -993,12 +1003,13 @@
         },
         {
             "content": "Erläuterungen zur Einkommenserklärung",
+            "style": "font-weight: bold",
             "page": 2,
             "x1": 44,
             "y1": 461,
             "x2": 545,
             "y2": 473,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Grundsätzlich hat **jeder** Haushaltsangehörige eine Einkommenserklärung abzugeben. Bei Minderjährigen ist die Erklärung vom gesetzlichen Vertreter zu unterschreiben.",
@@ -1007,7 +1018,7 @@
             "y1": 482,
             "x2": 545,
             "y2": 492,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Weitere Vordrucke - u. a. auch weitere **Hinweise** zu dem Vordruck - **Bau Wohn 504** - erhalten Sie bei den Bürgerberatungsstellen der Bezirksämter oder können im Internet unter *www.stadtentwicklung.berlin.de/service/formulare/de/wohnen.shtml* abgerufen werden.",
@@ -1040,7 +1051,7 @@
             "y1": 641,
             "x2": 545,
             "y2": 651,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Hier sind auch der von Ihnen bezogene, vom Arbeitgeber pauschal versteuerte Arbeitslohn oder steuerfreie Einnahmen aus einem geringfügigen Beschäftigungsverhältnis anzugeben.",
@@ -1063,7 +1074,7 @@
             "y1": 719,
             "x2": 545,
             "y2": 729,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 1.4 und 1.5",
@@ -1081,7 +1092,7 @@
             "y1": 753,
             "x2": 545,
             "y2": 763,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 1.6",
@@ -1099,7 +1110,7 @@
             "y1": 34,
             "x2": 545,
             "y2": 44,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 1.7",
@@ -1117,7 +1128,7 @@
             "y1": 68,
             "x2": 545,
             "y2": 78,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 1.8",
@@ -1135,7 +1146,7 @@
             "y1": 91,
             "x2": 545,
             "y2": 101,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 1.9 bis 1.12",
@@ -1153,7 +1164,7 @@
             "y1": 114,
             "x2": 545,
             "y2": 124,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 2.",
@@ -1171,7 +1182,7 @@
             "y1": 192,
             "x2": 545,
             "y2": 202,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 3.",
@@ -1189,7 +1200,7 @@
             "y1": 226,
             "x2": 545,
             "y2": 236,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Die Aufwendungen sind durch Vorlage des Kostenbeteiligungsbescheides oder einer Rechnung nachzuweisen und die Zahlung auf das Konto der betreuenden Einrichtung / betreuenden Person zu belegen (Barzahlung oder ein Nachweis per Quittung können nicht anerkannt werden).",
@@ -1212,7 +1223,7 @@
             "y1": 315,
             "x2": 545,
             "y2": 325,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 4.",
@@ -1230,7 +1241,7 @@
             "y1": 371,
             "x2": 545,
             "y2": 381,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 5.",
@@ -1248,7 +1259,7 @@
             "y1": 449,
             "x2": 545,
             "y2": 459,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 6.",
@@ -1266,7 +1277,7 @@
             "y1": 472,
             "x2": 545,
             "y2": 482,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 7.",
@@ -1284,7 +1295,7 @@
             "y1": 517,
             "x2": 545,
             "y2": 527,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 8.",
@@ -1302,7 +1313,7 @@
             "y1": 584,
             "x2": 545,
             "y2": 594,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 9.",
@@ -1320,7 +1331,7 @@
             "y1": 629,
             "x2": 545,
             "y2": 639,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 10.",
@@ -1338,7 +1349,7 @@
             "y1": 663,
             "x2": 545,
             "y2": 673,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Zu 10.3",
@@ -1356,7 +1367,7 @@
             "y1": 697,
             "x2": 545,
             "y2": 707,
-            "align": ""
+            "align": "start"
         }
     ],
     "title": "Einkommenserklärung (Berlin)",

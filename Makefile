@@ -16,6 +16,7 @@ pull:
 
 txpull:
 	tx pull -af --mode=onlytranslated --minimum-perc=10
+	for f in $$(find data -name *.csv); do python scripts/csv_normalize.py $$f; done
 
 push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/

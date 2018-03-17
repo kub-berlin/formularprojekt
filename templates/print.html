@@ -10,7 +10,7 @@
     <meta name="generator" content="https://github.com/kub-berlin/formularprojekt" />
     <link rel="alternate" href="{{ url_for('formularprojekt.translation_route', lang_id=lang_id, form_id=form_id) }}" />
 
-    <title>{{ 'Formularprojekt' | translate(lang_id, 'meta') }} - {{ forms[form_id].title }}</title>
+    <title>{{ form_id }}_{{ lang_id }}_{{ forms[form_id].date }}</title>
 </head>
 
 <body>

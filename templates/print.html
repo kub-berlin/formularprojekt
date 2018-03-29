@@ -29,7 +29,9 @@
             </tr>
         </table>
 
+        {% if lang_id != 'de-simple' %}
         <div class="disclaimer" lang="de" dir="ltr">{{ 'disclaimer_long' | translate('de', 'meta') | markdown }}</div>
+        {% endif %}
         <div class="disclaimer">{{ 'disclaimer_long' | translate(lang_id, 'meta') | markdown }}</div>
     </div>
 

@@ -23,7 +23,7 @@
             "y2": 63
         },
         {
-            "align": "left",
+            "align": "start",
             "content": "Telefonische Rückfrage tagsüber unter Nr.:",
             "page": 0,
             "structure": "",
@@ -33,7 +33,7 @@
             "y2": 83
         },
         {
-            "align": "left",
+            "align": "start",
             "content": "Bitte Hinweise beachten!",
             "page": 0,
             "structure": "",

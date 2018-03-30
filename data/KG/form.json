@@ -34,7 +34,7 @@
             "y2": 42
         },
         {
-            "align": "left",
+            "align": "start",
             "content": "Beachten Sie bitte die anhängenden Hinweise und das Merkblatt Kindergeld.",
             "page": 0,
             "style": "font-weight: bold",
@@ -44,7 +44,7 @@
             "y2": 104
         },
         {
-            "align": "left",
+            "align": "start",
             "content": "Telefonische Rückfrage tagsüber unter Nr.:",
             "page": 0,
             "x1": 374,
@@ -564,7 +564,7 @@
             "y2": 287
         },
         {
-            "align": "left",
+            "align": "start",
             "content": "Ich versichere, dass alle Angaben (auch in den Anlagen) vollständig sind und der Wahrheit entsprechen. Mir ist bekannt, dass ich alle Änderungen, die für den Anspruch auf Kindergeld von Bedeutung sind, unverzüglich der Familienkasse mitzuteilen habe. Den Inhalt des Merkblattes Kindergeld (zu finden unter www.bzst.de oder www.familienkasse.de) habe ich zur Kenntnis genommen.",
             "page": 1,
             "style": "font-weight: bold",
@@ -583,7 +583,7 @@
             "y2": 495
         },
         {
-            "align": "left",
+            "align": "start",
             "content": "Ich bin damit einverstanden, dass das Kindergeld zugunsten der antragstellenden Person festgesetzt bzw. bewilligt wird.",
             "page": 1,
             "x1": 283,
@@ -610,7 +610,7 @@
             "y2": 526
         },
         {
-            "align": "left",
+            "align": "start",
             "content": "Hinweis zum Datenschutz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
             "page": 1,
             "x1": 26,

@@ -3,6 +3,10 @@ body {
 	font-family: Arial, sans-serif;
 }
 
+:visited {
+	color: blue;
+}
+
 em {
 	font-style: inherit;
 	text-decoration: underline;

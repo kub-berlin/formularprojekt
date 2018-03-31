@@ -54,11 +54,24 @@ for form_id, form in iter_forms():
 		print('<h3 lang="de">{}</h3>'.format(form['title']))
 		print('<ul>')
 		for lang_id, fn in pdfs:
-			print('  <li><a href="{href}" lang="{lang_id}" hreflang="{lang_id}">{lang}</a></li>'.format(
+			print('  <li>')
+
+			lang = meta('language', lang_id)
+			if lang_id != 'de-simple':
+				lang += ' / <span lang="de">%s</span>' % meta('language_de', lang_id)
+
+			print('    <a href="{href}" lang="{lang_id}" hreflang="{lang_id}">{lang}</a>'.format(
 				href='{}/static/pdf/{}'.format(BASEURL, fn),
 				lang_id=lang_id,
-				lang=meta('language', lang_id)
+				lang=lang
 			))
+
+			form_view_url = form.get('form_view_url')
+			if form_view_url is not None:
+				href = '{}/{}/{}/{}'.format(BASEURL, lang_id, form_id, form_view_url)
+				print(' (<a href="%s">Interaktiv</a>)' % href)
+
+			print('  </li>')
 		if 'external' in form:
 			print('  <li>Weitere Übersetzungen&hellip;<ul>')
 			for name, href in sorted(form['external'].items()):

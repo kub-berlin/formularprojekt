@@ -3,10 +3,6 @@ body {
 	font-family: Arial, sans-serif;
 }
 
-:visited {
-	color: blue;
-}
-
 em {
 	font-style: inherit;
 	text-decoration: underline;
@@ -43,6 +39,9 @@ table th[scope="row"] {
 }
 .page-bg {
 	width: 20cm;
+}
+.page :visited {
+	color: blue;
 }
 .row {
 	position: absolute;

@@ -8,7 +8,8 @@ for form_id in $(ls data); do
         url=$(grep '"url"' $file | sed 's/.*: "//;s/",\?$//')
         checksum=$(grep '"checksum"' $file | sed 's/.*: "//;s/",\?$//')
 
-        wget --quiet "$url" -O $tmp
+        # wget --quiet "$url" -O $tmp
+        curl --silent -L "$url" -o "$tmp"
 
         actual=$(md5sum $tmp | sed 's/  .*//')
 

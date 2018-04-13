@@ -19,7 +19,10 @@
         <table class="m-dl">
             <tr>
                 <th scope="row">{{ 'Sprache' | translate(lang_id, 'meta') }}</th>
-                <td>{{ 'language' | translate(lang_id, 'meta') }} / {{ 'language_de' | translate(lang_id, 'meta') }}</td>
+                <td>
+                    {{ 'language' | translate(lang_id, 'meta') }}
+                    {% if lang_id != 'de-simple' %} / {{ 'language_de' | translate(lang_id, 'meta') }}{% endif %}
+                </td>
             </tr><tr>
                 <th scope="row">{{ 'Zuletzt aktualisiert' | translate(lang_id, 'meta') }}</th>
                 <td><time>{{ forms[form_id].date }}</time></td>

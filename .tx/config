@@ -80,7 +80,7 @@ source_lang = de
 type = MAGENTO
 file_filter = data/WBS/<lang>.csv
 
-[formulare.wbs-einkommen]
+[formulare.WBS-Einkommen]
 source_file = data/WBS-Einkommen/de.csv
 source_lang = de
 type = MAGENTO

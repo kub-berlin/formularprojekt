@@ -32,13 +32,6 @@ translations = {}
 stats = {}
 
 
-def ext_markdown(app, **kwargs):
-    def render_markdown(text):
-        return Markup(CommonMark.commonmark(text, **kwargs))
-
-    app.jinja_env.filters['markdown'] = render_markdown
-
-
 def load_data(top):
     for dirpath, dirnames, filenames in os.walk(top):
         for filename in filenames:
@@ -203,6 +196,11 @@ def check_exists(lang_id, form_id):
         abort(404)
     if form_id not in translations[lang_id]:
         abort(404)
+
+
+@formularprojekt.app_template_filter('markdown')
+def markdown_filter(text):
+    return Markup(CommonMark.commonmark(text))
 
 
 @formularprojekt.app_template_filter('translate')
@@ -392,7 +390,6 @@ def create_app(settings=None):
     app.jinja_env.trim_blocks = True
     app.jinja_env.lstrip_blocks = True
     app.register_blueprint(formularprojekt)
-    ext_markdown(app)
     return app
 
 

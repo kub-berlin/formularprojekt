@@ -9,15 +9,15 @@ import csv
 import json
 import argparse
 
-from flask import Flask, Blueprint, render_template, url_for
-from flask import abort
-from flask import Markup
-from flask.helpers import send_from_directory
-from flask_frozen import Freezer
-from jinja2.exceptions import TemplateNotFound
+from jinja2 import Environment
+from jinja2 import FileSystemLoader
+from jinja2 import Markup
 
 from colorama import Fore
 import CommonMark
+
+TARGET_DIR = 'build'
+BASE_URL = '/formularprojekt'
 
 NEAR_COMPLETE = 1
 INCOMPLETE = 2
@@ -25,10 +25,39 @@ NEAR_MISSING = 3
 MISSING = 4
 EXTRA = 5
 
-formularprojekt = Blueprint('formularprojekt', __name__)
 forms = {}
 translations = {}
 stats = {}
+template_env = Environment(
+    loader=FileSystemLoader('templates'),
+)
+
+
+def template_filter(name):
+    def decorator(fn):
+        template_env.filters[name] = fn
+        return fn
+    return decorator
+
+
+def render_template(path, **kwargs):
+    template = template_env.get_template(path)
+    return template.render(**kwargs, url_for=url_for)
+
+
+def url_for(view, **kwargs):
+    if view == 'static':
+        return BASE_URL + '/static/' + kwargs['filename']
+    elif view == 'formularprojekt.index_route':
+        return BASE_URL + '/'.format(**kwargs)
+    elif view == 'formularprojekt.language_route':
+        return BASE_URL + '/{lang_id}/'.format(**kwargs)
+    elif view == 'formularprojekt.translation_route':
+        return BASE_URL + '/{lang_id}/{form_id}/'.format(**kwargs)
+    elif view == 'formularprojekt.print_route':
+        return BASE_URL + '/{lang_id}/{form_id}/'.format(**kwargs)
+    else:
+        raise KeyError
 
 
 def load_data():
@@ -171,23 +200,12 @@ def print_stats(form_id=None, lang_id=None, verbose=False):
         _form_stats(form_id, langs, verbose)
 
 
-def check_exists(lang_id, form_id):
-    if lang_id not in translations:
-        log(lang_id)
-        abort(404)
-    if form_id not in forms:
-        log(form_id)
-        abort(404)
-    if form_id not in translations[lang_id]:
-        abort(404)
-
-
-@formularprojekt.app_template_filter('markdown')
+@template_filter('markdown')
 def markdown_filter(text):
     return Markup(CommonMark.commonmark(text))
 
 
-@formularprojekt.app_template_filter('translate')
+@template_filter('translate')
 def translate_filter(s, lang_id, form_id, default=None):
     try:
         return translations[lang_id][form_id][s]
@@ -206,7 +224,7 @@ def translate_filter(s, lang_id, form_id, default=None):
         return default
 
 
-@formularprojekt.app_template_filter('transifex')
+@template_filter('transifex')
 def transifex_filter(form_id, lang_id):
     if lang_id == 'de-simple':
         lang_id = 'de_DE'
@@ -214,7 +232,7 @@ def transifex_filter(form_id, lang_id):
     return url.format(lang_id, form_id)
 
 
-@formularprojekt.app_template_filter('text_direction')
+@template_filter('text_direction')
 def text_direction_filter(lang_id):
     try:
         return translations[lang_id]['meta']['direction']
@@ -222,19 +240,14 @@ def text_direction_filter(lang_id):
         return 'auto'
 
 
-@formularprojekt.route('/')
-def index_route():
+def render_index():
     return render_template(
         'index.html',
         translations=translations,
         lang_id='de')
 
 
-@formularprojekt.route('/<lang_id>/')
-def language_route(lang_id):
-    if lang_id not in translations:
-        abort(404)
-
+def render_language(lang_id):
     return render_template(
         'language.html',
         translations=translations,
@@ -243,12 +256,9 @@ def language_route(lang_id):
         any_translations=len(translations[lang_id]) > 1)  # only meta
 
 
-@formularprojekt.route('/<lang_id>/<form_id>/')
-def translation_route(lang_id, form_id):
+def render_translation(lang_id, form_id):
     available_languages = [l for l in translations
         if form_id in translations[l]]
-
-    check_exists(lang_id, form_id)
 
     return render_template(
         'translation.html',
@@ -260,10 +270,7 @@ def translation_route(lang_id, form_id):
         available_languages=available_languages)
 
 
-@formularprojekt.route('/<lang_id>/<form_id>/print/')
-def print_route(lang_id, form_id):
-    check_exists(lang_id, form_id)
-
+def render_print(lang_id, form_id):
     page_n = max((row['page'] for row in forms[form_id]['rows']))
     pages = []
     bg_template = 'static/forms/%s/bg-%i.svg'
@@ -297,23 +304,16 @@ def print_route(lang_id, form_id):
         form_id=form_id)
 
 
-@formularprojekt.route('/<lang_id>/<form_id>/r/<resource_id>')
-def resource_route(lang_id, form_id, resource_id):
-    check_exists(lang_id, form_id)
-
-    try:
-        return render_template(
-            os.path.join('forms', form_id, resource_id),
-            forms=forms,
-            direction=text_direction_filter(lang_id),
-            lang_id=lang_id,
-            form_id=form_id)
-    except TemplateNotFound:
-        abort(404)
+def render_resource(lang_id, form_id, resource_id):
+    return render_template(
+        os.path.join('forms', form_id, resource_id),
+        forms=forms,
+        direction=text_direction_filter(lang_id),
+        lang_id=lang_id,
+        form_id=form_id)
 
 
-@formularprojekt.route('/stats/')
-def stats_route():
+def render_stats():
     langs = list(stats.keys())
     langs.remove('de')
     langs.sort()
@@ -325,64 +325,87 @@ def stats_route():
         forms=forms)
 
 
-def send_annotator_file(filename='index.html'):
-    return send_from_directory('annotator', filename)
+def link_if_missing(src):
+    target = os.path.join(TARGET_DIR, src)
+    if not os.path.exists(target):
+        print('linking', target)
+        os.makedirs(os.path.dirname(target), exist_ok=True)
+        os.link(src, target)
 
 
-def send_data_file(filename):
-    return send_from_directory('data', filename)
+def link_dir(path):
+    for dirpath, dirnames, filenames in os.walk(path):
+        for filename in filenames:
+            path = os.path.join(dirpath, filename)
+            link_if_missing(path)
 
 
-def add_annotator_rules(app):
-    app.add_url_rule(
-        '/annotator/',
-        endpoint='annotator',
-        view_func=send_annotator_file)
-    app.add_url_rule(
-        '/annotator/<path:filename>',
-        endpoint='annotator_static',
-        view_func=send_annotator_file)
-    app.add_url_rule(
-        '/data/<path:filename>',
-        endpoint='data',
-        view_func=send_data_file)
+def is_stale(target, dependencies):
+    if not os.path.exists(target):
+        return True
+    mtime = os.path.getmtime(target)
+    return any(mtime < os.path.getmtime(p) for p in dependencies)
 
 
-def register_annotator_files():
-    yield '/annotator/annotator.css'
-    yield '/annotator/annotator.build.js'
-    yield '/annotator/sw.js'
-    yield '/annotator/template.html'
-
-    for form_id in forms:
-        for filename in os.listdir(os.path.join('data', form_id)):
-            yield '/data/%s/%s' % (form_id, filename)
+def write_file(path, s):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    print('writing', path)
+    with open(path, 'w') as fh:
+        fh.write(s)
 
 
-def register_resource_files():
+def render_if_stale(name, lang_id, form_id):
+    args = (lang_id, form_id)
+    form_fn = os.path.join('data', form_id, 'form.json')
+    translation_fn = os.path.join('data', form_id, lang_id + '.csv')
+    template_fn = os.path.join('templates', name + '.html')
+
+    # TODO generic
+    if name == 'print':
+        path = os.path.join(TARGET_DIR, lang_id, form_id, 'print/index.html')
+        render = render_print
+    elif name == 'translation':
+        path = os.path.join(TARGET_DIR, lang_id, form_id, 'index.html')
+        render = render_translation
+    else:
+        args = (lang_id, form_id, name)
+        path = os.path.join(TARGET_DIR, lang_id, form_id, 'r', name)
+        template_fn = os.path.join('templates', 'forms', form_id, name)
+        render = render_resource
+
+    if is_stale(path, [form_fn, translation_fn, template_fn]):
+        write_file(path, render(*args))
+
+
+def build():
+    link_dir('static')
+    link_dir('data')
+
+    link_if_missing('annotator/annotator.build.js')
+    link_if_missing('annotator/sw.js')
+    link_if_missing('annotator/annotator.css')
+    link_if_missing('annotator/index.html')
+    link_if_missing('annotator/template.html')
+
+    path = os.path.join(TARGET_DIR, 'index.html')
+    write_file(path, render_index())
+
+    path = os.path.join(TARGET_DIR, 'stats', 'index.html')
+    write_file(path, render_stats())
+
     for lang_id in translations:
+        path = os.path.join(TARGET_DIR, lang_id, 'index.html')
+        write_file(path, render_language(lang_id))
+
         for form_id in translations[lang_id]:
-            path = os.path.join('templates/forms', form_id)
-            if os.path.isdir(path):
-                for filename in os.listdir(path):
-                    yield '/%s/%s/r/%s' % (lang_id, form_id, filename)
+            if form_id != 'meta':
+                render_if_stale('translation', lang_id, form_id)
+                render_if_stale('print', lang_id, form_id)
 
-
-def create_app(settings=None):
-    app = Flask(__name__)
-    app.config.from_object(settings)
-    app.jinja_env.trim_blocks = True
-    app.jinja_env.lstrip_blocks = True
-    app.register_blueprint(formularprojekt)
-    return app
-
-
-def create_freezer(app):
-    app.config.update({
-        'FREEZER_BASE_URL': 'http://localhost/formularprojekt/',
-        'FREEZER_REMOVE_EXTRA_FILES': True,
-    })
-    return Freezer(app)
+                resource_path = os.path.join('templates', 'forms', form_id)
+                for dirpath, dirnames, filenames in os.walk(resource_path):
+                    for filename in filenames:
+                        render_if_stale(filename, lang_id, form_id)
 
 
 def parse_args(argv=None):
@@ -399,10 +422,6 @@ def parse_args(argv=None):
     parser_stats.add_argument('form', nargs='?')
     parser_stats.set_defaults(cmd='stats')
 
-    parser_serve = subparsers.add_parser('serve', help='run a test server')
-    parser_serve.add_argument('--port', '-p', type=int, default=8000)
-    parser_serve.set_defaults(cmd='serve')
-
     return parser.parse_args(argv)
 
 
@@ -411,18 +430,10 @@ def main():  # pragma: no cover
     load_data()
     load_stats()
 
-    app = create_app(args)
-    add_annotator_rules(app)
-
-    if args.cmd == 'serve':
-        app.run(port=args.port)
-    elif args.cmd == 'stats':
+    if args.cmd == 'stats':
         print_stats(args.form, args.lang, args.verbose)
     else:
-        freezer = create_freezer(app)
-        freezer.register_generator(register_annotator_files)
-        freezer.register_generator(register_resource_files)
-        freezer.freeze()
+        build()
 
 
 if __name__ == '__main__':

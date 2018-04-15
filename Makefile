@@ -1,12 +1,9 @@
 DE_FILES := $(shell find 'data' -name 'form.json' | sed 's/form\.json$$/de.csv/g')
 
-.PHONY: build serve fill pull txpull push clean
+.PHONY: build fill pull txpull push clean
 
 build: .env static/style.css static/* templates/* annotator/annotator.build.js
 	. .env/bin/activate && python website.py build
-
-serve: .env static/style.css static/* templates/* annotator/annotator.build.js
-	. .env/bin/activate && python website.py serve
 
 fill: .env
 	. .env/bin/activate && python scripts/fill.py

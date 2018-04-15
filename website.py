@@ -32,16 +32,6 @@ translations = {}
 stats = {}
 
 
-def csv_load(fh):
-    r = csv.reader(fh)
-    data = {}
-    for row in r:
-        key = row[0]
-        value = row[1]
-        data[key] = value
-    return data
-
-
 def ext_markdown(app, **kwargs):
     def render_markdown(text):
         return Markup(CommonMark.commonmark(text, **kwargs))
@@ -72,7 +62,7 @@ def load_data(top):
                     _translations[lang_id] = {}
                 if lang_id != 'de' or form_id == 'meta':
                     with open(path) as fh:
-                        _translations[lang_id][form_id] = csv_load(fh)
+                        _translations[lang_id][form_id] = dict(csv.reader(fh))
 
     for lang_id in _translations:
         stats[lang_id] = {}

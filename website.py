@@ -27,49 +27,44 @@ EXTRA = 5
 
 formularprojekt = Blueprint('formularprojekt', __name__)
 forms = {}
-_translations = {}
 translations = {}
 stats = {}
 
 
-def load_data(top):
-    for dirpath, dirnames, filenames in os.walk(top):
+def load_data():
+    for dirpath, dirnames, filenames in os.walk('data'):
         for filename in filenames:
             form_id = os.path.basename(dirpath)
             path = os.path.join(dirpath, filename)
 
             if filename == 'form.json':
                 with open(path) as fh:
-                    form = json.load(fh)
-
-                    keys = set([r['content'] for r in form['rows']])
-                    if '' in keys:
-                        keys.remove('')
-                    form['keys'] = keys
-
-                    forms[form_id] = form
+                    forms[form_id] = json.load(fh)
             elif filename.endswith('.csv'):
                 lang_id = filename[:-4]
 
-                if lang_id not in _translations:
-                    _translations[lang_id] = {}
+                if lang_id not in translations:
+                    translations[lang_id] = {}
+
                 if lang_id != 'de' or form_id == 'meta':
                     with open(path) as fh:
-                        _translations[lang_id][form_id] = dict(csv.reader(fh))
+                        translations[lang_id][form_id] = dict(csv.reader(fh))
 
-    for lang_id in _translations:
+
+def load_stats():
+    for lang_id in translations:
         stats[lang_id] = {}
 
         for form_id in list(forms.keys()) + ['meta']:
             if form_id == 'meta':
-                keys = set(_translations['en']['meta'].keys())
+                keys = set(translations['en']['meta'].keys())
             else:
-                keys = forms[form_id]['keys']
+                keys = set(r['content'] for r in forms[form_id]['rows'])
 
             n = len(keys)
 
-            if form_id in _translations[lang_id]:
-                translation = _translations[lang_id][form_id]
+            if form_id in translations[lang_id]:
+                translation = translations[lang_id][form_id]
                 tkeys = set(translation.keys())
 
                 data = {
@@ -98,17 +93,6 @@ def load_data(top):
                 data['style'] = None
 
             stats[lang_id][form_id] = data
-
-    for lang_id in _translations:
-        if 'meta' in _translations[lang_id]:
-            translations[lang_id] = {}
-            translations[lang_id]['meta'] = _translations[lang_id]['meta']
-
-            for form_id, translation in _translations[lang_id].items():
-                if form_id in forms:
-                    form = forms[form_id]
-                    if len(translation) >= 0.8 * len(form['keys']):
-                        translations[lang_id][form_id] = translation
 
 
 def get_pdf(lang_id, form_id, url=True):
@@ -424,7 +408,8 @@ def parse_args(argv=None):
 
 def main():  # pragma: no cover
     args = parse_args()
-    load_data('data')
+    load_data()
+    load_stats()
 
     app = create_app(args)
     add_annotator_rules(app)

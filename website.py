@@ -350,9 +350,12 @@ def is_stale(target, dependencies):
 
 def write_file(path, s):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    print('writing', path)
-    with open(path, 'w') as fh:
-        fh.write(s)
+    with open(path) as fh:
+        current = fh.read()
+    if s != current:
+        print('writing', path)
+        with open(path, 'w') as fh:
+            fh.write(s)
 
 
 def render_if_stale(name, lang_id, form_id):

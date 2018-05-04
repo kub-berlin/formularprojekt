@@ -33,7 +33,7 @@ data/%/de.csv: data/%/form.json scripts/de.py
 
 .env:
 	virtualenv .env
-	. .env/bin/activate && pip install Flask Frozen-Flask CommonMark colorama transifex-client
+	. .env/bin/activate && pip install Jinja2 CommonMark colorama transifex-client
 
 node_modules:
 	npm install mfbs node-sass

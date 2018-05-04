@@ -4,6 +4,7 @@
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
+    "external_langs": ["en", "es", "fr", "tr"],
     "rows": [
         {
             "align": "left",

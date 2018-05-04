@@ -171,8 +171,11 @@ def _form_stats(form_id, langs, verbose):
 
         n = len(translated) + len(untranslated)
         s = '%s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
-        if form_id != 'meta' and get_pdf(lang_id, form_id, url=False):
-            s += ' (pdf)'
+        if form_id != 'meta':
+            if get_pdf(lang_id, form_id, url=False):
+                s += ' (pdf)'
+            if lang_id in forms[form_id].get('external_langs', []):
+                s += ' (external)'
         log(s, style, 2)
 
         if verbose:

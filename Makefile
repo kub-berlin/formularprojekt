@@ -8,9 +8,6 @@ build: .env static/style.css static/* templates/* annotator/annotator.build.js
 fill: .env
 	. .env/bin/activate && python scripts/fill.py
 
-pull:
-	cd .drive && drive pull -ignore-name-clashes -export=csv -exports-dir="../.exports/" -explicitly-export
-
 txpull:
 	tx pull -af --mode=onlytranslated --minimum-perc=10
 	for f in $$(find data -name *.csv); do python scripts/csv_normalize.py $$f; ./scripts/restore_mtime.sh $$f; done

@@ -76,6 +76,7 @@ web application contained in this repository
 ### Installation
 
     git clone https://github.com/xi/formularprojekt.git
+    apt install python3 npm sassc
     cd formularprojekt
     make serve
 

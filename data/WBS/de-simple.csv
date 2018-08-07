@@ -2,6 +2,7 @@
 "Familienstand","Familienstand"
 "Staatsangehörigkeit","Staatsangehörigkeit (Von welchem Land haben Sie einen Pass?)"
 "verheiratet","verheiratet"
+"ja","ja"
 "nein","nein"
 "Straße","Straße"
 "Sammelheizung","Sammelheizung"
@@ -9,4 +10,5 @@
 "Name, Vorname","Name, Vorname"
 "Ort","Ort"
 "Datum","Datum"
+"Hinweise","Hinweise"
 "Allgemeines","Allgemeines"

@@ -19,7 +19,7 @@ push: build
 	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
 
 static/style.css: static_src/style.scss node_modules
-	node_modules/.bin/node-sass $< > $@
+	sassc $< > $@
 
 annotator/annotator.build.js: annotator/annotator.js annotator/app.js annotator/node_modules
 	annotator/node_modules/.bin/browserify $< -o $@
@@ -36,7 +36,7 @@ data/%/de.csv: data/%/form.json scripts/de.py
 	. .env/bin/activate && pip install Jinja2 CommonMark colorama transifex-client
 
 node_modules:
-	npm install mfbs node-sass
+	npm install mfbs
 
 clean:
 	rm -f -r .env

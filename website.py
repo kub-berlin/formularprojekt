@@ -353,8 +353,10 @@ def is_stale(target, dependencies):
 
 def write_file(path, s):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path) as fh:
-        current = fh.read()
+    current = None
+    if os.path.exists(path):
+        with open(path) as fh:
+            current = fh.read()
     if s != current:
         print('writing', path)
         with open(path, 'w') as fh:

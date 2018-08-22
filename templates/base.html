@@ -18,7 +18,7 @@
 <body>
     <header>
         {% block header %}
-        <h1 class="page-title">
+        <h1 class="page-title u-screen-only">
             <a rel="home" href="{{ url_for('formularprojekt.index_route') }}">{{ 'Übersetzung von Formularen' | translate(lang_id, 'meta') }}</a>
         </h1>
         {% endblock header %}

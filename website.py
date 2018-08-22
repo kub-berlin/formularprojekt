@@ -368,21 +368,28 @@ def render_if_stale(name, lang_id, form_id):
     form_fn = os.path.join('data', form_id, 'form.json')
     translation_fn = os.path.join('data', form_id, lang_id + '.csv')
     template_fn = os.path.join('templates', name + '.html')
+    base_fn = os.path.join('templates', 'base.html')
+    dependencies = [form_fn, translation_fn]
 
     # TODO generic
     if name == 'print':
         path = os.path.join(TARGET_DIR, lang_id, form_id, 'print/index.html')
         render = render_print
+        dependencies.append(template_fn)
     elif name == 'translation':
         path = os.path.join(TARGET_DIR, lang_id, form_id, 'index.html')
         render = render_translation
+        dependencies.append(template_fn)
+        dependencies.append(base_fn)
     else:
         args = (lang_id, form_id, name)
         path = os.path.join(TARGET_DIR, lang_id, form_id, 'r', name)
         template_fn = os.path.join('templates', 'forms', form_id, name)
         render = render_resource
+        dependencies.append(template_fn)
+        dependencies.append(base_fn)
 
-    if is_stale(path, [form_fn, translation_fn, template_fn]):
+    if is_stale(path, dependencies):
         write_file(path, render(*args))
 
 

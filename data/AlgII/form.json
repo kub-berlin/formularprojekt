@@ -2,7 +2,7 @@
     "checksum": "856d684f4d269305b273de919a4f1507",
     "date": "2017-01-01",
     "external": {
-        "Arbeitsagentur": "https://www.arbeitsagentur.de/web/content/DE/Formulare/Detail/index.htm?dfContentId=L6019022DSTBAI485740",
+        "Arbeitsagentur": "https://www.arbeitsagentur.de/content/1463061318106#1478809808529",
         "Flüchtlingshilfe Castrop-Rauxel": "http://www.fluechtlingshilfe-castrop.de/information-for-refugees/jobcenter/"
     },
     "rows": [
@@ -2611,5 +2611,5 @@
         }
     ],
     "title": "Alg II Hauptantrag",
-    "url": "https://www.arbeitsagentur.de/web/wcm/idc/groups/public/documents/webdatei/mdaw/mtk2/~edisp/l6019022dstbai378191.pdf"
+    "url": "https://con.arbeitsagentur.de/prod/apok/ct/dam/download/documents/Antrag-ALGII_ba015207.pdf"
 }

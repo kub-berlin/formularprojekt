@@ -320,7 +320,7 @@ fetch('template.html').then(function(response) {
 	app.bindEvent(window, 'popstate', function(event, state) {
 		state.form = event.state;
 		state.form.rows.forEach(function(row, key) {
-			row.selected = key === state.selected;
+			row.isSelected = key === state.selected;
 		});
 		return state;
 	});

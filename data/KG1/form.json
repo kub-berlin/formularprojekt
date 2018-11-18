@@ -1,6 +1,6 @@
 {
     "checksum": "f0b25d769b352c410a22decee4795a9d",
-    "date": "2018-01-01",
+    "date": "2018-03-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
@@ -374,323 +374,13 @@
         },
         {
             "align": "left",
-            "content": "Das Kind",
-            "page": 1,
-            "structure": "3.1",
-            "x1": 48,
-            "x2": 354,
-            "y1": 89,
-            "y2": 100
-        },
-        {
-            "align": "center",
-            "content": "ab/von",
-            "page": 1,
-            "structure": "",
-            "x1": 361,
-            "x2": 437,
-            "y1": 89,
-            "y2": 98
-        },
-        {
-            "align": "center",
-            "content": "bis",
-            "page": 1,
-            "structure": "",
-            "x1": 442,
-            "x2": 521,
-            "y1": 89,
-            "y2": 98
-        },
-        {
-            "align": "left",
-            "content": "absolviert(e) folgende Schul-, Hochschul- oder Berufsausbildung.",
-            "page": 1,
-            "structure": "",
-            "x1": 64,
-            "x2": 355,
-            "y1": 110,
-            "y2": 120
-        },
-        {
-            "align": "left",
-            "content": "Bezeichnung der Ausbildung:",
-            "page": 1,
-            "structure": "",
-            "x1": 64,
-            "x2": 355,
-            "y1": 124,
-            "y2": 133
-        },
-        {
-            "align": "left",
-            "content": "konnte/kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen",
-            "page": 1,
-            "structure": "",
-            "x1": 64,
-            "x2": 355,
-            "y1": 159,
-            "y2": 169
-        },
-        {
-            "align": "left",
-            "content": "absolviert(e) ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen, einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz).",
-            "page": 1,
-            "structure": "",
-            "x1": 64,
-            "x2": 355,
-            "y1": 183,
-            "y2": 192
-        },
-        {
-            "align": "left",
-            "content": "befand/befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten)",
-            "page": 1,
-            "structure": "",
-            "x1": 64,
-            "x2": 355,
-            "y1": 233,
-            "y2": 242
-        },
-        {
-            "align": "left",
-            "content": "war/ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet",
-            "page": 1,
-            "structure": "",
-            "x1": 64,
-            "x2": 355,
-            "y1": 257,
-            "y2": 266
-        },
-        {
-            "align": "left",
-            "content": "Angaben zur Erwerbstätigkeit (nur bei Eintragungen unter 3.1)",
-            "page": 1,
-            "structure": "3.2",
-            "x1": 48,
-            "x2": 521,
-            "y1": 306,
-            "y2": 318
-        },
-        {
-            "align": "left",
-            "content": "Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Studium abgeschlossen bzw. wird diese(s) in Kürze abschließen",
-            "page": 1,
-            "structure": "a)",
-            "x1": 62,
-            "x2": 333,
-            "y1": 329,
-            "y2": 338
-        },
-        {
-            "align": "left",
-            "content": "ja",
-            "page": 1,
-            "structure": "",
-            "x1": 351,
-            "x2": 416,
-            "y1": 335,
-            "y2": 344
-        },
-        {
-            "align": "left",
-            "content": "nein (weiter bei 3.3)",
-            "page": 1,
-            "structure": "",
-            "x1": 433,
-            "x2": 521,
-            "y1": 335,
-            "y2": 344
-        },
-        {
-            "align": "left",
-            "content": "Berufsabschluss/Studienabschluss (mit Angabe des Fachs):",
-            "page": 1,
-            "structure": "",
-            "x1": 62,
-            "x2": 333,
-            "y1": 354,
-            "y2": 363
-        },
-        {
-            "align": "left",
-            "content": "Ausbildungsende:",
-            "page": 1,
-            "structure": "",
-            "x1": 339,
-            "x2": 439,
-            "y1": 354,
-            "y2": 363
-        },
-        {
-            "align": "left",
-            "content": "Berufsziel, fall dieses vom o. g. Abschluss abweicht:",
-            "page": 1,
-            "structure": "",
-            "x1": 62,
-            "x2": 333,
-            "y1": 392,
-            "y2": 401
-        },
-        {
-            "align": "left",
-            "content": "Das Kind war/ist erwerbstätig bzw. wird erwerbstätig sein",
-            "page": 1,
-            "structure": "b)",
-            "x1": 62,
-            "x2": 333,
-            "y1": 425,
-            "y2": 434
-        },
-        {
-            "align": "left",
-            "content": "ja",
-            "page": 1,
-            "structure": "",
-            "x1": 351,
-            "x2": 416,
-            "y1": 425,
-            "y2": 434
-        },
-        {
-            "align": "left",
-            "content": "nein (weiter bei 3.3)",
-            "page": 1,
-            "structure": "",
-            "x1": 433,
-            "x2": 521,
-            "y1": 425,
-            "y2": 434
-        },
-        {
-            "align": "left",
-            "content": "Tätigkeit",
-            "page": 1,
-            "structure": "",
-            "x1": 62,
-            "x2": 162,
-            "y1": 440,
-            "y2": 449
-        },
-        {
-            "align": "center",
-            "content": "ab/von",
-            "page": 1,
-            "structure": "",
-            "x1": 271,
-            "x2": 391,
-            "y1": 442,
-            "y2": 451
-        },
-        {
-            "align": "center",
-            "content": "bis",
-            "page": 1,
-            "structure": "",
-            "x1": 399,
-            "x2": 511,
-            "y1": 442,
-            "y2": 451
-        },
-        {
-            "align": "left",
-            "content": "eine oder mehrere geringfügige Beschäftigung(en) im Sinne der §§ 8, 8a SGB IV (sog. Minijob)",
-            "page": 1,
-            "structure": "",
-            "x1": 75,
-            "x2": 271,
-            "y1": 458,
-            "y2": 467
-        },
-        {
-            "align": "left",
-            "content": "andere Erwerbstätigkeiten",
-            "page": 1,
-            "structure": "",
-            "x1": 75,
-            "x2": 271,
-            "y1": 484,
-            "y2": 493
-        },
-        {
-            "align": "left",
-            "content": "(bei mehreren Beschäftigungen Angaben auf gesondertem Blatt)",
-            "page": 1,
-            "structure": "",
-            "x1": 75,
-            "x2": 271,
-            "y1": 495,
-            "y2": 503
-        },
-        {
-            "align": "left",
-            "content": "Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden",
-            "page": 1,
-            "structure": "",
-            "x1": 62,
-            "x2": 521,
-            "y1": 505,
-            "y2": 514
-        },
-        {
-            "align": "left",
-            "content": "Dienstherr bzw. Arbeitgeber (Name, Anschrift):",
-            "page": 1,
-            "structure": "",
-            "x1": 62,
-            "x2": 521,
-            "y1": 523,
-            "y2": 532
-        },
-        {
-            "align": "left",
-            "content": "Angaben zum Vorliegen einer Behinderung",
-            "page": 1,
-            "structure": "3.3",
-            "x1": 48,
-            "x2": 521,
-            "y1": 566,
-            "y2": 578
-        },
-        {
-            "align": "left",
-            "content": "Liegt bei dem Kind eine Behinderung vor, welche vor Vollendung des 25. Lebensjahres eingetreten ist?",
-            "page": 1,
-            "structure": "",
-            "x1": 48,
-            "y1": 586,
-            "x2": 449,
-            "y2": 595
-        },
-        {
-            "align": "left",
-            "content": "ja",
-            "page": 1,
-            "structure": "",
-            "x1": 464,
-            "y1": 586,
-            "x2": 477,
-            "y2": 595
-        },
-        {
-            "align": "left",
-            "content": "nein",
-            "page": 1,
-            "structure": "",
-            "x1": 492,
-            "y1": 586,
-            "x2": 521,
-            "y2": 595
-        },
-        {
-            "align": "left",
             "content": "Nachweise zu den Angaben (Punkt 3.1 — 3.3) für ein volljähriges Kind:",
             "page": 1,
             "structure": "",
             "x1": 46,
             "x2": 261,
-            "y1": 638,
-            "y2": 646
+            "y1": 86,
+            "y2": 94
         },
         {
             "align": "left",
@@ -698,19 +388,19 @@
             "page": 1,
             "structure": "",
             "x1": 277,
-            "x2": 335,
-            "y1": 645,
-            "y2": 653
+            "x2": 334,
+            "y1": 93,
+            "y2": 101
         },
         {
             "align": "left",
             "content": "liegen bereits vor",
             "page": 1,
             "structure": "",
-            "x1": 350,
-            "x2": 416,
-            "y1": 645,
-            "y2": 653
+            "x1": 349,
+            "x2": 415,
+            "y1": 93,
+            "y2": 101
         },
         {
             "align": "left",
@@ -719,18 +409,328 @@
             "structure": "",
             "x1": 431,
             "x2": 518,
-            "y1": 645,
-            "y2": 653
+            "y1": 93,
+            "y2": 101
+        },
+        {
+            "align": "left",
+            "content": "Das Kind",
+            "page": 1,
+            "structure": "3.1",
+            "x1": 50,
+            "x2": 354,
+            "y1": 133,
+            "y2": 144
+        },
+        {
+            "align": "center",
+            "content": "ab/von",
+            "page": 1,
+            "structure": "",
+            "x1": 361,
+            "x2": 437,
+            "y1": 133,
+            "y2": 142
+        },
+        {
+            "align": "center",
+            "content": "bis",
+            "page": 1,
+            "structure": "",
+            "x1": 442,
+            "x2": 521,
+            "y1": 133,
+            "y2": 142
+        },
+        {
+            "align": "left",
+            "content": "absolviert(e) folgende Schul-, Hochschul- oder Berufsausbildung.",
+            "page": 1,
+            "structure": "",
+            "x1": 64,
+            "x2": 355,
+            "y1": 154,
+            "y2": 163
+        },
+        {
+            "align": "left",
+            "content": "Bezeichnung der Ausbildung:",
+            "page": 1,
+            "structure": "",
+            "x1": 64,
+            "x2": 355,
+            "y1": 168,
+            "y2": 177
+        },
+        {
+            "align": "left",
+            "content": "konnte/kann eine Berufsausbildung mangels Ausbildungsplatz nicht beginnen oder fortsetzen",
+            "page": 1,
+            "structure": "",
+            "x1": 64,
+            "x2": 355,
+            "y1": 204,
+            "y2": 213
+        },
+        {
+            "align": "left",
+            "content": "absolviert(e) ein freiwilliges soziales oder ökologisches Jahr (Jugendfreiwilligendienstegesetz), einen europäischen/entwicklungspolitischen Freiwilligendienst, einen Freiwilligendienst aller Generationen, einen Internationalen Jugendfreiwilligendienst, einen Bundesfreiwilligendienst oder einen anderen Dienst im Ausland (§ 5 Bundesfreiwilligendienstgesetz).",
+            "page": 1,
+            "structure": "",
+            "x1": 64,
+            "x2": 355,
+            "y1": 227,
+            "y2": 235
+        },
+        {
+            "align": "left",
+            "content": "befand/befindet sich in einer Übergangszeit von höchstens vier Monaten (z. B. zwischen zwei Ausbildungsabschnitten)",
+            "page": 1,
+            "structure": "",
+            "x1": 64,
+            "x2": 355,
+            "y1": 277,
+            "y2": 286
+        },
+        {
+            "align": "left",
+            "content": "war/ist ohne Beschäftigung und bei einer Agentur für Arbeit als arbeitsuchend gemeldet",
+            "page": 1,
+            "structure": "",
+            "x1": 64,
+            "x2": 355,
+            "y1": 301,
+            "y2": 310
+        },
+        {
+            "align": "left",
+            "content": "Angaben zur Erwerbstätigkeit (nur bei Eintragungen unter 3.1)",
+            "page": 1,
+            "structure": "3.2",
+            "x1": 50,
+            "x2": 521,
+            "y1": 351,
+            "y2": 363
+        },
+        {
+            "align": "left",
+            "content": "Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Studium abgeschlossen bzw. wird diese(s) in Kürze abschließen",
+            "page": 1,
+            "structure": "a)",
+            "x1": 62,
+            "x2": 333,
+            "y1": 377,
+            "y2": 386
+        },
+        {
+            "align": "left",
+            "content": "ja",
+            "page": 1,
+            "structure": "",
+            "x1": 351,
+            "x2": 414,
+            "y1": 384,
+            "y2": 393
+        },
+        {
+            "align": "left",
+            "content": "nein (weiter bei 3.3)",
+            "page": 1,
+            "structure": "",
+            "x1": 430,
+            "x2": 521,
+            "y1": 384,
+            "y2": 393
+        },
+        {
+            "align": "left",
+            "content": "Berufsabschluss/Studienabschluss (mit Angabe des Fachs):",
+            "page": 1,
+            "structure": "",
+            "x1": 62,
+            "x2": 333,
+            "y1": 402,
+            "y2": 411
+        },
+        {
+            "align": "left",
+            "content": "Ausbildungsende:",
+            "page": 1,
+            "structure": "",
+            "x1": 339,
+            "x2": 439,
+            "y1": 402,
+            "y2": 411
+        },
+        {
+            "align": "left",
+            "content": "Berufsziel, fall dieses vom o. g. Abschluss abweicht:",
+            "page": 1,
+            "structure": "",
+            "x1": 62,
+            "x2": 333,
+            "y1": 440,
+            "y2": 449
+        },
+        {
+            "align": "left",
+            "content": "Das Kind war/ist erwerbstätig bzw. wird erwerbstätig sein",
+            "page": 1,
+            "structure": "b)",
+            "x1": 62,
+            "x2": 333,
+            "y1": 474,
+            "y2": 483
+        },
+        {
+            "align": "left",
+            "content": "ja",
+            "page": 1,
+            "structure": "",
+            "x1": 351,
+            "x2": 414,
+            "y1": 474,
+            "y2": 483
+        },
+        {
+            "align": "left",
+            "content": "nein (weiter bei 3.3)",
+            "page": 1,
+            "structure": "",
+            "x1": 430,
+            "x2": 521,
+            "y1": 474,
+            "y2": 483
+        },
+        {
+            "align": "left",
+            "content": "Tätigkeit",
+            "page": 1,
+            "structure": "",
+            "x1": 62,
+            "x2": 162,
+            "y1": 489,
+            "y2": 498
+        },
+        {
+            "align": "center",
+            "content": "ab/von",
+            "page": 1,
+            "structure": "",
+            "x1": 271,
+            "x2": 391,
+            "y1": 491,
+            "y2": 500
+        },
+        {
+            "align": "center",
+            "content": "bis",
+            "page": 1,
+            "structure": "",
+            "x1": 399,
+            "x2": 511,
+            "y1": 491,
+            "y2": 500
+        },
+        {
+            "align": "left",
+            "content": "eine oder mehrere geringfügige Beschäftigung(en) im Sinne der §§ 8, 8a SGB IV (sog. Minijob)",
+            "page": 1,
+            "structure": "",
+            "x1": 75,
+            "x2": 271,
+            "y1": 507,
+            "y2": 516
+        },
+        {
+            "align": "left",
+            "content": "andere Erwerbstätigkeiten",
+            "page": 1,
+            "structure": "",
+            "x1": 75,
+            "x2": 271,
+            "y1": 532,
+            "y2": 541
+        },
+        {
+            "align": "left",
+            "content": "(bei mehreren Beschäftigungen Angaben auf gesondertem Blatt)",
+            "page": 1,
+            "structure": "",
+            "x1": 75,
+            "x2": 521,
+            "y1": 544,
+            "y2": 552
+        },
+        {
+            "align": "left",
+            "content": "Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden",
+            "page": 1,
+            "structure": "",
+            "x1": 62,
+            "x2": 521,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "Dienstherr bzw. Arbeitgeber (Name, Anschrift):",
+            "page": 1,
+            "structure": "",
+            "x1": 62,
+            "x2": 521,
+            "y1": 572,
+            "y2": 581
+        },
+        {
+            "align": "left",
+            "content": "Angaben zum Vorliegen einer Behinderung",
+            "page": 1,
+            "structure": "3.3",
+            "x1": 51,
+            "x2": 521,
+            "y1": 615,
+            "y2": 627
+        },
+        {
+            "align": "left",
+            "content": "Liegt bei dem Kind eine Behinderung vor, welche vor Vollendung des 25. Lebensjahres eingetreten ist?",
+            "page": 1,
+            "structure": "",
+            "x1": 48,
+            "y1": 635,
+            "x2": 333,
+            "y2": 644
+        },
+        {
+            "align": "left",
+            "content": "ja",
+            "page": 1,
+            "structure": "",
+            "x1": 351,
+            "y1": 646,
+            "x2": 414,
+            "y2": 655
+        },
+        {
+            "align": "left",
+            "content": "nein",
+            "page": 1,
+            "structure": "",
+            "x1": 430,
+            "y1": 646,
+            "x2": 521,
+            "y2": 655
         },
         {
             "align": "left",
             "content": "Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?",
             "page": 2,
             "structure": "4",
-            "x1": 65,
+            "x1": 67,
             "x2": 540,
-            "y1": 45,
-            "y2": 54
+            "y1": 33,
+            "y2": 42
         },
         {
             "align": "left",
@@ -739,8 +739,8 @@
             "structure": "",
             "x1": 83,
             "x2": 281,
-            "y1": 59,
-            "y2": 69
+            "y1": 49,
+            "y2": 59
         },
         {
             "align": "left",
@@ -749,8 +749,8 @@
             "structure": "",
             "x1": 299,
             "x2": 540,
-            "y1": 59,
-            "y2": 69
+            "y1": 49,
+            "y2": 59
         },
         {
             "align": "left",
@@ -759,8 +759,8 @@
             "structure": "",
             "x1": 70,
             "x2": 317,
-            "y1": 89,
-            "y2": 96
+            "y1": 78,
+            "y2": 85
         },
         {
             "align": "left",
@@ -769,8 +769,8 @@
             "structure": "",
             "x1": 327,
             "x2": 410,
-            "y1": 89,
-            "y2": 96
+            "y1": 78,
+            "y2": 85
         },
         {
             "align": "left",
@@ -779,8 +779,8 @@
             "structure": "",
             "x1": 421,
             "x2": 540,
-            "y1": 89,
-            "y2": 96
+            "y1": 78,
+            "y2": 85
         },
         {
             "align": "left",
@@ -789,8 +789,8 @@
             "structure": "",
             "x1": 70,
             "x2": 410,
-            "y1": 115,
-            "y2": 122
+            "y1": 103,
+            "y2": 110
         },
         {
             "align": "left",
@@ -799,18 +799,18 @@
             "structure": "",
             "x1": 420,
             "x2": 540,
-            "y1": 115,
-            "y2": 122
+            "y1": 103,
+            "y2": 110
         },
         {
             "align": "left",
             "content": "Besteht oder bestand für Sie oder eine andere Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?",
             "page": 2,
             "structure": "5",
-            "x1": 65,
+            "x1": 67,
             "x2": 540,
-            "y1": 146,
-            "y2": 155
+            "y1": 132,
+            "y2": 141
         },
         {
             "align": "left",
@@ -819,8 +819,8 @@
             "structure": "",
             "x1": 83,
             "x2": 281,
-            "y1": 179,
-            "y2": 189
+            "y1": 171,
+            "y2": 181
         },
         {
             "align": "left",
@@ -829,8 +829,8 @@
             "structure": "",
             "x1": 299,
             "x2": 540,
-            "y1": 179,
-            "y2": 189
+            "y1": 171,
+            "y2": 181
         },
         {
             "align": "left",
@@ -839,8 +839,8 @@
             "structure": "",
             "x1": 70,
             "x2": 410,
-            "y1": 208,
-            "y2": 215
+            "y1": 200,
+            "y2": 207
         },
         {
             "align": "left",
@@ -849,8 +849,8 @@
             "structure": "",
             "x1": 420,
             "x2": 540,
-            "y1": 208,
-            "y2": 215
+            "y1": 200,
+            "y2": 207
         },
         {
             "align": "left",
@@ -859,8 +859,8 @@
             "structure": "",
             "x1": 70,
             "x2": 317,
-            "y1": 233,
-            "y2": 240
+            "y1": 225,
+            "y2": 232
         },
         {
             "align": "left",
@@ -869,8 +869,8 @@
             "structure": "",
             "x1": 328,
             "x2": 410,
-            "y1": 233,
-            "y2": 240
+            "y1": 225,
+            "y2": 232
         },
         {
             "align": "right",
@@ -879,8 +879,8 @@
             "structure": "",
             "x1": 328,
             "x2": 410,
-            "y1": 223,
-            "y2": 231
+            "y1": 214,
+            "y2": 222
         },
         {
             "align": "left",
@@ -889,8 +889,8 @@
             "structure": "",
             "x1": 420,
             "x2": 540,
-            "y1": 233,
-            "y2": 240
+            "y1": 225,
+            "y2": 232
         },
         {
             "align": "left",
@@ -899,8 +899,8 @@
             "structure": "",
             "x1": 70,
             "x2": 410,
-            "y1": 260,
-            "y2": 267
+            "y1": 251,
+            "y2": 258
         },
         {
             "align": "left",
@@ -909,18 +909,18 @@
             "structure": "",
             "x1": 420,
             "x2": 540,
-            "y1": 260,
-            "y2": 267
+            "y1": 251,
+            "y2": 258
         },
         {
             "align": "left",
             "content": "Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung",
             "page": 2,
             "structure": "6",
-            "x1": 65,
+            "x1": 67,
             "x2": 540,
-            "y1": 297,
-            "y2": 307
+            "y1": 280,
+            "y2": 290
         },
         {
             "align": "left",
@@ -929,8 +929,8 @@
             "structure": "a)",
             "x1": 70,
             "x2": 410,
-            "y1": 322,
-            "y2": 331
+            "y1": 314,
+            "y2": 323
         },
         {
             "align": "left",
@@ -939,8 +939,8 @@
             "structure": "",
             "x1": 452,
             "x2": 496,
-            "y1": 322,
-            "y2": 331
+            "y1": 314,
+            "y2": 323
         },
         {
             "align": "left",
@@ -949,8 +949,8 @@
             "structure": "",
             "x1": 513,
             "x2": 540,
-            "y1": 322,
-            "y2": 331
+            "y1": 314,
+            "y2": 323
         },
         {
             "align": "left",
@@ -959,8 +959,8 @@
             "structure": "b)",
             "x1": 70,
             "x2": 410,
-            "y1": 345,
-            "y2": 354
+            "y1": 332,
+            "y2": 341
         },
         {
             "align": "left",
@@ -969,8 +969,8 @@
             "structure": "",
             "x1": 452,
             "x2": 496,
-            "y1": 345,
-            "y2": 354
+            "y1": 337,
+            "y2": 346
         },
         {
             "align": "left",
@@ -979,8 +979,8 @@
             "structure": "",
             "x1": 513,
             "x2": 540,
-            "y1": 345,
-            "y2": 354
+            "y1": 337,
+            "y2": 346
         },
         {
             "align": "left",
@@ -989,8 +989,8 @@
             "structure": "c)",
             "x1": 70,
             "x2": 410,
-            "y1": 368,
-            "y2": 377
+            "y1": 355,
+            "y2": 364
         },
         {
             "align": "left",
@@ -999,8 +999,8 @@
             "structure": "",
             "x1": 452,
             "x2": 496,
-            "y1": 368,
-            "y2": 377
+            "y1": 360,
+            "y2": 369
         },
         {
             "align": "left",
@@ -1009,8 +1009,8 @@
             "structure": "",
             "x1": 513,
             "x2": 540,
-            "y1": 368,
-            "y2": 377
+            "y1": 360,
+            "y2": 369
         },
         {
             "align": "left",
@@ -1019,8 +1019,8 @@
             "structure": "d)",
             "x1": 70,
             "x2": 410,
-            "y1": 392,
-            "y2": 401
+            "y1": 379,
+            "y2": 388
         },
         {
             "align": "left",
@@ -1029,8 +1029,8 @@
             "structure": "",
             "x1": 452,
             "x2": 496,
-            "y1": 392,
-            "y2": 401
+            "y1": 384,
+            "y2": 393
         },
         {
             "align": "left",
@@ -1039,8 +1039,8 @@
             "structure": "",
             "x1": 513,
             "x2": 540,
-            "y1": 392,
-            "y2": 401
+            "y1": 384,
+            "y2": 393
         },
         {
             "align": "left",
@@ -1049,18 +1049,18 @@
             "structure": "",
             "x1": 70,
             "x2": 540,
-            "y1": 422,
-            "y2": 432
+            "y1": 402,
+            "y2": 412
         },
         {
             "align": "left",
             "content": "Name, Vorname des Beschäftigten",
             "page": 2,
             "structure": "",
-            "x1": 70,
+            "x1": 72,
             "x2": 410,
-            "y1": 447,
-            "y2": 454
+            "y1": 427,
+            "y2": 434
         },
         {
             "align": "left",
@@ -1069,108 +1069,118 @@
             "structure": "",
             "x1": 420,
             "x2": 540,
-            "y1": 447,
-            "y2": 454
+            "y1": 427,
+            "y2": 434
         },
         {
             "align": "left",
             "content": "Name/Bezeichnung des Dienstherrn/Arbeitgebers (ggf. Personalnummer) bzw. des Unternehmens, der Dienststelle oder Einrichtung",
             "page": 2,
             "structure": "",
-            "x1": 70,
+            "x1": 72,
             "x2": 540,
-            "y1": 474,
-            "y2": 481
-        },
-        {
-            "align": "left",
-            "content": "**\\*\\* ) In den Fällen von a)** bitte nur die zuständige Familienkasse benennen.",
-            "page": 2,
-            "structure": "",
-            "x1": 70,
-            "x2": 540,
-            "y1": 483,
-            "y2": 490
+            "y1": 453,
+            "y2": 460
         },
         {
             "align": "left",
             "content": "Anschrift des Dienstherrn/Arbeitgebers, des Unternehmens, der Dienststelle oder Einrichtung",
             "page": 2,
             "structure": "",
-            "x1": 70,
+            "x1": 72,
             "x2": 540,
-            "y1": 509,
-            "y2": 516
+            "y1": 479,
+            "y2": 486
         },
         {
             "align": "left",
-            "content": "**\\*\\* ) In den Fällen von a)** bitte nur die Anschrift der zuständige Familienkasse angeben.",
+            "content": "**\\*\\* ) In den Fällen von a)** bitte **zusätzlich** die zuständige Familienkasse benennen.",
             "page": 2,
             "structure": "",
-            "x1": 70,
+            "x1": 72,
             "x2": 540,
-            "y1": 517,
-            "y2": 524
+            "y1": 505,
+            "y2": 512
+        },
+        {
+            "align": "left",
+            "content": "**\\*\\* ) In den Fällen von a)** bitte **zusätzlich** die Anschrift der zuständige Familienkasse angeben.",
+            "page": 2,
+            "structure": "",
+            "x1": 72,
+            "x2": 540,
+            "y1": 533,
+            "y2": 540
         },
         {
             "align": "start",
             "content": "Wir versichern, dass unsere Angaben vollständig sind und der Wahrheit entsprechen. Uns ist bekannt, dass wir alle Änderungen, die für den Anspruch auf Kindergeld von Bedeutung sind, unverzüglich der Familienkasse mitzuteilen haben.  Den Inhalt des Merkblattes Kindergeld (zu finden unter www.bzst.de oder www.familienkasse.de) haben wir zur Kenntnis genommen.",
             "page": 2,
             "structure": "",
+            "style": "font-weight: bold",
             "x1": 47,
             "x2": 540,
-            "y1": 543,
-            "y2": 553
+            "y1": 548,
+            "y2": 557
+        },
+        {
+            "align": "start",
+            "content": "Hinweis zum Datenschutz:",
+            "page": 2,
+            "x1": 47,
+            "x2": 540,
+            "y1": 602,
+            "y2": 611
+        },
+        {
+            "append": "\n\n",
+            "content": "Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
+            "page": 2
+        },
+        {
+            "append": " ",
+            "content": "Nähere Informationen zu Ihren Rechten im Rahmen der Erhebung von personenbezogenen Daten nach Artikel 13 und 14 der Datenschutz-Grundverordnung erhalten Sie im Internet auf der Seite Ihrer Familienkasse (zu finden unter www.familienkasse.de), auf der auch die Kontaktdaten des Datenschutzbeauftragten bereitgestellt sind.",
+            "page": 2
         },
         {
             "align": "left",
             "content": "Datum",
             "page": 2,
             "structure": "",
-            "x1": 47,
-            "x2": 283,
-            "y1": 618,
-            "y2": 628
+            "x1": 49,
+            "x2": 181,
+            "y1": 689,
+            "y2": 698
         },
         {
             "align": "center",
             "content": "(Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung)",
             "page": 2,
             "structure": "",
-            "x1": 47,
-            "x2": 283,
-            "y1": 656,
-            "y2": 663
+            "x1": 243,
+            "x2": 541,
+            "y1": 709,
+            "y2": 716
         },
         {
             "align": "left",
             "content": "Datum",
             "page": 2,
             "structure": "",
-            "x1": 304,
-            "x2": 540,
-            "y1": 618,
-            "y2": 628
+            "x1": 49,
+            "x2": 181,
+            "y1": 731,
+            "y2": 740
         },
         {
             "align": "center",
             "content": "(Unterschrift des Kindes; nur wenn volljährig)",
             "page": 2,
             "structure": "",
-            "x1": 304,
-            "x2": 540,
-            "y1": 656,
-            "y2": 663
-        },
-        {
-            "align": "start",
-            "content": "Hinweis zum Datenschutz: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
-            "page": 2,
-            "structure": "",
-            "x1": 47,
-            "x2": 540,
-            "y1": 686,
-            "y2": 696
+            "x1": 243,
+            "x2": 541,
+            "y1": 752,
+            "y2": 759
         }
     ],
     "title": "Kindergeld: Anlage Kind",

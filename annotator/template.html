@@ -30,6 +30,7 @@
 			{{^skip}}
 			{{#size}}
 			<span
+				{{#prependStructure}}data-prepend="{{structure}} "{{/prependStructure}}
 				class="row {{#isSelected}}selected{{/isSelected}}"
 				style="top: {{y1}}pt; left: {{x1}}pt; text-align: {{align}}; width: {{width}}pt; font-size: {{size}}pt; {{style}}"
 			>{{{rendered}}}</span>

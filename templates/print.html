@@ -63,6 +63,7 @@
         {% for row in page.rows %}
         {% if row.y1 != row.y2 %}
         <span
+            {% if row.prependStructure %}data-prepend="{{ row.structure }} "{% endif %}
             class="row"
             style="top: {{row.y1}}pt; left: {{row.x1}}pt; text-align: {{row.align}}; width: {{row.x2 - row.x1}}pt; font-size: {{row.y2 - row.y1}}pt; {{row.style}}"
         >{{ row.translation | markdown }}</span>

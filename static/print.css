@@ -98,3 +98,10 @@ table th[scope="row"] {
 	color: red;
 	margin: 3em 0;
 }
+
+[data-prepend]::before {
+	content: attr(data-prepend);
+	float: left;
+	margin-left: -1em;
+	margin-right: 0.3em;
+}

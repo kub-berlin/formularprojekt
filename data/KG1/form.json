@@ -1,6 +1,6 @@
 {
-    "checksum": "f0b25d769b352c410a22decee4795a9d",
-    "date": "2018-03-01",
+    "checksum": "abc1727b844befc7b4c78fac5c306611",
+    "date": "2018-07-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
@@ -514,7 +514,7 @@
         },
         {
             "align": "left",
-            "content": "Das Kind hat bereits eine erstmalige Berufsausbildung oder ein Studium abgeschlossen bzw. wird diese(s) in Kürze abschließen",
+            "content": "Das Kind hat bereits eine Berufsausbildung oder ein Studium abgeschlossen bzw. wird diese(s) in Kürze abschließen",
             "page": 1,
             "structure": "a)",
             "x1": 62,
@@ -724,7 +724,7 @@
         },
         {
             "align": "left",
-            "content": "Haben Sie oder eine andere Person bei einer anderen Familienkasse für das Kind Kindergeld beantragt oder erhalten?",
+            "content": "Haben Sie oder eine andere Person für dieses Kind bereits Kindergeld beantragt oder erhalten?",
             "page": 2,
             "structure": "4",
             "x1": 67,
@@ -1014,7 +1014,7 @@
         },
         {
             "align": "left",
-            "content": "in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt?",
+            "content": "in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigtt (z. B. entsandte Person)?",
             "page": 2,
             "structure": "d)",
             "x1": 70,

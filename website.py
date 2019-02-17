@@ -15,7 +15,7 @@ from jinja2 import FileSystemLoader
 from jinja2 import Markup
 
 from colorama import Fore
-import CommonMark
+import commonmark
 
 TARGET_DIR = 'build'
 BASE_URL = '/formularprojekt'
@@ -206,7 +206,7 @@ def print_stats(form_id=None, lang_id=None, verbose=False):
 
 @template_filter('markdown')
 def markdown_filter(text):
-    return Markup(CommonMark.commonmark(text))
+    return Markup(commonmark.commonmark(text))
 
 
 @template_filter('translate')

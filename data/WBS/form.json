@@ -1,6 +1,6 @@
 {
-    "checksum": "7af703429505ce7c9485a48df33d7198",
-    "date": "2016-03-01",
+    "checksum": "691e03ec4ccba8b9afe6d6b3b8c4d766",
+    "date": "2018-03-01",
     "rows": [
         {
             "content": "Bevor Sie diesen Vordruck ausfüllen, lesen Sie bitte die **Hinweise**. Sie sparen sich und uns Rückfragen.",
@@ -85,7 +85,7 @@
             "align": ""
         },
         {
-            "content": "Die künftige Wohnung wollen gemeinsam beziehen (Haushaltsangehörige gem. § 5 WoBindG / § 27 WoFG i.V. m. § 18 WoFG):",
+            "content": "Die künftige Wohnung wollen gemeinsam beziehen (**Haushaltsangehörige** gem. § 5 WoBindG / § 27 WoFG i.V. m. § 18 WoFG):",
             "structure": "1.",
             "page": 0,
             "x1": 48,
@@ -1004,21 +1004,21 @@
             "align": ""
         },
         {
-            "content": "Schwerbehindert GdB",
-            "page": 1,
-            "x1": 70,
-            "y1": 613,
-            "x2": 176,
-            "y2": 623,
-            "align": ""
-        },
-        {
             "content": "häuslich pflegebedürftig *",
             "page": 1,
             "x1": 449,
             "y1": 583,
             "x2": 540,
             "y2": 593,
+            "align": ""
+        },
+        {
+            "content": "Schwerbehindert GdB",
+            "page": 1,
+            "x1": 70,
+            "y1": 613,
+            "x2": 176,
+            "y2": 623,
             "align": ""
         },
         {

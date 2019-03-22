@@ -65,6 +65,10 @@ table th[scope="row"] {
 	padding: 0.2em 0.5em;
 	color: red;
 }
+.running-top a,
+.running-bottom a {
+	color: inherit;
+}
 .running-top {
 	top: 0;
 	text-align: center;

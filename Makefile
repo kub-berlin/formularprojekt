@@ -2,18 +2,18 @@ DE_FILES := $(shell find 'data' -name 'form.json' | sed 's/form\.json$$/de.csv/g
 
 .PHONY: build fill pull txpull push clean
 
-build: .env annotator/annotator.build.js static/style.css static/* templates/*
-	.env/bin/python website.py build
+build: .venv annotator/annotator.build.js static/style.css static/* templates/*
+	.venv/bin/python website.py build
 
-fill: .env
-	.env/bin/python scripts/fill.py
+fill: .venv
+	.venv/bin/python scripts/fill.py
 
-txpull:
-	.env/bin/tx pull -af --mode=onlytranslated --minimum-perc=10
+txpull: .venv
+	.venv/bin/tx pull -af --mode=onlytranslated --minimum-perc=10
 	for f in $$(find data -name *.csv); do python scripts/csv_normalize.py $$f; ./scripts/restore_mtime.sh $$f; done
 
 push: build
-	rsync -rcv --delete build/ spline:public_html/webroot/formularprojekt/
+	xiftp push formularprojekt
 
 static/style.css: static_src/style.scss node_modules
 	sassc $< > $@
@@ -26,17 +26,17 @@ annotator/node_modules:
 
 de: $(DE_FILES)
 data/%/de.csv: data/%/form.json scripts/de.py
-	.env/bin/python scripts/de.py $< $@
+	.venv/bin/python scripts/de.py $< $@
 
-.env:
-	python3 -m venv .env
-	.env/bin/pip install Jinja2 CommonMark colorama transifex-client
+.venv:
+	python3 -m venv .venv
+	.venv/bin/pip install Jinja2 CommonMark colorama transifex-client
 
 node_modules:
 	npm install mfbs
 
 clean:
-	rm -f -r .env
+	rm -f -r .venv
 	rm -f -r build
 	rm -f -r node_modules
 	rm -f -r annotator/node_modules

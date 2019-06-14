@@ -9,6 +9,7 @@ import csv
 import json
 import argparse
 from collections import OrderedDict
+from glob import glob
 
 from jinja2 import Environment
 from jinja2 import FileSystemLoader
@@ -135,6 +136,16 @@ def get_pdf(lang_id, form_id, url=True):
             return url_for('static', filename='pdf/' + fn)
         else:
             return True
+
+
+def get_latest_pdf(lang_id, form_id):
+    fn = '{form_id}_{lang_id}_*.pdf'.format(
+        lang_id=lang_id,
+        form_id=form_id)
+    path = os.path.join('static', 'pdf', fn)
+    matches = glob(path)
+    if matches:
+        return sorted(matches)[-1]
 
 
 def log(s, style=None, indent=0):
@@ -329,6 +340,23 @@ def render_stats():
         forms=forms)
 
 
+def render_overview():
+    data = []
+
+    for form_id, form in sorted(forms.items()):
+        pdfs = {}
+        for lang_id in sorted(stats):
+            pdf = get_latest_pdf(lang_id, form_id)
+            if pdf:
+                pdfs[lang_id] = pdf
+        if pdfs or 'external' in form:
+            data.append((form_id, form, pdfs))
+
+    return render_template(
+        'overview.html',
+        data=data)
+
+
 def link_if_missing(src):
     target = os.path.join(TARGET_DIR, src)
     if not os.path.exists(target):
@@ -408,6 +436,9 @@ def build():
 
     path = os.path.join(TARGET_DIR, 'stats', 'index.html')
     write_file(path, render_stats())
+
+    path = os.path.join(TARGET_DIR, 'overview', 'index.html')
+    write_file(path, render_overview())
 
     for lang_id in translations:
         path = os.path.join(TARGET_DIR, lang_id, 'index.html')

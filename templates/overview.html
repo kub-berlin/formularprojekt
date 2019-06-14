@@ -1,0 +1,26 @@
+{% extends 'base.html' %}'
+
+{% block main %}
+{% for form_id, form, pdfs in data %}
+    <h3 id="{{ form_id }}">{{ form.title }}</h3>
+    <ul>
+        {% for lang_id, pdf in pdfs|dictsort %}
+        <li><a href="{{ pdf }}">
+            {% if lang_id != 'de-simple' %}{{ 'language_de' | translate(lang_id, 'meta') }} / {% endif %}
+            <span lang="{{ lang_id }}">{{ 'language' | translate(lang_id, 'meta') }}</span>
+        </a></li>
+        {% endfor %}
+
+        {% if form.external %}
+        <li>
+            Weitere Übersetzungen&hellip;
+            <ul>
+                {% for name, href in form.external|dictsort %}
+                <li><a href="{{ href }}" rel="external">{{ name }}</a></li>
+                {% endfor %}
+            </ul>
+        </li>
+        {% endif %}
+    </ul>
+{% endfor %}
+{% endblock %}

@@ -1743,7 +1743,7 @@
             "y1": 38,
             "x2": 542,
             "y2": 48,
-            "align": ""
+            "align": "start"
         },
         {
             "append": "\n\n",
@@ -1803,7 +1803,7 @@
             "y1": 281,
             "x2": 542,
             "y2": 291,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "WoFG",
@@ -1821,7 +1821,7 @@
             "y1": 336,
             "x2": 542,
             "y2": 346,
-            "align": ""
+            "align": "start"
         },
         {
             "content": "Verordnung über die Abweichung von den Einkommensgrenzen des § 9 Abs. 2 des WoFG vom 3. Dezember 2013 (GVBl. S. 895).",
@@ -1830,7 +1830,7 @@
             "y1": 383,
             "x2": 542,
             "y2": 393,
-            "align": ""
+            "align": "start"
         }
     ],
     "title": "Antrag auf einen Wohnberechtigungsschein (WBS) (Berlin)",

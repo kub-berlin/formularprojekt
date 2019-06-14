@@ -1172,7 +1172,7 @@
             "y1": 429,
             "x2": 549,
             "y2": 443,
-            "align": "left"
+            "align": "start"
         },
         {
             "append": "\n\n",

@@ -1,6 +1,6 @@
 {
     "checksum": "a30ba843c1697d7bd4328f5289abde9d",
-    "date": "2018-09-01",
+    "date": "2019-01-01",
     "rows": [
         {
             "align": "left",
@@ -74,7 +74,17 @@
         },
         {
             "align": "left",
-            "content": "besucht seit … die Klasse … und wird die Schulausbildung — voraussichtlich — im Monat / Jahr … beenden.",
+            "content": "besucht unsere Schule seit … (Schuleintritt).",
+            "page": 0,
+            "structure": "",
+            "x1": 77,
+            "x2": 538,
+            "y1": 359,
+            "y2": 368
+        },
+        {
+            "align": "left",
+            "content": "Er/Sie geht seit … in die Klasse … und wird die Schulausbildung (voraussichtlich) im Monat / Jahr … beenden.",
             "page": 0,
             "structure": "",
             "x1": 77,

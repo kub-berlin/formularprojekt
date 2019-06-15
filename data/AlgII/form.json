@@ -7,6 +7,11 @@
     },
     "rows": [
         {
+            "content": "Bearbeitungsvermerke",
+            "page": 0,
+            "structure": ""
+        },
+        {
             "align": "left",
             "content": "Nur vom Jobcenter auszufüllen",
             "page": 0,
@@ -347,7 +352,7 @@
         },
         {
             "align": "left",
-            "content": "eingetragen",
+            "content": "eingetragen seit",
             "page": 0,
             "structure": "",
             "x1": 71,
@@ -378,7 +383,7 @@
         },
         {
             "align": "left",
-            "content": "SGB II-Leistungen werden in der Regel auf ein Konto überwiesen.",
+            "content": "Leistungen nach dem SGB II werden in der Regel auf ein Konto überwiesen.",
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
@@ -409,16 +414,6 @@
         },
         {
             "align": "left",
-            "content": "BIC",
-            "page": 0,
-            "structure": "",
-            "x1": 56,
-            "x2": 212,
-            "y1": 707,
-            "y2": 717
-        },
-        {
-            "align": "left",
             "content": "IBAN",
             "page": 0,
             "structure": "",
@@ -429,7 +424,7 @@
         },
         {
             "align": "left",
-            "content": "BIC und IBAN finden Sie in der Regel auf Ihrem Kontoauszug.",
+            "content": "Die IBAN finden Sie in der Regel auf Ihrem Kontoauszug.",
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
@@ -437,22 +432,6 @@
             "x2": 404,
             "y1": 708,
             "y2": 718
-        },
-        {
-            "content": "Bearbeitungsvermerke",
-            "page": 1,
-            "structure": ""
-        },
-        {
-            "align": "left",
-            "content": "Nur vom Jobcenter auszufüllen",
-            "page": 1,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 419,
-            "x2": 512,
-            "y1": 28,
-            "y2": 38
         },
         {
             "align": "left",
@@ -579,7 +558,7 @@
         },
         {
             "align": "left",
-            "content": "Falls ja, legen Sie bitte entsprechende Nachweise (z. B. Aufenthaltsgestattung, Aufenthaltserlaubnis, Duldung) vor.",
+            "content": "Legen Sie bitte entsprechende Nachweise (z. B. Aufenthaltserlaubnis, Aufenthaltsgestattung, Duldung, Bescheid des Bundesamtes für Migration und Flüchtlinge (BAMF)) vor.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -722,7 +701,7 @@
         },
         {
             "align": "left",
-            "content": "Falls ja, legen Sie bitte eine gültige Bescheinigung vor.",
+            "content": "Falls ja, legen Sie bitte entsprechende Nachweise (z. B. Immatrikulationsbescheinigung) vor.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -763,7 +742,7 @@
         },
         {
             "align": "left",
-            "content": "Falls ja, legen Sie bitte einen Nachweis über die Antragstellung oder – soweit über Ihren (BAföG)-Antrag bereits entschieden wurde – den entsprechenden Bescheid über die Bewilligung oder Ablehnung vor.",
+            "content": "Falls ja, legen Sie bitte einen Nachweis über die Antragstellung oder – soweit über Ihren BAföG-Antrag bereits entschieden wurde – den entsprechenden Bescheid über die Bewilligung oder Ablehnung vor.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -814,7 +793,7 @@
         },
         {
             "align": "left",
-            "content": "Falls ja, legen Sie bitte eine gültige Bescheinigung vor.",
+            "content": "Falls ja, legen Sie bitte den Ausbildungsvertrag vor.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -896,7 +875,7 @@
         },
         {
             "align": "left",
-            "content": "Falls ja, legen Sie bitte eine gültige Bescheinigung über den Aufenthalt und dessen Dauer vor.",
+            "content": "Falls ja, legen Sie bitte eine gültige Bescheinigung über den Aufenthalt und die Dauer vor.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -918,7 +897,7 @@
         },
         {
             "align": "left",
-            "content": "Leben Sie allein, dann gehen Sie bitte zu Abschnitt 3.",
+            "content": "Leben Sie allein, sind unter Abschnitt 2 keine weiteren Angaben erforderlich. Bitte weiter bei Abschnitt 3.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -1009,18 +988,6 @@
             "y2": 746
         },
         {
-            "content": "Bearbeitungsvermerke",
-            "page": 2,
-            "structure": ""
-        },
-        {
-            "align": "left",
-            "content": "Nur vom Jobcenter auszufüllen",
-            "page": 2,
-            "structure": "",
-            "style": "color: #00965A"
-        },
-        {
             "align": "left",
             "content": "Persönliche Daten der weiteren Person/en meiner Bedarfsgemeinschaft",
             "page": 2,
@@ -1045,12 +1012,12 @@
         {
             "align": "left",
             "append": "\n\n",
-            "content": "Bitte füllen Sie für jedes Kind unter 15 Jahren die **Anlage KI** und für alle anderen Personen, die Sie vertreten, jeweils die **Anlage WEP** aus. Dies gilt auch dann, wenn es sich hierbei um ein minderjähriges Kind handelt, das sich (z. B. aufgrund eines geteilten Umgangsrechts) nicht durchgehend in Ihrem Haushalt aufhält.",
+            "content": "Bitte füllen Sie für jedes Kind unter 15 Jahren die **Anlage KI**, für die Person, mit der Sie in einer Verantwortungs- und Einstehensgemeinschaft leben, die **Anlage VE** und für alle anderen Personen, die Sie vertreten, jeweils die **Anlage WEP** aus. Dies gilt auch dann, wenn es sich hierbei um ein minderjähriges Kind handelt, das sich (z. B. aufgrund eines geteilten Umgangsrechts) nicht durchgehend in Ihrem Haushalt aufhält.",
             "page": 2,
             "structure": ""
         },
         {
-            "content": "Ich füge diesem Antrag ... **Anlage/n KI** und ... **Anlage/n WEP** bei.",
+            "content": "Ich füge diesem Antrag … **Anlage/n KI**, … **Anlage VE** und … **Anlage/n WEP** bei.",
             "page": 2,
             "structure": "",
             "x1": 85,
@@ -1082,16 +1049,6 @@
         },
         {
             "align": "left",
-            "content": "Davon ist/sind ... Person/en mit mir verwandt oder verschwägert.",
-            "page": 2,
-            "structure": "",
-            "x1": 85,
-            "x2": 460,
-            "y1": 204,
-            "y2": 213
-        },
-        {
-            "align": "left",
             "content": "Bitte machen Sie Angaben zu Personen, mit denen Sie verwandt oder verschwägert sind, in der **Anlage HG**.",
             "page": 2,
             "structure": "",
@@ -1100,27 +1057,6 @@
             "x2": 460,
             "y1": 217,
             "y2": 225
-        },
-        {
-            "align": "left",
-            "content": "Davon ist/sind ... Person/en **nicht** mit mir verwandt oder verschwägert.",
-            "page": 2,
-            "structure": "",
-            "x1": 85,
-            "x2": 460,
-            "y1": 241,
-            "y2": 249
-        },
-        {
-            "align": "left",
-            "content": "Bitte füllen Sie für diese Personen die **Anlage VE** aus.",
-            "page": 2,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 97,
-            "x2": 460,
-            "y1": 254,
-            "y2": 262
         },
         {
             "align": "left",
@@ -1176,6 +1112,16 @@
         },
         {
             "align": "left",
+            "content": "Ich habe einen Mehrbedarf für die dezentrale Warmwassererzeugung.",
+            "page": 2,
+            "structure": "",
+            "x1": 86,
+            "x2": 460,
+            "y1": 349,
+            "y2": 358
+        },
+        {
+            "align": "left",
             "content": "Ich benötige aus medizinischen Gründen eine **kostenaufwändige Ernährung**.",
             "page": 2,
             "structure": "",
@@ -1207,7 +1153,7 @@
         },
         {
             "align": "start",
-            "content": "- Leistungen zur Teilhabe am Arbeitsleben nach § 33 Neuntes Buch Sozialgesetzbuch (SGB IX) **oder**",
+            "content": "- Leistungen zur Teilhabe am Arbeitsleben nach § 349 Neuntes Buch Sozialgesetzbuch (SGB IX) **oder**",
             "page": 2,
             "structure": "",
             "x1": 69,
@@ -1225,7 +1171,7 @@
         {
             "align": "start",
             "append": "\n",
-            "content": "- Eingliederungshilfen nach § 54 Abs. 1 Satz 1 Nr. 1-3 Zwölftes Buch Sozialgesetzbuch (SGB XII).",
+            "content": "- Eingliederungshilfen nach § 54 Abs. 1 Satz 1 Nr. 1-3 SGB XII.",
             "page": 2,
             "structure": ""
         },
@@ -1242,7 +1188,7 @@
         },
         {
             "align": "left",
-            "content": "Ich bin **nicht erwerbsfähig** und Inhaberin/Inhaber eines Ausweises nach § 69 Abs. 5 SGB IX mit dem **Merkzeichen G**.",
+            "content": "Ich bin **nicht erwerbsfähig** und Inhaberin/Inhaber eines Ausweises nach § 152 Abs. 5 SGB IX mit dem **Merkzeichen G oder aG**.",
             "page": 2,
             "structure": "",
             "x1": 85,
@@ -1332,7 +1278,7 @@
         },
         {
             "align": "left",
-            "content": "Falls ja, füllen Sie bitte für sich und ggf. für jede weitere Person Ihrer Bedarfsgemeinschaft ab 15 Jahren jeweils die **Anlage EK** aus. Bei Einkommen aus selbständiger Tätigkeit füllen Sie bitte **zusätzlich** die **Anlage EKS** aus.",
+            "content": "Falls ja, füllen Sie bitte für sich und ggf. für jede weitere Person Ihrer Bedarfsgemeinschaft ab 15 Jahren jeweils die **Anlage EK** aus. Bei Ausübung einer selbständiger Tätigkeit füllen Sie bitte **zusätzlich** die **Anlage EKS** aus.",
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
@@ -1425,22 +1371,6 @@
             "x2": 460,
             "y1": 709,
             "y2": 717
-        },
-        {
-            "content": "Bearbeitungsvermerke",
-            "page": 3,
-            "structure": ""
-        },
-        {
-            "align": "left",
-            "content": "Nur vom Jobcenter auszufüllen",
-            "page": 3,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 420,
-            "x2": 512,
-            "y1": 45,
-            "y2": 55
         },
         {
             "align": "left",
@@ -1616,7 +1546,7 @@
         },
         {
             "align": "left",
-            "content": "habe ich **Angehörige gepflegt** (Pflege nach dem Elften Buch Sozialgesetzbuch (SGB XI)).",
+            "content": "habe ich **Angehörige gepflegt** (Pflege nach dem Elften Buch Sozialgesetzbuch).",
             "page": 3,
             "structure": "",
             "x1": 41,
@@ -1626,7 +1556,7 @@
         },
         {
             "align": "left",
-            "content": "habe ich **Entgeltersatzleistungen** erhalten (z. B. Krankengeld, Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch (SGB III)).",
+            "content": "habe ich **Entgeltersatzleistungen** erhalten (z. B. Krankengeld, Arbeitslosengeld nach dem SGB III).",
             "page": 3,
             "structure": "",
             "x1": 41,
@@ -1831,7 +1761,7 @@
         },
         {
             "align": "left",
-            "content": "Ein nicht verheiratetes/nicht in einer eingetragenen gleichgeschlechtlichen Lebenspartnerschaft lebendes Mitglied meiner Bedarfsgemeinschaft ist schwanger oder betreut ein nichteheliches Kind unter 3 Jahren und kann deshalb nicht arbeiten.",
+            "content": "Ich bzw. ein nicht verheiratetes/nicht in einer eingetragenen gleichgeschlechtlichen Lebenspartnerschaft lebendes Mitglied meiner Bedarfsgemeinschaft bin/ist schwanger oder betreue/betreut ein nichteheliches Kind unter 3 Jahren und kann deshalb nicht arbeiten.",
             "page": 3,
             "structure": "",
             "x1": 41,
@@ -1862,7 +1792,7 @@
         },
         {
             "align": "start",
-            "content": "- unter 18 Jahre alt bzw.",
+            "content": "- unter 18 Jahre alt oder",
             "page": 3,
             "structure": "",
             "x1": 26,
@@ -1903,22 +1833,6 @@
             "y2": 757
         },
         {
-            "content": "Bearbeitungsvermerke",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "align": "left",
-            "content": "Nur vom Jobcenter auszufüllen",
-            "page": 4,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 463,
-            "x2": 553,
-            "y1": 46,
-            "y2": 56
-        },
-        {
             "align": "left",
             "content": "Ich bin bzw. meine jetzige Partnerin/mein jetziger Partner ist",
             "page": 4,
@@ -1930,7 +1844,7 @@
         },
         {
             "align": "start",
-            "content": "- unter 18 Jahre alt bzw.",
+            "content": "- unter 18 Jahre alt oder",
             "page": 4,
             "structure": "",
             "x1": 70,
@@ -1941,7 +1855,7 @@
         {
             "align": "start",
             "append": "\n",
-            "content": "- zwischen 18 und 24 Jahre alt und mache eine Schul- oder Berufsausbildung oder will eine solche in Kürze beginnen.",
+            "content": "- zwischen 18 und 24 Jahre alt und mache/macht eine Schul- oder Berufsausbildung oder will eine solche in Kürze beginnen.",
             "page": 4,
             "structure": ""
         },
@@ -2020,6 +1934,27 @@
         },
         {
             "align": "left",
+            "content": "Für mich und/oder für ein Mitglied meiner Bedarfsgemeinschaft wurde eine Verpflichtungserklärung gegenüber der Ausländerbehörde oder der Auslandsvertretung abgegeben.",
+            "page": 4,
+            "structure": "",
+            "x1": 86,
+            "x2": 460,
+            "y1": 166,
+            "y2": 175
+        },
+        {
+            "align": "left",
+            "content": "Bitte legen Sie hierzu geeignete Unterlagen vor (z. B. Kopie der Verpflichtungserklärung).",
+            "page": 4,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 92,
+            "x2": 460,
+            "y1": 223,
+            "y2": 231
+        },
+        {
+            "align": "left",
             "content": "Ansprüche gegenüber Sozialleistungsträgern/Familienkassen",
             "page": 4,
             "structure": "6.4",
@@ -2031,7 +1966,7 @@
         },
         {
             "align": "left",
-            "content": "Ich habe schon andere Leistungen (z. B. Wohngeld, Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch (SGB III)) **beantragt** oder **beabsichtige, einen Antrag zu stellen**.",
+            "content": "Ich habe schon andere Leistungen (z. B. Wohngeld, Arbeitslosengeld, Rente, Kindergeld) **beantragt** oder **beabsichtige, einen Antrag zu stellen**.",
             "page": 4,
             "structure": "",
             "x1": 86,
@@ -2264,7 +2199,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte füllen Sie die **Anlage SV, Abschnitt 2** aus.",
+            "content": "Bitte füllen Sie die **Anlage SV**, Abschnitt 2 aus.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
@@ -2285,7 +2220,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte füllen Sie die **Anlage SV, Abschnitt 3** aus.",
+            "content": "Bitte füllen Sie die **Anlage SV**, Abschnitt 3 aus.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
@@ -2325,22 +2260,6 @@
             "x2": 460,
             "y1": 723,
             "y2": 731
-        },
-        {
-            "content": "Bearbeitungsvermerke",
-            "page": 5,
-            "structure": ""
-        },
-        {
-            "align": "left",
-            "content": "Nur vom Jobcenter auszufüllen",
-            "page": 5,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 420,
-            "x2": 511,
-            "y1": 46,
-            "y2": 56
         },
         {
             "align": "left",
@@ -2398,7 +2317,7 @@
         },
         {
             "align": "start",
-            "content": "Die Daten unterliegen dem Sozialgeheimnis (siehe Merkblatt SGB II). Ihre Angaben werden aufgrund der §§ 60-65 Erstes Buch Sozialgesetzbuch (SGB I) und der §§ 67a, b, c Zehntes Buch Sozialgesetzbuch (SGB X) für die Leistungen nach dem SGB II erhoben.",
+            "content": "Die Daten unterliegen dem Sozialgeheimnis (siehe \"Merkblatt SGB II\"). Ihre Angaben werden aufgrund der §§ 60-65 Erstes Buch Sozialgesetzbuch (SGB I) und der §§ 67a, b, c Zehntes Buch Sozialgesetzbuch (SGB X) für die Leistungen nach dem SGB II erhoben.",
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
@@ -2406,6 +2325,12 @@
             "x2": 416,
             "y1": 155,
             "y2": 162
+        },
+        {
+            "append": " ",
+            "content": "Datenschutzrechtliche Hinweise erhalten Sie bei dem für Sie zuständigen Jobcenter sowie ergänzend im Internet unter www.arbeitsagentur.de/datenerhebung.",
+            "page": 5,
+            "structure": ""
         },
         {
             "align": "start",
@@ -2424,13 +2349,13 @@
         {
             "align": "start",
             "append": "\n\n",
-            "content": "Ein Verstoß kann zusätzlich zu einem Ordnungswidrigkeiten- oder Strafverfahren gegen die Person führen, die die o. g. Pflichten missachtet hat. Das Jobcenter holt im Wege eines automatisierten Datenabgleichs bei verschiedenen Stellen Auskünfte über Einkommen und Vermögen ein (z. B. Arbeitsentgelte, Kapitalerträge, Renten). Verschwiegene Einkommen und Vermögen werden daher regelmäßig nachträglich bekannt.",
+            "content": "Ein Verstoß kann zusätzlich zu einem Ordnungswidrigkeiten- oder Strafverfahren gegen die Person führen, die die oben genannten Pflichten missachtet hat. Das Jobcenter holt im Wege eines automatisierten Datenabgleichs bei verschiedenen Stellen Auskünfte über Einkommen und Vermögen ein (z. B. Arbeitsentgelte, Kapitalerträge, Renten). Verschwiegene Einkommen und Vermögen werden daher regelmäßig nachträglich bekannt.",
             "page": 5,
             "structure": ""
         },
         {
             "align": "start",
-            "content": "Ich habe das Merkblatt \"SGB II – Grundsicherung für Arbeitsuchende (Arbeitslosengeld II/Sozialgeld)\" und die Ausfüllhinweise erhalten und kenne deren Inhalt. Künftige Änderungen (insbesondere der Familien-, Einkommens- und Vermögensverhältnisse sowie des Umfangs der Erwerbsfähigkeit) werde ich unaufgefordert und unverzüglich mitteilen.",
+            "content": "Ich habe das Merkblatt \"SGB II – Arbeitslosengeld II/Sozialgeld (Grundsicherung für Arbeitsuchende)\" und die Ausfüllhinweise erhalten und kenne deren Inhalt. Künftige Änderungen (insbesondere der Familien-, Einkommens- und Vermögensverhältnisse sowie des Umfangs der Erwerbsfähigkeit) werde ich unaufgefordert und unverzüglich mitteilen.",
             "page": 5,
             "structure": "",
             "x1": 41,
@@ -2440,7 +2365,7 @@
         },
         {
             "align": "left",
-            "content": "Es wurde eine Betreuerin/ein Betreuer vom **Betreuungsgericht** bestellt.",
+            "content": "Es wurde eine Betreuerin/ein Betreuer vom **Betreuungsgericht/Amtsgericht** bestellt.",
             "page": 5,
             "structure": "",
             "x1": 41,

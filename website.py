@@ -347,6 +347,8 @@ def render_overview():
     for form_id, form in sorted(forms.items()):
         pdfs = {}
         for lang_id in sorted(stats):
+            if lang_id in form.get('external_langs', []):
+                continue
             pdf = get_latest_pdf(lang_id, form_id)
             if pdf:
                 pdfs[lang_id] = pdf

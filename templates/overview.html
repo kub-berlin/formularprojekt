@@ -1,6 +1,14 @@
 {% extends 'base.html' %}'
 
 {% block main %}
+<nav aria-label="Inhaltsverzeichnis" class="toc">
+    <ol>
+        {% for form_id, form, pdfs in data %}
+        <li><a href="#{{ form_id }}">{{ form.title }}</a></li>
+        {% endfor %}
+    </ol>
+</nav>
+
 {% for form_id, form, pdfs in data %}
     <h3 id="{{ form_id }}">{{ form.title }}</h3>
     <ul>

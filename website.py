@@ -57,7 +57,7 @@ def url_for(view, **kwargs):
     elif view == 'formularprojekt.translation_route':
         return BASE_URL + '/{lang_id}/{form_id}/'.format(**kwargs)
     elif view == 'formularprojekt.print_route':
-        return BASE_URL + '/{lang_id}/{form_id}/'.format(**kwargs)
+        return BASE_URL + '/{lang_id}/{form_id}/print/'.format(**kwargs)
     else:
         raise KeyError
 

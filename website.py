@@ -139,14 +139,23 @@ def get_pdf(lang_id, form_id, url=True):
 
 
 def get_latest_pdf(lang_id, form_id):
-    fn = '{form_id}_{lang_id}_*.pdf'.format(
-        lang_id=lang_id,
-        form_id=form_id)
-    path = os.path.join('static', 'pdf', fn)
-    matches = glob(path)
-    if matches:
-        path = sorted(matches)[-1]
-        return url_for('static', filename='pdf/' + os.path.basename(path))
+    form_view_url = forms[form_id].get('form_view_url')
+    if form_view_url:
+        if not stats[lang_id][form_id]['untranslated']:
+            return BASE_URL + '/{lang_id}/{form_id}/{form_view}'.format(
+                lang_id=lang_id,
+                form_id=form_id,
+                form_view=form_view_url,
+            )
+    else:
+        fn = '{form_id}_{lang_id}_*.pdf'.format(
+            lang_id=lang_id,
+            form_id=form_id)
+        path = os.path.join('static', 'pdf', fn)
+        matches = glob(path)
+        if matches:
+            path = sorted(matches)[-1]
+            return url_for('static', filename='pdf/' + os.path.basename(path))
 
 
 def log(s, style=None, indent=0):

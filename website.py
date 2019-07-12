@@ -130,7 +130,8 @@ def get_pdf(lang_id, form_id, url=True):
     fn = '{form_id}_{lang_id}_{date}.pdf'.format(
         lang_id=lang_id,
         form_id=form_id,
-        date=forms[form_id]['date'])
+        date=forms[form_id]['date'],
+    )
     if os.path.exists(os.path.join('static', 'pdf', fn)):
         if url:
             return url_for('static', filename='pdf/' + fn)
@@ -150,7 +151,8 @@ def get_latest_pdf(lang_id, form_id):
     else:
         fn = '{form_id}_{lang_id}_*.pdf'.format(
             lang_id=lang_id,
-            form_id=form_id)
+            form_id=form_id,
+        )
         path = os.path.join('static', 'pdf', fn)
         matches = glob(path)
         if matches:
@@ -269,7 +271,8 @@ def render_index():
     return render_template(
         'index.html',
         translations=translations,
-        lang_id='de')
+        lang_id='de',
+    )
 
 
 def render_language(lang_id):
@@ -278,12 +281,14 @@ def render_language(lang_id):
         translations=translations,
         forms=forms,
         lang_id=lang_id,
-        any_translations=len(translations[lang_id]) > 1)  # only meta
+        any_translations=len(translations[lang_id]) > 1,  # only meta
+    )
 
 
 def render_translation(lang_id, form_id):
-    available_languages = [l for l in translations
-        if form_id in translations[l]]
+    available_languages = [
+        l for l in translations if form_id in translations[l]
+    ]
 
     return render_template(
         'translation.html',
@@ -292,7 +297,8 @@ def render_translation(lang_id, form_id):
         form_id=form_id,
         pdf=get_pdf(lang_id, form_id),
         form_view_url=forms[form_id].get('form_view_url', 'print/'),
-        available_languages=available_languages)
+        available_languages=available_languages,
+    )
 
 
 def render_print(lang_id, form_id):
@@ -302,7 +308,7 @@ def render_print(lang_id, form_id):
     for i in range(page_n + 1):
         pages.append({
             'bg': os.path.exists(bg_template % (form_id, i)),
-            'rows': []
+            'rows': [],
         })
 
     trans = lambda s: translate_filter(s, lang_id, form_id, '')
@@ -326,7 +332,8 @@ def render_print(lang_id, form_id):
         forms=forms,
         pages=pages,
         lang_id=lang_id,
-        form_id=form_id)
+        form_id=form_id,
+    )
 
 
 def render_resource(lang_id, form_id, resource_id):
@@ -335,7 +342,8 @@ def render_resource(lang_id, form_id, resource_id):
         forms=forms,
         direction=text_direction_filter(lang_id),
         lang_id=lang_id,
-        form_id=form_id)
+        form_id=form_id,
+    )
 
 
 def render_stats():
@@ -347,7 +355,8 @@ def render_stats():
         'stats.html',
         stats=stats,
         langs=langs,
-        forms=forms)
+        forms=forms,
+    )
 
 
 def render_overview():
@@ -366,7 +375,8 @@ def render_overview():
 
     return render_template(
         'overview.html',
-        data=data)
+        data=data,
+    )
 
 
 def link_if_missing(src):

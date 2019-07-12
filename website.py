@@ -283,35 +283,33 @@ def is_stale(target, dependencies):
 
 
 def write_file(path, s):
+    print('writing', path)
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    current = None
-    if os.path.exists(path):
-        with open(path) as fh:
-            current = fh.read()
-    if s != current:
-        print('writing', path)
-        with open(path, 'w') as fh:
-            fh.write(s)
+    with open(path, 'w') as fh:
+        fh.write(s)
 
 
 def render_if_stale(name, lang_id, form_id):
-    args = (lang_id, form_id)
-    form_fn = os.path.join('data', form_id, 'form.json')
-    translation_fn = os.path.join('data', form_id, lang_id + '.csv')
-    template_fn = os.path.join('templates', name + '.html')
-    dependencies = [form_fn, translation_fn]
+    dependencies = [
+        __file__,
+        os.path.join('data', form_id, 'form.json'),
+        os.path.join('data', form_id, lang_id + '.csv'),
+    ]
 
-    # TODO generic
     if name == 'print':
         path = os.path.join(TARGET_DIR, lang_id, form_id, 'index.html')
         render = render_print
-        dependencies.append(template_fn)
+        args = (lang_id, form_id)
+        dependencies += [
+            os.path.join('templates', name + '.html'),
+        ]
     else:
-        args = (lang_id, form_id, name)
         path = os.path.join(TARGET_DIR, lang_id, form_id, 'r', name)
-        template_fn = os.path.join('templates', 'forms', form_id, name)
         render = render_resource
-        dependencies.append(template_fn)
+        args = (lang_id, form_id, name)
+        dependencies += [
+            os.path.join('templates', 'forms', form_id, name),
+        ]
 
     if is_stale(path, dependencies):
         write_file(path, render(*args))

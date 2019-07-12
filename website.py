@@ -74,16 +74,13 @@ def render_template(path, **kwargs):
 
 
 def url_for(view, **kwargs):
-    if view == 'static':
-        return BASE_URL + '/static/' + kwargs['filename']
-    elif view == 'pdf':
-        return BASE_URL + '/pdf/{filename}'.format(**kwargs)
-    elif view == 'resource':
-        return BASE_URL + '/res/{form_id}/{lang_id}/{form_view}'.format(**kwargs)  # noqa
-    elif view == 'bg':
-        return BASE_URL + '/data/{form_id}/bg/bg-{index}.svg'.format(**kwargs)
-    else:
-        raise KeyError
+    TEMPLATES = {
+        'static': '/static/{filename}',
+        'pdf': '/pdf/{filename}',
+        'resource': '/res/{form_id}/{lang_id}/{form_view}',
+        'bg': '/data/{form_id}/bg/bg-{index}.svg',
+    }
+    return BASE_URL + TEMPLATES[view].format(**kwargs)
 
 
 def load_data():

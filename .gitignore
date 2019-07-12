@@ -1,7 +1,7 @@
 build
 static/style.css
 node_modules
-package-lock.json
-.env
+.venv
 .upstream
 static/pdf
+.mapping.json

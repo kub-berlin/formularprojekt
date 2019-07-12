@@ -5,7 +5,6 @@ import sys
 import csv
 import json
 import argparse
-from collections import OrderedDict
 from glob import glob
 
 from jinja2 import Environment
@@ -23,8 +22,8 @@ INCOMPLETE = 2
 NEAR_MISSING = 3
 MISSING = 4
 
-forms = OrderedDict()
-translations = OrderedDict()
+forms = dict()
+translations = dict()
 template_env = Environment(
     loader=FileSystemLoader('templates'),
 )
@@ -66,7 +65,7 @@ def load_data():
                 lang_id = filename[:-4]
 
                 if lang_id not in translations:
-                    translations[lang_id] = OrderedDict()
+                    translations[lang_id] = dict()
 
                 if lang_id != 'de' or form_id == 'meta':
                     with open(path) as fh:

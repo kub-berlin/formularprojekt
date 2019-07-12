@@ -36,6 +36,38 @@ def template_filter(name):
     return decorator
 
 
+@template_filter('markdown')
+def markdown_filter(text):
+    return Markup(commonmark.commonmark(text))
+
+
+@template_filter('translate')
+def translate_filter(s, lang_id, form_id, default=None):
+    try:
+        return translations[lang_id][form_id][s]
+    except KeyError:
+        pass
+
+    if default is None:
+        if form_id == 'meta':
+            try:
+                return translations['de'][form_id][s]
+            except:
+                pass
+
+        return s
+    else:
+        return default
+
+
+@template_filter('text_direction')
+def text_direction_filter(lang_id):
+    try:
+        return translations[lang_id]['meta']['direction']
+    except KeyError:
+        return 'auto'
+
+
 def render_template(path, **kwargs):
     template = template_env.get_template(path)
     return template.render(**kwargs, url_for=url_for)
@@ -72,6 +104,19 @@ def load_data():
                 if lang_id != 'de' or form_id == 'meta':
                     with open(path) as fh:
                         translations[lang_id][form_id] = dict(csv.reader(fh))
+
+
+def get_translated(form_id, lang_id):
+    if form_id == 'meta':
+        keys = set(translations['en']['meta'].keys())
+    else:
+        keys = set(r['content'] for r in forms[form_id]['rows'])
+    try:
+        translation = translations[lang_id][form_id]
+        tkeys = set(translation.keys())
+    except KeyError:
+        tkeys = set()
+    return tkeys.intersection(keys), keys
 
 
 def has_pdf(lang_id, form_id):
@@ -122,20 +167,7 @@ def log(s, style=None, indent=0):
     print(' ' * indent + color + s + reset)
 
 
-def get_translated(form_id, lang_id):
-    if form_id == 'meta':
-        keys = set(translations['en']['meta'].keys())
-    else:
-        keys = set(r['content'] for r in forms[form_id]['rows'])
-    try:
-        translation = translations[lang_id][form_id]
-        tkeys = set(translation.keys())
-    except KeyError:
-        tkeys = set()
-    return tkeys.intersection(keys), keys
-
-
-def _form_stats(form_id, langs, verbose):
+def print_form_stats(form_id, langs, verbose):
     print(form_id)
 
     for lang_id in langs:
@@ -178,43 +210,11 @@ def print_stats(form_id=None, lang_id=None, verbose=False):
         langs = [lang_id]
 
     if form_id is None:
-        _form_stats('meta', langs, verbose)
+        print_form_stats('meta', langs, verbose)
         for form_id in sorted(forms.keys()):
-            _form_stats(form_id, langs, verbose)
+            print_form_stats(form_id, langs, verbose)
     else:
-        _form_stats(form_id, langs, verbose)
-
-
-@template_filter('markdown')
-def markdown_filter(text):
-    return Markup(commonmark.commonmark(text))
-
-
-@template_filter('translate')
-def translate_filter(s, lang_id, form_id, default=None):
-    try:
-        return translations[lang_id][form_id][s]
-    except KeyError:
-        pass
-
-    if default is None:
-        if form_id == 'meta':
-            try:
-                return translations['de'][form_id][s]
-            except:
-                pass
-
-        return s
-    else:
-        return default
-
-
-@template_filter('text_direction')
-def text_direction_filter(lang_id):
-    try:
-        return translations[lang_id]['meta']['direction']
-    except KeyError:
-        return 'auto'
+        print_form_stats(form_id, langs, verbose)
 
 
 def render_print(lang_id, form_id):

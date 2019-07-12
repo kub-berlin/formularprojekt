@@ -5,6 +5,9 @@ DE_FILES := $(shell find 'data' -name 'form.json' | sed 's/form\.json$$/de.csv/g
 build: .venv annotator/annotator.build.js static/style.css static/* templates/*
 	.venv/bin/python website.py build
 
+serve: .venv
+	.venv/bin/python -m http.server
+
 fill: .venv
 	.venv/bin/python scripts/fill.py
 

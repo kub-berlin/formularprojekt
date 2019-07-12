@@ -22,11 +22,9 @@ NEAR_COMPLETE = 1
 INCOMPLETE = 2
 NEAR_MISSING = 3
 MISSING = 4
-EXTRA = 5
 
 forms = OrderedDict()
 translations = OrderedDict()
-stats = OrderedDict()
 template_env = Environment(
     loader=FileSystemLoader('templates'),
 )
@@ -71,50 +69,6 @@ def load_data():
                         translations[lang_id][form_id] = dict(csv.reader(fh))
 
 
-def load_stats():
-    for lang_id in translations:
-        stats[lang_id] = OrderedDict()
-
-        for form_id in list(forms.keys()) + ['meta']:
-            if form_id == 'meta':
-                keys = set(translations['en']['meta'].keys())
-            else:
-                keys = set(r['content'] for r in forms[form_id]['rows'])
-
-            n = len(keys)
-
-            if form_id in translations[lang_id]:
-                translation = translations[lang_id][form_id]
-                tkeys = set(translation.keys())
-
-                data = {
-                    'translated': tkeys.intersection(keys),
-                    'untranslated': keys.difference(tkeys),
-                    'extra': tkeys.difference(keys),
-                }
-            else:
-                data = {
-                    'translated': [],
-                    'untranslated': keys,
-                    'extra': [],
-                }
-
-            if len(data['extra']) > 0:
-                data['style'] = EXTRA
-            elif len(data['translated']) == 0:
-                data['style'] = MISSING
-            elif len(data['translated']) < n * 0.2:
-                data['style'] = NEAR_MISSING
-            elif len(data['translated']) < n * 0.8:
-                data['style'] = INCOMPLETE
-            elif len(data['translated']) < n:
-                data['style'] = NEAR_COMPLETE
-            else:
-                data['style'] = None
-
-            stats[lang_id][form_id] = data
-
-
 def has_pdf(lang_id, form_id):
     fn = '{form_id}_{lang_id}_{date}.pdf'.format(
         lang_id=lang_id,
@@ -127,7 +81,8 @@ def has_pdf(lang_id, form_id):
 def get_latest_pdf(lang_id, form_id):
     form_view_url = forms[form_id].get('form_view_url')
     if form_view_url:
-        if not stats[lang_id][form_id]['untranslated']:
+        translated, keys = get_translated(form_id, lang_id)
+        if len(translated) == len(keys):
             return BASE_URL + '/{lang_id}/{form_id}/{form_view}'.format(
                 lang_id=lang_id,
                 form_id=form_id,
@@ -148,19 +103,12 @@ def get_latest_pdf(lang_id, form_id):
 def log(s, style=None, indent=0):
     if sys.stdout.isatty():
         reset = Fore.RESET
-
-        if style == EXTRA:
-            color = Fore.RED
-        elif style == MISSING:
-            color = Fore.MAGENTA
-        elif style == NEAR_MISSING:
-            color = Fore.YELLOW
-        elif style == INCOMPLETE:
-            color = Fore.CYAN
-        elif style == NEAR_COMPLETE:
-            color = Fore.GREEN
-        else:
-            color = ''
+        color = {
+            NEAR_MISSING: Fore.YELLOW,
+            INCOMPLETE: Fore.CYAN,
+            NEAR_COMPLETE: Fore.GREEN,
+            MISSING: Fore.MAGENTA,
+        }.get(style, '')
     else:
         reset = ''
         color = ''
@@ -168,17 +116,37 @@ def log(s, style=None, indent=0):
     print(' ' * indent + color + s + reset)
 
 
+def get_translated(form_id, lang_id):
+    if form_id == 'meta':
+        keys = set(translations['en']['meta'].keys())
+    else:
+        keys = set(r['content'] for r in forms[form_id]['rows'])
+    try:
+        translation = translations[lang_id][form_id]
+        tkeys = set(translation.keys())
+    except KeyError:
+        tkeys = set()
+    return tkeys.intersection(keys), keys
+
+
 def _form_stats(form_id, langs, verbose):
     print(form_id)
 
     for lang_id in langs:
-        translated = stats[lang_id][form_id]['translated']
-        untranslated = stats[lang_id][form_id]['untranslated']
-        extra = stats[lang_id][form_id]['extra']
-        style = stats[lang_id][form_id]['style']
+        translated, keys = get_translated(form_id, lang_id)
 
-        n = len(translated) + len(untranslated)
-        s = '%s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
+        if len(translated) == 0:
+            style = MISSING
+        elif len(translated) < len(keys) * 0.2:
+            style = NEAR_MISSING
+        elif len(translated) < len(keys) * 0.8:
+            style = INCOMPLETE
+        elif len(translated) < len(keys):
+            style = NEAR_COMPLETE
+        else:
+            style = None
+
+        s = '%s: %i/%i' % (lang_id, len(translated), len(keys))
         if form_id != 'meta':
             if has_pdf(lang_id, form_id):
                 s += ' (pdf)'
@@ -187,17 +155,16 @@ def _form_stats(form_id, langs, verbose):
         log(s, style, 2)
 
         if verbose:
-            for s in untranslated:
-                log(s, MISSING, 4)
-            for s in extra:
-                log(s, EXTRA, 4)
+            for s in keys:
+                if s not in translated:
+                    log(s, MISSING, 4)
 
     print('')
 
 
 def print_stats(form_id=None, lang_id=None, verbose=False):
     if lang_id is None:
-        langs = list(stats.keys())
+        langs = list(translations.keys())
         if 'de' in langs:
             langs.remove('de')
         langs.sort()
@@ -294,7 +261,7 @@ def render_overview():
 
     for form_id, form in sorted(forms.items()):
         pdfs = {}
-        for lang_id in sorted(stats):
+        for lang_id in sorted(translations):
             if lang_id in form.get('external_langs', []):
                 continue
             pdf = get_latest_pdf(lang_id, form_id)
@@ -386,7 +353,6 @@ def parse_args(argv=None):
 def main():  # pragma: no cover
     args = parse_args()
     load_data()
-    load_stats()
 
     if args.cmd == 'stats':
         print_stats(args.form, args.lang, args.verbose)

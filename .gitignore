@@ -4,3 +4,4 @@ node_modules
 .upstream
 pdf
 .mapping.json
+res/*/*/*.html

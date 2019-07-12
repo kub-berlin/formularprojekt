@@ -46,6 +46,8 @@ def url_for(view, **kwargs):
         return BASE_URL + '/static/' + kwargs['filename']
     elif view == 'pdf':
         return BASE_URL + '/pdf/{filename}'.format(**kwargs)
+    elif view == 'resource':
+        return BASE_URL + '/res/{form_id}/{lang_id}/{form_view}'.format(**kwargs)  # noqa
     elif view == 'bg':
         return BASE_URL + '/data/{form_id}/bg/bg-{index}.svg'.format(**kwargs)
     else:
@@ -86,7 +88,8 @@ def get_latest_pdf(lang_id, form_id):
     if form_view_url:
         translated, keys = get_translated(form_id, lang_id)
         if len(translated) == len(keys):
-            return BASE_URL + '/{lang_id}/{form_id}/{form_view}'.format(
+            return url_for(
+                'resource',
                 lang_id=lang_id,
                 form_id=form_id,
                 form_view=form_view_url,
@@ -303,7 +306,7 @@ def render_if_stale(name, lang_id, form_id):
             os.path.join('templates', name + '.html'),
         ]
     else:
-        path = os.path.join(TARGET_DIR, lang_id, form_id, 'r', name)
+        path = os.path.join('res', form_id, lang_id, name)
         render = render_resource
         args = (lang_id, form_id, name)
         dependencies += [

@@ -47,6 +47,8 @@ def url_for(view, **kwargs):
         return BASE_URL + '/static/' + kwargs['filename']
     elif view == 'pdf':
         return BASE_URL + '/pdf/{filename}'.format(**kwargs)
+    elif view == 'bg':
+        return BASE_URL + '/data/{form_id}/bg/bg-{index}.svg'.format(**kwargs)
     else:
         raise KeyError
 
@@ -216,7 +218,7 @@ def text_direction_filter(lang_id):
 def render_print(lang_id, form_id):
     page_n = max((row['page'] for row in forms[form_id]['rows']))
     pages = []
-    bg_template = 'static/forms/%s/bg-%i.svg'
+    bg_template = 'data/%s/bg/bg-%i.svg'
     for i in range(page_n + 1):
         pages.append({
             'bg': os.path.exists(bg_template % (form_id, i)),

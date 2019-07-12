@@ -56,7 +56,7 @@
     {% for page in pages %}
     <div id="page-{{loop.index0}}" class="page">
         {% if page.bg %}
-        <img class="page-bg" src="{{ url_for('static', filename='forms/%s/bg-%i.svg' % (form_id, loop.index0)) }}" alt="" />
+        <img class="page-bg" src="{{ url_for('bg', form_id=form_id, index=loop.index0) }}" alt="" />
         {% endif %}
 
         {% for row in page.rows %}

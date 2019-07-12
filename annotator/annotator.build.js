@@ -260,7 +260,7 @@ fetch('template.html').then(function(response) {
 			state.rows = void 0;
 			state.selected = void 0;
 		}
-		state.bg = '../static/forms/' + state.formId + '/bg-' + state.page + '.svg';
+		state.bg = '../data/' + state.formId + '/bg/bg-' + state.page + '.svg';
 		state.zoom = state.zoom || 1;
 
 		return Mustache.render(template, state);

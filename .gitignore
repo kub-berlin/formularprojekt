@@ -1,5 +1,4 @@
 build
-static/style.css
 node_modules
 .venv
 .upstream

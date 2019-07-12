@@ -2,7 +2,7 @@ DE_FILES := $(shell find 'data' -name 'form.json' | sed 's/form\.json$$/de.csv/g
 
 .PHONY: build fill pull txpull push clean
 
-build: .venv annotator/annotator.build.js static/style.css static/* templates/*
+build: .venv
 	.venv/bin/python website.py build
 
 serve: .venv
@@ -18,9 +18,6 @@ txpull: .venv
 push: build
 	xiftp push formularprojekt
 
-static/style.css: static_src/style.scss node_modules
-	sassc $< > $@
-
 annotator/annotator.build.js: annotator/annotator.js annotator/app.js annotator/node_modules
 	annotator/node_modules/.bin/browserify $< -o $@
 
@@ -35,12 +32,7 @@ data/%/de.csv: data/%/form.json scripts/de.py
 	python3 -m venv .venv
 	.venv/bin/pip install Jinja2 CommonMark colorama transifex-client
 
-node_modules:
-	npm install mfbs
-
 clean:
 	rm -f -r .venv
 	rm -f -r build
-	rm -f -r node_modules
 	rm -f -r annotator/node_modules
-	rm -f static/style.css

@@ -4,11 +4,9 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'" />
-    <link rel="shortcut icon" type="image/x-icon" href="{{ url_for('static', filename='favicon.ico') }}" />
     <link rel="stylesheet" href="{{ url_for('static', filename='print.css') }}" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content="https://github.com/kub-berlin/formularprojekt" />
-    <link rel="alternate" href="{{ url_for('formularprojekt.translation_route', lang_id=lang_id, form_id=form_id) }}" />
 
     <title>{{ form_id }}_{{ lang_id }}_{{ forms[form_id].date }}</title>
 </head>

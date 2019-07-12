@@ -16,7 +16,7 @@ from colorama import Fore
 import commonmark
 
 TARGET_DIR = 'build'
-BASE_URL = '/formularprojekt'
+BASE_URL = ''
 
 NEAR_COMPLETE = 1
 INCOMPLETE = 2
@@ -47,14 +47,6 @@ def render_template(path, **kwargs):
 def url_for(view, **kwargs):
     if view == 'static':
         return BASE_URL + '/static/' + kwargs['filename']
-    elif view == 'formularprojekt.index_route':
-        return BASE_URL + '/'.format(**kwargs)
-    elif view == 'formularprojekt.language_route':
-        return BASE_URL + '/{lang_id}/'.format(**kwargs)
-    elif view == 'formularprojekt.translation_route':
-        return BASE_URL + '/{lang_id}/{form_id}/'.format(**kwargs)
-    elif view == 'formularprojekt.print_route':
-        return BASE_URL + '/{lang_id}/{form_id}/print/'.format(**kwargs)
     else:
         raise KeyError
 
@@ -123,17 +115,13 @@ def load_stats():
             stats[lang_id][form_id] = data
 
 
-def get_pdf(lang_id, form_id, url=True):
+def has_pdf(lang_id, form_id):
     fn = '{form_id}_{lang_id}_{date}.pdf'.format(
         lang_id=lang_id,
         form_id=form_id,
         date=forms[form_id]['date'],
     )
-    if os.path.exists(os.path.join('static', 'pdf', fn)):
-        if url:
-            return url_for('static', filename='pdf/' + fn)
-        else:
-            return True
+    return os.path.exists(os.path.join('pdf', fn))
 
 
 def get_latest_pdf(lang_id, form_id):
@@ -192,7 +180,7 @@ def _form_stats(form_id, langs, verbose):
         n = len(translated) + len(untranslated)
         s = '%s: %i/%i/%i' % (lang_id, len(translated), n, len(extra))
         if form_id != 'meta':
-            if get_pdf(lang_id, form_id, url=False):
+            if has_pdf(lang_id, form_id):
                 s += ' (pdf)'
             if lang_id in forms[form_id].get('external_langs', []):
                 s += ' (external)'
@@ -248,54 +236,12 @@ def translate_filter(s, lang_id, form_id, default=None):
         return default
 
 
-@template_filter('transifex')
-def transifex_filter(form_id, lang_id):
-    if lang_id == 'de-simple':
-        lang_id = 'de_DE'
-    url = 'https://www.transifex.com/kub/formulare/translate/#{}/{}/'
-    return url.format(lang_id, form_id)
-
-
 @template_filter('text_direction')
 def text_direction_filter(lang_id):
     try:
         return translations[lang_id]['meta']['direction']
     except KeyError:
         return 'auto'
-
-
-def render_index():
-    return render_template(
-        'index.html',
-        translations=translations,
-        lang_id='de',
-    )
-
-
-def render_language(lang_id):
-    return render_template(
-        'language.html',
-        translations=translations,
-        forms=forms,
-        lang_id=lang_id,
-        any_translations=len(translations[lang_id]) > 1,  # only meta
-    )
-
-
-def render_translation(lang_id, form_id):
-    available_languages = [
-        l for l in translations if form_id in translations[l]
-    ]
-
-    return render_template(
-        'translation.html',
-        forms=forms,
-        lang_id=lang_id,
-        form_id=form_id,
-        pdf=get_pdf(lang_id, form_id),
-        form_view_url=forms[form_id].get('form_view_url', 'print/'),
-        available_languages=available_languages,
-    )
 
 
 def render_print(lang_id, form_id):
@@ -343,19 +289,6 @@ def render_resource(lang_id, form_id, resource_id):
     )
 
 
-def render_stats():
-    langs = list(stats.keys())
-    langs.remove('de')
-    langs.sort()
-
-    return render_template(
-        'stats.html',
-        stats=stats,
-        langs=langs,
-        forms=forms,
-    )
-
-
 def render_overview():
     data = []
 
@@ -374,21 +307,6 @@ def render_overview():
         'overview.html',
         data=data,
     )
-
-
-def link_if_missing(src):
-    target = os.path.join(TARGET_DIR, src)
-    if not os.path.exists(target):
-        print('linking', target)
-        os.makedirs(os.path.dirname(target), exist_ok=True)
-        os.link(src, target)
-
-
-def link_dir(path):
-    for dirpath, dirnames, filenames in os.walk(path):
-        for filename in filenames:
-            path = os.path.join(dirpath, filename)
-            link_if_missing(path)
 
 
 def is_stale(target, dependencies):
@@ -415,57 +333,31 @@ def render_if_stale(name, lang_id, form_id):
     form_fn = os.path.join('data', form_id, 'form.json')
     translation_fn = os.path.join('data', form_id, lang_id + '.csv')
     template_fn = os.path.join('templates', name + '.html')
-    base_fn = os.path.join('templates', 'base.html')
     dependencies = [form_fn, translation_fn]
 
     # TODO generic
     if name == 'print':
-        path = os.path.join(TARGET_DIR, lang_id, form_id, 'print/index.html')
+        path = os.path.join(TARGET_DIR, lang_id, form_id, 'index.html')
         render = render_print
         dependencies.append(template_fn)
-    elif name == 'translation':
-        path = os.path.join(TARGET_DIR, lang_id, form_id, 'index.html')
-        render = render_translation
-        dependencies.append(template_fn)
-        dependencies.append(base_fn)
     else:
         args = (lang_id, form_id, name)
         path = os.path.join(TARGET_DIR, lang_id, form_id, 'r', name)
         template_fn = os.path.join('templates', 'forms', form_id, name)
         render = render_resource
         dependencies.append(template_fn)
-        dependencies.append(base_fn)
 
     if is_stale(path, dependencies):
         write_file(path, render(*args))
 
 
 def build():
-    link_dir('static')
-    link_dir('data')
-
-    link_if_missing('annotator/annotator.build.js')
-    link_if_missing('annotator/sw.js')
-    link_if_missing('annotator/annotator.css')
-    link_if_missing('annotator/index.html')
-    link_if_missing('annotator/template.html')
-
-    path = os.path.join(TARGET_DIR, 'index.html')
-    write_file(path, render_index())
-
-    path = os.path.join(TARGET_DIR, 'stats', 'index.html')
-    write_file(path, render_stats())
-
     path = os.path.join(TARGET_DIR, 'overview', 'index.html')
     write_file(path, render_overview())
 
     for lang_id in translations:
-        path = os.path.join(TARGET_DIR, lang_id, 'index.html')
-        write_file(path, render_language(lang_id))
-
         for form_id in translations[lang_id]:
             if form_id != 'meta':
-                render_if_stale('translation', lang_id, form_id)
                 render_if_stale('print', lang_id, form_id)
 
                 resource_path = os.path.join('templates', 'forms', form_id)

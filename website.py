@@ -15,7 +15,7 @@ from colorama import Fore
 import commonmark
 
 TARGET_DIR = 'build'
-BASE_URL = ''
+BASE_URL = '/images/formularprojekt'
 
 NEAR_COMPLETE = 1
 INCOMPLETE = 2

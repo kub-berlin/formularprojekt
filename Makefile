@@ -15,9 +15,6 @@ txpull: .venv
 	.venv/bin/tx pull -af --mode=onlytranslated --minimum-perc=10
 	for f in $$(find data -name *.csv); do python scripts/csv_normalize.py $$f; ./scripts/restore_mtime.sh $$f; done
 
-push: build
-	xiftp push formularprojekt
-
 annotator/annotator.build.js: annotator/annotator.js annotator/app.js annotator/node_modules
 	annotator/node_modules/.bin/browserify $< -o $@
 

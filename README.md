@@ -10,29 +10,29 @@ This repository contains
 
 -   form transcriptions (see [Transcribe forms](#transcribe-forms))
 -   translations in CSV format (`data/`)
--   a python tool to create a website from those translations. (If you have
-    python-virtualenv and nodejs installed, you can simply run `make`.)
--   a web application that aides in annotationg forms (see [Annotate
-    forms](#annotate-forms))
+-   a python tool to format those translations. (If you have python3 installed,
+    you can simply run `make`.)
+-   a web application that aides in annotationg forms (see
+    [Annotate forms](#annotate-forms))
 
 # How to contribute
 
 ## Translate
 
 The translations in this project are provided by
-[KuB Berlin](//www.kub-berlin.org/). Please use the
-[contact form](//www.kub-berlin.org/formularprojekt/kontakt/) on their
-project's website to register as a translator.
+[KuB Berlin](//www.kub-berlin.org/). You can contribute as a translator via
+[transifex](//www.transifex.com/kub/formulare/).
 
 ## Transcribe forms
 
 Form transcriptions are stored in `data/*/form.json`. It contains of
 
 -   a title
--   the list of strings (rows) in the document
+-   the list of strings (rows) and their position in the document
 -   a URI of the official source document
 -   the date of the last revision of that source document
 -   the md5 checksum of the official form file it is based on
+-   a list of externally available translations
 
 If a row is a heading and has a number or similar (e.g. 1, 1.1, 1.1.2, A, B),
 please provide that separately (in the JSON files this is called `structure`).
@@ -55,11 +55,12 @@ Here are some more tipps for transcription:
 -   Avoid additional whitespace in the strings.
 
 -   You can use markdown to signify emphasis or other kinds of formatting.
+    Simple emphasis is rendered as underline.
 
 ## Extract backgrounds
 
 If a page in a form contains relevant lines or graphics, it is included in this
-project as a background image located in `static/forms/`. It should be a SVG
+project as a background image located in `data/*/bg/`. It should be a SVG
 file. It should be named `bg-{i}.svg` where `{i}` is the number of the page,
 starting with 0.
 
@@ -76,12 +77,12 @@ web application contained in this repository
 ### Installation
 
     git clone https://github.com/xi/formularprojekt.git
-    apt install python3 npm sassc
+    apt install python3 npm
     cd formularprojekt
     make serve
 
 Now you can go to <http://localhost:8000/> in your webbrowser. You should see
-the formularprojekt website.  On <http://localhost:8000/annotator/> you can now
+an index of available files.  On <http://localhost:8000/annotator/> you can now
 access the annotator webapp.
 
 ### Usage

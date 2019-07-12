@@ -45,6 +45,8 @@ def render_template(path, **kwargs):
 def url_for(view, **kwargs):
     if view == 'static':
         return BASE_URL + '/static/' + kwargs['filename']
+    elif view == 'pdf':
+        return BASE_URL + '/pdf/{filename}'.format(**kwargs)
     else:
         raise KeyError
 
@@ -93,11 +95,11 @@ def get_latest_pdf(lang_id, form_id):
             lang_id=lang_id,
             form_id=form_id,
         )
-        path = os.path.join('static', 'pdf', fn)
+        path = os.path.join('pdf', fn)
         matches = glob(path)
         if matches:
             path = sorted(matches)[-1]
-            return url_for('static', filename='pdf/' + os.path.basename(path))
+            return url_for('pdf', filename=os.path.basename(path))
 
 
 def log(s, style=None, indent=0):

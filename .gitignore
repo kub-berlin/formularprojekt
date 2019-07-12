@@ -2,5 +2,5 @@ build
 node_modules
 .venv
 .upstream
-static/pdf
+pdf
 .mapping.json

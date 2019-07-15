@@ -302,9 +302,6 @@ def render_if_stale(name, lang_id, form_id):
 
 
 def build():
-    path = os.path.join(TARGET_DIR, 'overview', 'index.html')
-    write_file(path, render_overview())
-
     for lang_id in translations:
         for form_id in translations[lang_id]:
             if form_id != 'meta':
@@ -324,6 +321,9 @@ def parse_args(argv=None):
     parser_build = subparsers.add_parser('build', help='generate static HTML')
     parser_build.set_defaults(cmd='build')
 
+    parser_build = subparsers.add_parser('overview', help='render overview')
+    parser_build.set_defaults(cmd='overview')
+
     parser_stats = subparsers.add_parser('stats', help='validate translations')
     parser_stats.add_argument('--verbose', '-v', action='store_true')
     parser_stats.add_argument('--lang', '-l')
@@ -339,6 +339,8 @@ def main():  # pragma: no cover
 
     if args.cmd == 'stats':
         print_stats(args.form, args.lang, args.verbose)
+    elif args.cmd == 'overview':
+        print(render_overview())
     else:
         build()
 

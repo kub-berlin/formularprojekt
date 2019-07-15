@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'" />
-    <link rel="stylesheet" href="{{ url_for('static', filename='print.css') }}" />
+    <link rel="stylesheet" href="/static/print.css" />
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content="https://github.com/kub-berlin/formularprojekt" />
 
@@ -55,7 +55,7 @@
 
     {% for page in pages %}
     <div id="page-{{loop.index0}}" class="page">
-        <img class="page-bg" src="{{ url_for('bg', form_id=form_id, index=loop.index0) }}" alt="" />
+        <img class="page-bg" src="/data/{{form_id}}/bg/bg-{{loop.index0}}.svg" alt="" />
 
         {% for row in page.rows %}
         {% if row.y1 != row.y2 %}
@@ -72,6 +72,6 @@
     </div>
     {% endfor %}
 
-    <script src="{{ url_for('static', filename='shake.js') }}"></script>
+    <script src="/static/shake.js"></script>
 </body>
 </html>

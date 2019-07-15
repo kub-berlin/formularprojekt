@@ -70,17 +70,7 @@ def text_direction_filter(lang_id):
 
 def render_template(path, **kwargs):
     template = template_env.get_template(path)
-    return template.render(**kwargs, url_for=url_for)
-
-
-def url_for(view, **kwargs):
-    TEMPLATES = {
-        'static': '/static/{filename}',
-        'pdf': '/pdf/{filename}',
-        'resource': '/res/{form_id}/{lang_id}/{form_view}',
-        'bg': '/data/{form_id}/bg/bg-{index}.svg',
-    }
-    return BASE_URL + TEMPLATES[view].format(**kwargs)
+    return template.render(**kwargs)
 
 
 def load_data():
@@ -130,11 +120,8 @@ def get_latest_pdf(lang_id, form_id):
     if form_view_url:
         translated, keys = get_translated(form_id, lang_id)
         if len(translated) == len(keys):
-            return url_for(
-                'resource',
-                lang_id=lang_id,
-                form_id=form_id,
-                form_view=form_view_url,
+            return BASE_URL + '/res/' + '/'.join(
+                [lang_id, form_id, form_view_url]
             )
     else:
         fn = '{form_id}_{lang_id}_*.pdf'.format(
@@ -145,7 +132,7 @@ def get_latest_pdf(lang_id, form_id):
         matches = glob(path)
         if matches:
             path = sorted(matches)[-1]
-            return url_for('pdf', filename=os.path.basename(path))
+            return BASE_URL + '/pdf/' + os.path.basename(path)
 
 
 def log(s, style=None, indent=0):

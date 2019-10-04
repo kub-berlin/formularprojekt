@@ -1,6 +1,6 @@
 {
-    "checksum": "abc1727b844befc7b4c78fac5c306611",
-    "date": "2018-07-01",
+    "checksum": "dfb5ff38945ccefdee9b161b6f9c5915",
+    "date": "2019-09-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
@@ -248,7 +248,7 @@
         },
         {
             "align": "left",
-            "content": "zum/zur Ehegatten/Ehegattin bzw. Lebenspartner(in)",
+            "content": "zum/zur Ehepartner(in) bzw. eingetragenen Lebenspartner(in)",
             "page": 0,
             "structure": "",
             "x1": 69,
@@ -258,7 +258,7 @@
         },
         {
             "align": "left",
-            "content": "zu einer anderen Personen",
+            "content": "zu einer anderen Person",
             "page": 0,
             "structure": "",
             "x1": 69,
@@ -333,16 +333,6 @@
             "structure": "",
             "x1": 70,
             "x2": 324,
-            "y1": 677,
-            "y2": 684
-        },
-        {
-            "align": "left",
-            "content": "Ort der Erwerbstätigkeit (ggf. im Ausland)",
-            "page": 0,
-            "structure": "",
-            "x1": 332,
-            "x2": 540,
             "y1": 677,
             "y2": 684
         },
@@ -664,7 +654,7 @@
         },
         {
             "align": "left",
-            "content": "Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit........ Stunden",
+            "content": "Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit: ........ Stunden",
             "page": 1,
             "structure": "",
             "x1": 62,
@@ -724,8 +714,8 @@
         },
         {
             "align": "left",
-            "content": "Haben Sie oder eine andere Person für dieses Kind bereits Kindergeld beantragt oder erhalten?",
-            "page": 2,
+            "content": "Haben Sie oder eine unter Punkt 2 genannte Person für dieses Kind bereits Kindergeld beantragt oder erhalten?",
+            "page": 1,
             "structure": "4",
             "x1": 67,
             "x2": 540,
@@ -735,7 +725,7 @@
         {
             "align": "left",
             "content": "ja, bitte hier Angaben machen",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 83,
             "x2": 281,
@@ -745,7 +735,7 @@
         {
             "align": "left",
             "content": "nein",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 299,
             "x2": 540,
@@ -755,7 +745,7 @@
         {
             "align": "left",
             "content": "Name, Vorname der antragstellenden bzw. kindergeldbeziehenden Person",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 70,
             "x2": 317,
@@ -765,7 +755,7 @@
         {
             "align": "left",
             "content": "Geburtsdatum",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 327,
             "x2": 410,
@@ -775,7 +765,7 @@
         {
             "align": "left",
             "content": "Zeitraum (ab/von – bis)",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 421,
             "x2": 540,
@@ -785,7 +775,7 @@
         {
             "align": "left",
             "content": "Familienkasse, Anschrift",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 70,
             "x2": 410,
@@ -795,7 +785,7 @@
         {
             "align": "left",
             "content": "Kindergeldnummer",
-            "page": 2,
+            "page": 1,
             "structure": "",
             "x1": 420,
             "x2": 540,
@@ -804,9 +794,89 @@
         },
         {
             "align": "left",
-            "content": "Besteht oder bestand für Sie oder eine andere Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?",
+            "content": "Sind oder waren Sie oder eine unter Punkt 2 genannte Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung im öffentlichen Dienst tätig?",
             "page": 2,
             "structure": "5",
+            "x1": 67,
+            "x2": 540,
+            "y1": 132,
+            "y2": 141
+        },
+        {
+            "align": "left",
+            "content": "ja, bitte hier Angaben machen",
+            "page": 2,
+            "structure": "",
+            "x1": 83,
+            "x2": 281,
+            "y1": 171,
+            "y2": 181
+        },
+        {
+            "align": "left",
+            "content": "nein, weiter bei Punkt 6",
+            "page": 2,
+            "structure": "",
+            "x1": 299,
+            "x2": 540,
+            "y1": 171,
+            "y2": 181
+        },
+        {
+            "align": "left",
+            "content": "Name, Vorname des/der Beschäftigten",
+            "page": 2,
+            "structure": "",
+            "x1": 70,
+            "x2": 410,
+            "y1": 200,
+            "y2": 207
+        },
+        {
+            "align": "left",
+            "content": "Zeitraum (ab/von – bis)",
+            "page": 2,
+            "structure": "",
+            "x1": 420,
+            "x2": 540,
+            "y1": 200,
+            "y2": 207
+        },
+        {
+            "align": "left",
+            "content": "Name/Bezeichnung des Dienstherrn/Arbeitgebers bzw. der Dienststelle",
+            "page": 2,
+            "structure": "",
+            "x1": 70,
+            "x2": 317,
+            "y1": 225,
+            "y2": 232
+        },
+        {
+            "align": "left",
+            "content": "Anschrift des Dienstherrn/Arbeitgebers",
+            "page": 2,
+            "structure": "",
+            "x1": 328,
+            "x2": 410,
+            "y1": 225,
+            "y2": 232
+        },
+        {
+            "align": "left",
+            "content": "Name und Anschrift der zuständigen Familienkasse, sofern abweichend vom Dienstherrn/Arbeitgeber",
+            "page": 2,
+            "structure": "",
+            "x1": 328,
+            "x2": 410,
+            "y1": 225,
+            "y2": 232
+        },
+        {
+            "align": "left",
+            "content": "Besteht oder bestand für Sie oder eine andere Person für das Kind in den letzten 5 Jahren vor der Antragstellung ein Anspruch auf eine kindbezogene Geldleistung von einer Stelle außerhalb Deutschlands oder von einer zwischen- oder überstaatlichen Einrichtung?",
+            "page": 2,
+            "structure": "6",
             "x1": 67,
             "x2": 540,
             "y1": 132,
@@ -914,9 +984,9 @@
         },
         {
             "align": "left",
-            "content": "Sind oder waren Sie oder eine andere Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung",
+            "content": "Sind oder waren Sie oder eine unter Punkt 2 genannte Person, zu der das Kind in einem Kindschaftsverhältnis steht, in den letzten 5 Jahren vor der Antragstellung",
             "page": 2,
-            "structure": "6",
+            "structure": "7",
             "x1": 67,
             "x2": 540,
             "y1": 280,
@@ -924,39 +994,9 @@
         },
         {
             "align": "left",
-            "content": "im öffentlichen Dienst tätig?",
-            "page": 2,
-            "structure": "a)",
-            "x1": 70,
-            "x2": 410,
-            "y1": 314,
-            "y2": 323
-        },
-        {
-            "align": "left",
-            "content": "ja",
-            "page": 2,
-            "structure": "",
-            "x1": 452,
-            "x2": 496,
-            "y1": 314,
-            "y2": 323
-        },
-        {
-            "align": "left",
-            "content": "nein",
-            "page": 2,
-            "structure": "",
-            "x1": 513,
-            "x2": 540,
-            "y1": 314,
-            "y2": 323
-        },
-        {
-            "align": "left",
             "content": "außerhalb Deutschlands als Arbeitnehmer(in), Selbständige(r), Entwicklungshelfer(in) tätig?",
             "page": 2,
-            "structure": "b)",
+            "structure": "a)",
             "x1": 70,
             "x2": 410,
             "y1": 332,
@@ -986,7 +1026,7 @@
             "align": "left",
             "content": "in Deutschland bei einer Dienststelle oder Einrichtung eines anderen Staates oder als Angehörige(r) der NATO-Streitkräfte tätig?",
             "page": 2,
-            "structure": "c)",
+            "structure": "b)",
             "x1": 70,
             "x2": 410,
             "y1": 355,
@@ -1016,7 +1056,7 @@
             "align": "left",
             "content": "in Deutschland auf Veranlassung eines Arbeitgebers mit Sitz außerhalb Deutschlands beschäftigt (z. B. entsandte Person)?",
             "page": 2,
-            "structure": "d)",
+            "structure": "c)",
             "x1": 70,
             "x2": 410,
             "y1": 379,
@@ -1094,23 +1134,13 @@
         },
         {
             "align": "left",
-            "content": "**\\*\\* ) In den Fällen von a)** bitte **zusätzlich** die zuständige Familienkasse benennen.",
+            "content": "Ort/Land der Erwerbstätigkeit",
             "page": 2,
             "structure": "",
-            "x1": 72,
+            "x1": 332,
             "x2": 540,
-            "y1": 505,
-            "y2": 512
-        },
-        {
-            "align": "left",
-            "content": "**\\*\\* ) In den Fällen von a)** bitte **zusätzlich** die Anschrift der zuständige Familienkasse angeben.",
-            "page": 2,
-            "structure": "",
-            "x1": 72,
-            "x2": 540,
-            "y1": 533,
-            "y2": 540
+            "y1": 677,
+            "y2": 684
         },
         {
             "align": "start",
@@ -1134,7 +1164,7 @@
         },
         {
             "append": "\n\n",
-            "content": "Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches erhoben, verarbeitet und genutzt.",
+            "content": "Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches verarbeitet.",
             "page": 2
         },
         {
@@ -1154,7 +1184,7 @@
         },
         {
             "align": "center",
-            "content": "(Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung)",
+            "content": "Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung",
             "page": 2,
             "structure": "",
             "x1": 243,
@@ -1174,7 +1204,7 @@
         },
         {
             "align": "center",
-            "content": "(Unterschrift des Kindes; nur wenn volljährig)",
+            "content": "Unterschrift des bereits volljährigen Kindes",
             "page": 2,
             "structure": "",
             "x1": 243,

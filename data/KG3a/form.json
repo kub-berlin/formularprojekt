@@ -1,6 +1,6 @@
 {
-    "checksum": "f384d20cc40c0e41234decfd4eb7e5aa",
-    "date": "2017-04-01",
+    "checksum": "f1b62dd143b39928323d1063811f591b",
+    "date": "2020-01-01",
     "rows": [
         {
             "align": "left",
@@ -170,7 +170,7 @@
         },
         {
             "align": "left",
-            "content": "in Lebenspartnerschaft lebend",
+            "content": "in eingetragener Lebenspartnerschaft lebend",
             "page": 0,
             "x1": 351,
             "x2": 547,
@@ -276,8 +276,18 @@
             "y2": 551
         },
         {
-            "align": "center",
-            "content": "(Datum)",
+            "align": "start",
+            "content": "**Hinweis zum Datenschutz**: Die Daten werden aufgrund und zum Zweck der §§ 31, 62 bis 78 Einkommensteuergesetz und der Regelungen der Abgabenordnung bzw. aufgrund des Bundeskindergeldgesetzes und des Sozialgesetzbuches verarbeitet. Nähere Informationen zu Ihren Rechten im Rahmen der Erhebung von personenbezogenen Daten nach Artikel 13 und 14 der Datenschutz-Grundverordnung erhalten Sie im Internet auf der Seite Ihrer Familienkasse (zu finden unter www.familienkasse.de), auf der auch die Kontaktdaten des Datenschutzbeauftragten bereitgestellt sind.",
+            "page": 0,
+            "structure": "",
+            "x1": 53,
+            "x2": 547,
+            "y1": 543,
+            "y2": 551
+        },
+        {
+            "align": "left",
+            "content": "Datum",
             "page": 0,
             "structure": "",
             "x1": 67,
@@ -287,7 +297,7 @@
         },
         {
             "align": "center",
-            "content": "(Unterschrift der kindergeldberechtigten Person)",
+            "content": "Unterschrift der kindergeldberechtigten Person bzw. der gesetzlichen Vertretung",
             "page": 0,
             "structure": "",
             "x1": 164,
@@ -326,6 +336,16 @@
             "y2": 680
         },
         {
+            "align": "start",
+            "content": "**Bitte beachten Sie**: Die Angaben dienen der steuerrechtlichen Beurteilung, ob ein gesetzlich geregelter Kindergeldanspruch gegeben ist. Diese Beurteilung nimmt die zuständige Familienkasse in ihrer Funktion als Bundesfinanzbehörde wahr. Die Angaben sind wahrheitsgetreu zu machen.",
+            "page": 0,
+            "structure": "",
+            "x1": 69,
+            "x2": 200,
+            "y1": 671,
+            "y2": 680
+        },
+        {
             "align": "center",
             "content": "Dienstsiegel oder Stempel",
             "page": 0,
@@ -337,7 +357,7 @@
         },
         {
             "align": "center",
-            "content": "(Datum)",
+            "content": "Datum",
             "page": 0,
             "structure": "",
             "x1": 67,
@@ -347,7 +367,7 @@
         },
         {
             "align": "center",
-            "content": "(Unterschrift)",
+            "content": "Unterschrift",
             "page": 0,
             "structure": "",
             "x1": 164,

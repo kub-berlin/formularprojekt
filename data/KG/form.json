@@ -1,6 +1,6 @@
 {
-    "checksum": "4350a43e73a914eb2ab8cd0ffe7a43fb",
-    "date": "2019-09-01",
+    "checksum": "5d8e03b95614d005968fa42ba6f20600",
+    "date": "2019-11-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
@@ -159,7 +159,30 @@
         },
         {
             "align": "left",
-            "content": "Staatsangehörigkeit (wenn **nicht** EU-/EWR-Staat oder Schweiz, bitte Aufenthaltstitel beifügen!)",
+            "content": "Staatsangehörigkeit",
+            "page": 0,
+            "x1": 343,
+            "x2": 535,
+            "y1": 331,
+            "y2": 338
+        },
+        {
+            "append": " ",
+            "content": "* (siehe Hinweise)",
+            "page": 0
+        },
+        {
+            "align": "left",
+            "content": "* wenn **nicht** Deutschland, **aber** EU-/EWR-Staat, bitte „Anlage EU“ ausfüllen!",
+            "page": 0,
+            "x1": 343,
+            "x2": 535,
+            "y1": 331,
+            "y2": 338
+        },
+        {
+            "align": "left",
+            "content": "* wenn **nicht** EU-/EWR-Staat oder Schweiz, bitte Aufenthaltstitel beifügen!",
             "page": 0,
             "x1": 343,
             "x2": 535,
@@ -604,7 +627,7 @@
         },
         {
             "align": "center",
-            "content": "(Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung)",
+            "content": "Unterschrift der antragstellenden Person bzw. der gesetzlichen Vertretung",
             "page": 1,
             "x1": 229,
             "x2": 527,
@@ -631,7 +654,7 @@
         },
         {
             "align": "center",
-            "content": "(Unterschrift der unter Punkt 2 genannten Person bzw. der gesetzlichen Vertretung)",
+            "content": "Unterschrift der unter Punkt 2 genannten Person bzw. der gesetzlichen Vertretung",
             "page": 1,
             "x1": 229,
             "x2": 527,
@@ -692,7 +715,7 @@
         },
         {
             "append": "\n\n",
-            "content": "Bitte beachten Sie, dass Ihr Antrag nur bearbeitet werden kann, wenn er *vollständig ausgefüllt* wurde.",
+            "content": "Bitte beachten Sie, dass Ihr Antrag nur bearbeitet werden kann, wenn er *vollständig ausgefüllt* wurde. Soweit für die Ermittlung des Kindergeldsachverhalts Nachweise einzureichen sind, können die nicht benötigten Angaben (z. B. die Schulnoten auf einem Abschlusszeugnis) unkenntlich gemacht werden.",
             "page": 2
         },
         {
@@ -760,7 +783,22 @@
         },
         {
             "append": "\n\n",
-            "content": "Sollten Sie eine **andere** als die deutsche Staatsangehörigkeit oder als die Staatsangehörigkeit eines EU-/EWR-Staates bzw. der Schweiz besitzen, fügen Sie bitte **den Aufenthaltstitel** bei.",
+            "content": "Staatsangehörigkeit der antragstellenden Person:",
+            "page": 2
+        },
+        {
+            "append": "\n\n1. ",
+            "content": "wenn **deutsche** Staatsangehörigkeit oder Staatsangehörigkeit eines **EU-/EWR-Staates bzw. der Schweiz** und wenn z. B. wenn mindestens ein Elternteil bzw. ein Kind im Ausland wohnt bzw. erwerbstätig ist oder ausländische Leistungen bezogen werden oder wenn ein Elternteil Mitglied der in Deutschland stationierten NATO-Streitkräfte ist, bitte „Anlage Ausland“ ausfüllen",
+            "page": 2
+        },
+        {
+            "append": "\n2. ",
+            "content": "wenn **nicht deutsche Staatsangehörigkeit**, aber Staatsangehörigkeit eines **EU-/EWR-Staates**, bitte die „Anlage EU“ ausfüllen und zusammen mit Ihrem Antrag einreichen; es sei denn, „Anlage Ausland“ ist aufgrund Punkt 1 beizufügen",
+            "page": 2
+        },
+        {
+            "append": "\n3. ",
+            "content": "wenn andere als die deutsche Staatsangehörigkeit oder die eines EU-/EWR-Staates bzw. der Schweiz, bitte Aufenthaltstitel beifügen",
             "page": 2
         },
         {

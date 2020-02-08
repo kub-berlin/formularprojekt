@@ -4,7 +4,12 @@
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
-    "external_langs": ["en", "es", "fr", "tr"],
+    "external_langs": [
+        "en",
+        "es",
+        "fr",
+        "tr"
+    ],
     "rows": [
         {
             "align": "left",
@@ -175,19 +180,19 @@
             "align": "left",
             "content": "* wenn **nicht** Deutschland, **aber** EU-/EWR-Staat, bitte „Anlage EU“ ausfüllen!",
             "page": 0,
-            "x1": 343,
-            "x2": 535,
-            "y1": 331,
-            "y2": 338
+            "x1": 340,
+            "x2": 538,
+            "y1": 361,
+            "y2": 367
         },
         {
             "align": "left",
             "content": "* wenn **nicht** EU-/EWR-Staat oder Schweiz, bitte Aufenthaltstitel beifügen!",
             "page": 0,
-            "x1": 343,
-            "x2": 535,
-            "y1": 331,
-            "y2": 338
+            "x1": 340,
+            "x2": 538,
+            "y1": 369,
+            "y2": 375
         },
         {
             "align": "left",
@@ -723,8 +728,8 @@
             "page": 2,
             "x1": 20,
             "x2": 548,
-            "y1": 152,
-            "y2": 160,
+            "y1": 168,
+            "y2": 176,
             "align": "start"
         },
         {

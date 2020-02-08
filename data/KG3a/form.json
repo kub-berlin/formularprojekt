@@ -119,27 +119,27 @@
             "structure": "",
             "x1": 56,
             "x2": 546,
-            "y1": 242,
-            "y2": 249
+            "y1": 239,
+            "y2": 246
         },
         {
             "align": "left",
             "content": "Familienstand:",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 157,
-            "y1": 277,
-            "y2": 287
+            "x1": 54,
+            "x2": 120,
+            "y1": 270,
+            "y2": 279
         },
         {
             "align": "left",
             "content": "ledig",
             "page": 0,
-            "x1": 131,
+            "x1": 135,
             "x2": 158,
-            "y1": 278,
-            "y2": 285
+            "y1": 272,
+            "y2": 279
         },
         {
             "align": "left",
@@ -147,26 +147,26 @@
             "page": 0,
             "x1": 172,
             "x2": 244,
-            "y1": 286,
-            "y2": 293
+            "y1": 267,
+            "y2": 274
         },
         {
             "align": "left",
             "content": "verheiratet",
             "page": 0,
-            "x1": 266,
-            "x2": 338,
-            "y1": 281,
-            "y2": 288
+            "x1": 267,
+            "x2": 335,
+            "y1": 272,
+            "y2": 279
         },
         {
             "align": "left",
             "content": "verwitwet",
             "page": 0,
-            "x1": 266,
-            "x2": 338,
-            "y1": 295,
-            "y2": 302
+            "x1": 267,
+            "x2": 335,
+            "y1": 286,
+            "y2": 293
         },
         {
             "align": "left",
@@ -174,8 +174,8 @@
             "page": 0,
             "x1": 351,
             "x2": 547,
-            "y1": 281,
-            "y2": 288
+            "y1": 272,
+            "y2": 279
         },
         {
             "align": "left",
@@ -183,8 +183,8 @@
             "page": 0,
             "x1": 351,
             "x2": 440,
-            "y1": 295,
-            "y2": 302
+            "y1": 286,
+            "y2": 293
         },
         {
             "align": "left",
@@ -192,8 +192,8 @@
             "page": 0,
             "x1": 452,
             "x2": 547,
-            "y1": 295,
-            "y2": 302
+            "y1": 286,
+            "y2": 293
         },
         {
             "align": "start",
@@ -202,8 +202,8 @@
             "structure": "",
             "x1": 53,
             "x2": 547,
-            "y1": 313,
-            "y2": 321
+            "y1": 303,
+            "y2": 311
         },
         {
             "align": "start",
@@ -212,8 +212,8 @@
             "structure": "",
             "x1": 53,
             "x2": 547,
-            "y1": 337,
-            "y2": 346
+            "y1": 328,
+            "y2": 337
         },
         {
             "align": "center",
@@ -222,8 +222,8 @@
             "structure": "",
             "x1": 55,
             "x2": 77,
-            "y1": 359,
-            "y2": 367
+            "y1": 351,
+            "y2": 359
         },
         {
             "align": "center",
@@ -232,8 +232,8 @@
             "structure": "",
             "x1": 78,
             "x2": 331,
-            "y1": 359,
-            "y2": 367
+            "y1": 351,
+            "y2": 359
         },
         {
             "align": "center",
@@ -242,8 +242,8 @@
             "structure": "",
             "x1": 334,
             "x2": 404,
-            "y1": 359,
-            "y2": 367
+            "y1": 351,
+            "y2": 359
         },
         {
             "align": "center",
@@ -252,8 +252,8 @@
             "structure": "",
             "x1": 405,
             "x2": 474,
-            "y1": 359,
-            "y2": 367
+            "y1": 351,
+            "y2": 359
         },
         {
             "align": "center",
@@ -262,8 +262,8 @@
             "structure": "",
             "x1": 477,
             "x2": 546,
-            "y1": 359,
-            "y2": 367
+            "y1": 351,
+            "y2": 359
         },
         {
             "align": "start",
@@ -272,8 +272,8 @@
             "structure": "",
             "x1": 53,
             "x2": 547,
-            "y1": 543,
-            "y2": 551
+            "y1": 493,
+            "y2": 501
         },
         {
             "align": "start",
@@ -282,28 +282,28 @@
             "structure": "",
             "x1": 53,
             "x2": 547,
-            "y1": 543,
-            "y2": 551
+            "y1": 506,
+            "y2": 513
         },
         {
             "align": "left",
             "content": "Datum",
             "page": 0,
             "structure": "",
-            "x1": 67,
-            "x2": 153,
-            "y1": 590,
-            "y2": 598
+            "x1": 55,
+            "x2": 188,
+            "y1": 549,
+            "y2": 556
         },
         {
             "align": "center",
             "content": "Unterschrift der kindergeldberechtigten Person bzw. der gesetzlichen Vertretung",
             "page": 0,
             "structure": "",
-            "x1": 164,
-            "x2": 405,
-            "y1": 590,
-            "y2": 598
+            "x1": 244,
+            "x2": 533,
+            "y1": 568,
+            "y2": 575
         },
         {
             "align": "left",
@@ -312,8 +312,8 @@
             "structure": "B,",
             "x1": 69,
             "x2": 547,
-            "y1": 623,
-            "y2": 635
+            "y1": 599,
+            "y2": 611
         },
         {
             "align": "start",
@@ -322,8 +322,8 @@
             "structure": "",
             "x1": 69,
             "x2": 547,
-            "y1": 640,
-            "y2": 649
+            "y1": 619,
+            "y2": 628
         },
         {
             "align": "left",
@@ -332,18 +332,18 @@
             "structure": "",
             "x1": 69,
             "x2": 200,
-            "y1": 671,
-            "y2": 680
+            "y1": 650,
+            "y2": 659
         },
         {
             "align": "start",
             "content": "**Bitte beachten Sie**: Die Angaben dienen der steuerrechtlichen Beurteilung, ob ein gesetzlich geregelter Kindergeldanspruch gegeben ist. Diese Beurteilung nimmt die zuständige Familienkasse in ihrer Funktion als Bundesfinanzbehörde wahr. Die Angaben sind wahrheitsgetreu zu machen.",
             "page": 0,
             "structure": "",
-            "x1": 69,
-            "x2": 200,
-            "y1": 671,
-            "y2": 680
+            "x1": 53,
+            "x2": 547,
+            "y1": 668,
+            "y2": 675
         },
         {
             "align": "center",
@@ -362,8 +362,8 @@
             "structure": "",
             "x1": 67,
             "x2": 154,
-            "y1": 704,
-            "y2": 712
+            "y1": 709,
+            "y2": 717
         },
         {
             "align": "center",
@@ -372,8 +372,8 @@
             "structure": "",
             "x1": 164,
             "x2": 331,
-            "y1": 704,
-            "y2": 712
+            "y1": 709,
+            "y2": 717
         },
         {
             "align": "center",

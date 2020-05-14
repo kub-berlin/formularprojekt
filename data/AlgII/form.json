@@ -1,6 +1,6 @@
 {
-    "checksum": "05a4afbb90c1d5e234e2723e17c3bf47",
-    "date": "2019-04-01",
+    "checksum": "4efa9079768048255c7d1a7103881a08",
+    "date": "2020-04-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/content/1463061318106#1478809808529",
         "Flüchtlingshilfe Castrop-Rauxel": "http://www.fluechtlingshilfe-castrop.de/information-for-refugees/jobcenter/"
@@ -72,7 +72,7 @@
         },
         {
             "align": "left",
-            "content": "Die Ausfüllhinweise und weiteren Anlagen finden Sie auch im Internet unter www.arbeitsagentur.de",
+            "content": "Die nachstehenden Daten unterliegen dem Sozialgeheimnis (siehe „Merkblatt SGB II“). Ihre Angaben werden aufgrund der §§ 60 - 65 Erstes Buch Sozialgesetzbuch (SGB I) und der §§ 67a, b, c Zehntes Buch Sozialgesetzbuch (SGB X) für die Leistungen nach dem SGB II erhoben.",
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
@@ -82,8 +82,20 @@
             "y2": 142
         },
         {
+            "append": "\n\n",
+            "content": "Datenschutzrechtliche Hinweise erhalten Sie bei dem für Sie zuständigen Jobcenter sowie ergänzend im Internet unter www.arbeitsagentur.de/datenerhebung.",
+            "page": 0,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Unter www.jobcenter.digital erhalten Sie in einem Video hilfreiche Tipps zum Ausfüllen des Hauptantrags SGB II. Hier finden Sie auch das „Merkblatt SGB II“, die Ausfüllhinweise und weiteren Anlagen.",
+            "page": 0,
+            "structure": ""
+        },
+        {
             "align": "left",
-            "content": "Meine persönlichen Daten",
+            "content": "Persönliche Daten der Antragstellerin/des Antragstellers",
             "page": 0,
             "structure": "1.",
             "style": "font-weight: bold",
@@ -91,17 +103,6 @@
             "x2": 404,
             "y1": 160,
             "y2": 170
-        },
-        {
-            "align": "left",
-            "content": "Allgemein",
-            "page": 0,
-            "structure": "1.1",
-            "style": "font-weight: bold",
-            "x1": 66,
-            "x2": 404,
-            "y1": 176,
-            "y2": 186
         },
         {
             "align": "left",
@@ -195,7 +196,7 @@
         },
         {
             "align": "left",
-            "content": "Rentenversicherungsnummer wurde beantragt",
+            "content": "Rentenversicherungsnummer ist noch nicht vorhanden und wurde beantragt",
             "page": 0,
             "structure": "",
             "x1": 233,
@@ -276,9 +277,51 @@
         },
         {
             "align": "left",
+            "content": "Antragsstellung",
+            "page": 0,
+            "structure": "2",
+            "style": "font-weight: bold",
+            "x1": 66,
+            "x2": 404,
+            "y1": 508,
+            "y2": 518
+        },
+        {
+            "align": "left",
+            "content": "ab sofort",
+            "page": 0,
+            "structure": "",
+            "x1": 217,
+            "x2": 404,
+            "y1": 470,
+            "y2": 479
+        },
+        {
+            "align": "left",
+            "content": "ab einem späteren Zeitpunkt",
+            "page": 0,
+            "structure": "",
+            "x1": 217,
+            "x2": 404,
+            "y1": 470,
+            "y2": 479
+        },
+        {
+            "align": "left",
+            "content": "Mein Familienstand und meine Wohnsituation",
+            "page": 0,
+            "structure": "3",
+            "style": "font-weight: bold",
+            "x1": 66,
+            "x2": 404,
+            "y1": 508,
+            "y2": 518
+        },
+        {
+            "align": "left",
             "content": "Mein Familienstand",
             "page": 0,
-            "structure": "1.2",
+            "structure": "3.1",
             "style": "font-weight: bold",
             "x1": 66,
             "x2": 404,
@@ -347,7 +390,7 @@
         },
         {
             "align": "left",
-            "content": "Meine gleichgeschlechtliche Lebenspartnerschaft ist",
+            "content": "oder meine gleichgeschlechtliche Lebenspartnerschaft ist",
             "page": 0,
             "structure": "",
             "x1": 56,
@@ -377,77 +420,332 @@
         },
         {
             "align": "left",
-            "content": "Meine Bankverbindung",
+            "content": "dauernd getrennt seit",
             "page": 0,
-            "structure": "1.3",
+            "structure": "",
+            "x1": 233,
+            "x2": 404,
+            "y1": 564,
+            "y2": 573
+        },
+        {
+            "align": "left",
+            "content": "Meine Wohnsituation",
+            "page": 1,
+            "structure": "3.2",
             "style": "font-weight: bold",
-            "x1": 67,
-            "x2": 404,
-            "y1": 660,
-            "y2": 670
-        },
-        {
-            "align": "left",
-            "content": "Leistungen nach dem SGB II werden in der Regel auf ein Konto überwiesen.",
-            "page": 0,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 62,
-            "x2": 404,
-            "y1": 673,
-            "y2": 682
-        },
-        {
-            "align": "left",
-            "content": "Kontoinhaberin/Kontoinhaber",
-            "page": 0,
-            "structure": "",
-            "x1": 56,
-            "x2": 214,
-            "y1": 692,
-            "y2": 701
-        },
-        {
-            "align": "left",
-            "content": "Kreditinstitut",
-            "page": 0,
-            "structure": "",
-            "x1": 218,
-            "x2": 404,
-            "y1": 692,
-            "y2": 701
-        },
-        {
-            "align": "left",
-            "content": "IBAN",
-            "page": 0,
-            "structure": "",
-            "x1": 56,
-            "x2": 404,
-            "y1": 722,
-            "y2": 731
-        },
-        {
-            "align": "left",
-            "content": "Die IBAN finden Sie in der Regel auf Ihrem Kontoauszug.",
-            "page": 0,
-            "structure": "",
-            "style": "color: #00965A",
             "x1": 66,
             "x2": 404,
-            "y1": 757,
-            "y2": 766
+            "y1": 508,
+            "y2": 518
         },
         {
             "align": "left",
-            "content": "Meine persönlichen Angaben",
+            "content": "Die nachfolgenden Angaben dienen der Prüfung, welche Personen zur Bedarfsgemeinschaft, Haushaltsgemeinschaft oder Verantwortungs- und Einstehensgemeinschaft gehören.",
             "page": 1,
-            "structure": "1.4",
-            "style": "font-weight: bold",
+            "structure": "",
+            "style": "color: #00965A",
             "x1": 37,
-            "x2": 414,
-            "y1": 27,
-            "y2": 37
+            "x2": 416,
+            "y1": 51,
+            "y2": 59
+        },
+        {
+            "align": "left",
+            "content": "Ich wohne alleine",
+            "page": 1,
+            "structure": "",
+            "style": "font-weight: bold",
+            "x1": 66,
+            "x2": 404,
+            "y1": 508,
+            "y2": 518
+        },
+        {
+            "align": "left",
+            "content": "Leben Sie allein, sind unter 3.2 keine weiteren Angaben erforderlich. Bitte weiter bei Abschnitt 3.3.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 32,
+            "x2": 416,
+            "y1": 562,
+            "y2": 571
+        },
+        {
+            "align": "left",
+            "content": "Ich wohne nicht alleine",
+            "page": 1,
+            "structure": "",
+            "style": "font-weight: bold",
+            "x1": 28,
+            "x2": 416,
+            "y1": 579,
+            "y2": 588
+        },
+        {
+            "align": "left",
+            "content": "Da Sie die Leistungen beantragen, wird davon ausgegangen, dass Sie auch die Vertretung Ihrer Bedarfsgemeinschaft übernommen haben. Dies gilt nicht, wenn über 15-jährige Mitglieder Ihrer Bedarfsgemeinschaft gegenüber dem Jobcenter erklären, dass sie ihre Interessen selbst wahrnehmen wollen, z. B. durch eine eigene Antragstellung (§ 38 SGB II). Zu den nicht vertretenen Personen sind hier keine Angaben erforderlich.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 28,
+            "x2": 416,
+            "y1": 579,
+            "y2": 588
+        },
+        {
+            "align": "left",
+            "content": "Ich wohne zusammen mit",
+            "page": 1,
+            "structure": "",
+            "style": "font-weight: bold",
+            "x1": 28,
+            "x2": 416,
+            "y1": 579,
+            "y2": 588
+        },
+        {
+            "align": "left",
+            "content": "Hier sind Mehrfachnennungen möglich.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "meiner Ehegattin/meinem Ehegatten",
+            "page": 1,
+            "structure": "",
+            "x1": 42,
+            "x2": 416,
+            "y1": 633,
+            "y2": 642
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage WEP** aus.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "meiner eingetragenen Lebenspartnerin/meinem eingetragenen Lebenspartner",
+            "page": 1,
+            "structure": "",
+            "x1": 42,
+            "x2": 416,
+            "y1": 656,
+            "y2": 665
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage WEP** aus.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "meiner Partnerin/meinem Partner in einer Verantwortungs- und Einstehensgemeinschaft („eheähnliche Gemeinschaft”)",
+            "page": 1,
+            "structure": "",
+            "x1": 42,
+            "x2": 416,
+            "y1": 693,
+            "y2": 702
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage WEP** aus.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "… unverheirateten Kind(ern) zwischen 15 und 24 Jahren",
+            "page": 1,
+            "structure": "",
+            "x1": 42,
+            "x2": 416,
+            "y1": 716,
+            "y2": 725
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie für jedes Kind end **Anlage WEP** aus.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "… unverheirateten Kind(ern) unter 15 Jahren",
+            "page": 1,
+            "structure": "",
+            "x1": 42,
+            "x2": 416,
+            "y1": 716,
+            "y2": 725
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie für jedes Kind end **Anlage WEP** aus.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "meinen Eltern bzw. einem Elternteil",
+            "page": 1,
+            "structure": "",
+            "x1": 42,
+            "x2": 511,
+            "y1": 733,
+            "y2": 742
+        },
+        {
+            "align": "left",
+            "content": "Sind Sie als Antragstellerin bzw. als Antragsteller unter 25 Jahre alt, füllen Sie bitte für Ihre Eltern jeweils eine **Anlage WEP**, aus. Sind Sie 25 Jahre oder älter, füllen Sie bitte für Ihre Eltern jeweils eine **Anlage HG** aus.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "… sonstigen Verwandten oder Verschwägerten (zum Beispiel Großeltern, Geschwister über 25 Jahre, verheiratete Kinder, Tanten oder Onkel)",
+            "page": 1,
+            "structure": "",
+            "x1": 42,
+            "x2": 511,
+            "y1": 733,
+            "y2": 742
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie für jeden Verwandten/Verschwägerten die **Anlage HG** aus.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "… sonstigen Personen (zum Beispiel andere Personen in einer Wohngemeinschaft)",
+            "page": 1,
+            "structure": "",
+            "x1": 42,
+            "x2": 511,
+            "y1": 733,
+            "y2": 742
+        },
+        {
+            "align": "left",
+            "content": "Ggf. ist eine Verantwortungs- und Einstehensgemeinschaft zu prüfen. Ihr Jobcenter wird Ihnen mitteilen, ob Sie eine Anlage VE ausfüllen müssen.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 38,
+            "x2": 416,
+            "y1": 614,
+            "y2": 623
+        },
+        {
+            "align": "left",
+            "content": "Kosten der Unterkunft und Heizung",
+            "page": 1,
+            "structure": "3.3",
+            "style": "font-weight: bold",
+            "x1": 76,
+            "x2": 460,
+            "y1": 713,
+            "y2": 722
+        },
+        {
+            "align": "left",
+            "content": "Mir entstehen Kosten für Unterkunft und Heizung.",
+            "page": 1,
+            "structure": "",
+            "x1": 86,
+            "x2": 460,
+            "y1": 731,
+            "y2": 740
+        },
+        {
+            "align": "left",
+            "content": "Ja",
+            "page": 1,
+            "structure": "",
+            "x1": 86,
+            "x2": 460,
+            "y1": 731,
+            "y2": 740
+        },
+        {
+            "align": "left",
+            "content": "Nein",
+            "page": 1,
+            "structure": "",
+            "x1": 86,
+            "x2": 460,
+            "y1": 731,
+            "y2": 740
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage KDU** aus.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 96,
+            "x2": 460,
+            "y1": 747,
+            "y2": 755
+        },
+        {
+            "align": "left",
+            "content": "Persönliche Angaben der Antragstellerin oder des Antragstellers",
+            "page": 1,
+            "structure": "4.",
+            "style": "font-weight: bold",
+            "x1": 28,
+            "x2": 323,
+            "y1": 44,
+            "y2": 52
         },
         {
             "align": "left",
@@ -492,44 +790,33 @@
         },
         {
             "align": "left",
-            "content": "Ich bin **Spätaussiedlerin/Spätaussiedler und** besitze noch nicht die **deutsche** Staatsangehörigkeit.",
+            "content": "Ich fühle mich **gesundheitlich** in der Lage, eine Tätigkeit von mindestens **drei Stunden täglich** auszuüben.",
             "page": 1,
             "structure": "",
             "x1": 28,
             "x2": 323,
-            "y1": 85,
-            "y2": 93
+            "y1": 172,
+            "y2": 181
         },
         {
             "align": "left",
             "content": "Ja",
             "page": 1,
             "structure": "",
-            "x1": 338,
+            "x1": 337,
             "x2": 353,
-            "y1": 85,
-            "y2": 94
+            "y1": 172,
+            "y2": 181
         },
         {
             "align": "left",
             "content": "Nein",
             "page": 1,
             "structure": "",
-            "x1": 368,
+            "x1": 367,
             "x2": 416,
-            "y1": 85,
-            "y2": 94
-        },
-        {
-            "align": "left",
-            "content": "Falls ja, legen Sie bitte den Aufnahmebescheid vor.",
-            "page": 1,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 38,
-            "x2": 416,
-            "y1": 108,
-            "y2": 117
+            "y1": 172,
+            "y2": 181
         },
         {
             "align": "left",
@@ -574,49 +861,8 @@
         },
         {
             "align": "left",
-            "content": "Ich bin – meiner Einschätzung nach – **gesundheitlich** in der Lage, eine Tätigkeit von mindestens **drei Stunden täglich** auszuüben.",
-            "page": 1,
-            "structure": "",
-            "x1": 28,
-            "x2": 323,
-            "y1": 172,
-            "y2": 181
-        },
-        {
-            "align": "left",
-            "content": "Ja",
-            "page": 1,
-            "structure": "",
-            "x1": 337,
-            "x2": 353,
-            "y1": 172,
-            "y2": 181
-        },
-        {
-            "align": "left",
-            "content": "Nein",
-            "page": 1,
-            "structure": "",
-            "x1": 367,
-            "x2": 416,
-            "y1": 172,
-            "y2": 181
-        },
-        {
-            "align": "left",
-            "content": "Wenn Sie Nein angekreuzt haben, besteht für Sie möglicherweise kein Anspruch auf Leistungen des SGB II. Sie können in diesem Fall Leistungen nach dem Zwölften Buch Sozialgesetzbuch (SGB XII) beantragen.",
-            "page": 1,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 37,
-            "x2": 416,
-            "y1": 196,
-            "y2": 204
-        },
-        {
-            "align": "left",
-            "content": "Ich bin **Schülerin/Schüler**.",
-            "page": 1,
+            "content": "Ich bin **Schülerin/Schüler**, **Studentin/Student** oder **Auszubildende/Auszubildender**.",
+            "page": 2,
             "structure": "",
             "x1": 28,
             "x2": 323,
@@ -626,7 +872,7 @@
         {
             "align": "left",
             "content": "Ja",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 337,
             "x2": 353,
@@ -636,7 +882,7 @@
         {
             "align": "left",
             "content": "Nein",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 367,
             "x2": 417,
@@ -646,7 +892,7 @@
         {
             "align": "left",
             "content": "Dauer der Schulausbildung von - bis",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 43,
             "x2": 213,
@@ -656,7 +902,7 @@
         {
             "align": "left",
             "content": "Falls ja, legen Sie bitte entsprechende Nachweise (z. B. Schulbescheinigung) vor.",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "style": "color: #00965A",
             "x1": 227,
@@ -666,38 +912,8 @@
         },
         {
             "align": "left",
-            "content": "Ich bin **Studentin/Student**.",
-            "page": 1,
-            "structure": "",
-            "x1": 28,
-            "x2": 323,
-            "y1": 277,
-            "y2": 286
-        },
-        {
-            "align": "left",
-            "content": "Ja",
-            "page": 1,
-            "structure": "",
-            "x1": 337,
-            "x2": 354,
-            "y1": 277,
-            "y2": 286
-        },
-        {
-            "align": "left",
-            "content": "Nein",
-            "page": 1,
-            "structure": "",
-            "x1": 367,
-            "x2": 416,
-            "y1": 277,
-            "y2": 286
-        },
-        {
-            "align": "left",
             "content": "Dauer des Studiums von - bis",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 42,
             "x2": 213,
@@ -707,7 +923,7 @@
         {
             "align": "left",
             "content": "Falls ja, legen Sie bitte entsprechende Nachweise (z. B. Immatrikulationsbescheinigung) vor.",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "style": "color: #00965A",
             "x1": 227,
@@ -717,79 +933,8 @@
         },
         {
             "align": "left",
-            "content": "Ich habe Leistungen nach dem **Bundesausbildungsförderungsgesetz (BAföG)** beantragt.",
-            "page": 1,
-            "structure": "",
-            "x1": 28,
-            "x2": 323,
-            "y1": 325,
-            "y2": 334
-        },
-        {
-            "align": "left",
-            "content": "Ja",
-            "page": 1,
-            "structure": "",
-            "x1": 337,
-            "x2": 354,
-            "y1": 325,
-            "y2": 334
-        },
-        {
-            "align": "left",
-            "content": "Nein",
-            "page": 1,
-            "structure": "",
-            "x1": 367,
-            "x2": 416,
-            "y1": 325,
-            "y2": 334
-        },
-        {
-            "align": "left",
-            "content": "Falls ja, legen Sie bitte einen Nachweis über die Antragstellung oder – soweit über Ihren BAföG-Antrag bereits entschieden wurde – den entsprechenden Bescheid über die Bewilligung oder Ablehnung vor.",
-            "page": 1,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 37,
-            "x2": 416,
-            "y1": 350,
-            "y2": 358
-        },
-        {
-            "align": "left",
-            "content": "Ich bin **Auszubildende/Auszubildender**.",
-            "page": 1,
-            "structure": "",
-            "x1": 28,
-            "x2": 323,
-            "y1": 376,
-            "y2": 385
-        },
-        {
-            "align": "left",
-            "content": "Ja",
-            "page": 1,
-            "structure": "",
-            "x1": 338,
-            "x2": 353,
-            "y1": 376,
-            "y2": 385
-        },
-        {
-            "align": "left",
-            "content": "Nein",
-            "page": 1,
-            "structure": "",
-            "x1": 368,
-            "x2": 416,
-            "y1": 376,
-            "y2": 385
-        },
-        {
-            "align": "left",
             "content": "Dauer der Ausbildung von - bis",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 43,
             "x2": 213,
@@ -799,7 +944,7 @@
         {
             "align": "left",
             "content": "Falls ja, legen Sie bitte den Ausbildungsvertrag vor.",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "style": "color: #00965A",
             "x1": 227,
@@ -809,8 +954,8 @@
         },
         {
             "align": "left",
-            "content": "Während der Ausbildung bin ich in einem **Wohnheim, Internat** oder beim **Ausbilder mit voller Verpflegung** oder **anderweitig mit Kostenerstattung** für Unterkunft und Verpflegung untergebracht.",
-            "page": 1,
+            "content": "Während der Ausbildung bin ich in einem **Wohnheim, Internat**, **einer besonderen Einrichtung für behinderte Menschen** oder beim **Ausbilder mit voller Verpflegung** oder **anderweitig mit Kostenerstattung** für Unterkunft und Verpflegung untergebracht.",
+            "page": 2,
             "structure": "",
             "x1": 41,
             "x2": 416,
@@ -820,7 +965,7 @@
         {
             "align": "left",
             "content": "Falls ja, legen Sie bitte entsprechende Nachweise vor.",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "style": "color: #00965A",
             "x1": 37,
@@ -831,7 +976,7 @@
         {
             "align": "left",
             "content": "Ich befinde mich derzeit oder demnächst in einer **stationären Einrichtung** (z. B. Krankenhaus, Altenheim, Justizvollzugsanstalt).",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 28,
             "x2": 323,
@@ -841,7 +986,7 @@
         {
             "align": "left",
             "content": "Ja",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 338,
             "x2": 353,
@@ -851,7 +996,7 @@
         {
             "align": "left",
             "content": "Nein",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 368,
             "x2": 416,
@@ -861,7 +1006,7 @@
         {
             "align": "left",
             "content": "Dauer der Unterbringung von - bis",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 42,
             "x2": 214,
@@ -871,7 +1016,7 @@
         {
             "align": "left",
             "content": "Art der stationären Einrichtung",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 216,
             "x2": 416,
@@ -881,7 +1026,7 @@
         {
             "align": "left",
             "content": "Falls ja, legen Sie bitte eine gültige Bescheinigung über den Aufenthalt und die Dauer vor.",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "style": "color: #00965A",
             "x1": 49,
@@ -891,183 +1036,9 @@
         },
         {
             "align": "left",
-            "content": "Personen in meiner Bedarfsgemeinschaft",
-            "page": 1,
-            "structure": "2.",
-            "style": "font-weight: bold",
-            "x1": 33,
-            "x2": 416,
-            "y1": 549,
-            "y2": 558
-        },
-        {
-            "align": "left",
-            "content": "Leben Sie allein, sind unter Abschnitt 2 keine weiteren Angaben erforderlich. Bitte weiter bei Abschnitt 3.",
-            "page": 1,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 32,
-            "x2": 416,
-            "y1": 562,
-            "y2": 571
-        },
-        {
-            "align": "left",
-            "content": "Zu meiner Bedarfsgemeinschaft gehört/gehören neben mir ... weitere Person/en.",
-            "page": 1,
-            "structure": "",
-            "x1": 28,
-            "x2": 416,
-            "y1": 579,
-            "y2": 588
-        },
-        {
-            "align": "left",
-            "content": "Folgende Aussagen treffen auf meine Bedarfsgemeinschaft zu:",
-            "page": 1,
-            "structure": "",
-            "x1": 28,
-            "x2": 416,
-            "y1": 598,
-            "y2": 607
-        },
-        {
-            "align": "left",
-            "content": "Hier sind Mehrfachnennungen möglich.",
-            "page": 1,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 38,
-            "x2": 416,
-            "y1": 614,
-            "y2": 623
-        },
-        {
-            "align": "left",
-            "content": "Ich lebe zusammen mit meiner **Ehegattin**/meinem **Ehegatten**. Wir leben **nicht** dauernd getrennt.",
-            "page": 1,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 633,
-            "y2": 642
-        },
-        {
-            "align": "left",
-            "content": "Ich lebe zusammen mit meiner **eingetragenen gleichgeschlechtlichen Lebenspartnerin**/meinem **eingetragenen gleichgeschlechtlichen Lebenspartner**. Wir leben **nicht** dauernd getrennt.",
-            "page": 1,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 656,
-            "y2": 665
-        },
-        {
-            "align": "left",
-            "content": "Ich lebe mit meiner Partnerin/meinem Partner in einer **Verantwortungs- und Einstehensgemeinschaft** („eheähnliche Gemeinschaft”).",
-            "page": 1,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 693,
-            "y2": 702
-        },
-        {
-            "align": "left",
-            "content": "Ich lebe mit mindestens einem **unverheirateten Kind unter 25 Jahren** zusammen.",
-            "page": 1,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 716,
-            "y2": 725
-        },
-        {
-            "align": "left",
-            "content": "**Ich bin unter 25 Jahre** alt und lebe mit meinen Eltern bzw. einem Elternteil zusammen.",
-            "page": 1,
-            "structure": "",
-            "x1": 42,
-            "x2": 511,
-            "y1": 733,
-            "y2": 742
-        },
-        {
-            "align": "left",
-            "content": "Persönliche Daten der weiteren Person/en meiner Bedarfsgemeinschaft",
-            "page": 2,
-            "structure": "2.1",
-            "style": "font-weight: bold",
-            "x1": 82,
-            "x2": 460,
-            "y1": 49,
-            "y2": 58
-        },
-        {
-            "align": "left",
-            "content": "Berücksichtigen Sie hier die Person/en, die außer Ihnen zur Bedarfsgemeinschaft gehört/gehören. Da Sie die Leistung beantragen, wird davon ausgegangen, dass Sie auch die Vertretung Ihrer Bedarfsgemeinschaft übernommen haben. Dies gilt nicht mehr, wenn über 15-jährige Mitglieder Ihrer Bedarfsgemeinschaft gegenüber dem Jobcenter erklären, dass sie ihre Interessen selbst wahrnehmen wollen, z. B. durch eine eigene Antragstellung (§ 38 SGB II). Zu den nicht vertretenen Personen sind hier keine Angaben erforderlich.",
-            "page": 2,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 76,
-            "x2": 460,
-            "y1": 64,
-            "y2": 71
-        },
-        {
-            "align": "left",
-            "append": "\n\n",
-            "content": "Bitte füllen Sie für jedes Kind unter 15 Jahren die **Anlage KI**, für die Person, mit der Sie in einer Verantwortungs- und Einstehensgemeinschaft leben, die **Anlage VE** und für alle anderen Personen, die Sie vertreten, jeweils die **Anlage WEP** aus. Dies gilt auch dann, wenn es sich hierbei um ein minderjähriges Kind handelt, das sich (z. B. aufgrund eines geteilten Umgangsrechts) nicht durchgehend in Ihrem Haushalt aufhält.",
-            "page": 2,
-            "structure": ""
-        },
-        {
-            "content": "Ich füge diesem Antrag … **Anlage/n KI**, … **Anlage VE** und … **Anlage/n WEP** bei.",
-            "page": 2,
-            "structure": "",
-            "x1": 85,
-            "y1": 162,
-            "x2": 460,
-            "y2": 172,
-            "align": ""
-        },
-        {
-            "align": "left",
-            "content": "Meine Haushaltsgemeinschaft",
-            "page": 2,
-            "structure": "2.2",
-            "style": "font-weight: bold",
-            "x1": 81,
-            "x2": 460,
-            "y1": 183,
-            "y2": 192
-        },
-        {
-            "align": "left",
-            "content": "In meinem Haushalt wohnt/wohnen neben mir ... weitere Person/en, die nicht zur Bedarfsgemeinschaft, jedoch zur Haushaltsgemeinschaft gehört/gehören.",
-            "page": 2,
-            "structure": "",
-            "x1": 70,
-            "x2": 460,
-            "y1": 198,
-            "y2": 207
-        },
-        {
-            "align": "left",
-            "content": "Bitte machen Sie Angaben zu Personen, mit denen Sie verwandt oder verschwägert sind, in der **Anlage HG**.",
-            "page": 2,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 82,
-            "x2": 459,
-            "y1": 223,
-            "y2": 232
-        },
-        {
-            "align": "left",
             "content": "Prüfung eines Mehrbedarfs",
             "page": 2,
-            "structure": "3.",
+            "structure": "5.",
             "style": "font-weight: bold",
             "x1": 76,
             "x2": 460,
@@ -1079,6 +1050,7 @@
             "content": "Die Angaben sind freiwillig und nur erforderlich, wenn Sie einen Mehrbedarf beantragen möchten.",
             "page": 2,
             "structure": "",
+            "style": "color: #00965A",
             "x1": 67,
             "x2": 460,
             "y1": 266,
@@ -1117,7 +1089,7 @@
         },
         {
             "align": "left",
-            "content": "Ich habe einen Mehrbedarf für die dezentrale Warmwassererzeugung.",
+            "content": "Ich habe einen Mehrbedarf für die **dezentrale Warmwassererzeugung** (z. B. Durchlauferhitzer/Boiler).",
             "page": 2,
             "structure": "",
             "x1": 86,
@@ -1158,7 +1130,7 @@
         },
         {
             "align": "start",
-            "content": "- Leistungen zur Teilhabe am Arbeitsleben nach § 349 Neuntes Buch Sozialgesetzbuch (SGB IX) **oder**",
+            "content": "- Leistungen zur Teilhabe am Arbeitsleben nach § 49 Neuntes Buch Sozialgesetzbuch (SGB IX) **oder**",
             "page": 2,
             "structure": "",
             "x1": 69,
@@ -1176,13 +1148,13 @@
         {
             "align": "start",
             "append": "\n",
-            "content": "- Eingliederungshilfen nach § 54 Abs. 1 Satz 1 Nr. 1-3 SGB XII.",
+            "content": "- Eingliederungshilfen nach § 102 SGB IX.",
             "page": 2,
             "structure": ""
         },
         {
             "align": "left",
-            "content": "Bitte legen Sie einen entsprechenden Bescheid vor.",
+            "content": "Bitte legen Sie einen aktuellen Bescheid vor.",
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
@@ -1203,7 +1175,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte legen Sie einen entsprechenden Nachweis vor.",
+            "content": "Bitte legen Sie einen aktuellen Nachweis (z. B. Schwerbehindertenausweis) vor.",
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
@@ -1223,7 +1195,6 @@
             "y2": 501
         },
         {
-            "align": "left",
             "append": " ",
             "content": "(z. B. Kosten zur Wahrnehmung des Umgangsrechts bei getrennt lebenden Eltern).",
             "page": 2,
@@ -1244,7 +1215,7 @@
             "align": "left",
             "content": "Einkommen",
             "page": 2,
-            "structure": "4.",
+            "structure": "6.",
             "style": "font-weight: bold",
             "x1": 76,
             "x2": 460,
@@ -1252,51 +1223,43 @@
             "y2": 554
         },
         {
-            "align": "left",
-            "content": "Ich erziele Einkommen und/oder übe eine selbständige Tätigkeit (auch in der Land- und Forstwirtschaft) aus.",
-            "page": 2,
-            "structure": "",
-            "x1": 70,
-            "x2": 365,
-            "y1": 560,
-            "y2": 569
-        },
-        {
-            "align": "left",
-            "content": "Ja",
-            "page": 2,
-            "structure": "",
-            "x1": 380,
-            "x2": 396,
-            "y1": 561,
-            "y2": 570
-        },
-        {
-            "align": "left",
-            "content": "Nein",
-            "page": 2,
-            "structure": "",
-            "x1": 409,
-            "x2": 460,
-            "y1": 561,
-            "y2": 570
-        },
-        {
-            "align": "left",
-            "content": "Falls ja, füllen Sie bitte für sich und ggf. für jede weitere Person Ihrer Bedarfsgemeinschaft ab 15 Jahren jeweils die **Anlage EK** aus. Bei Ausübung einer selbständiger Tätigkeit füllen Sie bitte **zusätzlich** die **Anlage EKS** aus.",
+            "align": "start",
+            "content": "Zur Prüfung Ihrer Einkommensverhältnisse füllen Sie bitte die **Anlage EK** aus. Bei Ausübung einer selbständigen Tätigkeit füllen Sie bitte **zusätzlich** die **Anlage EKS** aus.",
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 82,
+            "x1": 95,
             "x2": 460,
-            "y1": 585,
-            "y2": 593
+            "y1": 527,
+            "y2": 535
         },
         {
             "align": "left",
             "content": "Vermögen",
             "page": 2,
-            "structure": "5.",
+            "structure": "7.",
+            "style": "font-weight: bold",
+            "x1": 76,
+            "x2": 460,
+            "y1": 623,
+            "y2": 632
+        },
+        {
+            "align": "start",
+            "content": "Zur Prüfung der Vermögensverhältnisse von sämtlichen Personen der Bedarfsgemeinschaft füllen Sie bitte die **Anlgae VM** aus.",
+            "page": 2,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 95,
+            "x2": 460,
+            "y1": 527,
+            "y2": 535
+        },
+        {
+            "align": "left",
+            "content": "Meine Lebenssituation",
+            "page": 3,
+            "structure": "8.",
             "style": "font-weight: bold",
             "x1": 76,
             "x2": 460,
@@ -1305,119 +1268,64 @@
         },
         {
             "align": "left",
-            "content": "Ich besitze Vermögen.",
-            "page": 2,
-            "structure": "",
-            "x1": 70,
-            "x2": 365,
-            "y1": 638,
-            "y2": 647
-        },
-        {
-            "align": "left",
-            "content": "Ja",
-            "page": 2,
-            "structure": "",
-            "x1": 380,
-            "x2": 396,
-            "y1": 638,
-            "y2": 647
-        },
-        {
-            "align": "left",
-            "content": "Nein",
-            "page": 2,
-            "structure": "",
-            "x1": 409,
-            "x2": 460,
-            "y1": 638,
-            "y2": 647
-        },
-        {
-            "align": "left",
-            "content": "Bitte tragen Sie Angaben über die Vermögensverhältnisse von sämtlichen Personen der Bedarfsgemeinschaft in die **Anlage VM** ein.",
-            "page": 2,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 82,
-            "x2": 460,
-            "y1": 651,
-            "y2": 660
-        },
-        {
-            "align": "left",
-            "content": "Vorrangige Ansprüche",
-            "page": 2,
-            "structure": "6.",
+            "content": "Vorrangige Leistungen",
+            "page": 3,
+            "structure": "8.1",
             "style": "font-weight: bold",
             "x1": 76,
             "x2": 460,
-            "y1": 681,
-            "y2": 690
+            "y1": 623,
+            "y2": 632
         },
         {
             "align": "left",
-            "content": "Anspruch gegenüber der Agentur für Arbeit",
-            "page": 2,
-            "structure": "6.1",
-            "style": "font-weight: bold",
-            "x1": 81,
-            "x2": 460,
-            "y1": 695,
-            "y2": 704
-        },
-        {
-            "align": "left",
-            "content": "Wenn Sie Arbeitslosengeld nach dem Dritten Buch Sozialgesetzbuch (SGB III) bereits beantragt haben, tragen Sie dies bitte in **Abschnitt 6.4** ein. Sollte das Arbeitslosengeld aktuell bereits bewilligt sein, tragen Sie dies in **Anlage EK Abschnitt 2** ein, auch dann, wenn eine Sperrzeit eingetreten ist. In beiden Fällen müssen Sie keine Angaben in **Abschnitt 6.1** machen.",
-            "page": 2,
+            "content": "Die nachfolgenden Angaben dienen der Prüfung, ob ein Anspruch auf andere Leistungen oder gegenüber Dritten bestehen könnte.",
+            "page": 3,
             "structure": "",
             "style": "color: #00965A",
+            "x1": 95,
+            "x2": 460,
+            "y1": 527,
+            "y2": 535
+        },
+        {
+            "align": "left",
+            "content": "Hier sind Mehrfachnennungen möglich.",
+            "page": 3,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 95,
+            "x2": 460,
+            "y1": 527,
+            "y2": 535
+        },
+        {
+            "append": " ",
+            "content": "Bitte legen Sie entsprechende Nachweise vor.",
+            "page": 3,
+            "structure": ""
+        },
+        {
+            "align": "left",
+            "content": "In den letzten 5 Jahren",
+            "page": 3,
+            "structure": "",
+            "style": "font-weight: bold",
             "x1": 76,
             "x2": 460,
-            "y1": 711,
-            "y2": 719
+            "y1": 623,
+            "y2": 632
         },
         {
             "align": "left",
-            "content": "**Innerhalb** der letzten 5 Jahre vor der Antragstellung",
+            "content": "war ich **beschäftigt**.",
             "page": 3,
             "structure": "",
-            "x1": 27,
-            "x2": 416,
-            "y1": 40,
-            "y2": 49
-        },
-        {
-            "align": "left",
-            "content": "Die nachfolgenden Angaben dienen der Prüfung, ob ein Anspruch auf Arbeitslosengeld bestehen könnte.",
-            "page": 3,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 37,
-            "x2": 416,
-            "y1": 51,
-            "y2": 59
-        },
-        {
-            "align": "left",
-            "content": "Hier sind Mehrfachnennungen möglich. Bitte legen Sie entsprechende Nachweise vor.",
-            "page": 3,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 37,
-            "x2": 416,
-            "y1": 63,
-            "y2": 71
-        },
-        {
-            "align": "left",
-            "content": "war ich **sozialversicherungspflichtig** beschäftigt.",
-            "page": 3,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 75,
-            "y2": 84
+            "style": "font-weight: bold",
+            "x1": 76,
+            "x2": 460,
+            "y1": 623,
+            "y2": 632
         },
         {
             "align": "left",
@@ -1441,7 +1349,17 @@
         },
         {
             "align": "left",
-            "content": "Art der Tätigkeit",
+            "content": "sozialversicherungspflichtig",
+            "page": 3,
+            "structure": "",
+            "x1": 274,
+            "x2": 416,
+            "y1": 94,
+            "y2": 103
+        },
+        {
+            "align": "left",
+            "content": "Minijob",
             "page": 3,
             "structure": "",
             "x1": 274,
@@ -1471,13 +1389,23 @@
         },
         {
             "align": "left",
-            "content": "Art der Tätigkeit",
+            "content": "sozialversicherungspflichtig",
             "page": 3,
             "structure": "",
             "x1": 274,
             "x2": 416,
-            "y1": 127,
-            "y2": 136
+            "y1": 94,
+            "y2": 103
+        },
+        {
+            "align": "left",
+            "content": "Minijob",
+            "page": 3,
+            "structure": "",
+            "x1": 274,
+            "x2": 416,
+            "y1": 94,
+            "y2": 103
         },
         {
             "align": "left",
@@ -1501,13 +1429,23 @@
         },
         {
             "align": "left",
-            "content": "Art der Tätigkeit",
+            "content": "sozialversicherungspflichtig",
             "page": 3,
             "structure": "",
             "x1": 274,
             "x2": 416,
-            "y1": 160,
-            "y2": 169
+            "y1": 94,
+            "y2": 103
+        },
+        {
+            "align": "left",
+            "content": "Minijob",
+            "page": 3,
+            "structure": "",
+            "x1": 274,
+            "x2": 416,
+            "y1": 94,
+            "y2": 103
         },
         {
             "align": "left",
@@ -1541,7 +1479,7 @@
         },
         {
             "align": "left",
-            "content": "habe ich **Wehr- oder Ersatzdienst** geleistet.",
+            "content": "habe ich **Wehrdienst oder freiwilligen Dienst** geleistet (z. B. FSJ, Bundesfreiwilligendienst).",
             "page": 3,
             "structure": "",
             "x1": 42,
@@ -1561,7 +1499,7 @@
         },
         {
             "align": "left",
-            "content": "habe ich **Entgeltersatzleistungen** erhalten (z. B. Krankengeld, Arbeitslosengeld nach dem SGB III).",
+            "content": "habe ich **Entgeltersatzleistungen** erhalten (z. B. Krankengeld, Arbeitslosengeld, Mutterschaftsgeld, Übergangsgeld, Elterngeld).",
             "page": 3,
             "structure": "",
             "x1": 42,
@@ -1576,16 +1514,6 @@
             "structure": "",
             "x1": 41,
             "x2": 155,
-            "y1": 304,
-            "y2": 313
-        },
-        {
-            "align": "left",
-            "content": "Behörde",
-            "page": 3,
-            "structure": "",
-            "x1": 157,
-            "x2": 272,
             "y1": 304,
             "y2": 313
         },
@@ -1611,16 +1539,6 @@
         },
         {
             "align": "left",
-            "content": "Behörde",
-            "page": 3,
-            "structure": "",
-            "x1": 157,
-            "x2": 271,
-            "y1": 332,
-            "y2": 341
-        },
-        {
-            "align": "left",
             "content": "Leistung",
             "page": 3,
             "structure": "",
@@ -1631,14 +1549,75 @@
         },
         {
             "align": "left",
-            "content": "Ansprüche gegenüber Arbeitgebern",
+            "content": "trifft keiner der o. g. Punkte auf mich zu. Ich habe meinen **Lebensunterhalt wie folgt bestritten** (z. B. finanzielle Unterstützung durch Verwandte/Bekannte, Ersparnisse, Erbschaft):",
             "page": 3,
-            "structure": "6.2",
+            "structure": "",
+            "x1": 273,
+            "x2": 417,
+            "y1": 332,
+            "y2": 341
+        },
+        {
+            "align": "left",
+            "content": "Ansprüche gegenüber Dritten",
+            "page": 3,
+            "structure": "8.2",
             "style": "font-weight: bold",
-            "x1": 37,
-            "x2": 416,
-            "y1": 369,
-            "y2": 378
+            "x1": 36,
+            "x2": 510,
+            "y1": 532,
+            "y2": 541
+        },
+        {
+            "align": "left",
+            "content": "Ich habe schon andere Leistungen (z. B. Leistungen nach dem Bundesausbildungsförderungsgesetz (BAföG), Berufsausbildungsbeihilfe (BAB), Wohngeld, Arbeitslosengeld, Rente, Kindergeld) beantragt oder beabsichtige, einen Antrag zu stellen.",
+            "page": 4,
+            "structure": "",
+            "x1": 85,
+            "x2": 460,
+            "y1": 292,
+            "y2": 301
+        },
+        {
+            "align": "left",
+            "content": "Leistungsart",
+            "page": 4,
+            "structure": "",
+            "x1": 86,
+            "x2": 257,
+            "y1": 315,
+            "y2": 324
+        },
+        {
+            "align": "left",
+            "content": "Antragsdatum",
+            "page": 4,
+            "structure": "",
+            "x1": 86,
+            "x2": 258,
+            "y1": 347,
+            "y2": 356
+        },
+        {
+            "align": "left",
+            "content": "Sozialleistungsträger/Familienkasse",
+            "page": 4,
+            "structure": "",
+            "x1": 260,
+            "x2": 460,
+            "y1": 315,
+            "y2": 324
+        },
+        {
+            "align": "left",
+            "content": "Bitte legen Sie einen Nachweis vor, sofern schon über Ihren Antrag/Ihre Anträge entschieden wurde.",
+            "page": 4,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 91,
+            "x2": 460,
+            "y1": 406,
+            "y2": 414
         },
         {
             "align": "left",
@@ -1682,27 +1661,7 @@
         },
         {
             "align": "left",
-            "content": "Gericht",
-            "page": 3,
-            "structure": "",
-            "x1": 41,
-            "x2": 213,
-            "y1": 486,
-            "y2": 495
-        },
-        {
-            "align": "left",
-            "content": "Aktenzeichen",
-            "page": 3,
-            "structure": "",
-            "x1": 216,
-            "x2": 500,
-            "y1": 486,
-            "y2": 495
-        },
-        {
-            "align": "left",
-            "content": "Bitte geben Sie den Namen und den Ort des Gerichtes an, bei dem die Klage anhängig ist.",
+            "content": "Bitte legen Sie einen geeigneten Nachweis vor (z. B. Schriftwechsel mit Ihrer Rechtsanwältin/Ihrem Rechtsanwalt oder dem Gericht).",
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
@@ -1713,181 +1672,7 @@
         },
         {
             "align": "left",
-            "content": "Ansprüche gegenüber Dritten",
-            "page": 3,
-            "structure": "6.3",
-            "style": "font-weight: bold",
-            "x1": 36,
-            "x2": 510,
-            "y1": 532,
-            "y2": 541
-        },
-        {
-            "align": "left",
-            "content": "Ich lebe bzw. meine jetzige Partnerin/mein jetziger Partner lebt getrennt von der Ehegattin/dem Ehegatten bzw. der eingetragenen gleichgeschlechtlichen Lebenspartnerin/dem eingetragenen gleichgeschlechtlichen Lebenspartner.",
-            "page": 3,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 547,
-            "y2": 556
-        },
-        {
-            "align": "left",
-            "content": "Bitte füllen Sie die **Anlage UH1** aus.",
-            "page": 3,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 52,
-            "x2": 416,
-            "y1": 581,
-            "y2": 589
-        },
-        {
-            "align": "left",
-            "content": "Ich bzw. meine jetzige Partnerin/mein jetziger Partner war bereits verheiratet und diese Ehe wurde geschieden bzw. diese eingetragene gleichgeschlechtliche Lebenspartnerschaft wurde aufgehoben.",
-            "page": 3,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 595,
-            "y2": 604
-        },
-        {
-            "align": "left",
-            "content": "Bitte füllen Sie die **Anlage UH1** aus.",
-            "page": 3,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 52,
-            "x2": 416,
-            "y1": 628,
-            "y2": 636
-        },
-        {
-            "align": "left",
-            "content": "Ich bzw. ein nicht verheiratetes/nicht in einer eingetragenen gleichgeschlechtlichen Lebenspartnerschaft lebendes Mitglied meiner Bedarfsgemeinschaft bin/ist schwanger oder betreue/betreut ein nichteheliches Kind unter 3 Jahren und kann deshalb nicht arbeiten.",
-            "page": 3,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 643,
-            "y2": 652
-        },
-        {
-            "align": "left",
-            "content": "Bitte füllen Sie die **Anlage UH2** aus.",
-            "page": 3,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 52,
-            "x2": 416,
-            "y1": 677,
-            "y2": 685
-        },
-        {
-            "align": "left",
-            "content": "Eine Person in meinem Haushalt ist",
-            "page": 3,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 691,
-            "y2": 700
-        },
-        {
-            "align": "start",
-            "content": "- unter 18 Jahre alt oder",
-            "page": 3,
-            "structure": "",
-            "x1": 26,
-            "x2": 416,
-            "y1": 703,
-            "y2": 712
-        },
-        {
-            "align": "start",
-            "append": "\n",
-            "content": "- zwischen 18 und 24 Jahre alt und macht eine Schul- oder Berufsausbildung oder will eine solche in Kürze beginnen.",
-            "page": 3,
-            "structure": "",
-            "x1": 25,
-            "x2": 511,
-            "y1": 578,
-            "y2": 587
-        },
-        {
-            "align": "left",
-            "content": "Ein Elternteil dieser Person lebt außerhalb der Bedarfsgemeinschaft.",
-            "page": 3,
-            "structure": "",
-            "x1": 43,
-            "x2": 416,
-            "y1": 738,
-            "y2": 747
-        },
-        {
-            "align": "left",
-            "content": "Bitte füllen Sie die **Anlage UH3** aus.",
-            "page": 3,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 52,
-            "x2": 416,
-            "y1": 749,
-            "y2": 757
-        },
-        {
-            "align": "left",
-            "content": "Ich bin bzw. meine jetzige Partnerin/mein jetziger Partner ist",
-            "page": 4,
-            "structure": "",
-            "x1": 86,
-            "x2": 460,
-            "y1": 40,
-            "y2": 49
-        },
-        {
-            "align": "start",
-            "content": "- unter 18 Jahre alt oder",
-            "page": 4,
-            "structure": "",
-            "x1": 70,
-            "x2": 460,
-            "y1": 51,
-            "y2": 60
-        },
-        {
-            "align": "start",
-            "append": "\n",
-            "content": "- zwischen 18 und 24 Jahre alt und mache/macht eine Schul- oder Berufsausbildung oder will eine solche in Kürze beginnen.",
-            "page": 4,
-            "structure": ""
-        },
-        {
-            "align": "left",
-            "content": "Mindestens ein Elternteil lebt außerhalb der Bedarfsgemeinschaft.",
-            "page": 4,
-            "structure": "",
-            "x1": 86,
-            "x2": 459,
-            "y1": 86,
-            "y2": 95
-        },
-        {
-            "align": "left",
-            "content": "Bitte füllen Sie die **Anlage UH4** aus.",
-            "page": 4,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 95,
-            "x2": 460,
-            "y1": 97,
-            "y2": 105
-        },
-        {
-            "align": "left",
-            "content": "Ich habe einen gesundheitlichen Schaden erlitten (z. B. durch einen Arbeits-, Verkehrs-, Spiel- oder Sportunfall, einen ärztlichen Behandlungsfehler oder durch eine tätliche Auseinandersetzung). Ich bin deshalb hilfebedürftig geworden.",
+            "content": "Ich habe einen gesundheitlichen Schaden durch einen Dritten erlitten (z. B. Arbeits-, Verkehrs-, Spiel- oder Sportunfall, ärztlicher Behandlungsfehler oder tätliche Auseinandersetzung). Ich muss deshalb Leistungen beim Jobcenter beantragen.",
             "page": 4,
             "structure": "",
             "x1": 86,
@@ -1928,7 +1713,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte weisen Sie den Anspruch durch entsprechende Unterlagen nach.",
+            "content": "Bitte weisen Sie den Anspruch durch aktuelle Unterlagen nach.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
@@ -1939,7 +1724,113 @@
         },
         {
             "align": "left",
-            "content": "Für mich und/oder für ein Mitglied meiner Bedarfsgemeinschaft wurde eine Verpflichtungserklärung gegenüber der Ausländerbehörde oder der Auslandsvertretung abgegeben.",
+            "content": "Ich lebe getrennt von meiner Ehegattin/meinem Ehegatten bzw. meiner eingetragenen Lebenspartnerin/meinem eingetragenen Lebenspartner.",
+            "page": 4,
+            "structure": "",
+            "x1": 86,
+            "x2": 460,
+            "y1": 166,
+            "y2": 175
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage UH1** aus.",
+            "page": 4,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 95,
+            "x2": 460,
+            "y1": 146,
+            "y2": 154
+        },
+        {
+            "align": "left",
+            "content": "Ich bin geschieden bzw. meine eingetragene Lebenspartnerschaft wurde aufgehoben.",
+            "page": 4,
+            "structure": "",
+            "x1": 86,
+            "x2": 460,
+            "y1": 166,
+            "y2": 175
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage UH1** aus.",
+            "page": 4,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 95,
+            "x2": 460,
+            "y1": 146,
+            "y2": 154
+        },
+        {
+            "align": "left",
+            "content": "Ich bin schwanger oder betreue ein nichteheliches Kind unter 3 Jahren.",
+            "page": 4,
+            "structure": "",
+            "x1": 86,
+            "x2": 460,
+            "y1": 166,
+            "y2": 175
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage UH1** aus.",
+            "page": 4,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 95,
+            "x2": 460,
+            "y1": 146,
+            "y2": 154
+        },
+        {
+            "align": "left",
+            "content": "Ich bin",
+            "page": 4,
+            "structure": "",
+            "x1": 42,
+            "x2": 416,
+            "y1": 691,
+            "y2": 700
+        },
+        {
+            "append": "\n\n",
+            "content": "- unter 18 Jahre alt oder",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "append": "\n",
+            "content": "- zwischen 18 und 24 Jahre alt und mache eine Schul- oder Berufsausbildung oder will eine solche in Kürze beginnen.",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "align": "left",
+            "content": "**und** mindestens ein Elternteil lebt außerhalb der Bedarfsgemeinschaft.",
+            "page": 4,
+            "structure": "",
+            "x1": 43,
+            "x2": 416,
+            "y1": 738,
+            "y2": 747
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage UH4** aus.",
+            "page": 4,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 52,
+            "x2": 416,
+            "y1": 749,
+            "y2": 757
+        },
+        {
+            "align": "left",
+            "content": "Für mich wurde eine Verpflichtungserklärung gegenüber der Ausländerbehörde oder der Auslandsvertretung abgegeben.",
             "page": 4,
             "structure": "",
             "x1": 85,
@@ -1960,91 +1851,9 @@
         },
         {
             "align": "left",
-            "content": "Ansprüche gegenüber Sozialleistungsträgern/Familienkassen",
-            "page": 4,
-            "structure": "6.4",
-            "style": "font-weight: bold",
-            "x1": 82,
-            "x2": 460,
-            "y1": 271,
-            "y2": 280
-        },
-        {
-            "align": "left",
-            "content": "Ich habe schon andere Leistungen (z. B. Wohngeld, Arbeitslosengeld, Rente, Kindergeld) **beantragt** oder **beabsichtige, einen Antrag zu stellen**.",
-            "page": 4,
-            "structure": "",
-            "x1": 85,
-            "x2": 460,
-            "y1": 292,
-            "y2": 301
-        },
-        {
-            "align": "left",
-            "content": "Leistungsart",
-            "page": 4,
-            "structure": "",
-            "x1": 86,
-            "x2": 257,
-            "y1": 315,
-            "y2": 324
-        },
-        {
-            "align": "left",
-            "content": "Sozialleistungsträger/Familienkasse",
-            "page": 4,
-            "structure": "",
-            "x1": 260,
-            "x2": 460,
-            "y1": 315,
-            "y2": 324
-        },
-        {
-            "align": "left",
-            "content": "Antragsdatum",
-            "page": 4,
-            "structure": "",
-            "x1": 86,
-            "x2": 258,
-            "y1": 347,
-            "y2": 356
-        },
-        {
-            "align": "left",
-            "content": "Leistungen beantragt ab",
-            "page": 4,
-            "structure": "",
-            "x1": 260,
-            "x2": 460,
-            "y1": 347,
-            "y2": 356
-        },
-        {
-            "align": "left",
-            "content": "Name der Person, für die Leistungen beantragt wurden",
-            "page": 4,
-            "structure": "",
-            "x1": 86,
-            "x2": 460,
-            "y1": 378,
-            "y2": 387
-        },
-        {
-            "align": "left",
-            "content": "Bitte legen Sie einen Nachweis vor, sofern schon über Ihren Antrag/Ihre Anträge entschieden wurde.",
-            "page": 4,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 91,
-            "x2": 460,
-            "y1": 406,
-            "y2": 414
-        },
-        {
-            "align": "left",
             "content": "Kranken- und Pflegeversicherung",
             "page": 4,
-            "structure": "7.",
+            "structure": "9.",
             "style": "font-weight: bold",
             "x1": 76,
             "x2": 460,
@@ -2055,7 +1864,7 @@
             "align": "left",
             "content": "Pflichtversicherung in der gesetzlichen Kranken- und Pflegeversicherung",
             "page": 4,
-            "structure": "7.1",
+            "structure": "9.1",
             "style": "font-weight: bold",
             "x1": 81,
             "x2": 460,
@@ -2084,16 +1893,6 @@
         },
         {
             "align": "left",
-            "content": "Sitz der Krankenkasse",
-            "page": 4,
-            "structure": "",
-            "x1": 201,
-            "x2": 316,
-            "y1": 479,
-            "y2": 488
-        },
-        {
-            "align": "left",
             "content": "Krankenversichertennummer",
             "page": 4,
             "structure": "",
@@ -2103,7 +1902,6 @@
             "y2": 488
         },
         {
-            "align": "left",
             "append": " ",
             "content": "(falls bekannt)",
             "page": 4,
@@ -2122,7 +1920,7 @@
         },
         {
             "align": "left",
-            "content": "Ich bin **familienversichert** und bin künftig pflichtversichert bei",
+            "content": "Ich bin **familienversichert** und bin in Zukunft pflichtversichert bei",
             "page": 4,
             "structure": "",
             "x1": 86,
@@ -2162,16 +1960,6 @@
         },
         {
             "align": "left",
-            "content": "Sitz der Krankenkasse",
-            "page": 4,
-            "structure": "",
-            "x1": 260,
-            "x2": 460,
-            "y1": 598,
-            "y2": 607
-        },
-        {
-            "align": "left",
             "content": "Bitte legen Sie eine Mitgliedsbescheinigung oder einen anderweitigen Nachweis der Krankenkasse über Ihre Krankenkassenwahl vor, wenn Sie die Krankenkasse wechseln.",
             "page": 4,
             "structure": "",
@@ -2204,7 +1992,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte füllen Sie die **Anlage SV**, Abschnitt 2 aus.",
+            "content": "Bitte füllen Sie die **Anlage SV**, Abschnitt 3 aus.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
@@ -2225,7 +2013,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte füllen Sie die **Anlage SV**, Abschnitt 3 aus.",
+            "content": "Bitte füllen Sie die **Anlage SV**, Abschnitt 4 aus.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
@@ -2236,41 +2024,9 @@
         },
         {
             "align": "left",
-            "content": "Kosten der Unterkunft und Heizung",
-            "page": 4,
-            "structure": "8.",
-            "style": "font-weight: bold",
-            "x1": 76,
-            "x2": 460,
-            "y1": 713,
-            "y2": 722
-        },
-        {
-            "align": "left",
-            "content": "Mir entstehen Kosten für Unterkunft und Heizung.",
-            "page": 4,
-            "structure": "",
-            "x1": 86,
-            "x2": 460,
-            "y1": 731,
-            "y2": 740
-        },
-        {
-            "align": "left",
-            "content": "Bitte füllen Sie die **Anlage KDU** aus.",
-            "page": 4,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 96,
-            "x2": 460,
-            "y1": 747,
-            "y2": 755
-        },
-        {
-            "align": "left",
             "content": "Bildung und Teilhabe",
             "page": 5,
-            "structure": "9.",
+            "structure": "10.",
             "style": "font-weight: bold",
             "x1": 32,
             "x2": 416,
@@ -2279,7 +2035,7 @@
         },
         {
             "align": "left",
-            "content": "Beachten Sie bitte, dass Personen unter 25 Jahren Leistungen für Bildung und Teilhabe beanspruchen können. Wenden Sie sich dazu bitte an Ihr Jobcenter oder den zuständigen kommunalen Träger, da hierfür ein gesonderter Antrag gestellt werden muss.",
+            "content": "Beachten Sie bitte, dass Personen unter 25 Jahren Leistungen für Bildung und Teilhabe beanspruchen können. Wenden Sie sich dazu bitte an Ihr Jobcenter oder den zuständigen kommunalen Träger.",
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
@@ -2290,69 +2046,99 @@
         },
         {
             "align": "left",
-            "content": "Antragstellung ab einem späteren Zeitpunkt",
+            "content": "Meine Bankverbindung",
             "page": 5,
-            "structure": "10.",
+            "structure": "1.3",
             "style": "font-weight: bold",
-            "x1": 36,
-            "x2": 416,
-            "y1": 74,
-            "y2": 83
+            "x1": 67,
+            "x2": 404,
+            "y1": 660,
+            "y2": 670
         },
         {
             "align": "left",
-            "content": "Ich beantrage Leistungen nach dem SGB II erst mit Wirkung zum ... .",
-            "page": 5,
-            "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 91,
-            "y2": 100
-        },
-        {
-            "align": "start",
-            "content": "Beachten Sie bitte, dass Ihr Antrag in der Regel auf den Ersten des Monats zurückwirkt (§ 37 Abs. 2 Satz 2 SGB II) und Sie deshalb Angaben – insbesondere zum Zufluss von Einkommen – für den kompletten Monat Ihrer Antragstellung machen müssen. Sie haben jedoch auch die Möglichkeit, die Leistungen erst ab einen bestimmten Zeitpunkt zu begehren. Eine abweichende Bestimmung mit Wirkung für die Zukunft ist nur ab dem Ersten eines nachfolgenden Monats möglich.",
+            "content": "Leistungen nach dem SGB II werden in der Regel auf ein Konto überwiesen.",
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 27,
-            "x2": 416,
-            "y1": 102,
-            "y2": 110
+            "x1": 62,
+            "x2": 404,
+            "y1": 673,
+            "y2": 682
+        },
+        {
+            "align": "left",
+            "content": "Kontoinhaberin/Kontoinhaber",
+            "page": 5,
+            "structure": "",
+            "x1": 56,
+            "x2": 214,
+            "y1": 692,
+            "y2": 701
+        },
+        {
+            "align": "left",
+            "content": "IBAN",
+            "page": 0,
+            "structure": "",
+            "x1": 56,
+            "x2": 404,
+            "y1": 722,
+            "y2": 731
+        },
+        {
+            "align": "left",
+            "content": "Die IBAN finden Sie in der Regel auf Ihrem Kontoauszug.",
+            "page": 0,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 66,
+            "x2": 404,
+            "y1": 757,
+            "y2": 766
+        },
+        {
+            "align": "left",
+            "content": "Meine eServices",
+            "page": 5,
+            "structure": "12",
+            "style": "font-weight: bold",
+            "x1": 67,
+            "x2": 404,
+            "y1": 660,
+            "y2": 670
+        },
+        {
+            "align": "left",
+            "content": "Ich möchte das Online-Angebot auf www.jobcenter.digital nutzen und mir ein passwortgeschütztes Benutzerkonto zur Erledigung wichtiger Anliegen (z. B. Mitteilung von Änderungen) einrichten lassen.",
+            "page": 0,
+            "structure": "",
+            "x1": 56,
+            "x2": 404,
+            "y1": 722,
+            "y2": 731
         },
         {
             "align": "start",
-            "content": "Die Daten unterliegen dem Sozialgeheimnis (siehe \"Merkblatt SGB II\"). Ihre Angaben werden aufgrund der §§ 60-65 Erstes Buch Sozialgesetzbuch (SGB I) und der §§ 67a, b, c Zehntes Buch Sozialgesetzbuch (SGB X) für die Leistungen nach dem SGB II erhoben.",
-            "page": 5,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 25,
-            "x2": 416,
-            "y1": 155,
-            "y2": 162
-        },
-        {
-            "append": " ",
-            "content": "Datenschutzrechtliche Hinweise erhalten Sie bei dem für Sie zuständigen Jobcenter sowie ergänzend im Internet unter www.arbeitsagentur.de/datenerhebung.",
+            "content": "Meine Mitwirkungspflichten",
+            "style": "font-weight: bold; color: #00965A",
             "page": 5,
             "structure": ""
         },
         {
             "align": "start",
-            "append": "\n\n",
             "content": "Personen, die SGB II-Leistungen beantragen oder erhalten, sind mitwirkungspflichtig: Das bedeutet, alle Angaben im Antrag und in den hierzu eingereichten Anlagen müssen richtig und vollständig sein und Änderungen, die nach der Antragstellung eintreten und sich auf die Leistungen auswirken können (z. B. Arbeitsaufnahme, Umzug), sind dem zuständigen Jobcenter unverzüglich mitzuteilen. Die Mitwirkungspflichten sind von allen Mitgliedern einer Bedarfsgemeinschaft zu beachten.",
             "page": 5,
-            "structure": ""
+            "structure": "",
+            "style": "color: #00965A"
         },
         {
-            "align": "start",
             "append": "\n\n",
             "content": "Bei Verstoß gegen diese Mitwirkungspflichten werden in aller Regel von allen leistungsberechtigten Personen einer Bedarfsgemeinschaft zu viel gezahlte Leistungen zurückgefordert. Sofern zu Ihrer Bedarfsgemeinschaft noch weitere Personen gehören, sollten Sie als Vertreterin/Vertreter beim Ausfüllen des Antrags alle Mitglieder einbeziehen und die wesentlichen sowie die sie betreffenden Angaben mit ihnen abstimmen. Stellen Sie zudem bitte sicher, dass alle Mitglieder alle notwendigen Informationen (z. B. Bescheide) erhalten.",
             "page": 5,
             "structure": ""
         },
         {
-            "align": "start",
             "append": "\n\n",
             "content": "Ein Verstoß kann zusätzlich zu einem Ordnungswidrigkeiten- oder Strafverfahren gegen die Person führen, die die oben genannten Pflichten missachtet hat. Das Jobcenter holt im Wege eines automatisierten Datenabgleichs bei verschiedenen Stellen Auskünfte über Einkommen und Vermögen ein (z. B. Arbeitsentgelte, Kapitalerträge, Renten). Verschwiegene Einkommen und Vermögen werden daher regelmäßig nachträglich bekannt.",
             "page": 5,
@@ -2380,7 +2166,7 @@
         },
         {
             "align": "left",
-            "content": "Legen Sie bitte einen Nachweis über die Betreuung vor.",
+            "content": "Legen Sie bitte einen Nachweis über die Betreuung vor (Bestallungsurkunde oder Ausweis der Betreuerin/des Betreuers).",
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
@@ -2388,26 +2174,6 @@
             "x2": 416,
             "y1": 399,
             "y2": 407
-        },
-        {
-            "align": "left",
-            "content": "Aktenzeichen",
-            "page": 5,
-            "structure": "",
-            "x1": 41,
-            "x2": 416,
-            "y1": 413,
-            "y2": 422
-        },
-        {
-            "align": "left",
-            "content": "Die Betreuung gilt für folgende Lebensbereiche:",
-            "page": 5,
-            "structure": "",
-            "x1": 41,
-            "x2": 416,
-            "y1": 445,
-            "y2": 454
         },
         {
             "align": "left",
@@ -2434,6 +2200,7 @@
             "content": "Ich bestätige, dass die Angaben richtig sind.",
             "page": 5,
             "structure": "",
+            "style": "font-weight: bold",
             "x1": 23,
             "x2": 416,
             "y1": 511,
@@ -2478,87 +2245,6 @@
             "x2": 416,
             "y1": 565,
             "y2": 574
-        },
-        {
-            "align": "left",
-            "content": "Nur auszufüllen bei vorgenommenen Änderungen und Ergänzungen:",
-            "page": 5,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 36,
-            "x2": 387,
-            "y1": 613,
-            "y2": 621
-        },
-        {
-            "align": "left",
-            "content": "Ich bestätige die Richtigkeit der durch mich oder die Mitarbeiterinnen/Mitarbeiter des Jobcenters vorgenommenen Änderungen und Ergänzungen in den Abschnitten:",
-            "page": 5,
-            "structure": "",
-            "x1": 26,
-            "x2": 386,
-            "y1": 624,
-            "y2": 633
-        },
-        {
-            "align": "left",
-            "content": "Ort/Datum",
-            "page": 5,
-            "structure": "",
-            "x1": 26,
-            "x2": 145,
-            "y1": 667,
-            "y2": 676
-        },
-        {
-            "align": "left",
-            "content": "Unterschrift Antragstellerin/Antragsteller",
-            "page": 5,
-            "structure": "",
-            "x1": 148,
-            "x2": 387,
-            "y1": 667,
-            "y2": 676
-        },
-        {
-            "align": "left",
-            "content": "Ort/Datum",
-            "page": 5,
-            "structure": "",
-            "x1": 26,
-            "x2": 145,
-            "y1": 705,
-            "y2": 714
-        },
-        {
-            "align": "left",
-            "content": "Unterschrift der/des gesetzlichen Vertreterin/Vertreters minderjähriger Antragstellerinnen/Antragsteller",
-            "page": 5,
-            "structure": "",
-            "x1": 148,
-            "x2": 387,
-            "y1": 705,
-            "y2": 714
-        },
-        {
-            "align": "center",
-            "content": "Formular drucken",
-            "page": 5,
-            "structure": "",
-            "x1": 65,
-            "x2": 227,
-            "y1": 749,
-            "y2": 761
-        },
-        {
-            "align": "center",
-            "content": "Formular zurücksetzen",
-            "page": 5,
-            "structure": "",
-            "x1": 268,
-            "x2": 467,
-            "y1": 749,
-            "y2": 761
         }
     ],
     "title": "Alg II Hauptantrag",

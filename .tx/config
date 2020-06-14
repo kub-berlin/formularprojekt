@@ -87,7 +87,7 @@ type = MAGENTO
 file_filter = data/WBS-Einkommen/<lang>.csv
 
 [formulare.ZP40]
-source_file = data/ZP40/de.csv
+source_file = data/PKH-ZP40/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/ZP40/<lang>.csv
+file_filter = data/PKH-ZP40/<lang>.csv

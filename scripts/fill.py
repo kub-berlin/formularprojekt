@@ -24,10 +24,10 @@ UPSTREAM_FORMS = {
     'BerH': 'Beratungshilfe_{lang}_2014_01',
     'KG': 'Kindergeld_Hauptantrag_{lang}_2016_09',
     'PKH': 'Prozesskostenhilfe_{lang}_2014_01',
+    'PKH-ZP40': 'PKH_wirtschaftliche Verhältnisse_{lang}_2014_01',
     'Rundfunkbeitrag': 'Rundfunkbeitrag_Befreiung_{lang}_2017',
     'SozIIIB1.2': 'Sozialhilfe_Anlage 2_{lang}_2014_02',
     'SozIIIB1': 'Sozialhilfe_Antragsbogen A_{lang}_2014_01',
-    'ZP40': 'PKH_wirtschaftliche Verhältnisse_{lang}_2014_01',
     # '': 'Erklärung_Verfahren_Verurteilungen_{lang}_2017_04',
 }
 

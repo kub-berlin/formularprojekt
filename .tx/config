@@ -56,6 +56,12 @@ source_lang = de
 type = MAGENTO
 file_filter = data/PKH/<lang>.csv
 
+[formulare.pkh-hinweisblatt]
+source_file = data/PKH-Hinweisblatt/de.csv
+source_lang = de
+type = MAGENTO
+file_filter = data/PKH-Hinweisblatt/<lang>.csv
+
 [formulare.Rundfunkbeitrag]
 source_file = data/Rundfunkbeitrag/de.csv
 source_lang = de

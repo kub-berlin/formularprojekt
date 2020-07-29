@@ -121,7 +121,7 @@ def get_latest_pdf(lang_id, form_id):
         translated, keys = get_translated(form_id, lang_id)
         if len(translated) == len(keys):
             return BASE_URL + '/res/' + '/'.join(
-                [lang_id, form_id, form_view_url]
+                [form_id, lang_id, form_view_url]
             )
     else:
         fn = '{form_id}_{lang_id}_*.pdf'.format(

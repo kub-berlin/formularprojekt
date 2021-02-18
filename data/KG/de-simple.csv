@@ -15,9 +15,6 @@
 "Geburtsort","Wo sind Sie geboren?"
 "Geschlecht","Sind Sie eine Frau oder ein Mann?"
 "Staatsangehörigkeit","Von welchem Land haben Sie einen Pass?"
-"* (siehe Hinweise)","* (Lesen Sie die Hinweise)"
-"* wenn **nicht** Deutschland, **aber** EU-/EWR-Staat, bitte „Anlage EU“ ausfüllen!","* Wenn Sie **keinen** Pass aus Deutschland haben, **aber** aus einem anderen Land in Europa: Füllen Sie bitte die ""Anlage EU"" aus!"
-"* wenn **nicht** EU-/EWR-Staat oder Schweiz, bitte Aufenthaltstitel beifügen!","* Wenn Sie **keinen** Pass aus einem Land in Europa haben (auch Schweiz): Bitte legen Sie Ihren Aufenthaltstitel (z.B. Visum, Aufenthaltserlaubnis, ...) dazu!"
 "Anschrift (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)","Adresse (Straße/Platz, Hausnummer, Postleitzahl, Ort, Land)"
 "Familienstand","Familienstand"
 "ledig","Sie sind nicht nicht verheiratet und nicht geschieden"
@@ -37,9 +34,9 @@
 "antragstellende Person wie unter 1","Sie selbst"
 "nicht antragstellende Person, sondern:","Eine andere Person, nämlich:"
 "Name, Vorname","Name, Vorname"
-"Der Bescheid soll nicht mir, sondern folgender Person zugesandt werden:","Den Brief vom Amt soll nicht ich bekommen, sondern diese Person:"
+"Der Bescheid soll nicht mir, sondern folgender Person (z.B. Steuerberater, Rechtsanwalt, etc.) zugesandt werden:","Den Brief vom Amt soll nicht ich bekommen, sondern diese Person:"
 "Angaben zu Kindern","Angaben zu Kindern"
-"Für jedes Kind, für das Kindergeld neu beantragt wird, ist eine gesonderte „Anlage Kind“ ausgefüllt einzureichen.","Für wie viele Kinder beantragen Sie Kindergeld? Bitte legen Sie für jedes eine ""Anlage Kind"" dazu"
+"Für jedes Kind, für das Kindergeld beantragt wird, ist eine gesonderte „Anlage Kind“ ausgefüllt einzureichen.","Für wie viele Kinder beantragen Sie Kindergeld? Bitte legen Sie für jedes eine ""Anlage Kind"" dazu"
 "Für folgende Kinder beziehe ich bereits Kindergeld","Für diese Kinder bekomme ich bereits Kindergeld"
 "(auch in Fällen der abweichenden Kontoverbindung, Abzweigung und Erstattung):","(Auch wenn Sie das Geld nicht auf Ihr Konto bekommen, zum Beispiel Ihr Kind das Geld bekommt.)"
 "Vorname des Kindes ggf. abweichender Familienname","Wie heißt das Kind? Vorname, Nachname, wenn das Kind einen anderen als Ihren hat"
@@ -72,8 +69,8 @@
 Familienstand ""Dauernd getrennt lebend"": Dies müssen Sie nur ankreuzen, wenn Sie ein Paar sind (Ehe oder Lebenspartnerschaft), aber eine/r oder beide von Ihnen sich für immer oder für lange Zeit trennen will/wollen. "
 "Bitte machen Sie Angaben zum anderen leiblichen Elternteil in der Anlage Kind, sofern der andere leibliche Elternteil nicht im gemeinsamen Haushalt der antragstellenden Person lebt.","Wenn der andere leibliche Elternteil (""biologischer"" Vater oder Mutter, nicht das Adoptiv-Elternteil) nicht mit Ihnen zusammenwohnt: Bitte schreiben Sie diese Person in das Formular ""Anlage Kind""."
 "Staatsangehörigkeit der antragstellenden Person:","Ihre Nationalität (das Land, das auf Ihrem Pass steht)"
-"wenn **deutsche** Staatsangehörigkeit oder Staatsangehörigkeit eines **EU-/EWR-Staates bzw. der Schweiz** und wenn z. B. wenn mindestens ein Elternteil bzw. ein Kind im Ausland wohnt bzw. erwerbstätig ist oder ausländische Leistungen bezogen werden oder wenn ein Elternteil Mitglied der in Deutschland stationierten NATO-Streitkräfte ist, bitte „Anlage Ausland“ ausfüllen","Wenn
-- Sie einen **deutschen** Pass oder einen Pass aus einem anderen **EU-/EWR-Land oder der Schweiz** haben und
+"wenn **deutsche** Staatsangehörigkeit oder Staatsangehörigkeit eines **EU-/EWR-Staates bzw. der Schweiz** *und* wenn z. B. wenn mindestens ein Elternteil bzw. ein Kind im Ausland wohnt bzw. erwerbstätig ist oder ausländische Leistungen bezogen werden oder wenn ein Elternteil Mitglied der in Deutschland stationierten NATO-Streitkräfte ist, bitte „Anlage Ausland“ ausfüllen","Wenn
+- Sie einen **deutschen** Pass oder einen Pass aus einem anderen **EU-/EWR-Land oder der Schweiz** haben *und*
 - mindestens ein Kind oder Elternteil in einem anderen Land lebt oder arbeitet oder
 - Sie oder der andere Elternteil oder das Kind Geld von einem anderen Land bekommt oder
 - wenn ein Elternteil Mietglied bei einer NATO-Militär-Einheit ist:
@@ -82,7 +79,7 @@ Füllen Sie bitte auch das Formular ""Anlage Ausland"" aus."
 - keinen **deutschen** Pass haben, aber einen Pass aus einem anderen **EU-/EWR-Land** und
 - das Formular ""Anlage Ausland"" **nicht** ausfüllen müssen:
 Füllen Sie auch das Formular ""Anlage EU"" aus und geben Sie es zusammen mit diesem Antrag ab."
-"wenn andere als die deutsche Staatsangehörigkeit oder die eines EU-/EWR-Staates bzw. der Schweiz, bitte Aufenthaltstitel beifügen","Wenn Sie keinen Pass aus Deutschland, einem anderen Land der EU oder EWR oder der Schweiz haben: Bitte legen Sie Ihren Aufenthaltstitel dazu (z.B. Visum oder Aufenthaltsgenehmigung)."
+"wenn **andere** als die deutsche Staatsangehörigkeit oder die eines EU-/EWR-Staates bzw. der Schweiz, bitte **Aufenthaltstitel** beifügen","Wenn Sie **keinen** Pass aus Deutschland, einem anderen Land der EU oder EWR oder der Schweiz haben: Bitte legen Sie Ihren **Aufenthaltstitel** dazu (z.B. Visum oder Aufenthaltsgenehmigung)."
 "Zu 4: Der Bescheid soll nicht mir, sondern folgender Person zugesandt werden","Zu 4: Den Brief vom Amt soll nicht ich bekommen, sondern diese Person"
 "Hier können Sie eine(n) Empfangsbevollmächtigte(n) (z. B. Steuerberater(in), Lohnsteuerhilfeverein etc.) angeben, welche(r) den Bescheid über Kindergeld erhalten soll.","Wollen Sie, dass das Amt den Brief zum Kindergeld nicht Ihnen sondern an eine andere Person schickt? Dann tragen Sie hier Name und Adresse dieser Person ein. Diese Person kann zum Beispiel ein Steuerberater oder ein Lohnsteuerhilfeverein sein."
 "Zu 6: Folgende Zählkinder sollen berücksichtigt werden","Zu 6: Haben Sie Kinder aus einer anderen Beziehung?"

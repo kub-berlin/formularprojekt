@@ -1,6 +1,6 @@
 {
-    "checksum": "5d8e03b95614d005968fa42ba6f20600",
-    "date": "2019-11-01",
+    "checksum": "dc54e74375b7b8aa807afbd5711813fc",
+    "date": "2020-12-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
@@ -170,29 +170,6 @@
             "x2": 535,
             "y1": 331,
             "y2": 338
-        },
-        {
-            "append": " ",
-            "content": "* (siehe Hinweise)",
-            "page": 0
-        },
-        {
-            "align": "left",
-            "content": "* wenn **nicht** Deutschland, **aber** EU-/EWR-Staat, bitte „Anlage EU“ ausfüllen!",
-            "page": 0,
-            "x1": 340,
-            "x2": 538,
-            "y1": 361,
-            "y2": 367
-        },
-        {
-            "align": "left",
-            "content": "* wenn **nicht** EU-/EWR-Staat oder Schweiz, bitte Aufenthaltstitel beifügen!",
-            "page": 0,
-            "x1": 340,
-            "x2": 538,
-            "y1": 369,
-            "y2": 375
         },
         {
             "align": "left",
@@ -425,7 +402,7 @@
         },
         {
             "align": "left",
-            "content": "Der Bescheid soll nicht mir, sondern folgender Person zugesandt werden:",
+            "content": "Der Bescheid soll nicht mir, sondern folgender Person (z.B. Steuerberater, Rechtsanwalt, etc.) zugesandt werden:",
             "page": 0,
             "structure": "4",
             "style": "font-weight: bold",
@@ -474,7 +451,7 @@
         },
         {
             "align": "left",
-            "content": "Für jedes Kind, für das Kindergeld neu beantragt wird, ist eine gesonderte „Anlage Kind“ ausgefüllt einzureichen.",
+            "content": "Für jedes Kind, für das Kindergeld beantragt wird, ist eine gesonderte „Anlage Kind“ ausgefüllt einzureichen.",
             "page": 1,
             "x1": 33,
             "x2": 527,
@@ -793,7 +770,7 @@
         },
         {
             "append": "\n\n1. ",
-            "content": "wenn **deutsche** Staatsangehörigkeit oder Staatsangehörigkeit eines **EU-/EWR-Staates bzw. der Schweiz** und wenn z. B. wenn mindestens ein Elternteil bzw. ein Kind im Ausland wohnt bzw. erwerbstätig ist oder ausländische Leistungen bezogen werden oder wenn ein Elternteil Mitglied der in Deutschland stationierten NATO-Streitkräfte ist, bitte „Anlage Ausland“ ausfüllen",
+            "content": "wenn **deutsche** Staatsangehörigkeit oder Staatsangehörigkeit eines **EU-/EWR-Staates bzw. der Schweiz** *und* wenn z. B. wenn mindestens ein Elternteil bzw. ein Kind im Ausland wohnt bzw. erwerbstätig ist oder ausländische Leistungen bezogen werden oder wenn ein Elternteil Mitglied der in Deutschland stationierten NATO-Streitkräfte ist, bitte „Anlage Ausland“ ausfüllen",
             "page": 2
         },
         {
@@ -803,7 +780,7 @@
         },
         {
             "append": "\n3. ",
-            "content": "wenn andere als die deutsche Staatsangehörigkeit oder die eines EU-/EWR-Staates bzw. der Schweiz, bitte Aufenthaltstitel beifügen",
+            "content": "wenn **andere** als die deutsche Staatsangehörigkeit oder die eines EU-/EWR-Staates bzw. der Schweiz, bitte **Aufenthaltstitel** beifügen",
             "page": 2
         },
         {

@@ -1,6 +1,6 @@
 {
-    "checksum": "dc54e74375b7b8aa807afbd5711813fc",
-    "date": "2020-12-01",
+    "checksum": "61b0ae43a333713a0400dc8e473a47f7",
+    "date": "2021-07-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
@@ -101,7 +101,7 @@
         },
         {
             "align": "left",
-            "content": "Name",
+            "content": "Familienname",
             "page": 0,
             "x1": 46,
             "x2": 396,
@@ -128,7 +128,7 @@
         },
         {
             "align": "left",
-            "content": "ggf. Geburtsname und Name aus früherer Ehe",
+            "content": "ggf. Geburtsname und Familienname aus früherer Ehe",
             "page": 0,
             "x1": 309,
             "x2": 534,
@@ -265,7 +265,7 @@
         },
         {
             "align": "left",
-            "content": "Name",
+            "content": "Familienname",
             "page": 0,
             "x1": 46,
             "x2": 235,
@@ -310,7 +310,7 @@
         },
         {
             "align": "left",
-            "content": "ggf. Geburtsname und Name aus früherer Ehe",
+            "content": "ggf. Geburtsname und Familienname aus früherer Ehe",
             "page": 0,
             "x1": 309,
             "x2": 535,
@@ -319,7 +319,7 @@
         },
         {
             "align": "left",
-            "content": "Anschrift, wenn abweichend von antragstellender Person (Straße/Platz, Hausnummer, Postleitzahl, Wohnort, Staat)",
+            "content": "Anschrift, wenn abweichend von antragstellender Person, z. B. bei gemeinsamem Haushalt im Ausland (Str./Platz, Hausnr., Postleitzahl, Wohnort, Staat)",
             "page": 0,
             "x1": 46,
             "x2": 535,
@@ -384,7 +384,7 @@
         },
         {
             "align": "left",
-            "content": "nicht antragstellende Person, sondern:",
+            "content": "nicht antragstellende Person, sondern",
             "page": 0,
             "x1": 58,
             "x2": 205,
@@ -393,7 +393,7 @@
         },
         {
             "align": "left",
-            "content": "Name, Vorname",
+            "content": "Familienname, Vorname",
             "page": 0,
             "x1": 208,
             "x2": 535,
@@ -413,7 +413,7 @@
         },
         {
             "align": "left",
-            "content": "Name",
+            "content": "Familienname",
             "page": 0,
             "x1": 46,
             "x2": 292,
@@ -553,7 +553,7 @@
         },
         {
             "align": "center",
-            "content": "Wer bezieht das Kindergeld (Name, Vorname)?",
+            "content": "Wer bezieht das Kindergeld (Familienname, Vorname)?",
             "page": 1,
             "x1": 272,
             "x2": 398,

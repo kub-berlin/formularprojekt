@@ -1,6 +1,6 @@
 {
-    "checksum": "fba77b41d59c8ea562917a111515439f",
-    "date": "2020-12-01",
+    "checksum": "dc9bc40499fa74281e587bf0be747560",
+    "date": "2021-07-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/familie-und-kinder/downloads-kindergeld-kinderzuschlag"
     },
@@ -103,6 +103,26 @@
         },
         {
             "align": "left",
+            "content": "Familienname",
+            "page": 0,
+            "structure": "",
+            "x1": 49,
+            "x2": 289,
+            "y1": 296,
+            "y2": 304
+        },
+        {
+            "align": "left",
+            "content": "Titel",
+            "page": 0,
+            "structure": "",
+            "x1": 49,
+            "x2": 289,
+            "y1": 296,
+            "y2": 304
+        },
+        {
+            "align": "left",
             "content": "Vorname",
             "page": 0,
             "structure": "",
@@ -113,13 +133,13 @@
         },
         {
             "align": "left",
-            "content": "ggf. abweichender Familienname",
+            "content": "Geburtsname",
             "page": 0,
             "structure": "",
-            "x1": 299,
-            "x2": 539,
-            "y1": 296,
-            "y2": 304
+            "x1": 49,
+            "x2": 115,
+            "y1": 327,
+            "y2": 335
         },
         {
             "align": "left",
@@ -173,7 +193,7 @@
         },
         {
             "align": "left",
-            "content": "Grund der abweichenden Anschrift (z. B. Unterbringung bei Großeltern, in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)",
+            "content": "Grund der abweichenden Anschrift (z. B. Unterbringung in weiterem Wohnsitz im In- oder Ausland, bei Großeltern, in einer Pflegestelle/einem Heim, wegen Schul- oder Berufsausbildung)",
             "page": 0,
             "structure": "",
             "x1": 49,
@@ -203,7 +223,7 @@
         },
         {
             "align": "center",
-            "content": "Adoptivkind",
+            "content": "Adoptivkind *)",
             "page": 0,
             "structure": "",
             "x1": 260,
@@ -234,6 +254,16 @@
         {
             "align": "center",
             "content": "Enkelkind",
+            "page": 0,
+            "structure": "",
+            "x1": 471,
+            "x2": 539,
+            "y1": 467,
+            "y2": 476
+        },
+        {
+            "align": "left",
+            "content": "*) ggf. Annahmebeschluss beifügen",
             "page": 0,
             "structure": "",
             "x1": 471,
@@ -303,7 +333,7 @@
         },
         {
             "align": "left",
-            "content": "Name, Vorname",
+            "content": "Familienname, Vorname",
             "page": 0,
             "structure": "",
             "x1": 70,
@@ -679,7 +709,27 @@
         },
         {
             "align": "left",
-            "content": "andere Erwerbstätigkeiten",
+            "content": "andere Erwerbstätigkeit",
+            "page": 1,
+            "structure": "",
+            "x1": 75,
+            "x2": 365,
+            "y1": 522,
+            "y2": 531
+        },
+        {
+            "align": "left",
+            "content": "Dienstherr bzw. Arbeitgeber (Name, Anschrift):",
+            "page": 1,
+            "structure": "",
+            "x1": 64,
+            "x2": 517,
+            "y1": 560,
+            "y2": 569
+        },
+        {
+            "align": "left",
+            "content": "weitere Erwerbstätigkeiten",
             "page": 1,
             "structure": "",
             "x1": 75,
@@ -699,16 +749,6 @@
         },
         {
             "align": "left",
-            "content": "Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit: ........ Stunden",
-            "page": 1,
-            "structure": "",
-            "x1": 64,
-            "x2": 517,
-            "y1": 546,
-            "y2": 555
-        },
-        {
-            "align": "left",
             "content": "Dienstherr bzw. Arbeitgeber (Name, Anschrift):",
             "page": 1,
             "structure": "",
@@ -716,6 +756,16 @@
             "x2": 517,
             "y1": 560,
             "y2": 569
+        },
+        {
+            "align": "left",
+            "content": "Insgesamt (vereinbarte) regelmäßige wöchentliche Arbeitszeit: ........ Stunden",
+            "page": 1,
+            "structure": "",
+            "x1": 64,
+            "x2": 517,
+            "y1": 546,
+            "y2": 555
         },
         {
             "align": "left",
@@ -789,7 +839,7 @@
         },
         {
             "align": "left",
-            "content": "Name, Vorname der antragstellenden bzw. kindergeldbeziehenden Person",
+            "content": "Familienname, Vorname der antragstellenden bzw. kindergeldbeziehenden Person",
             "page": 1,
             "structure": "",
             "x1": 50,
@@ -869,7 +919,7 @@
         },
         {
             "align": "left",
-            "content": "Name, Vorname des/der Beschäftigten",
+            "content": "Familienname, Vorname des/der Beschäftigten",
             "page": 2,
             "structure": "",
             "x1": 72,
@@ -949,7 +999,7 @@
         },
         {
             "align": "left",
-            "content": "Name, Vorname der beziehenden Person",
+            "content": "Familienname, Vorname der beziehenden Person",
             "page": 2,
             "structure": "",
             "x1": 70,
@@ -1129,7 +1179,7 @@
         },
         {
             "align": "left",
-            "content": "Name, Vorname des Beschäftigten",
+            "content": "Familienname, Vorname des Beschäftigten",
             "page": 2,
             "structure": "",
             "x1": 72,

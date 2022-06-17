@@ -2,98 +2,98 @@
 host = https://www.transifex.com
 lang_map = de_DE: de-simple
 
-[formulare.meta]
-source_file = data/meta/de.csv
-source_lang = de
-type = MAGENTO
-file_filter = data/meta/<lang>.csv
-
-[formulare.AlgII]
+[o:kub:p:formulare:r:AlgII]
+file_filter = data/AlgII/<lang>.csv
 source_file = data/AlgII/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/AlgII/<lang>.csv
 
-[formulare.BerH]
+[o:kub:p:formulare:r:BerH]
+file_filter = data/BerH/<lang>.csv
 source_file = data/BerH/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/BerH/<lang>.csv
 
-[formulare.KG]
+[o:kub:p:formulare:r:KG]
+file_filter = data/KG/<lang>.csv
 source_file = data/KG/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/KG/<lang>.csv
 
-[formulare.KG1]
+[o:kub:p:formulare:r:KG1]
+file_filter = data/KG1/<lang>.csv
 source_file = data/KG1/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/KG1/<lang>.csv
 
-[formulare.KG3a]
+[o:kub:p:formulare:r:KG3a]
+file_filter = data/KG3a/<lang>.csv
 source_file = data/KG3a/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/KG3a/<lang>.csv
 
-[formulare.KG3b]
+[o:kub:p:formulare:r:KG3b]
+file_filter = data/KG3b/<lang>.csv
 source_file = data/KG3b/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/KG3b/<lang>.csv
 
-[formulare.KG5a]
+[o:kub:p:formulare:r:KG5a]
+file_filter = data/KG5a/<lang>.csv
 source_file = data/KG5a/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/KG5a/<lang>.csv
 
-[formulare.PKH]
+[o:kub:p:formulare:r:PKH]
+file_filter = data/PKH/<lang>.csv
 source_file = data/PKH/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/PKH/<lang>.csv
 
-[formulare.pkh-hinweisblatt]
-source_file = data/PKH-Hinweisblatt/de.csv
-source_lang = de
-type = MAGENTO
-file_filter = data/PKH-Hinweisblatt/<lang>.csv
-
-[formulare.Rundfunkbeitrag]
+[o:kub:p:formulare:r:Rundfunkbeitrag]
+file_filter = data/Rundfunkbeitrag/<lang>.csv
 source_file = data/Rundfunkbeitrag/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/Rundfunkbeitrag/<lang>.csv
 
-[formulare.SozIIIB1]
+[o:kub:p:formulare:r:SozIIIB1]
+file_filter = data/SozIIIB1/<lang>.csv
 source_file = data/SozIIIB1/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/SozIIIB1/<lang>.csv
 
-[formulare.SozIIIB1-2]
+[o:kub:p:formulare:r:SozIIIB1-2]
+file_filter = data/SozIIIB1.2/<lang>.csv
 source_file = data/SozIIIB1.2/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/SozIIIB1.2/<lang>.csv
 
-[formulare.WBS]
+[o:kub:p:formulare:r:WBS]
+file_filter = data/WBS/<lang>.csv
 source_file = data/WBS/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/WBS/<lang>.csv
 
-[formulare.WBS-Einkommen]
+[o:kub:p:formulare:r:WBS-Einkommen]
+file_filter = data/WBS-Einkommen/<lang>.csv
 source_file = data/WBS-Einkommen/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/WBS-Einkommen/<lang>.csv
 
-[formulare.ZP40]
+[o:kub:p:formulare:r:ZP40]
+file_filter = data/PKH-ZP40/<lang>.csv
 source_file = data/PKH-ZP40/de.csv
 source_lang = de
 type = MAGENTO
-file_filter = data/PKH-ZP40/<lang>.csv
+
+[o:kub:p:formulare:r:meta]
+file_filter = data/meta/<lang>.csv
+source_file = data/meta/de.csv
+source_lang = de
+type = MAGENTO
+
+[o:kub:p:formulare:r:pkh-hinweisblatt]
+file_filter = data/PKH-Hinweisblatt/<lang>.csv
+source_file = data/PKH-Hinweisblatt/de.csv
+source_lang = de
+type = MAGENTO

@@ -11,9 +11,9 @@
             "page": 0,
             "structure": "",
             "x1": 410,
-            "y1": 42,
+            "y1": 104,
             "x2": 553,
-            "y2": 51,
+            "y2": 113,
             "align": "left"
         },
         {
@@ -24,8 +24,8 @@
             "style": "color: #00965A",
             "x1": 410,
             "x2": 553,
-            "y1": 56,
-            "y2": 65
+            "y1": 117,
+            "y2": 126
         },
         {
             "align": "left",
@@ -54,10 +54,10 @@
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 108,
-            "x2": 200,
+            "x1": 100,
+            "x2": 216,
             "y1": 83,
-            "y2": 93
+            "y2": 91
         },
         {
             "align": "left",
@@ -65,10 +65,10 @@
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 108,
-            "x2": 200,
+            "x1": 270,
+            "x2": 400,
             "y1": 83,
-            "y2": 93
+            "y2": 91
         },
         {
             "align": "left",
@@ -76,10 +76,10 @@
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 108,
-            "x2": 200,
-            "y1": 83,
-            "y2": 93
+            "x1": 100,
+            "x2": 216,
+            "y1": 128,
+            "y2": 135
         },
         {
             "align": "left",
@@ -87,10 +87,10 @@
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 261,
-            "x2": 404,
-            "y1": 83,
-            "y2": 93
+            "x1": 270,
+            "x2": 400,
+            "y1": 128,
+            "y2": 136
         },
         {
             "align": "left",
@@ -98,10 +98,10 @@
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 53,
-            "x2": 404,
-            "y1": 134,
-            "y2": 141
+            "x1": 50,
+            "x2": 400,
+            "y1": 173,
+            "y2": 180
         },
         {
             "append": "\n\n",
@@ -121,90 +121,90 @@
             "page": 0,
             "structure": "1.",
             "style": "font-weight: bold",
-            "x1": 62,
-            "x2": 404,
-            "y1": 221,
-            "y2": 231
+            "x1": 58,
+            "x2": 400,
+            "y1": 233,
+            "y2": 243
         },
         {
             "align": "left",
             "content": "Anrede",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 160,
-            "y1": 239,
-            "y2": 248
+            "x1": 52,
+            "x2": 156,
+            "y1": 249,
+            "y2": 258
         },
         {
             "align": "left",
             "content": "Vorname",
             "page": 0,
             "structure": "",
-            "x1": 163,
-            "x2": 404,
-            "y1": 239,
-            "y2": 248
+            "x1": 159,
+            "x2": 400,
+            "y1": 249,
+            "y2": 258
         },
         {
             "align": "left",
             "content": "Familienname",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 214,
-            "y1": 273,
-            "y2": 282
+            "x1": 52,
+            "x2": 210,
+            "y1": 281,
+            "y2": 290
         },
         {
             "align": "left",
             "content": "Geburtsname (sofern abweichend)",
             "page": 0,
             "structure": "",
-            "x1": 217,
-            "x2": 404,
-            "y1": 273,
-            "y2": 282
+            "x1": 213,
+            "x2": 400,
+            "y1": 281,
+            "y2": 290
         },
         {
             "align": "left",
             "content": "Geburtsort",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 268,
-            "y1": 306,
-            "y2": 315
+            "x1": 52,
+            "x2": 264,
+            "y1": 314,
+            "y2": 323
         },
         {
             "align": "left",
             "content": "Geburtsdatum",
             "page": 0,
             "structure": "",
-            "x1": 271,
-            "x2": 404,
-            "y1": 306,
-            "y2": 315
+            "x1": 267,
+            "x2": 400,
+            "y1": 314,
+            "y2": 323
         },
         {
             "align": "left",
             "content": "Geburtsland",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 214,
-            "y1": 339,
-            "y2": 348
+            "x1": 52,
+            "x2": 210,
+            "y1": 346,
+            "y2": 355
         },
         {
             "align": "left",
             "content": "Staatsangehörigkeit",
             "page": 0,
             "structure": "",
-            "x1": 218,
-            "x2": 404,
-            "y1": 339,
-            "y2": 348
+            "x1": 214,
+            "x2": 400,
+            "y1": 346,
+            "y2": 355
         },
         {
             "align": "left",
@@ -212,80 +212,80 @@
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 56,
-            "x2": 214,
-            "y1": 371,
-            "y2": 380
+            "x1": 60,
+            "x2": 400,
+            "y1": 376,
+            "y2": 384
         },
         {
             "align": "left",
             "content": "Einreisedatum",
             "page": 0,
             "structure": "",
-            "x1": 218,
-            "x2": 404,
-            "y1": 339,
-            "y2": 348
+            "x1": 52,
+            "x2": 400,
+            "y1": 400,
+            "y2": 409
         },
         {
             "align": "left",
             "content": "Rentenversicherungsnummer",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 214,
-            "y1": 371,
-            "y2": 380
+            "x1": 52,
+            "x2": 210,
+            "y1": 434,
+            "y2": 443
         },
         {
             "align": "left",
             "content": "Rentenversicherungsnummer ist noch nicht vorhanden und wurde beantragt",
             "page": 0,
             "structure": "",
-            "x1": 233,
-            "x2": 404,
-            "y1": 371,
-            "y2": 380
+            "x1": 229,
+            "x2": 400,
+            "y1": 435,
+            "y2": 444
         },
         {
             "align": "left",
             "content": "Straße, Hausnummer",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 404,
-            "y1": 405,
-            "y2": 414
+            "x1": 52,
+            "x2": 400,
+            "y1": 465,
+            "y2": 474
         },
         {
             "align": "left",
             "content": "gegebenenfalls wohnhaft bei",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 404,
-            "y1": 439,
-            "y2": 448
+            "x1": 52,
+            "x2": 400,
+            "y1": 497,
+            "y2": 506
         },
         {
             "align": "left",
             "content": "Postleitzahl",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 160,
-            "y1": 470,
-            "y2": 479
+            "x1": 52,
+            "x2": 156,
+            "y1": 530,
+            "y2": 539
         },
         {
             "align": "left",
             "content": "Wohnort",
             "page": 0,
             "structure": "",
-            "x1": 164,
-            "x2": 404,
-            "y1": 470,
-            "y2": 479
+            "x1": 160,
+            "x2": 400,
+            "y1": 530,
+            "y2": 539
         },
         {
             "align": "left",
@@ -293,30 +293,30 @@
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 66,
-            "x2": 404,
-            "y1": 500,
-            "y2": 509
+            "x1": 60,
+            "x2": 400,
+            "y1": 560,
+            "y2": 568
         },
         {
             "align": "left",
             "content": "Telefonnummer",
             "page": 0,
             "structure": "",
-            "x1": 56,
-            "x2": 214,
-            "y1": 517,
-            "y2": 526
+            "x1": 52,
+            "x2": 210,
+            "y1": 578,
+            "y2": 587
         },
         {
             "align": "left",
             "content": "E-Mail-Adresse",
             "page": 0,
             "structure": "",
-            "x1": 217,
-            "x2": 404,
-            "y1": 517,
-            "y2": 526
+            "x1": 213,
+            "x2": 400,
+            "y1": 578,
+            "y2": 587
         },
         {
             "align": "left",
@@ -324,30 +324,30 @@
             "page": 0,
             "structure": "2",
             "style": "font-weight: bold",
-            "x1": 62,
-            "x2": 404,
-            "y1": 547,
-            "y2": 557
+            "x1": 58,
+            "x2": 400,
+            "y1": 608,
+            "y2": 618
         },
         {
             "align": "left",
             "content": "ab sofort",
             "page": 0,
             "structure": "",
-            "x1": 71,
-            "x2": 404,
-            "y1": 570,
-            "y2": 579
+            "x1": 67,
+            "x2": 400,
+            "y1": 624,
+            "y2": 633
         },
         {
             "align": "left",
             "content": "ab einem späteren Zeitpunkt",
             "page": 0,
             "structure": "",
-            "x1": 71,
-            "x2": 404,
-            "y1": 593,
-            "y2": 602
+            "x1": 67,
+            "x2": 400,
+            "y1": 645,
+            "y2": 654
         },
         {
             "align": "left",
@@ -355,10 +355,10 @@
             "page": 0,
             "structure": "3",
             "style": "font-weight: bold",
-            "x1": 62,
-            "x2": 404,
-            "y1": 616,
-            "y2": 626
+            "x1": 58,
+            "x2": 400,
+            "y1": 667,
+            "y2": 677
         },
         {
             "align": "left",
@@ -366,80 +366,80 @@
             "page": 0,
             "structure": "3.1",
             "style": "font-weight: bold",
-            "x1": 66,
-            "x2": 404,
-            "y1": 628,
-            "y2": 638
+            "x1": 62,
+            "x2": 400,
+            "y1": 680,
+            "y2": 690
         },
         {
             "align": "left",
             "content": "ledig",
             "page": 0,
             "structure": "",
-            "x1": 71,
-            "x2": 144,
-            "y1": 659,
-            "y2": 668
+            "x1": 67,
+            "x2": 108,
+            "y1": 695,
+            "y2": 704
         },
         {
             "align": "left",
             "content": "verheiratet",
             "page": 0,
             "structure": "",
-            "x1": 158,
-            "x2": 252,
-            "y1": 659,
-            "y2": 668
+            "x1": 115,
+            "x2": 173,
+            "y1": 695,
+            "y2": 704
         },
         {
             "align": "left",
             "content": "verwitwet",
             "page": 0,
             "structure": "",
-            "x1": 267,
-            "x2": 405,
-            "y1": 659,
-            "y2": 668
+            "x1": 180,
+            "x2": 233,
+            "y1": 695,
+            "y2": 704
         },
         {
             "align": "left",
             "content": "eingetragene Lebenspartnerschaft",
             "page": 0,
             "structure": "",
-            "x1": 267,
-            "x2": 405,
-            "y1": 659,
-            "y2": 668
+            "x1": 239,
+            "x2": 400,
+            "y1": 695,
+            "y2": 704
         },
         {
             "align": "left",
             "content": "dauernd getrennt lebend seit:",
             "page": 0,
             "structure": "",
-            "x1": 233,
-            "x2": 404,
-            "y1": 682,
-            "y2": 691
+            "x1": 67,
+            "x2": 400,
+            "y1": 714,
+            "y2": 723
         },
         {
             "align": "left",
             "content": "geschieden seit:",
             "page": 0,
             "structure": "",
-            "x1": 71,
-            "x2": 214,
-            "y1": 682,
-            "y2": 691
+            "x1": 67,
+            "x2": 400,
+            "y1": 732,
+            "y2": 741
         },
         {
             "align": "left",
             "content": "aufgehobene Lebenspartnerschaft seit:",
             "page": 0,
             "structure": "",
-            "x1": 71,
-            "x2": 214,
-            "y1": 682,
-            "y2": 691
+            "x1": 67,
+            "x2": 400,
+            "y1": 752,
+            "y2": 761
         },
         {
             "align": "left",
@@ -447,10 +447,10 @@
             "page": 1,
             "structure": "3.2",
             "style": "font-weight: bold",
-            "x1": 38,
-            "x2": 414,
-            "y1": 20,
-            "y2": 30
+            "x1": 68,
+            "x2": 530,
+            "y1": 27,
+            "y2": 37
         },
         {
             "align": "left",
@@ -458,10 +458,10 @@
             "page": 1,
             "structure": "",
             "style": "font-weight: bold",
-            "x1": 38,
-            "x2": 414,
-            "y1": 20,
-            "y2": 30
+            "x1": 53,
+            "x2": 530,
+            "y1": 42,
+            "y2": 51
         },
         {
             "align": "left",
@@ -469,10 +469,10 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 33,
-            "x2": 414,
-            "y1": 35,
-            "y2": 44
+            "x1": 62,
+            "x2": 530,
+            "y1": 59,
+            "y2": 67
         },
         {
             "align": "left",
@@ -480,10 +480,10 @@
             "page": 1,
             "structure": "",
             "style": "font-weight: bold",
-            "x1": 43,
-            "x2": 414,
-            "y1": 66,
-            "y2": 75
+            "x1": 72,
+            "x2": 530,
+            "y1": 87,
+            "y2": 96
         },
         {
             "align": "left",
@@ -491,10 +491,10 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 28,
-            "x2": 414,
-            "y1": 80,
-            "y2": 89
+            "x1": 67,
+            "x2": 530,
+            "y1": 107,
+            "y2": 115
         },
         {
             "align": "left",
@@ -502,10 +502,10 @@
             "page": 1,
             "structure": "",
             "style": "font-weight: bold",
-            "x1": 43,
-            "x2": 414,
-            "y1": 102,
-            "y2": 111
+            "x1": 72,
+            "x2": 530,
+            "y1": 127,
+            "y2": 136
         },
         {
             "align": "left",
@@ -513,10 +513,10 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 28,
-            "x2": 414,
-            "y1": 116,
-            "y2": 125
+            "x1": 67,
+            "x2": 530,
+            "y1": 142,
+            "y2": 150
         },
         {
             "align": "left",
@@ -524,20 +524,20 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 28,
-            "x2": 414,
-            "y1": 191,
-            "y2": 200
+            "x1": 67,
+            "x2": 530,
+            "y1": 175,
+            "y2": 183
         },
         {
             "align": "left",
             "content": "meiner Ehegattin/meinem Ehegatten",
             "page": 1,
             "structure": "",
-            "x1": 43,
-            "x2": 414,
-            "y1": 205,
-            "y2": 214
+            "x1": 72,
+            "x2": 530,
+            "y1": 192,
+            "y2": 201
         },
         {
             "align": "left",
@@ -545,20 +545,20 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 414,
-            "y1": 217,
-            "y2": 226
+            "x1": 82,
+            "x2": 530,
+            "y1": 206,
+            "y2": 214
         },
         {
             "align": "left",
             "content": "meiner eingetragenen Lebenspartnerin/meinem eingetragenen Lebenspartner",
             "page": 1,
             "structure": "",
-            "x1": 43,
-            "x2": 414,
-            "y1": 244,
-            "y2": 253
+            "x1": 72,
+            "x2": 530,
+            "y1": 224,
+            "y2": 233
         },
         {
             "align": "left",
@@ -566,20 +566,20 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 414,
-            "y1": 254,
-            "y2": 263
+            "x1": 82,
+            "x2": 530,
+            "y1": 239,
+            "y2": 247
         },
         {
             "align": "left",
             "content": "meiner Partnerin/meinem Partner in einer Verantwortungs- und Einstehensgemeinschaft („eheähnliche Gemeinschaft”)",
             "page": 1,
             "structure": "",
-            "x1": 43,
-            "x2": 414,
-            "y1": 280,
-            "y2": 289
+            "x1": 72,
+            "x2": 530,
+            "y1": 258,
+            "y2": 267
         },
         {
             "align": "left",
@@ -587,20 +587,20 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 414,
-            "y1": 301,
-            "y2": 310
+            "x1": 82,
+            "x2": 530,
+            "y1": 272,
+            "y2": 280
         },
         {
             "align": "left",
             "content": "… unverheirateten Kind(ern) zwischen 15 und 24 Jahren",
             "page": 1,
             "structure": "",
-            "x1": 43,
-            "x2": 414,
-            "y1": 326,
-            "y2": 335
+            "x1": 72,
+            "x2": 530,
+            "y1": 290,
+            "y2": 299
         },
         {
             "align": "left",
@@ -608,20 +608,20 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 414,
-            "y1": 338,
-            "y2": 347
+            "x1": 82,
+            "x2": 530,
+            "y1": 305,
+            "y2": 313
         },
         {
             "align": "left",
             "content": "… unverheirateten Kind(ern) unter 15 Jahren",
             "page": 1,
             "structure": "",
-            "x1": 43,
-            "x2": 414,
-            "y1": 362,
-            "y2": 371
+            "x1": 72,
+            "x2": 530,
+            "y1": 323,
+            "y2": 332
         },
         {
             "align": "left",
@@ -629,20 +629,20 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 414,
-            "y1": 373,
-            "y2": 382
+            "x1": 82,
+            "x2": 530,
+            "y1": 338,
+            "y2": 346
         },
         {
             "align": "left",
             "content": "meinen Eltern beziehungsweise einem Elternteil",
             "page": 1,
             "structure": "",
-            "x1": 43,
-            "x2": 414,
-            "y1": 400,
-            "y2": 409
+            "x1": 72,
+            "x2": 530,
+            "y1": 351,
+            "y2": 360
         },
         {
             "align": "left",
@@ -650,20 +650,20 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 414,
-            "y1": 412,
-            "y2": 421
+            "x1": 82,
+            "x2": 530,
+            "y1": 370,
+            "y2": 378
         },
         {
             "align": "left",
             "content": "… sonstigen Verwandten oder Verschwägerten (zum Beispiel Großeltern, Geschwister über 25 Jahre, verheiratete Kinder, Tanten oder Onkel)",
             "page": 1,
             "structure": "",
-            "x1": 43,
-            "x2": 414,
-            "y1": 446,
-            "y2": 455
+            "x1": 72,
+            "x2": 530,
+            "y1": 398,
+            "y2": 407
         },
         {
             "align": "left",
@@ -671,20 +671,20 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 414,
-            "y1": 467,
-            "y2": 476
+            "x1": 82,
+            "x2": 530,
+            "y1": 424,
+            "y2": 432
         },
         {
             "align": "left",
             "content": "… sonstigen Personen (zum Beispiel andere Personen in einer Wohngemeinschaft)",
             "page": 1,
             "structure": "",
-            "x1": 43,
-            "x2": 414,
-            "y1": 492,
-            "y2": 501
+            "x1": 72,
+            "x2": 530,
+            "y1": 442,
+            "y2": 451
         },
         {
             "align": "left",
@@ -692,10 +692,10 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 414,
-            "y1": 504,
-            "y2": 513
+            "x1": 82,
+            "x2": 530,
+            "y1": 457,
+            "y2": 465
         },
         {
             "align": "left",
@@ -703,10 +703,10 @@
             "page": 1,
             "structure": "3.3",
             "style": "font-weight: bold",
-            "x1": 38,
-            "x2": 414,
-            "y1": 539,
-            "y2": 549
+            "x1": 68,
+            "x2": 530,
+            "y1": 495,
+            "y2": 505
         },
         {
             "align": "left",
@@ -714,60 +714,60 @@
             "page": 1,
             "structure": "",
             "style": "font-weight: bold",
-            "x1": 28,
-            "x2": 322,
-            "y1": 555,
-            "y2": 564
+            "x1": 72,
+            "x2": 530,
+            "y1": 512,
+            "y2": 521
         },
         {
             "align": "left",
             "content": "Höhe der tatsächlichen monatlichen Kosten für die Unterkunft",
             "page": 1,
             "structure": "",
-            "x1": 338,
-            "x2": 352,
-            "y1": 557,
-            "y2": 566
+            "x1": 59,
+            "x2": 530,
+            "y1": 526,
+            "y2": 535
         },
         {
             "align": "left",
             "content": "Grundmiete (ohne Nebenkosten)",
             "page": 1,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 557,
-            "y2": 566
+            "x1": 72,
+            "x2": 295,
+            "y1": 543,
+            "y2": 552
         },
         {
             "align": "left",
             "content": "Nebenkosten (ohne Heizkosten)",
             "page": 1,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 557,
-            "y2": 566
+            "x1": 300,
+            "x2": 530,
+            "y1": 543,
+            "y2": 552
         },
         {
             "align": "left",
             "content": "Heizkosten",
             "page": 1,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 557,
-            "y2": 566
+            "x1": 72,
+            "x2": 295,
+            "y1": 577,
+            "y2": 586
         },
         {
             "align": "left",
             "content": "sonstige Wohnkosten",
             "page": 1,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 557,
-            "y2": 566
+            "x1": 300,
+            "x2": 530,
+            "y1": 577,
+            "y2": 586
         },
         {
             "align": "left",
@@ -775,10 +775,10 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 37,
-            "x2": 414,
-            "y1": 572,
-            "y2": 580
+            "x1": 80,
+            "x2": 530,
+            "y1": 608,
+            "y2": 616
         },
         {
             "align": "left",
@@ -786,10 +786,10 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 37,
-            "x2": 414,
-            "y1": 572,
-            "y2": 580
+            "x1": 80,
+            "x2": 530,
+            "y1": 619,
+            "y2": 627
         },
         {
             "align": "left",
@@ -797,60 +797,60 @@
             "page": 1,
             "structure": "",
             "style": "font-weight: bold",
-            "x1": 28,
-            "x2": 322,
-            "y1": 555,
-            "y2": 564
+            "x1": 72,
+            "x2": 530,
+            "y1": 631,
+            "y2": 640
         },
         {
             "align": "left",
             "content": "Höhe der tatsächlichen monatlichen Kosten für das Eigentum",
             "page": 1,
             "structure": "",
-            "x1": 338,
-            "x2": 352,
-            "y1": 557,
-            "y2": 566
+            "x1": 59,
+            "x2": 530,
+            "y1": 646,
+            "y2": 655
         },
         {
             "align": "left",
             "content": "Schuldzinsen ohne Tilgungsraten",
             "page": 1,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 557,
-            "y2": 566
+            "x1": 72,
+            "x2": 295,
+            "y1": 664,
+            "y2": 673
         },
         {
             "align": "left",
             "content": "Nebenkosten (ohne Heizkosten) zum Beispiel Grundsteuer, Wasser",
             "page": 1,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 557,
-            "y2": 566
+            "x1": 301,
+            "x2": 530,
+            "y1": 664,
+            "y2": 673
         },
         {
             "align": "left",
             "content": "Heizkosten und -art (zum Beispiel Strom, Gas)",
             "page": 1,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 557,
-            "y2": 566
+            "x1": 72,
+            "x2": 295,
+            "y1": 705,
+            "y2": 714
         },
         {
             "align": "left",
             "content": "sonstige Wohnkosten",
             "page": 1,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 557,
-            "y2": 566
+            "x1": 300,
+            "x2": 530,
+            "y1": 705,
+            "y2": 714
         },
         {
             "align": "left",
@@ -858,10 +858,10 @@
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 37,
-            "x2": 414,
-            "y1": 572,
-            "y2": 580
+            "x1": 80,
+            "x2": 530,
+            "y1": 737,
+            "y2": 745
         },
         {
             "align": "left",
@@ -869,50 +869,50 @@
             "page": 2,
             "structure": "4.",
             "style": "font-weight: bold",
-            "x1": 33,
-            "x2": 414,
-            "y1": 592,
-            "y2": 602
+            "x1": 64,
+            "x2": 527,
+            "y1": 26,
+            "y2": 36
         },
         {
             "align": "left",
             "content": "Ich habe für den Monat der Antragstellung bereits Leistungen bei einem anderen Jobcenter beantragt oder von diesem bezogen.",
             "page": 2,
             "structure": "",
-            "x1": 28,
-            "x2": 322,
-            "y1": 611,
-            "y2": 620
+            "x1": 59,
+            "x2": 459,
+            "y1": 44,
+            "y2": 53
         },
         {
             "align": "left",
             "content": "Name des anderen Jobcenters",
             "page": 2,
             "structure": "",
-            "x1": 28,
-            "x2": 322,
-            "y1": 611,
-            "y2": 620
+            "x1": 72,
+            "x2": 527,
+            "y1": 68,
+            "y2": 77
         },
         {
             "align": "left",
             "content": "Ja",
             "page": 2,
             "structure": "",
-            "x1": 338,
-            "x2": 352,
-            "y1": 611,
-            "y2": 620
+            "x1": 474,
+            "x2": 491,
+            "y1": 43,
+            "y2": 52
         },
         {
             "align": "left",
             "content": "Nein",
             "page": 2,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 611,
-            "y2": 620
+            "x1": 504,
+            "x2": 550,
+            "y1": 43,
+            "y2": 52
         },
         {
             "align": "left",
@@ -920,70 +920,70 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 37,
-            "x2": 414,
-            "y1": 633,
-            "y2": 642
+            "x1": 77,
+            "x2": 527,
+            "y1": 103,
+            "y2": 111
         },
         {
             "align": "left",
             "content": "Ich fühle mich **gesundheitlich** in der Lage, eine Tätigkeit von mindestens **drei Stunden täglich** auszuüben.",
             "page": 2,
             "structure": "",
-            "x1": 28,
-            "x2": 322,
-            "y1": 650,
-            "y2": 659
+            "x1": 59,
+            "x2": 459,
+            "y1": 122,
+            "y2": 131
         },
         {
             "align": "left",
             "content": "Ja",
             "page": 2,
             "structure": "",
-            "x1": 338,
-            "x2": 352,
-            "y1": 653,
-            "y2": 662
+            "x1": 474,
+            "x2": 491,
+            "y1": 123,
+            "y2": 132
         },
         {
             "align": "left",
             "content": "Nein",
             "page": 2,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 653,
-            "y2": 662
+            "x1": 504,
+            "x2": 550,
+            "y1": 123,
+            "y2": 132
         },
         {
             "align": "left",
             "content": "Ich bin **Berechtigte/Berechtigter** nach dem **Asylbewerberleistungsgesetz**.",
             "page": 2,
             "structure": "",
-            "x1": 28,
-            "x2": 322,
-            "y1": 685,
-            "y2": 694
+            "x1": 59,
+            "x2": 459,
+            "y1": 158,
+            "y2": 167
         },
         {
             "align": "left",
             "content": "Ja",
             "page": 2,
             "structure": "",
-            "x1": 338,
-            "x2": 352,
-            "y1": 682,
-            "y2": 691
+            "x1": 474,
+            "x2": 491,
+            "y1": 155,
+            "y2": 164
         },
         {
             "align": "left",
             "content": "Nein",
             "page": 2,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 682,
-            "y2": 691
+            "x1": 504,
+            "x2": 550,
+            "y1": 155,
+            "y2": 164
         },
         {
             "align": "left",
@@ -991,50 +991,50 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 37,
-            "x2": 414,
-            "y1": 706,
-            "y2": 715
+            "x1": 68,
+            "x2": 527,
+            "y1": 174,
+            "y2": 182
         },
         {
             "align": "left",
             "content": "Ich bin **Schülerin/Schüler**, **Studentin/Student** oder **Auszubildende/Auszubildender**.",
             "page": 2,
             "structure": "",
-            "x1": 71,
-            "x2": 366,
-            "y1": 57,
-            "y2": 66
+            "x1": 59,
+            "x2": 459,
+            "y1": 200,
+            "y2": 209
         },
         {
             "align": "left",
             "content": "Ja",
             "page": 2,
             "structure": "",
-            "x1": 382,
-            "x2": 397,
-            "y1": 58,
-            "y2": 67
+            "x1": 474,
+            "x2": 491,
+            "y1": 200,
+            "y2": 209
         },
         {
             "align": "left",
             "content": "Nein",
             "page": 2,
             "structure": "",
-            "x1": 412,
-            "x2": 458,
-            "y1": 58,
-            "y2": 67
+            "x1": 504,
+            "x2": 550,
+            "y1": 200,
+            "y2": 209
         },
         {
             "align": "left",
             "content": "Dauer der Schulausbildung von - bis",
             "page": 2,
             "structure": "",
-            "x1": 85,
-            "x2": 256,
-            "y1": 85,
-            "y2": 94
+            "x1": 72,
+            "x2": 296,
+            "y1": 225,
+            "y2": 234
         },
         {
             "align": "left",
@@ -1042,20 +1042,20 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 271,
-            "x2": 458,
-            "y1": 86,
-            "y2": 94
+            "x1": 309,
+            "x2": 527,
+            "y1": 228,
+            "y2": 236
         },
         {
             "align": "left",
             "content": "Dauer des Studiums von - bis",
             "page": 2,
             "structure": "",
-            "x1": 85,
-            "x2": 256,
-            "y1": 115,
-            "y2": 124
+            "x1": 72,
+            "x2": 296,
+            "y1": 256,
+            "y2": 265
         },
         {
             "align": "left",
@@ -1063,20 +1063,20 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 271,
-            "x2": 458,
-            "y1": 116,
-            "y2": 124
+            "x1": 309,
+            "x2": 527,
+            "y1": 257,
+            "y2": 265
         },
         {
             "align": "left",
             "content": "Dauer der Ausbildung von - bis",
             "page": 2,
             "structure": "",
-            "x1": 85,
-            "x2": 256,
-            "y1": 145,
-            "y2": 154
+            "x1": 72,
+            "x2": 296,
+            "y1": 285,
+            "y2": 294
         },
         {
             "align": "left",
@@ -1084,20 +1084,20 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 271,
-            "x2": 458,
-            "y1": 151,
-            "y2": 159
+            "x1": 309,
+            "x2": 527,
+            "y1": 286,
+            "y2": 294
         },
         {
             "align": "left",
             "content": "Während der Ausbildung bin ich in einem **Wohnheim, Internat**, **einer besonderen Einrichtung für behinderte Menschen** oder beim **Ausbilder mit voller Verpflegung** oder **anderweitig mit Kostenerstattung** für Unterkunft und Verpflegung untergebracht.",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 175,
-            "y2": 184
+            "x1": 73,
+            "x2": 527,
+            "y1": 316,
+            "y2": 325
         },
         {
             "align": "left",
@@ -1105,60 +1105,60 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 210,
-            "y2": 218
+            "x1": 81,
+            "x2": 527,
+            "y1": 351,
+            "y2": 359
         },
         {
             "align": "left",
             "content": "Ich befinde mich derzeit oder demnächst in einer **stationären Einrichtung** (zum Beispiel Krankenhaus, Altenheim, Justizvollzugsanstalt).",
             "page": 2,
             "structure": "",
-            "x1": 71,
-            "x2": 366,
-            "y1": 225,
-            "y2": 234
+            "x1": 59,
+            "x2": 459,
+            "y1": 365,
+            "y2": 374
         },
         {
             "align": "left",
             "content": "Ja",
             "page": 2,
             "structure": "",
-            "x1": 382,
-            "x2": 397,
-            "y1": 227,
-            "y2": 236
+            "x1": 474,
+            "x2": 491,
+            "y1": 368,
+            "y2": 377
         },
         {
             "align": "left",
             "content": "Nein",
             "page": 2,
             "structure": "",
-            "x1": 412,
-            "x2": 458,
-            "y1": 227,
-            "y2": 236
+            "x1": 504,
+            "x2": 550,
+            "y1": 368,
+            "y2": 377
         },
         {
             "align": "left",
             "content": "Dauer der Unterbringung von - bis",
             "page": 2,
             "structure": "",
-            "x1": 85,
-            "x2": 256,
-            "y1": 255,
-            "y2": 264
+            "x1": 73,
+            "x2": 244,
+            "y1": 398,
+            "y2": 407
         },
         {
             "align": "left",
             "content": "Art der stationären Einrichtung",
             "page": 2,
             "structure": "",
-            "x1": 261,
-            "x2": 458,
-            "y1": 255,
-            "y2": 264
+            "x1": 304,
+            "x2": 501,
+            "y1": 395,
+            "y2": 404
         },
         {
             "align": "left",
@@ -1166,10 +1166,10 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 284,
-            "y2": 292
+            "x1": 77,
+            "x2": 527,
+            "y1": 425,
+            "y2": 433
         },
         {
             "align": "left",
@@ -1177,10 +1177,10 @@
             "page": 2,
             "structure": "5.",
             "style": "font-weight: bold",
-            "x1": 77,
-            "x2": 458,
-            "y1": 306,
-            "y2": 316
+            "x1": 64,
+            "x2": 527,
+            "y1": 441,
+            "y2": 451
         },
         {
             "align": "left",
@@ -1188,30 +1188,30 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 67,
-            "x2": 458,
-            "y1": 320,
-            "y2": 329
+            "x1": 63,
+            "x2": 527,
+            "y1": 455,
+            "y2": 464
         },
         {
             "align": "left",
             "content": "Ich bin **alleinerziehend**.",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 339,
-            "y2": 348
+            "x1": 73,
+            "x2": 527,
+            "y1": 475,
+            "y2": 484
         },
         {
             "align": "left",
             "content": "Ich bin **schwanger**.",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 357,
-            "y2": 366
+            "x1": 73,
+            "x2": 537,
+            "y1": 493,
+            "y2": 502
         },
         {
             "align": "left",
@@ -1219,30 +1219,30 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 370,
-            "y2": 378
+            "x1": 81,
+            "x2": 527,
+            "y1": 508,
+            "y2": 516
         },
         {
             "align": "left",
             "content": "Ich habe einen Mehrbedarf für die **dezentrale Warmwassererzeugung** (zum Beispiel Durchlauferhitzer/Boiler).",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 388,
-            "y2": 397
+            "x1": 73,
+            "x2": 527,
+            "y1": 527,
+            "y2": 536
         },
         {
             "align": "left",
             "content": "Ich benötige aus medizinischen Gründen eine **kostenaufwändige Ernährung**.",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 412,
-            "y2": 421
+            "x1": 73,
+            "x2": 527,
+            "y1": 545,
+            "y2": 554
         },
         {
             "align": "left",
@@ -1250,30 +1250,30 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 424,
-            "y2": 432
+            "x1": 81,
+            "x2": 527,
+            "y1": 561,
+            "y2": 569
         },
         {
             "align": "left",
             "content": "Ich habe eine **Behinderung und** erhalte",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 439,
-            "y2": 448
+            "x1": 73,
+            "x2": 527,
+            "y1": 579,
+            "y2": 588
         },
         {
             "align": "start",
             "content": "- Leistungen zur Teilhabe am Arbeitsleben nach § 49 Neuntes Buch Sozialgesetzbuch (SGB IX) **oder**",
             "page": 2,
             "structure": "",
-            "x1": 71,
-            "x2": 458,
-            "y1": 452,
-            "y2": 461
+            "x1": 59,
+            "x2": 527,
+            "y1": 593,
+            "y2": 602
         },
         {
             "align": "start",
@@ -1295,20 +1295,20 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 500,
-            "y2": 508
+            "x1": 81,
+            "x2": 527,
+            "y1": 630,
+            "y2": 638
         },
         {
             "align": "left",
             "content": "Ich bin **nicht erwerbsfähig** und Inhaberin/Inhaber eines Ausweises nach § 152 Abs. 5 SGB IX mit dem **Merkzeichen G oder aG**.",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 518,
-            "y2": 527
+            "x1": 73,
+            "x2": 527,
+            "y1": 650,
+            "y2": 659
         },
         {
             "align": "left",
@@ -1316,20 +1316,20 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 541,
-            "y2": 549
+            "x1": 81,
+            "x2": 527,
+            "y1": 669,
+            "y2": 677
         },
         {
             "align": "left",
             "content": "Ich habe regelmäßig einen **unabweisbaren besonderen Bedarf**, den ich nicht durch Einsparungen oder auf andere Weise abdecken kann",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 556,
-            "y2": 565
+            "x1": 73,
+            "x2": 527,
+            "y1": 683,
+            "y2": 692
         },
         {
             "append": " ",
@@ -1343,20 +1343,20 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 591,
-            "y2": 599
+            "x1": 81,
+            "x2": 527,
+            "y1": 707,
+            "y2": 715
         },
         {
             "align": "left",
             "content": "Ich bin **Schülerin/Schüler** und habe Kosten für **Schulbücher/Arbeitshefte**.",
             "page": 2,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 556,
-            "y2": 565
+            "x1": 73,
+            "x2": 527,
+            "y1": 726,
+            "y2": 735
         },
         {
             "align": "left",
@@ -1364,10 +1364,10 @@
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 591,
-            "y2": 599
+            "x1": 81,
+            "x2": 527,
+            "y1": 740,
+            "y2": 748
         },
         {
             "align": "left",
@@ -1375,10 +1375,10 @@
             "page": 3,
             "structure": "6.",
             "style": "font-weight: bold",
-            "x1": 77,
-            "x2": 458,
-            "y1": 612,
-            "y2": 622
+            "x1": 64,
+            "x2": 528,
+            "y1": 26,
+            "y2": 36
         },
         {
             "align": "start",
@@ -1386,10 +1386,10 @@
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 71,
-            "x2": 458,
-            "y1": 628,
-            "y2": 636
+            "x1": 66,
+            "x2": 528,
+            "y1": 45,
+            "y2": 53
         },
         {
             "align": "start",
@@ -1397,10 +1397,10 @@
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 71,
-            "x2": 458,
-            "y1": 628,
-            "y2": 636
+            "x1": 66,
+            "x2": 528,
+            "y1": 68,
+            "y2": 76
         },
         {
             "align": "left",
@@ -1408,30 +1408,30 @@
             "page": 3,
             "structure": "",
             "style": "font-weight: bold",
-            "x1": 33,
-            "x2": 414,
-            "y1": 26,
-            "y2": 36
+            "x1": 59,
+            "x2": 460,
+            "y1": 90,
+            "y2": 99
         },
         {
             "align": "left",
             "content": "Ja",
             "page": 3,
             "structure": "",
-            "x1": 382,
-            "x2": 397,
-            "y1": 227,
-            "y2": 236
+            "x1": 475,
+            "x2": 490,
+            "y1": 90,
+            "y2": 99
         },
         {
             "align": "left",
             "content": "Nein",
             "page": 3,
             "structure": "",
-            "x1": 412,
-            "x2": 458,
-            "y1": 227,
-            "y2": 236
+            "x1": 504,
+            "x2": 528,
+            "y1": 90,
+            "y2": 99
         },
         {
             "align": "start",
@@ -1439,10 +1439,10 @@
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 71,
-            "x2": 458,
-            "y1": 628,
-            "y2": 636
+            "x1": 66,
+            "x2": 528,
+            "y1": 106,
+            "y2": 114
         },
         {
             "align": "start",
@@ -1450,20 +1450,20 @@
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 71,
-            "x2": 458,
-            "y1": 628,
-            "y2": 636
+            "x1": 66,
+            "x2": 528,
+            "y1": 155,
+            "y2": 163
         },
         {
             "align": "start",
             "content": "Die Anzahl an Jahren, in denen ich insgesamt eine selbständige Tätigkeit ausgeübt habe, beträgt:",
             "page": 3,
             "structure": "",
-            "x1": 71,
-            "x2": 458,
-            "y1": 628,
-            "y2": 636
+            "x1": 66,
+            "x2": 528,
+            "y1": 178,
+            "y2": 186
         },
         {
             "align": "left",
@@ -1471,10 +1471,10 @@
             "page": 3,
             "structure": "7.",
             "style": "font-weight: bold",
-            "x1": 33,
-            "x2": 414,
-            "y1": 26,
-            "y2": 36
+            "x1": 64,
+            "x2": 528,
+            "y1": 196,
+            "y2": 206
         },
         {
             "align": "left",
@@ -1482,10 +1482,10 @@
             "page": 3,
             "structure": "7.1",
             "style": "font-weight: bold",
-            "x1": 38,
-            "x2": 414,
-            "y1": 40,
-            "y2": 50
+            "x1": 68,
+            "x2": 528,
+            "y1": 211,
+            "y2": 220
         },
         {
             "align": "left",
@@ -1493,10 +1493,10 @@
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 32,
-            "x2": 414,
-            "y1": 55,
-            "y2": 64
+            "x1": 63,
+            "x2": 528,
+            "y1": 228,
+            "y2": 236
         },
         {
             "align": "left",
@@ -1504,10 +1504,10 @@
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 32,
-            "x2": 414,
-            "y1": 79,
-            "y2": 88
+            "x1": 63,
+            "x2": 528,
+            "y1": 240,
+            "y2": 248
         },
         {
             "append": " ",
@@ -1521,210 +1521,210 @@
             "page": 3,
             "structure": "",
             "style": "font-weight: bold",
-            "x1": 28,
-            "x2": 414,
-            "y1": 93,
-            "y2": 102
+            "x1": 58,
+            "x2": 528,
+            "y1": 253,
+            "y2": 262
         },
         {
             "align": "left",
             "content": "war ich **beschäftigt**.",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 109,
-            "y2": 118
+            "x1": 72,
+            "x2": 528,
+            "y1": 271,
+            "y2": 280
         },
         {
             "align": "left",
             "content": "von - bis",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 134,
-            "y1": 130,
-            "y2": 139
+            "x1": 72,
+            "x2": 209,
+            "y1": 289,
+            "y2": 298
         },
         {
             "align": "left",
             "content": "Arbeitgeber",
             "page": 3,
             "structure": "",
-            "x1": 138,
-            "x2": 256,
-            "y1": 130,
-            "y2": 139
+            "x1": 213,
+            "x2": 398,
+            "y1": 289,
+            "y2": 298
         },
         {
             "align": "left",
             "content": "sozialversicherungspflichtig",
             "page": 3,
             "structure": "",
-            "x1": 277,
-            "x2": 414,
-            "y1": 130,
-            "y2": 139
+            "x1": 418,
+            "x2": 528,
+            "y1": 290,
+            "y2": 299
         },
         {
             "align": "left",
             "content": "Minijob",
             "page": 3,
             "structure": "",
-            "x1": 277,
-            "x2": 414,
-            "y1": 143,
-            "y2": 152
+            "x1": 418,
+            "x2": 528,
+            "y1": 303,
+            "y2": 312
         },
         {
             "align": "left",
             "content": "von - bis",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 134,
-            "y1": 163,
-            "y2": 172
+            "x1": 72,
+            "x2": 209,
+            "y1": 323,
+            "y2": 332
         },
         {
             "align": "left",
             "content": "Arbeitgeber",
             "page": 3,
             "structure": "",
-            "x1": 138,
-            "x2": 256,
-            "y1": 163,
-            "y2": 172
+            "x1": 213,
+            "x2": 398,
+            "y1": 323,
+            "y2": 332
         },
         {
             "align": "left",
             "content": "sozialversicherungspflichtig",
             "page": 3,
             "structure": "",
-            "x1": 277,
-            "x2": 415,
-            "y1": 163,
-            "y2": 172
+            "x1": 418,
+            "x2": 528,
+            "y1": 322,
+            "y2": 331
         },
         {
             "align": "left",
             "content": "Minijob",
             "page": 3,
             "structure": "",
-            "x1": 277,
-            "x2": 414,
-            "y1": 176,
-            "y2": 185
+            "x1": 418,
+            "x2": 528,
+            "y1": 336,
+            "y2": 345
         },
         {
             "align": "left",
             "content": "war ich **selbständig** tätig.",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 227,
-            "y2": 236
+            "x1": 72,
+            "x2": 528,
+            "y1": 353,
+            "y2": 362
         },
         {
             "align": "left",
             "content": "von - bis",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 155,
-            "y1": 245,
-            "y2": 254
+            "x1": 72,
+            "x2": 209,
+            "y1": 371,
+            "y2": 380
         },
         {
             "align": "left",
             "content": "Art der Tätigkeit",
             "page": 3,
             "structure": "",
-            "x1": 158,
-            "x2": 414,
-            "y1": 245,
-            "y2": 254
+            "x1": 213,
+            "x2": 528,
+            "y1": 371,
+            "y2": 380
         },
         {
             "align": "left",
             "content": "habe ich **Wehrdienst oder freiwilligen Dienst** geleistet (zum Beispiel Freiwilliges Soziales Jahr, Bundesfreiwilligendienst).",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 281,
-            "y2": 290
+            "x1": 72,
+            "x2": 528,
+            "y1": 401,
+            "y2": 410
         },
         {
             "align": "left",
             "content": "habe ich **Angehörige gepflegt** (Pflege nach dem Elften Buch Sozialgesetzbuch).",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 306,
-            "y2": 315
+            "x1": 72,
+            "x2": 528,
+            "y1": 429,
+            "y2": 438
         },
         {
             "align": "left",
             "content": "habe ich **Entgeltersatzleistungen** erhalten (zum Beispiel Krankengeld, Arbeitslosengeld, Mutterschaftsgeld, Übergangsgeld, Elterngeld).",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 328,
-            "y2": 337
+            "x1": 72,
+            "x2": 528,
+            "y1": 447,
+            "y2": 456
         },
         {
             "align": "left",
             "content": "von - bis",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 213,
-            "y1": 346,
-            "y2": 355
+            "x1": 72,
+            "x2": 209,
+            "y1": 472,
+            "y2": 481
         },
         {
             "align": "left",
             "content": "Leistung",
             "page": 3,
             "structure": "",
-            "x1": 216,
-            "x2": 414,
-            "y1": 346,
-            "y2": 355
+            "x1": 213,
+            "x2": 528,
+            "y1": 472,
+            "y2": 481
         },
         {
             "align": "left",
             "content": "von - bis",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 213,
-            "y1": 381,
-            "y2": 390
+            "x1": 72,
+            "x2": 209,
+            "y1": 503,
+            "y2": 512
         },
         {
             "align": "left",
             "content": "Leistung",
             "page": 3,
             "structure": "",
-            "x1": 216,
-            "x2": 414,
-            "y1": 381,
-            "y2": 390
+            "x1": 213,
+            "x2": 528,
+            "y1": 502,
+            "y2": 511
         },
         {
             "align": "left",
             "content": "trifft keiner dieser Punkte auf mich zu. Ich habe meinen **Lebensunterhalt wie folgt bestritten** (zum Beispiel finanzielle Unterstützung durch Verwandte/Bekannte, Ersparnisse, Erbschaft):",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 414,
-            "y2": 423
+            "x1": 72,
+            "x2": 528,
+            "y1": 534,
+            "y2": 543
         },
         {
             "align": "left",
@@ -1732,50 +1732,50 @@
             "page": 3,
             "structure": "7.2",
             "style": "font-weight: bold",
-            "x1": 38,
-            "x2": 414,
-            "y1": 505,
-            "y2": 515
+            "x1": 69,
+            "x2": 528,
+            "y1": 619,
+            "y2": 629
         },
         {
             "align": "left",
             "content": "Ich habe schon andere Leistungen **beantragt** oder **beabsichtige, einen Antrag zu stellen**. Dazu sählen beispielsweise Leistungen nach dem Bundesausbildungsförderungsgesetz (BAföG), Berufsausbildungsbeihilfe (BAB), Wohngeld, Arbeitslosengeld, Rente (Alters-, Hinterbliebenen- und Grundrenten), Krankengeld, Kindergeld und Kinderzuschlag.",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 525,
-            "y2": 534
+            "x1": 72,
+            "x2": 528,
+            "y1": 637,
+            "y2": 646
         },
         {
             "align": "left",
             "content": "Leistungsart",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 213,
-            "y1": 564,
-            "y2": 573
+            "x1": 72,
+            "x2": 384,
+            "y1": 688,
+            "y2": 697
         },
         {
             "align": "left",
             "content": "Antragsdatum",
             "page": 3,
             "structure": "",
-            "x1": 216,
-            "x2": 414,
-            "y1": 564,
-            "y2": 573
+            "x1": 389,
+            "x2": 528,
+            "y1": 688,
+            "y2": 697
         },
         {
             "align": "left",
             "content": "Sozialleistungsträger/Familienkasse",
             "page": 3,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 594,
-            "y2": 603
+            "x1": 72,
+            "x2": 528,
+            "y1": 719,
+            "y2": 728
         },
         {
             "align": "left",
@@ -1783,50 +1783,50 @@
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 38,
-            "x2": 414,
-            "y1": 622,
-            "y2": 630
+            "x1": 77,
+            "x2": 528,
+            "y1": 748,
+            "y2": 756
         },
         {
             "align": "left",
             "content": "Ich erhebe Ansprüche gegen einen (ehemaligen) Arbeitgeber auf noch ausstehende Lohn- oder Gehaltszahlungen (zum Beispiel bei Zahlungsunfähigkeit/Insolvenz des Arbeitgebers) oder für Zeiten nach dem Ausscheiden (zum Beispiel bei noch ausstehenden Abfindungen).",
             "page": 4,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 638,
-            "y2": 647
+            "x1": 72,
+            "x2": 527,
+            "y1": 31,
+            "y2": 40
         },
         {
             "align": "left",
             "content": "Arbeitgeber",
             "page": 4,
             "structure": "",
-            "x1": 42,
-            "x2": 213,
-            "y1": 676,
-            "y2": 685
+            "x1": 72,
+            "x2": 296,
+            "y1": 70,
+            "y2": 79
         },
         {
             "align": "left",
             "content": "Anschrift",
             "page": 4,
             "structure": "",
-            "x1": 216,
-            "x2": 414,
-            "y1": 676,
-            "y2": 685
+            "x1": 301,
+            "x2": 527,
+            "y1": 70,
+            "y2": 79
         },
         {
             "align": "left",
             "content": "Grund",
             "page": 4,
             "structure": "",
-            "x1": 42,
-            "x2": 414,
-            "y1": 709,
-            "y2": 718
+            "x1": 72,
+            "x2": 527,
+            "y1": 101,
+            "y2": 110
         },
         {
             "align": "left",
@@ -1834,20 +1834,20 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 38,
-            "x2": 414,
-            "y1": 739,
-            "y2": 747
+            "x1": 76,
+            "x2": 527,
+            "y1": 131,
+            "y2": 139
         },
         {
             "align": "left",
             "content": "Ich lebe getrennt von meiner Ehegattin/meinem Ehegatten bzw. meiner eingetragenen Lebenspartnerin/meinem eingetragenen Lebenspartner.",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 199,
-            "y2": 208
+            "x1": 72,
+            "x2": 527,
+            "y1": 144,
+            "y2": 153
         },
         {
             "align": "left",
@@ -1855,20 +1855,20 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 219,
-            "y2": 227
+            "x1": 81,
+            "x2": 527,
+            "y1": 169,
+            "y2": 177
         },
         {
             "align": "left",
             "content": "Ich bin geschieden oder meine eingetragene Lebenspartnerschaft wurde aufgehoben.",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 237,
-            "y2": 246
+            "x1": 72,
+            "x2": 527,
+            "y1": 188,
+            "y2": 197
         },
         {
             "align": "left",
@@ -1876,20 +1876,20 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 252,
-            "y2": 260
+            "x1": 81,
+            "x2": 527,
+            "y1": 204,
+            "y2": 212
         },
         {
             "align": "left",
             "content": "Ich bin schwanger oder betreue ein nichteheliches Kind unter 3 Jahren.",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 267,
-            "y2": 276
+            "x1": 72,
+            "x2": 527,
+            "y1": 221,
+            "y2": 230
         },
         {
             "align": "left",
@@ -1897,29 +1897,29 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 282,
-            "y2": 290
+            "x1": 81,
+            "x2": 527,
+            "y1": 236,
+            "y2": 244
         },
         {
             "align": "left",
             "content": "Ich bin",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 299,
-            "y2": 308
+            "x1": 72,
+            "x2": 527,
+            "y1": 254,
+            "y2": 263
         },
         {
             "content": "- unter 18 Jahre alt oder",
             "page": 4,
             "structure": "",
-            "x1": 72,
-            "y1": 312,
-            "x2": 458,
-            "y2": 321,
+            "x1": 58,
+            "y1": 267,
+            "x2": 527,
+            "y2": 276,
             "align": ""
         },
         {
@@ -1940,20 +1940,20 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 355,
-            "y2": 363
+            "x1": 81,
+            "x2": 527,
+            "y1": 305,
+            "y2": 313
         },
         {
             "align": "left",
             "content": "Ich habe einen gesundheitlichen Schaden durch einen Dritten erlitten (zum Beispiel Arbeits-, Verkehrs-, Spiel- oder Sportunfall, ärztlicher Behandlungsfehler oder tätliche Auseinandersetzung). Ich muss deshalb Leistungen beim Jobcenter beantragen.",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 67,
-            "y2": 76
+            "x1": 72,
+            "x2": 527,
+            "y1": 321,
+            "y2": 330
         },
         {
             "align": "left",
@@ -1961,30 +1961,30 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 103,
-            "y2": 111
+            "x1": 81,
+            "x2": 527,
+            "y1": 358,
+            "y2": 366
         },
         {
             "align": "left",
             "content": "Ich habe einen Anspruch gegenüber Dritten (zum Beispiel aus vertraglichen Zahlungsansprüchen oder Schadensersatzforderungen).",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 126,
-            "y2": 135
+            "x1": 72,
+            "x2": 527,
+            "y1": 373,
+            "y2": 382
         },
         {
             "align": "left",
             "content": "Bezeichnung des Anspruchs",
             "page": 4,
             "structure": "",
-            "x1": 88,
-            "x2": 463,
-            "y1": 147,
-            "y2": 156
+            "x1": 72,
+            "x2": 527,
+            "y1": 403,
+            "y2": 412
         },
         {
             "align": "left",
@@ -1992,40 +1992,40 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 92,
-            "x2": 458,
-            "y1": 176,
-            "y2": 184
+            "x1": 81,
+            "x2": 527,
+            "y1": 433,
+            "y2": 441
         },
         {
             "align": "left",
             "content": "Für mich wurde eine Verpflichtungserklärung gegenüber der Ausländerbehörde oder der Auslandsvertretung abgegeben.",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 374,
-            "y2": 383
+            "x1": 59,
+            "x2": 460,
+            "y1": 451,
+            "y2": 460
         },
         {
             "align": "left",
             "content": "Ja",
             "page": 4,
             "structure": "",
-            "x1": 338,
-            "x2": 352,
-            "y1": 611,
-            "y2": 620
+            "x1": 474,
+            "x2": 491,
+            "y1": 451,
+            "y2": 460
         },
         {
             "align": "left",
             "content": "Nein",
             "page": 4,
             "structure": "",
-            "x1": 368,
-            "x2": 414,
-            "y1": 611,
-            "y2": 620
+            "x1": 504,
+            "x2": 550,
+            "y1": 451,
+            "y2": 460
         },
         {
             "align": "left",
@@ -2033,10 +2033,10 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 397,
-            "y2": 405
+            "x1": 66,
+            "x2": 527,
+            "y1": 476,
+            "y2": 484
         },
         {
             "align": "left",
@@ -2044,10 +2044,10 @@
             "page": 4,
             "structure": "8.",
             "style": "font-weight: bold",
-            "x1": 77,
-            "x2": 458,
-            "y1": 417,
-            "y2": 427
+            "x1": 64,
+            "x2": 527,
+            "y1": 497,
+            "y2": 507
         },
         {
             "align": "left",
@@ -2055,60 +2055,60 @@
             "page": 4,
             "structure": "8.1",
             "style": "font-weight: bold",
-            "x1": 82,
-            "x2": 458,
-            "y1": 432,
-            "y2": 442
+            "x1": 69,
+            "x2": 527,
+            "y1": 512,
+            "y2": 521
         },
         {
             "align": "left",
             "content": "Ich bin order war zuletzt in der **gesetzlichen Kranken- und Pflegeversicherung** pflicht- oder familienversichert.",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 456,
-            "y2": 465
+            "x1": 72,
+            "x2": 527,
+            "y1": 528,
+            "y2": 537
         },
         {
             "align": "left",
             "content": "Mit Beginn des Anspruchs auf Arbeitslosengeld II möchte ich versichert werden bei:",
             "page": 4,
             "structure": "",
-            "x1": 85,
-            "x2": 199,
-            "y1": 478,
-            "y2": 487
+            "x1": 60,
+            "x2": 527,
+            "y1": 542,
+            "y2": 551
         },
         {
             "align": "left",
             "content": "der bisherigen Krankenkasse",
             "page": 4,
             "structure": "",
-            "x1": 85,
-            "x2": 199,
-            "y1": 478,
-            "y2": 487
+            "x1": 86,
+            "x2": 527,
+            "y1": 560,
+            "y2": 569
         },
         {
             "align": "left",
             "content": "Name der Krankenkasse",
             "page": 4,
             "structure": "",
-            "x1": 85,
-            "x2": 199,
-            "y1": 478,
-            "y2": 487
+            "x1": 72,
+            "x2": 296,
+            "y1": 578,
+            "y2": 587
         },
         {
             "align": "left",
             "content": "Krankenversichertennummer",
             "page": 4,
             "structure": "",
-            "x1": 202,
-            "x2": 458,
-            "y1": 478,
-            "y2": 487
+            "x1": 301,
+            "x2": 527,
+            "y1": 580,
+            "y2": 589
         },
         {
             "append": " ",
@@ -2122,40 +2122,40 @@
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 92,
-            "x2": 458,
-            "y1": 509,
-            "y2": 517
+            "x1": 78,
+            "x2": 527,
+            "y1": 609,
+            "y2": 617
         },
         {
             "align": "left",
             "content": "einer anderen Krankenkasse",
             "page": 4,
             "structure": "",
-            "x1": 85,
-            "x2": 199,
-            "y1": 478,
-            "y2": 487
+            "x1": 86,
+            "x2": 527,
+            "y1": 639,
+            "y2": 648
         },
         {
             "align": "left",
             "content": "Name der Krankenkasse",
             "page": 4,
             "structure": "",
-            "x1": 85,
-            "x2": 199,
-            "y1": 478,
-            "y2": 487
+            "x1": 72,
+            "x2": 297,
+            "y1": 660,
+            "y2": 669
         },
         {
             "align": "left",
             "content": "Krankenversichertennummer",
             "page": 4,
             "structure": "",
-            "x1": 202,
-            "x2": 458,
-            "y1": 478,
-            "y2": 487
+            "x1": 301,
+            "x2": 527,
+            "y1": 660,
+            "y2": 669
         },
         {
             "append": " ",
@@ -2171,8 +2171,8 @@
             "style": "color: #00965A",
             "x1": 79,
             "x2": 445,
-            "y1": 609,
-            "y2": 617
+            "y1": 691,
+            "y2": 699
         },
         {
             "align": "left",
@@ -2180,20 +2180,20 @@
             "page": 5,
             "structure": "7.2",
             "style": "font-weight: bold",
-            "x1": 82,
-            "x2": 458,
-            "y1": 657,
-            "y2": 667
+            "x1": 69,
+            "x2": 528,
+            "y1": 26,
+            "y2": 36
         },
         {
             "align": "left",
             "content": "Ich bin **privat** oder **freiwillig gesetzlich** versichert.",
             "page": 5,
             "structure": "",
-            "x1": 86,
-            "x2": 249,
-            "y1": 681,
-            "y2": 690
+            "x1": 73,
+            "x2": 289,
+            "y1": 42,
+            "y2": 51
         },
         {
             "align": "left",
@@ -2201,20 +2201,20 @@
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 96,
-            "x2": 249,
-            "y1": 700,
-            "y2": 708
+            "x1": 82,
+            "x2": 289,
+            "y1": 57,
+            "y2": 65
         },
         {
             "align": "left",
             "content": "Ich bin **nicht** versichert.",
             "page": 5,
             "structure": "",
-            "x1": 269,
-            "x2": 458,
-            "y1": 681,
-            "y2": 690
+            "x1": 309,
+            "x2": 528,
+            "y1": 42,
+            "y2": 51
         },
         {
             "align": "left",
@@ -2222,10 +2222,10 @@
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 279,
-            "x2": 458,
-            "y1": 700,
-            "y2": 708
+            "x1": 320,
+            "x2": 528,
+            "y1": 57,
+            "y2": 65
         },
         {
             "align": "left",
@@ -2233,10 +2233,10 @@
             "page": 5,
             "structure": "9.",
             "style": "font-weight: bold",
-            "x1": 38,
-            "x2": 416,
-            "y1": 33,
-            "y2": 43
+            "x1": 64,
+            "x2": 528,
+            "y1": 81,
+            "y2": 91
         },
         {
             "align": "left",
@@ -2244,10 +2244,10 @@
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 26,
-            "x2": 416,
-            "y1": 50,
-            "y2": 58
+            "x1": 58,
+            "x2": 528,
+            "y1": 94,
+            "y2": 102
         },
         {
             "align": "left",
@@ -2255,10 +2255,10 @@
             "page": 5,
             "structure": "10",
             "style": "font-weight: bold",
-            "x1": 38,
-            "x2": 416,
-            "y1": 88,
-            "y2": 98
+            "x1": 68,
+            "x2": 528,
+            "y1": 122,
+            "y2": 132
         },
         {
             "align": "left",
@@ -2266,30 +2266,30 @@
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 33,
-            "x2": 416,
-            "y1": 101,
-            "y2": 110
+            "x1": 65,
+            "x2": 528,
+            "y1": 137,
+            "y2": 145
         },
         {
             "align": "left",
             "content": "Kontoinhaberin/Kontoinhaber",
             "page": 5,
             "structure": "",
-            "x1": 26,
-            "x2": 416,
-            "y1": 117,
-            "y2": 126
+            "x1": 58,
+            "x2": 528,
+            "y1": 152,
+            "y2": 161
         },
         {
             "align": "left",
             "content": "IBAN",
             "page": 5,
             "structure": "",
-            "x1": 26,
-            "x2": 416,
-            "y1": 151,
-            "y2": 160
+            "x1": 58,
+            "x2": 528,
+            "y1": 184,
+            "y2": 193
         },
         {
             "align": "left",
@@ -2297,10 +2297,10 @@
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 38,
-            "x2": 416,
-            "y1": 184,
-            "y2": 193
+            "x1": 66,
+            "x2": 528,
+            "y1": 217,
+            "y2": 225
         },
         {
             "align": "left",
@@ -2308,20 +2308,20 @@
             "page": 5,
             "structure": "12",
             "style": "font-weight: bold",
-            "x1": 38,
-            "x2": 416,
-            "y1": 204,
-            "y2": 214
+            "x1": 68,
+            "x2": 528,
+            "y1": 237,
+            "y2": 247
         },
         {
             "align": "left",
             "content": "Ich möchte das Online-Angebot auf www.jobcenter.digital nutzen und mir ein passwortgeschütztes Benutzerkonto zur Erledigung wichtiger Anliegen (zum Beispiel Mitteilung von Änderungen) einrichten lassen.",
             "page": 5,
             "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 222,
-            "y2": 231
+            "x1": 72,
+            "x2": 528,
+            "y1": 253,
+            "y2": 262
         },
         {
             "align": "start",
@@ -2329,10 +2329,10 @@
             "style": "font-weight: bold; color: #00965A",
             "page": 5,
             "structure": "",
-            "x1": 23,
-            "y1": 263,
-            "x2": 416,
-            "y2": 272
+            "x1": 53,
+            "y1": 280,
+            "x2": 528,
+            "y2": 289
         },
         {
             "align": "start",
@@ -2340,10 +2340,10 @@
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 23,
-            "y1": 274,
-            "x2": 416,
-            "y2": 281
+            "x1": 53,
+            "y1": 294,
+            "x2": 528,
+            "y2": 301
         },
         {
             "append": "\n\n",
@@ -2368,20 +2368,20 @@
             "content": "Ich habe das Merkblatt \"SGB II – Arbeitslosengeld II/Sozialgeld (Grundsicherung für Arbeitsuchende)\" und die Ausfüllhinweise erhalten und kenne deren Inhalt. Künftige Änderungen (insbesondere der Familien-, Einkommens- und Vermögensverhältnisse sowie des Umfangs der Erwerbsfähigkeit) werde ich unaufgefordert und unverzüglich mitteilen.",
             "page": 5,
             "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 425,
-            "y2": 434
+            "x1": 72,
+            "x2": 528,
+            "y1": 427,
+            "y2": 435
         },
         {
             "align": "left",
             "content": "Es wurde eine Betreuerin/ein Betreuer vom **Betreuungsgericht/Amtsgericht** bestellt.",
             "page": 5,
             "structure": "",
-            "x1": 42,
-            "x2": 416,
-            "y1": 489,
-            "y2": 498
+            "x1": 72,
+            "x2": 528,
+            "y1": 470,
+            "y2": 479
         },
         {
             "align": "left",
@@ -2389,30 +2389,30 @@
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 52,
-            "x2": 416,
-            "y1": 503,
-            "y2": 511
+            "x1": 82,
+            "x2": 528,
+            "y1": 485,
+            "y2": 493
         },
         {
             "align": "left",
             "content": "Ort/Datum",
             "page": 5,
             "structure": "",
-            "x1": 26,
-            "x2": 144,
-            "y1": 528,
-            "y2": 537
+            "x1": 58,
+            "x2": 280,
+            "y1": 503,
+            "y2": 512
         },
         {
             "align": "left",
             "content": "Unterschrift Betreuerin/Betreuer",
             "page": 5,
             "structure": "",
-            "x1": 148,
-            "x2": 416,
-            "y1": 528,
-            "y2": 537
+            "x1": 285,
+            "x2": 528,
+            "y1": 503,
+            "y2": 512
         },
         {
             "align": "left",
@@ -2420,59 +2420,59 @@
             "page": 5,
             "structure": "",
             "style": "font-weight: bold",
-            "x1": 23,
-            "x2": 416,
-            "y1": 562,
-            "y2": 571
+            "x1": 54,
+            "x2": 528,
+            "y1": 535,
+            "y2": 544
         },
         {
             "align": "left",
             "content": "Ort/Datum",
             "page": 5,
             "structure": "",
-            "x1": 26,
-            "x2": 144,
-            "y1": 581,
-            "y2": 590
+            "x1": 58,
+            "x2": 280,
+            "y1": 552,
+            "y2": 561
         },
         {
             "align": "left",
             "content": "Unterschrift Antragstellerin/Antragsteller",
             "page": 5,
             "structure": "",
-            "x1": 148,
-            "x2": 416,
-            "y1": 581,
-            "y2": 590
+            "x1": 285,
+            "x2": 528,
+            "y1": 552,
+            "y2": 561
         },
         {
             "align": "left",
             "content": "Ort/Datum",
             "page": 5,
             "structure": "",
-            "x1": 26,
-            "x2": 144,
-            "y1": 616,
-            "y2": 625
+            "x1": 58,
+            "x2": 280,
+            "y1": 588,
+            "y2": 597
         },
         {
             "align": "left",
             "content": "Unterschrift der/des gesetzlichen Vertreterin/Vertreters minderjähriger Antragstellerinnen/Antragsteller",
             "page": 5,
             "structure": "",
-            "x1": 148,
-            "x2": 416,
-            "y1": 616,
-            "y2": 625
+            "x1": 285,
+            "x2": 528,
+            "y1": 588,
+            "y2": 597
         },
         {
             "content": "Bearbeitungsvermerke",
             "page": 5,
             "structure": "",
-            "x1": 410,
-            "y1": 42,
-            "x2": 553,
-            "y2": 51,
+            "x1": 58,
+            "y1": 633,
+            "x2": 525,
+            "y2": 642,
             "align": "left"
         },
         {
@@ -2485,40 +2485,40 @@
             "content": "In den folgenden Abschnitten wurden im Beisein der Kundin/des Kunden Änderungen vorgenommen:",
             "page": 5,
             "structure": "",
-            "x1": 410,
-            "y1": 42,
-            "x2": 553,
-            "y2": 51,
+            "x1": 74,
+            "y1": 650,
+            "x2": 525,
+            "y2": 659,
             "align": "left"
         },
         {
             "content": "Handzeichen, Datum:",
             "page": 5,
             "structure": "",
-            "x1": 410,
-            "y1": 42,
-            "x2": 553,
-            "y2": 51,
+            "x1": 75,
+            "y1": 683,
+            "x2": 280,
+            "y2": 692,
             "align": "left"
         },
         {
             "content": "Unterschrift der Kundin/des Kunden",
             "page": 5,
             "structure": "",
-            "x1": 410,
-            "y1": 42,
-            "x2": 553,
-            "y2": 51,
+            "x1": 285,
+            "y1": 683,
+            "x2": 525,
+            "y2": 692,
             "align": "left"
         },
         {
             "content": "Sonstige Anmerkungen des Jobcenters:",
             "page": 5,
             "structure": "",
-            "x1": 410,
-            "y1": 42,
-            "x2": 553,
-            "y2": 51,
+            "x1": 74,
+            "y1": 701,
+            "x2": 525,
+            "y2": 710,
             "align": "left"
         }
     ],

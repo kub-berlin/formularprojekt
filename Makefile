@@ -12,7 +12,7 @@ fill: .venv
 	.venv/bin/python scripts/fill.py
 
 txpull: .venv
-	.venv/bin/tx pull -af --mode=onlytranslated --minimum-perc=10
+	tx pull -af --mode=onlytranslated --minimum-perc=10
 	for f in $$(find data -name *.csv); do python scripts/csv_normalize.py $$f; ./scripts/restore_mtime.sh $$f; done
 
 annotator/annotator.build.js: annotator/annotator.js annotator/app.js annotator/node_modules
@@ -27,7 +27,7 @@ data/%/de.csv: data/%/form.json scripts/de.py
 
 .venv:
 	python3 -m venv .venv
-	.venv/bin/pip install Jinja2 CommonMark colorama transifex-client
+	.venv/bin/pip install Jinja2 CommonMark colorama
 
 clean:
 	rm -f -r .venv

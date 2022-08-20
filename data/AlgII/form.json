@@ -1,6 +1,6 @@
 {
     "checksum": "4efa9079768048255c7d1a7103881a08",
-    "date": "2020-04-01",
+    "date": "2022-08-01",
     "external": {
         "Arbeitsagentur": "https://www.arbeitsagentur.de/content/1463061318106#1478809808529",
         "Flüchtlingshilfe Castrop-Rauxel": "http://www.fluechtlingshilfe-castrop.de/information-for-refugees/jobcenter/"
@@ -50,7 +50,29 @@
         },
         {
             "align": "left",
-            "content": "Zutreffendes bitte ankreuzen",
+            "content": "Kreuzen Sie bitte Zutreffendes an.",
+            "page": 0,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 108,
+            "x2": 200,
+            "y1": 83,
+            "y2": 93
+        },
+        {
+            "align": "left",
+            "content": "Reichen Sie bitte grundsätzlich keine Originalbelege, sondern Kopien ein.",
+            "page": 0,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 108,
+            "x2": 200,
+            "y1": 83,
+            "y2": 93
+        },
+        {
+            "align": "left",
+            "content": "Hier finden Sie ein Video, das Ihnen beim Ausfüllen hilft. Unter www.jobcenter.digital erhalten Sie Informationen zu unseren digitalen Angeboten, das Merkblatt SGB II und weitere Anlagen zum Antrag.",
             "page": 0,
             "structure": "",
             "style": "color: #00965A",
@@ -186,6 +208,27 @@
         },
         {
             "align": "left",
+            "content": "Bitte tragen Sie hier das Datum Ihrer Einreise nach Deutschland ein, sofern Sie keine deutsche Staatsangehörigkeit haben.",
+            "page": 0,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 56,
+            "x2": 214,
+            "y1": 371,
+            "y2": 380
+        },
+        {
+            "align": "left",
+            "content": "Einreisedatum",
+            "page": 0,
+            "structure": "",
+            "x1": 218,
+            "x2": 404,
+            "y1": 339,
+            "y2": 348
+        },
+        {
+            "align": "left",
             "content": "Rentenversicherungsnummer",
             "page": 0,
             "structure": "",
@@ -216,7 +259,7 @@
         },
         {
             "align": "left",
-            "content": "ggf. wohnhaft bei",
+            "content": "gegebenenfalls wohnhaft bei",
             "page": 0,
             "structure": "",
             "x1": 56,
@@ -330,16 +373,6 @@
         },
         {
             "align": "left",
-            "content": "Ich bin",
-            "page": 0,
-            "structure": "",
-            "x1": 56,
-            "x2": 404,
-            "y1": 644,
-            "y2": 653
-        },
-        {
-            "align": "left",
             "content": "ledig",
             "page": 0,
             "structure": "",
@@ -370,17 +403,17 @@
         },
         {
             "align": "left",
-            "content": "geschieden seit",
+            "content": "eingetragene Lebenspartnerschaft",
             "page": 0,
             "structure": "",
-            "x1": 71,
-            "x2": 214,
-            "y1": 682,
-            "y2": 691
+            "x1": 267,
+            "x2": 405,
+            "y1": 659,
+            "y2": 668
         },
         {
             "align": "left",
-            "content": "dauernd getrennt lebend seit",
+            "content": "dauernd getrennt lebend seit:",
             "page": 0,
             "structure": "",
             "x1": 233,
@@ -390,49 +423,40 @@
         },
         {
             "align": "left",
-            "content": "oder meine gleichgeschlechtliche Lebenspartnerschaft ist",
-            "page": 0,
-            "structure": "",
-            "x1": 56,
-            "x2": 404,
-            "y1": 720,
-            "y2": 729
-        },
-        {
-            "align": "left",
-            "content": "eingetragen seit",
+            "content": "geschieden seit:",
             "page": 0,
             "structure": "",
             "x1": 71,
-            "x2": 164,
-            "y1": 736,
-            "y2": 745
+            "x2": 214,
+            "y1": 682,
+            "y2": 691
         },
         {
             "align": "left",
-            "content": "aufgehoben seit",
+            "content": "aufgehobene Lebenspartnerschaft seit:",
             "page": 0,
             "structure": "",
-            "x1": 183,
-            "x2": 268,
-            "y1": 736,
-            "y2": 745
-        },
-        {
-            "align": "left",
-            "content": "dauernd getrennt seit",
-            "page": 0,
-            "structure": "",
-            "x1": 287,
-            "x2": 404,
-            "y1": 736,
-            "y2": 745
+            "x1": 71,
+            "x2": 214,
+            "y1": 682,
+            "y2": 691
         },
         {
             "align": "left",
             "content": "Meine Wohnsituation",
             "page": 1,
             "structure": "3.2",
+            "style": "font-weight: bold",
+            "x1": 38,
+            "x2": 414,
+            "y1": 20,
+            "y2": 30
+        },
+        {
+            "align": "left",
+            "content": "Alle Anlagen, auf die nachfolgend hingewiesen wird, finden Sie unter www.arbeitsagentur.de/download-alg2.",
+            "page": 1,
+            "structure": "",
             "style": "font-weight: bold",
             "x1": 38,
             "x2": 414,
@@ -474,7 +498,7 @@
         },
         {
             "align": "left",
-            "content": "Ich wohne nicht alleine",
+            "content": "Ich wohne zusammen mit:",
             "page": 1,
             "structure": "",
             "style": "font-weight: bold",
@@ -493,17 +517,6 @@
             "x2": 414,
             "y1": 116,
             "y2": 125
-        },
-        {
-            "align": "left",
-            "content": "Ich wohne zusammen mit",
-            "page": 1,
-            "structure": "",
-            "style": "font-weight: bold",
-            "x1": 28,
-            "x2": 414,
-            "y1": 179,
-            "y2": 188
         },
         {
             "align": "left",
@@ -612,7 +625,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte füllen Sie für jedes Kind end **Anlage WEP** aus.",
+            "content": "Bitte füllen Sie für jedes Kind eine eigene **Anlage KI** aus.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -623,7 +636,7 @@
         },
         {
             "align": "left",
-            "content": "meinen Eltern bzw. einem Elternteil",
+            "content": "meinen Eltern beziehungsweise einem Elternteil",
             "page": 1,
             "structure": "",
             "x1": 43,
@@ -675,7 +688,7 @@
         },
         {
             "align": "left",
-            "content": "Ggf. ist eine Verantwortungs- und Einstehensgemeinschaft zu prüfen. Ihr Jobcenter wird Ihnen mitteilen, ob Sie eine Anlage VE ausfüllen müssen.",
+            "content": "Gegebenenfalls ist eine Verantwortungs- und Einstehensgemeinschaft zu prüfen. Ihr Jobcenter wird Ihnen mitteilen, ob Sie eine **Anlage VE** ausfüllen müssen.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -697,9 +710,10 @@
         },
         {
             "align": "left",
-            "content": "Mir entstehen Kosten für Unterkunft und Heizung.",
+            "content": "Ich wohne zur Miete seit",
             "page": 1,
             "structure": "",
+            "style": "font-weight: bold",
             "x1": 28,
             "x2": 322,
             "y1": 555,
@@ -707,7 +721,7 @@
         },
         {
             "align": "left",
-            "content": "Ja",
+            "content": "Höhe der tatsächlichen monatlichen Kosten für die Unterkunft",
             "page": 1,
             "structure": "",
             "x1": 338,
@@ -717,7 +731,7 @@
         },
         {
             "align": "left",
-            "content": "Nein",
+            "content": "Grundmiete (ohne Nebenkosten)",
             "page": 1,
             "structure": "",
             "x1": 368,
@@ -727,7 +741,120 @@
         },
         {
             "align": "left",
-            "content": "Bitte füllen Sie die **Anlage KDU** aus.",
+            "content": "Nebenkosten (ohne Heizkosten)",
+            "page": 1,
+            "structure": "",
+            "x1": 368,
+            "x2": 414,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "Heizkosten",
+            "page": 1,
+            "structure": "",
+            "x1": 368,
+            "x2": 414,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "sonstige Wohnkosten",
+            "page": 1,
+            "structure": "",
+            "x1": 368,
+            "x2": 414,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "Bitte legen Sie aktuelle Nachweise (Mietvertrag) mit Angabe der jeweiligen Fälligkeit vor.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 37,
+            "x2": 414,
+            "y1": 572,
+            "y2": 580
+        },
+        {
+            "align": "left",
+            "content": "Sollten Sie eine Direktzahlung der Miete an die Vermieterin/den Vermieter wünschen, geben Sie bitte die entsprechenden Zahlungsdaten an.",
+            "page": 1,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 37,
+            "x2": 414,
+            "y1": 572,
+            "y2": 580
+        },
+        {
+            "align": "left",
+            "content": "Ich wohne im Eigentum.",
+            "page": 1,
+            "structure": "",
+            "style": "font-weight: bold",
+            "x1": 28,
+            "x2": 322,
+            "y1": 555,
+            "y2": 564
+        },
+        {
+            "align": "left",
+            "content": "Höhe der tatsächlichen monatlichen Kosten für das Eigentum",
+            "page": 1,
+            "structure": "",
+            "x1": 338,
+            "x2": 352,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "Schuldzinsen ohne Tilgungsraten",
+            "page": 1,
+            "structure": "",
+            "x1": 368,
+            "x2": 414,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "Nebenkosten (ohne Heizkosten) zum Beispiel Grundsteuer, Wasser",
+            "page": 1,
+            "structure": "",
+            "x1": 368,
+            "x2": 414,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "Heizkosten und -art (zum Beispiel Strom, Gas)",
+            "page": 1,
+            "structure": "",
+            "x1": 368,
+            "x2": 414,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "sonstige Wohnkosten",
+            "page": 1,
+            "structure": "",
+            "x1": 368,
+            "x2": 414,
+            "y1": 557,
+            "y2": 566
+        },
+        {
+            "align": "left",
+            "content": "Bitte legen Sie aktuelle Nachweise mit Angabe der jeweiligen Fälligkeit vor.",
             "page": 1,
             "structure": "",
             "style": "color: #00965A",
@@ -739,7 +866,7 @@
         {
             "align": "left",
             "content": "Persönliche Angaben der Antragstellerin oder des Antragstellers",
-            "page": 1,
+            "page": 2,
             "structure": "4.",
             "style": "font-weight: bold",
             "x1": 33,
@@ -750,7 +877,17 @@
         {
             "align": "left",
             "content": "Ich habe für den Monat der Antragstellung bereits Leistungen bei einem anderen Jobcenter beantragt oder von diesem bezogen.",
-            "page": 1,
+            "page": 2,
+            "structure": "",
+            "x1": 28,
+            "x2": 322,
+            "y1": 611,
+            "y2": 620
+        },
+        {
+            "align": "left",
+            "content": "Name des anderen Jobcenters",
+            "page": 2,
             "structure": "",
             "x1": 28,
             "x2": 322,
@@ -760,7 +897,7 @@
         {
             "align": "left",
             "content": "Ja",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 338,
             "x2": 352,
@@ -770,7 +907,7 @@
         {
             "align": "left",
             "content": "Nein",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 368,
             "x2": 414,
@@ -780,7 +917,7 @@
         {
             "align": "left",
             "content": "Falls ja, legen Sie bitte entsprechende Nachweise vor.",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "style": "color: #00965A",
             "x1": 37,
@@ -791,7 +928,7 @@
         {
             "align": "left",
             "content": "Ich fühle mich **gesundheitlich** in der Lage, eine Tätigkeit von mindestens **drei Stunden täglich** auszuüben.",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 28,
             "x2": 322,
@@ -801,7 +938,7 @@
         {
             "align": "left",
             "content": "Ja",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 338,
             "x2": 352,
@@ -811,7 +948,7 @@
         {
             "align": "left",
             "content": "Nein",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 368,
             "x2": 414,
@@ -821,7 +958,7 @@
         {
             "align": "left",
             "content": "Ich bin **Berechtigte/Berechtigter** nach dem **Asylbewerberleistungsgesetz**.",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 28,
             "x2": 322,
@@ -831,7 +968,7 @@
         {
             "align": "left",
             "content": "Ja",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 338,
             "x2": 352,
@@ -841,7 +978,7 @@
         {
             "align": "left",
             "content": "Nein",
-            "page": 1,
+            "page": 2,
             "structure": "",
             "x1": 368,
             "x2": 414,
@@ -850,8 +987,8 @@
         },
         {
             "align": "left",
-            "content": "Legen Sie bitte entsprechende Nachweise (z. B. Aufenthaltserlaubnis, Aufenthaltsgestattung, Duldung, Bescheid des Bundesamtes für Migration und Flüchtlinge (BAMF)) vor.",
-            "page": 1,
+            "content": "Falls ja, legen Sie bitte entsprechende Nachweise (zum Beispiel Aufenthaltserlaubnis, Aufenthaltsgestattung, Duldung, Bescheid des Bundesamtes für Migration und Flüchtlinge (BAMF)) vor.",
+            "page": 2,
             "structure": "",
             "style": "color: #00965A",
             "x1": 37,
@@ -901,7 +1038,7 @@
         },
         {
             "align": "left",
-            "content": "Falls ja, legen Sie bitte entsprechende Nachweise (z. B. Schulbescheinigung) vor.",
+            "content": "Falls ja, legen Sie bitte entsprechende Nachweise (zum Beispiel Schulbescheinigung) vor.",
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
@@ -922,7 +1059,7 @@
         },
         {
             "align": "left",
-            "content": "Falls ja, legen Sie bitte entsprechende Nachweise (z. B. Immatrikulationsbescheinigung) vor.",
+            "content": "Falls ja, legen Sie bitte entsprechende Nachweise (zum Beispiel Immatrikulationsbescheinigung) vor.",
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
@@ -975,7 +1112,7 @@
         },
         {
             "align": "left",
-            "content": "Ich befinde mich derzeit oder demnächst in einer **stationären Einrichtung** (z. B. Krankenhaus, Altenheim, Justizvollzugsanstalt).",
+            "content": "Ich befinde mich derzeit oder demnächst in einer **stationären Einrichtung** (zum Beispiel Krankenhaus, Altenheim, Justizvollzugsanstalt).",
             "page": 2,
             "structure": "",
             "x1": 71,
@@ -1089,7 +1226,7 @@
         },
         {
             "align": "left",
-            "content": "Ich habe einen Mehrbedarf für die **dezentrale Warmwassererzeugung** (z. B. Durchlauferhitzer/Boiler).",
+            "content": "Ich habe einen Mehrbedarf für die **dezentrale Warmwassererzeugung** (zum Beispiel Durchlauferhitzer/Boiler).",
             "page": 2,
             "structure": "",
             "x1": 86,
@@ -1175,7 +1312,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte legen Sie einen aktuellen Nachweis (z. B. Schwerbehindertenausweis) vor.",
+            "content": "Bitte legen Sie einen aktuellen Nachweis (zum Beispiel Schwerbehindertenausweis) vor.",
             "page": 2,
             "structure": "",
             "style": "color: #00965A",
@@ -1186,7 +1323,7 @@
         },
         {
             "align": "left",
-            "content": "Ich habe regelmäßig einen **unabweisbaren, laufenden, nicht nur einmaligen besonderen Bedarf**, den ich nicht durch Einsparungen oder auf andere Weise abdecken kann",
+            "content": "Ich habe regelmäßig einen **unabweisbaren besonderen Bedarf**, den ich nicht durch Einsparungen oder auf andere Weise abdecken kann",
             "page": 2,
             "structure": "",
             "x1": 86,
@@ -1196,7 +1333,7 @@
         },
         {
             "append": " ",
-            "content": "(z. B. Kosten zur Wahrnehmung des Umgangsrechts bei getrennt lebenden Eltern).",
+            "content": "(zum Beispiel Kosten zur Wahrnehmung des Umgangsrechts bei getrennt lebenden Eltern).",
             "page": 2,
             "structure": ""
         },
@@ -1213,8 +1350,29 @@
         },
         {
             "align": "left",
-            "content": "Einkommen",
+            "content": "Ich bin **Schülerin/Schüler** und habe Kosten für **Schulbücher/Arbeitshefte**.",
             "page": 2,
+            "structure": "",
+            "x1": 86,
+            "x2": 458,
+            "y1": 556,
+            "y2": 565
+        },
+        {
+            "align": "left",
+            "content": "Bitte legen Sie entsprechende Nachweise vor.",
+            "page": 2,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 96,
+            "x2": 458,
+            "y1": 591,
+            "y2": 599
+        },
+        {
+            "align": "left",
+            "content": "Einkommen und Vermögen",
+            "page": 3,
             "structure": "6.",
             "style": "font-weight: bold",
             "x1": 77,
@@ -1225,7 +1383,18 @@
         {
             "align": "start",
             "content": "Zur Prüfung Ihrer Einkommensverhältnisse füllen Sie bitte die **Anlage EK** aus. Bei Ausübung einer selbständigen Tätigkeit füllen Sie bitte **zusätzlich** die **Anlage EKS** aus.",
-            "page": 2,
+            "page": 3,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 71,
+            "x2": 458,
+            "y1": 628,
+            "y2": 636
+        },
+        {
+            "align": "start",
+            "content": "Bei einer Antragstellung ist grundsätzlich die Vorlage von Kontoauszügen erforderlich. Bitte legen Sie daher Kontoauszüge der letzten drei Monaten vor.",
+            "page": 3,
             "structure": "",
             "style": "color: #00965A",
             "x1": 71,
@@ -1235,31 +1404,72 @@
         },
         {
             "align": "left",
-            "content": "Vermögen",
-            "page": 2,
-            "structure": "7.",
+            "content": "Meine Bedarfsgemeinschaft verfügt über erhebliches Vermögen",
+            "page": 3,
+            "structure": "",
             "style": "font-weight: bold",
-            "x1": 77,
+            "x1": 33,
+            "x2": 414,
+            "y1": 26,
+            "y2": 36
+        },
+        {
+            "align": "left",
+            "content": "Ja",
+            "page": 3,
+            "structure": "",
+            "x1": 382,
+            "x2": 397,
+            "y1": 227,
+            "y2": 236
+        },
+        {
+            "align": "left",
+            "content": "Nein",
+            "page": 3,
+            "structure": "",
+            "x1": 412,
             "x2": 458,
-            "y1": 666,
-            "y2": 676
+            "y1": 227,
+            "y2": 236
         },
         {
             "align": "start",
-            "content": "Zur Prüfung der Vermögensverhältnisse von sämtlichen Personen der Bedarfsgemeinschaft füllen Sie bitte die **Anlgae VM** aus.",
-            "page": 2,
+            "content": "Erheblich ist kurzfristig für den Lebensunterhalt verwertbares Vermögen der Antragstellerin/des Antragstellers über 60.000 Euro sowie über 30.000 Euro für jede weitere Person in der Bedarfsgemeinschaft. Beispiele: Barmittel, Sparguthaben, Tagesgelder, Wertpapiersparpläne und -depots. Nicht in die Erheblichkeitsprüfung einzubeziehen sind Vermögensgegenstände, die nicht frei verfügbar sind. Dazu gehören insbesondere selbstgenutzte Wohnimmobilien und typische Altersvorsorgeprodukte wie Kapitallebens- oder -rentenversicherungen. Sollte bei Ihnen erhebliches Vermögen vorliegen, füllen Sie bitte die **Anlage VM** aus.",
+            "page": 3,
             "structure": "",
             "style": "color: #00965A",
             "x1": 71,
             "x2": 458,
-            "y1": 682,
-            "y2": 690
+            "y1": 628,
+            "y2": 636
+        },
+        {
+            "align": "start",
+            "content": "Wenn Sie erhebliches Vermögen haben und derzeit eine selbständige Tätigkeit ausüben oder in Ihrem Berufsleben bereits ausgeübt haben, sind noch folgende Angaben erforderlich:",
+            "page": 3,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 71,
+            "x2": 458,
+            "y1": 628,
+            "y2": 636
+        },
+        {
+            "align": "start",
+            "content": "Die Anzahl an Jahren, in denen ich insgesamt eine selbständige Tätigkeit ausgeübt habe, beträgt:",
+            "page": 3,
+            "structure": "",
+            "x1": 71,
+            "x2": 458,
+            "y1": 628,
+            "y2": 636
         },
         {
             "align": "left",
             "content": "Meine Lebenssituation",
             "page": 3,
-            "structure": "8.",
+            "structure": "7.",
             "style": "font-weight: bold",
             "x1": 33,
             "x2": 414,
@@ -1270,7 +1480,7 @@
             "align": "left",
             "content": "Vorrangige Leistungen",
             "page": 3,
-            "structure": "8.1",
+            "structure": "7.1",
             "style": "font-weight: bold",
             "x1": 38,
             "x2": 414,
@@ -1321,7 +1531,6 @@
             "content": "war ich **beschäftigt**.",
             "page": 3,
             "structure": "",
-            "style": "font-weight: bold",
             "x1": 42,
             "x2": 414,
             "y1": 109,
@@ -1409,46 +1618,6 @@
         },
         {
             "align": "left",
-            "content": "von - bis",
-            "page": 3,
-            "structure": "",
-            "x1": 42,
-            "x2": 134,
-            "y1": 196,
-            "y2": 205
-        },
-        {
-            "align": "left",
-            "content": "Arbeitgeber",
-            "page": 3,
-            "structure": "",
-            "x1": 138,
-            "x2": 256,
-            "y1": 196,
-            "y2": 205
-        },
-        {
-            "align": "left",
-            "content": "sozialversicherungspflichtig",
-            "page": 3,
-            "structure": "",
-            "x1": 277,
-            "x2": 414,
-            "y1": 197,
-            "y2": 206
-        },
-        {
-            "align": "left",
-            "content": "Minijob",
-            "page": 3,
-            "structure": "",
-            "x1": 277,
-            "x2": 414,
-            "y1": 210,
-            "y2": 219
-        },
-        {
-            "align": "left",
             "content": "war ich **selbständig** tätig.",
             "page": 3,
             "structure": "",
@@ -1479,7 +1648,7 @@
         },
         {
             "align": "left",
-            "content": "habe ich **Wehrdienst oder freiwilligen Dienst** geleistet (z. B. FSJ, Bundesfreiwilligendienst).",
+            "content": "habe ich **Wehrdienst oder freiwilligen Dienst** geleistet (zum Beispiel Freiwilliges Soziales Jahr, Bundesfreiwilligendienst).",
             "page": 3,
             "structure": "",
             "x1": 42,
@@ -1499,7 +1668,7 @@
         },
         {
             "align": "left",
-            "content": "habe ich **Entgeltersatzleistungen** erhalten (z. B. Krankengeld, Arbeitslosengeld, Mutterschaftsgeld, Übergangsgeld, Elterngeld).",
+            "content": "habe ich **Entgeltersatzleistungen** erhalten (zum Beispiel Krankengeld, Arbeitslosengeld, Mutterschaftsgeld, Übergangsgeld, Elterngeld).",
             "page": 3,
             "structure": "",
             "x1": 42,
@@ -1549,7 +1718,7 @@
         },
         {
             "align": "left",
-            "content": "trifft keiner der o. g. Punkte auf mich zu. Ich habe meinen **Lebensunterhalt wie folgt bestritten** (z. B. finanzielle Unterstützung durch Verwandte/Bekannte, Ersparnisse, Erbschaft):",
+            "content": "trifft keiner dieser Punkte auf mich zu. Ich habe meinen **Lebensunterhalt wie folgt bestritten** (zum Beispiel finanzielle Unterstützung durch Verwandte/Bekannte, Ersparnisse, Erbschaft):",
             "page": 3,
             "structure": "",
             "x1": 42,
@@ -1561,7 +1730,7 @@
             "align": "left",
             "content": "Ansprüche gegenüber Dritten",
             "page": 3,
-            "structure": "8.2",
+            "structure": "7.2",
             "style": "font-weight: bold",
             "x1": 38,
             "x2": 414,
@@ -1570,7 +1739,7 @@
         },
         {
             "align": "left",
-            "content": "Ich habe schon andere Leistungen (z. B. Leistungen nach dem Bundesausbildungsförderungsgesetz (BAföG), Berufsausbildungsbeihilfe (BAB), Wohngeld, Arbeitslosengeld, Rente, Kindergeld) beantragt oder beabsichtige, einen Antrag zu stellen.",
+            "content": "Ich habe schon andere Leistungen **beantragt** oder **beabsichtige, einen Antrag zu stellen**. Dazu sählen beispielsweise Leistungen nach dem Bundesausbildungsförderungsgesetz (BAföG), Berufsausbildungsbeihilfe (BAB), Wohngeld, Arbeitslosengeld, Rente (Alters-, Hinterbliebenen- und Grundrenten), Krankengeld, Kindergeld und Kinderzuschlag.",
             "page": 3,
             "structure": "",
             "x1": 42,
@@ -1610,7 +1779,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte legen Sie einen Nachweis vor, sofern schon über Ihren Antrag/Ihre Anträge entschieden wurde.",
+            "content": "Bitte legen Sie einen aktuellen Nachweis vor.",
             "page": 3,
             "structure": "",
             "style": "color: #00965A",
@@ -1621,8 +1790,8 @@
         },
         {
             "align": "left",
-            "content": "Ich erhebe Ansprüche gegen einen (ehemaligen) Arbeitgeber auf noch ausstehende Lohn- oder Gehaltszahlungen (z. B. bei Zahlungsunfähigkeit/Insolvenz des Arbeitgebers) oder für Zeiten nach dem Ausscheiden (z. B. bei noch ausstehenden Abfindungen).",
-            "page": 3,
+            "content": "Ich erhebe Ansprüche gegen einen (ehemaligen) Arbeitgeber auf noch ausstehende Lohn- oder Gehaltszahlungen (zum Beispiel bei Zahlungsunfähigkeit/Insolvenz des Arbeitgebers) oder für Zeiten nach dem Ausscheiden (zum Beispiel bei noch ausstehenden Abfindungen).",
+            "page": 4,
             "structure": "",
             "x1": 42,
             "x2": 414,
@@ -1632,7 +1801,7 @@
         {
             "align": "left",
             "content": "Arbeitgeber",
-            "page": 3,
+            "page": 4,
             "structure": "",
             "x1": 42,
             "x2": 213,
@@ -1642,7 +1811,7 @@
         {
             "align": "left",
             "content": "Anschrift",
-            "page": 3,
+            "page": 4,
             "structure": "",
             "x1": 216,
             "x2": 414,
@@ -1652,7 +1821,7 @@
         {
             "align": "left",
             "content": "Grund",
-            "page": 3,
+            "page": 4,
             "structure": "",
             "x1": 42,
             "x2": 414,
@@ -1661,66 +1830,14 @@
         },
         {
             "align": "left",
-            "content": "Bitte legen Sie einen geeigneten Nachweis vor (z. B. Schriftwechsel mit Ihrer Rechtsanwältin/Ihrem Rechtsanwalt oder dem Gericht).",
-            "page": 3,
+            "content": "Bitte legen Sie einen geeigneten Nachweis vor (zum Beispiel Schriftwechsel mit Ihrer Rechtsanwältin/Ihrem Rechtsanwalt oder dem Gericht).",
+            "page": 4,
             "structure": "",
             "style": "color: #00965A",
             "x1": 38,
             "x2": 414,
             "y1": 739,
             "y2": 747
-        },
-        {
-            "align": "left",
-            "content": "Ich habe einen gesundheitlichen Schaden durch einen Dritten erlitten (z. B. Arbeits-, Verkehrs-, Spiel- oder Sportunfall, ärztlicher Behandlungsfehler oder tätliche Auseinandersetzung). Ich muss deshalb Leistungen beim Jobcenter beantragen.",
-            "page": 4,
-            "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 67,
-            "y2": 76
-        },
-        {
-            "align": "left",
-            "content": "Bitte füllen Sie die **Anlage UF** aus.",
-            "page": 4,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 96,
-            "x2": 458,
-            "y1": 103,
-            "y2": 111
-        },
-        {
-            "align": "left",
-            "content": "Ich habe einen Anspruch gegenüber Dritten (z. B. aus vertraglichen Zahlungsansprüchen oder Schadensersatzforderungen).",
-            "page": 4,
-            "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 126,
-            "y2": 135
-        },
-        {
-            "align": "left",
-            "content": "Bezeichnung des Anspruchs",
-            "page": 4,
-            "structure": "",
-            "x1": 88,
-            "x2": 463,
-            "y1": 147,
-            "y2": 156
-        },
-        {
-            "align": "left",
-            "content": "Bitte weisen Sie den Anspruch durch aktuelle Unterlagen nach.",
-            "page": 4,
-            "structure": "",
-            "style": "color: #00965A",
-            "x1": 92,
-            "x2": 458,
-            "y1": 176,
-            "y2": 184
         },
         {
             "align": "left",
@@ -1745,7 +1862,7 @@
         },
         {
             "align": "left",
-            "content": "Ich bin geschieden bzw. meine eingetragene Lebenspartnerschaft wurde aufgehoben.",
+            "content": "Ich bin geschieden oder meine eingetragene Lebenspartnerschaft wurde aufgehoben.",
             "page": 4,
             "structure": "",
             "x1": 86,
@@ -1776,7 +1893,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte füllen Sie die **Anlage UH1** aus.",
+            "content": "Bitte füllen Sie die **Anlage UH2** aus.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
@@ -1830,6 +1947,58 @@
         },
         {
             "align": "left",
+            "content": "Ich habe einen gesundheitlichen Schaden durch einen Dritten erlitten (zum Beispiel Arbeits-, Verkehrs-, Spiel- oder Sportunfall, ärztlicher Behandlungsfehler oder tätliche Auseinandersetzung). Ich muss deshalb Leistungen beim Jobcenter beantragen.",
+            "page": 4,
+            "structure": "",
+            "x1": 86,
+            "x2": 458,
+            "y1": 67,
+            "y2": 76
+        },
+        {
+            "align": "left",
+            "content": "Bitte füllen Sie die **Anlage UF** aus.",
+            "page": 4,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 96,
+            "x2": 458,
+            "y1": 103,
+            "y2": 111
+        },
+        {
+            "align": "left",
+            "content": "Ich habe einen Anspruch gegenüber Dritten (zum Beispiel aus vertraglichen Zahlungsansprüchen oder Schadensersatzforderungen).",
+            "page": 4,
+            "structure": "",
+            "x1": 86,
+            "x2": 458,
+            "y1": 126,
+            "y2": 135
+        },
+        {
+            "align": "left",
+            "content": "Bezeichnung des Anspruchs",
+            "page": 4,
+            "structure": "",
+            "x1": 88,
+            "x2": 463,
+            "y1": 147,
+            "y2": 156
+        },
+        {
+            "align": "left",
+            "content": "Bitte weisen Sie den Anspruch durch aktuelle Unterlagen nach.",
+            "page": 4,
+            "structure": "",
+            "style": "color: #00965A",
+            "x1": 92,
+            "x2": 458,
+            "y1": 176,
+            "y2": 184
+        },
+        {
+            "align": "left",
             "content": "Für mich wurde eine Verpflichtungserklärung gegenüber der Ausländerbehörde oder der Auslandsvertretung abgegeben.",
             "page": 4,
             "structure": "",
@@ -1840,7 +2009,27 @@
         },
         {
             "align": "left",
-            "content": "Bitte legen Sie hierzu geeignete Unterlagen vor (z. B. Kopie der Verpflichtungserklärung).",
+            "content": "Ja",
+            "page": 4,
+            "structure": "",
+            "x1": 338,
+            "x2": 352,
+            "y1": 611,
+            "y2": 620
+        },
+        {
+            "align": "left",
+            "content": "Nein",
+            "page": 4,
+            "structure": "",
+            "x1": 368,
+            "x2": 414,
+            "y1": 611,
+            "y2": 620
+        },
+        {
+            "align": "left",
+            "content": "Bitte legen Sie die Verpflichtungserklärung oder geeignete Unterlagen vor.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
@@ -1853,7 +2042,7 @@
             "align": "left",
             "content": "Kranken- und Pflegeversicherung",
             "page": 4,
-            "structure": "9.",
+            "structure": "8.",
             "style": "font-weight: bold",
             "x1": 77,
             "x2": 458,
@@ -1864,7 +2053,7 @@
             "align": "left",
             "content": "Pflichtversicherung in der gesetzlichen Kranken- und Pflegeversicherung",
             "page": 4,
-            "structure": "9.1",
+            "structure": "8.1",
             "style": "font-weight: bold",
             "x1": 82,
             "x2": 458,
@@ -1880,6 +2069,26 @@
             "x2": 458,
             "y1": 456,
             "y2": 465
+        },
+        {
+            "align": "left",
+            "content": "Mit Beginn des Anspruchs auf Arbeitslosengeld II möchte ich versichert werden bei:",
+            "page": 4,
+            "structure": "",
+            "x1": 85,
+            "x2": 199,
+            "y1": 478,
+            "y2": 487
+        },
+        {
+            "align": "left",
+            "content": "der bisherigen Krankenkasse",
+            "page": 4,
+            "structure": "",
+            "x1": 85,
+            "x2": 199,
+            "y1": 478,
+            "y2": 487
         },
         {
             "align": "left",
@@ -1909,7 +2118,7 @@
         },
         {
             "align": "left",
-            "content": "Bitte legen Sie eine Mitgliedsbescheinigung oder einen anderweitigen Nachweis der Krankenkasse über Ihre Versicherung vor. Ersatzweise können Sie auch Ihre gültige elektronische Gesundheitskarte vorlegen.",
+            "content": "Bitte legen Sie eine Mitgliedsbescheinigung oder einen anderweitigen Nachweis der Krankenkasse über Ihre Versicherung vor. Ersatzweise können Sie auch Ihre gültige elektronische Gesundheitskarte vorlegen, diese wird nicht zur Akte genommen.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
@@ -1920,33 +2129,13 @@
         },
         {
             "align": "left",
-            "content": "Ich bin **familienversichert** und bin in Zukunft pflichtversichert bei",
+            "content": "einer anderen Krankenkasse",
             "page": 4,
             "structure": "",
-            "x1": 86,
-            "x2": 458,
-            "y1": 546,
-            "y2": 555
-        },
-        {
-            "align": "left",
-            "content": "der bisherigen Krankenkasse.",
-            "page": 4,
-            "structure": "",
-            "x1": 103,
-            "x2": 460,
-            "y1": 563,
-            "y2": 572
-        },
-        {
-            "align": "left",
-            "content": "einer anderen Krankenkasse.",
-            "page": 4,
-            "structure": "",
-            "x1": 103,
-            "x2": 460,
-            "y1": 580,
-            "y2": 589
+            "x1": 85,
+            "x2": 199,
+            "y1": 478,
+            "y2": 487
         },
         {
             "align": "left",
@@ -1954,25 +2143,41 @@
             "page": 4,
             "structure": "",
             "x1": 85,
-            "x2": 258,
-            "y1": 598,
-            "y2": 607
+            "x2": 199,
+            "y1": 478,
+            "y2": 487
         },
         {
             "align": "left",
-            "content": "Bitte legen Sie eine Mitgliedsbescheinigung oder einen anderweitigen Nachweis der Krankenkasse über Ihre Krankenkassenwahl vor, wenn Sie die Krankenkasse wechseln.",
+            "content": "Krankenversichertennummer",
+            "page": 4,
+            "structure": "",
+            "x1": 202,
+            "x2": 458,
+            "y1": 478,
+            "y2": 487
+        },
+        {
+            "append": " ",
+            "content": "(falls bekannt)",
+            "page": 4,
+            "structure": ""
+        },
+        {
+            "align": "left",
+            "content": "Bitte legen Sie eine Mitgliedsbescheinigung oder einen anderweitigen aktuellen Nachweis der Krankenkasse über Ihre Krankenkassenwahl vor, wenn Sie die Krankenkasse wechseln.",
             "page": 4,
             "structure": "",
             "style": "color: #00965A",
-            "x1": 92,
-            "x2": 458,
-            "y1": 627,
-            "y2": 635
+            "x1": 79,
+            "x2": 445,
+            "y1": 609,
+            "y2": 617
         },
         {
             "align": "left",
             "content": "Private, freiwillig gesetzliche oder fehlende Kranken- und Pflegeversicherung",
-            "page": 4,
+            "page": 5,
             "structure": "7.2",
             "style": "font-weight: bold",
             "x1": 82,
@@ -1983,7 +2188,7 @@
         {
             "align": "left",
             "content": "Ich bin **privat** oder **freiwillig gesetzlich** versichert.",
-            "page": 4,
+            "page": 5,
             "structure": "",
             "x1": 86,
             "x2": 249,
@@ -1993,7 +2198,7 @@
         {
             "align": "left",
             "content": "Bitte füllen Sie die **Anlage SV**, Abschnitt 3 aus.",
-            "page": 4,
+            "page": 5,
             "structure": "",
             "style": "color: #00965A",
             "x1": 96,
@@ -2004,7 +2209,7 @@
         {
             "align": "left",
             "content": "Ich bin **nicht** versichert.",
-            "page": 4,
+            "page": 5,
             "structure": "",
             "x1": 269,
             "x2": 458,
@@ -2014,7 +2219,7 @@
         {
             "align": "left",
             "content": "Bitte füllen Sie die **Anlage SV**, Abschnitt 4 aus.",
-            "page": 4,
+            "page": 5,
             "structure": "",
             "style": "color: #00965A",
             "x1": 279,
@@ -2026,7 +2231,7 @@
             "align": "left",
             "content": "Bildung und Teilhabe",
             "page": 5,
-            "structure": "10.",
+            "structure": "9.",
             "style": "font-weight: bold",
             "x1": 38,
             "x2": 416,
@@ -2035,7 +2240,7 @@
         },
         {
             "align": "left",
-            "content": "Beachten Sie bitte, dass Personen unter 25 Jahren Leistungen für Bildung und Teilhabe beanspruchen können. Wenden Sie sich dazu bitte an Ihr Jobcenter oder den zuständigen kommunalen Träger.",
+            "content": "Beachten Sie bitte, dass Personen unter 25 Jahren Leistungen für Bildung und Teilhabe beanspruchen können. Weitere Informationen erhalten Sie bei Ihrem Jobcenter oder dem zuständigen kommunalen Träger.",
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
@@ -2048,7 +2253,7 @@
             "align": "left",
             "content": "Meine Bankverbindung",
             "page": 5,
-            "structure": "1.3",
+            "structure": "10",
             "style": "font-weight: bold",
             "x1": 38,
             "x2": 416,
@@ -2110,7 +2315,7 @@
         },
         {
             "align": "left",
-            "content": "Ich möchte das Online-Angebot auf www.jobcenter.digital nutzen und mir ein passwortgeschütztes Benutzerkonto zur Erledigung wichtiger Anliegen (z. B. Mitteilung von Änderungen) einrichten lassen.",
+            "content": "Ich möchte das Online-Angebot auf www.jobcenter.digital nutzen und mir ein passwortgeschütztes Benutzerkonto zur Erledigung wichtiger Anliegen (zum Beispiel Mitteilung von Änderungen) einrichten lassen.",
             "page": 5,
             "structure": "",
             "x1": 42,
@@ -2131,7 +2336,7 @@
         },
         {
             "align": "start",
-            "content": "Personen, die SGB II-Leistungen beantragen oder erhalten, sind mitwirkungspflichtig: Das bedeutet, alle Angaben im Antrag und in den hierzu eingereichten Anlagen müssen richtig und vollständig sein und Änderungen, die nach der Antragstellung eintreten und sich auf die Leistungen auswirken können (z. B. Arbeitsaufnahme, Umzug), sind dem zuständigen Jobcenter unverzüglich mitzuteilen. Die Mitwirkungspflichten sind von allen Mitgliedern einer Bedarfsgemeinschaft zu beachten.",
+            "content": "Personen, die SGB II-Leistungen beantragen oder erhalten, sind mitwirkungspflichtig.",
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
@@ -2142,13 +2347,19 @@
         },
         {
             "append": "\n\n",
-            "content": "Bei Verstoß gegen diese Mitwirkungspflichten werden in aller Regel von allen leistungsberechtigten Personen einer Bedarfsgemeinschaft zu viel gezahlte Leistungen zurückgefordert. Sofern zu Ihrer Bedarfsgemeinschaft noch weitere Personen gehören, sollten Sie als Vertreterin/Vertreter beim Ausfüllen des Antrags alle Mitglieder einbeziehen und die wesentlichen sowie die sie betreffenden Angaben mit ihnen abstimmen. Stellen Sie zudem bitte sicher, dass alle Mitglieder alle notwendigen Informationen (z. B. Bescheide) erhalten.",
+            "content": "Das bedeutet, **alle Angaben** im Antrag und in den hierzu eingereichten Anlagen müssen **richtig und vollständig** sein. Änderungen, die nach der Antragstellung eintreten und sich auf die Leistungen auswirken können (zum Beispiel Arbeitsaufnahme, Umzug), sind dem zuständigen Jobcenter **unverzüglich mitzuteilen**. Die Mitwirkungspflichten sind von allen Mitgliedern einer Bedarfsgemeinschaft zu beachten.",
             "page": 5,
             "structure": ""
         },
         {
             "append": "\n\n",
-            "content": "Ein Verstoß kann zusätzlich zu einem Ordnungswidrigkeiten- oder Strafverfahren gegen die Person führen, die die oben genannten Pflichten missachtet hat. Das Jobcenter holt im Wege eines automatisierten Datenabgleichs bei verschiedenen Stellen Auskünfte über Einkommen und Vermögen ein (z. B. Arbeitsentgelte, Kapitalerträge, Renten). Verschwiegene Einkommen und Vermögen werden daher regelmäßig nachträglich bekannt.",
+            "content": "**Bei Verstoß** gegen diese Mitwirkungspflichten werden in aller Regel von allen leistungsberechtigten Personen einer Bedarfsgemeinschaft **zu viel gezahlte Leistungen zurückgefordert**. Sofern zu Ihrer Bedarfsgemeinschaft noch weitere Personen gehören, sollten Sie als Vertreterin/Vertreter beim Ausfüllen des Antrags alle Mitglieder einbeziehen und die wesentlichen sowie die sie betreffenden Angaben mit ihnen abstimmen. Stellen Sie zudem bitte sicher, dass alle Mitglieder alle notwendigen Informationen (zum Beispiel Bescheide) erhalten.",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "append": "\n\n",
+            "content": "Ein Verstoß kann zusätzlich zu einem **Ordnungswidrigkeiten- oder Strafverfahren** gegen die Person führen, die die oben genannten Pflichten missachtet hat. Das Jobcenter holt im Wege eines automatisierten Datenabgleichs bei verschiedenen Stellen Auskünfte über Einkommen und Vermögen ein (zum Beispiel Arbeitsentgelte, Kapitalerträge, Renten). Verschwiegene Einkommen und Vermögen werden daher regelmäßig nachträglich bekannt.",
             "page": 5,
             "structure": ""
         },
@@ -2174,7 +2385,7 @@
         },
         {
             "align": "left",
-            "content": "Legen Sie bitte einen Nachweis über die Betreuung vor (Bestallungsurkunde oder Ausweis der Betreuerin/des Betreuers).",
+            "content": "Bitte legen Sie einen Nachweis über die Betreuung vor (Bestallungsurkunde oder Ausweis der Betreuerin/des Betreuers).",
             "page": 5,
             "structure": "",
             "style": "color: #00965A",
@@ -2253,6 +2464,62 @@
             "x2": 416,
             "y1": 616,
             "y2": 625
+        },
+        {
+            "content": "Bearbeitungsvermerke",
+            "page": 5,
+            "structure": "",
+            "x1": 410,
+            "y1": 42,
+            "x2": 553,
+            "y2": 51,
+            "align": "left"
+        },
+        {
+            "append": " ",
+            "content": "(Nur vom Jobcenter auszufüllen)",
+            "page": 5,
+            "structure": ""
+        },
+        {
+            "content": "In den folgenden Abschnitten wurden im Beisein der Kundin/des Kunden Änderungen vorgenommen:",
+            "page": 5,
+            "structure": "",
+            "x1": 410,
+            "y1": 42,
+            "x2": 553,
+            "y2": 51,
+            "align": "left"
+        },
+        {
+            "content": "Handzeichen, Datum:",
+            "page": 5,
+            "structure": "",
+            "x1": 410,
+            "y1": 42,
+            "x2": 553,
+            "y2": 51,
+            "align": "left"
+        },
+        {
+            "content": "Unterschrift der Kundin/des Kunden",
+            "page": 5,
+            "structure": "",
+            "x1": 410,
+            "y1": 42,
+            "x2": 553,
+            "y2": 51,
+            "align": "left"
+        },
+        {
+            "content": "Sonstige Anmerkungen des Jobcenters:",
+            "page": 5,
+            "structure": "",
+            "x1": 410,
+            "y1": 42,
+            "x2": 553,
+            "y2": 51,
+            "align": "left"
         }
     ],
     "title": "Alg II Hauptantrag",

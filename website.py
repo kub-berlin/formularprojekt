@@ -9,7 +9,7 @@ from glob import glob
 
 from jinja2 import Environment
 from jinja2 import FileSystemLoader
-from jinja2 import Markup
+from markupsafe import Markup
 
 from colorama import Fore
 import commonmark

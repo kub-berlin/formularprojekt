@@ -1,0 +1,575 @@
+{
+    "date": "2023-01-01",
+    "rows": [
+        {
+            "content": "Weiterbewilligungsantrag",
+            "page": 0
+        },
+        {
+            "content": "Antrag auf Weiterbewilligung des Bürgergeldes nach dem Zweiten Buch Sozialgesetzbuch (SGB II)",
+            "page": 0
+        },
+        {
+            "content": "Kreuzen Sie bitte Zutreffendes an.",
+            "page": 0
+        },
+        {
+            "content": "Reichen Sie bitte grundsätzlich keine Originalbelege, sondern Kopien ein.",
+            "page": 0
+        },
+        {
+            "content": "Hier können Sie die Weiterbewilligung online beantragen. Unter *www.jobcenter.digital* erhalten Sie Informationen zu unseren digitalen Angeboten, das Merkblatt SGB II und weitere Anlagen zum Antrag.",
+            "page": 0
+        },
+        {
+            "content": "Weitere Informationen finden Sie zu der jeweiligen Nummer in den Ausfüllhinweisen unter *www.arbeitsagentur.de/hinweise-sgb2*.",
+            "page": 0
+        },
+        {
+            "content": "Die nachstehenden Daten unterliegen dem Sozialgeheimnis (siehe \"Merkblatt SGB II\"). Ihre Angaben werden aufgrund der §§ 60 - 65 Erstes Buch Sozialgesetzbuch (SGB I) und der §§ 67a, b, c Zehntes Buch Sozialgesetzbuch (SGB X) für die Leistungen nach dem SGB II erhoben. Datenschutzrechtliche Hinweise erhalten Sie bei dem für Sie zuständigen Jobcenter sowie ergänzend im Internet unter *www.arbeitsagentur.de/datenerhebung*.",
+            "page": 0
+        },
+        {
+            "content": "Beachten Sie bitte, dass in den Abschnitten 2. bis 5. nicht nur nach Änderungen, sondern auch nach den derzeitigen Verhältnissen gefragt wird. Geben Sie in Abschnitt 6. bitte alle weiteren Änderungen in den persönlichen und wirtschaftlichen Verhältnissen an, die seit der letzten Antragstellung eingetreten sind und dem Jobcenter noch nicht mitgeteilt wurden.",
+            "page": 0
+        },
+        {
+            "content": "Falls Sie für Ihre Antworten mehr Platz benötigen, als im Formular vorgesehen ist, verwenden Sie bitte ein separates Blatt Papier und fügen dieses Ihrem Antrag bei.",
+            "page": 0
+        },
+        {
+            "content": "Persönliche Daten der Antragstellerin/des Antragstellers",
+            "page": 0
+        },
+        {
+            "content": "Anrede",
+            "page": 0
+        },
+        {
+            "content": "Vorname",
+            "page": 0
+        },
+        {
+            "content": "Familienname",
+            "page": 0
+        },
+        {
+            "content": "Geburtsdatum",
+            "page": 0
+        },
+        {
+            "content": "Straße, Hausnummer",
+            "page": 0
+        },
+        {
+            "content": "Postleitzahl",
+            "page": 0
+        },
+        {
+            "content": "Wohnort",
+            "page": 0
+        },
+        {
+            "content": "Nummer der Bedarfsgemeinschaft",
+            "page": 0
+        },
+        {
+            "content": "Allgemeine Angaben zu meinem Haushalt",
+            "page": 0
+        },
+        {
+            "content": "Anzahl der Personen in meiner Unterkunft (insgesamt):",
+            "page": 0
+        },
+        {
+            "content": "Mein beziehungsweise der Familienstand eines Mitglieds meiner Bedarfsgemeinschaft hat sich geändert oder wird sich ändern.",
+            "page": 0
+        },
+        {
+            "content": "Name der Person",
+            "page": 0
+        },
+        {
+            "content": "Art der Änderung",
+            "page": 0
+        },
+        {
+            "content": "Tag der Änderung",
+            "page": 0
+        },
+        {
+            "content": "Meine gesamte Bedarfsgemeinschaft wird am … in eine neue Wohnung ziehen oder ist bereits zu dem Tag in eine neue Wohnung gezogen.",
+            "page": 0
+        },
+        {
+            "content": "Bitte füllen Sie die **Anlage KDU** aus.",
+            "page": 0
+        },
+        {
+            "content": "Eine oder mehrere Person/en meiner Bedarfsgemeinschaft oder Haushaltsgemeinschaft ist/sind ein- oder ausgezogen oder wird/werden ein- oder ausziehen.",
+            "page": 0
+        },
+        {
+            "content": "Vorname",
+            "page": 0
+        },
+        {
+            "content": "Familienname",
+            "page": 0
+        },
+        {
+            "content": "Einzug am",
+            "page": 0
+        },
+        {
+            "content": "Auszug am",
+            "page": 0
+        },
+        {
+            "content": "Bitte legen Sie eine **Meldebescheinigung** für jede Person vor, die eingezogen ist.",
+            "page": 0
+        },
+        {
+            "content": "Füllen Sie bitte für Ihre Partnerin/Ehegattin beziehungsweise Ihren Partner/Ehegatten sowie für unverheiratete Kinder zwischen 15 und 24 Jahren die **Anlage WEP** aus",
+            "page": 0
+        },
+        {
+            "content": "Für unverheiratete Kinder unter 15 Jahren füllen Sie bitte die **Anlage KI** aus.",
+            "page": 0
+        },
+        {
+            "content": "Für sonstige Verwandte oder Verschwägerte (zum Beispiel Großeltern, Geschwister über 25 Jahre, verheiratete Kinder, Tanten oder Onkel) reichen Sie bitte die **Anlage HG** ein.",
+            "page": 0
+        },
+        {
+            "content": "Einkommensverhältnisse der Mitglieder der Bedarfsgemeinschaft",
+            "page": 1
+        },
+        {
+            "content": "Hier müssen Sie Ihr Einkommen und das Einkommen der Mitglieder der Bedarfsgemeinschaft eintragen.",
+            "page": 1
+        },
+        {
+            "content": "Bürgergeld zählt nicht zum Einkommen und ist hier nicht anzugeben.",
+            "page": 1
+        },
+        {
+            "content": "Bei einer Antragstellung ist grundsätzlich die Vorlage von Kontoauszügen erforderlich. Bitte legen Sie daher Kontoauszüge der letzten drei Monate vor.",
+            "page": 1
+        },
+        {
+            "content": "Arbeitseinkommen aus Erwerbstätigkeit (haupt- und nebenberuflich/Minijob)",
+            "page": 1
+        },
+        {
+            "content": "Bitte legen Sie eine **Verdienstabrechnung** vor.",
+            "page": 1
+        },
+        {
+            "content": "Auf Aufforderung des Jobcenters lassen Sie bitte auch eine **Einkommensbescheinigung** vom Arbeitgeber ausfüllen.",
+            "page": 1
+        },
+        {
+            "content": "Name der Person",
+            "page": 1
+        },
+        {
+            "content": "Name und Firmenanschrift des Arbeitgebers",
+            "page": 1
+        },
+        {
+            "content": "Die Tätigkeit wird/wurde als Ferienjob ausgeübt.",
+            "page": 1
+        },
+        {
+            "content": "Name der Person",
+            "page": 1
+        },
+        {
+            "content": "Name und Firmenanschrift des Arbeitgebers",
+            "page": 1
+        },
+        {
+            "content": "Die Tätigkeit wird/wurde als Ferienjob ausgeübt.",
+            "page": 1
+        },
+        {
+            "content": "gemeinnützige oder ehrenamtliche Tätigkeit, für die (steuerfreie) **Aufwandsentschädigungen** gezahlt werden",
+            "page": 1
+        },
+        {
+            "content": "Name der Person",
+            "page": 1
+        },
+        {
+            "content": "Art der Tätigkeit",
+            "page": 1
+        },
+        {
+            "content": "Zahlungseingang",
+            "page": 1
+        },
+        {
+            "content": "Bitte legen Sie aktuelle Nachweise über die konkrete Tätigkeit, die Art und Höhe der Aufwandsentschädigung, den Zahlungseingang und die in diesem Zusammenhang entstehenden Aufwendungen vor.",
+            "page": 1
+        },
+        {
+            "content": "Ausübung einer **selbständigen Tätigkeit** (auch in der Land- und Forstwirtschaft)",
+            "page": 1
+        },
+        {
+            "content": "Name der Person",
+            "page": 1
+        },
+        {
+            "content": "Bitte füllen Sie die **Anlage EKS** aus.",
+            "page": 1
+        },
+        {
+            "content": "**Arbeitslosengeld** nach dem Dritten Buch Sozialgesetzbuch",
+            "page": 1
+        },
+        {
+            "content": "Name der Person",
+            "page": 1
+        },
+        {
+            "content": "Bitte legen Sie den Bewilligungsbescheid der Agentur für Arbeit vor.",
+            "page": 1
+        },
+        {
+            "content": "**Renten** (zum Beispiel aus der gesetzlichen Sozialversicherung wie Altersrente, Knappschaftsausgleichsleistungen, Unfall-/Verletztenrente, Hinterbliebenenrente und Grundrente), Betriebsrenten, Pensionen, ausländische Renten, Arbeitsmarktrenten",
+            "page": 1
+        },
+        {
+            "content": "Name der Person",
+            "page": 1
+        },
+        {
+            "content": "Rentenart",
+            "page": 1
+        },
+        {
+            "content": "Name der Person",
+            "page": 1
+        },
+        {
+            "content": "Rentenart",
+            "page": 1
+        },
+        {
+            "content": "Bitte legen Sie einen aktuellen Nachweis über Art und Umfang der erhaltenen Zahlungen vor.",
+            "page": 1
+        },
+        {
+            "content": "Wenn Sie und/oder ein Mitglied Ihrer Bedarfsgemeinschaft die nachfolgend aufgeführten **laufenden** und **regelmäßigen** Einnahmen haben/hat, tragen Sie bitte die Art der Einnahmen in die unten stehende Tabelle ein und legen aktuelle Nachweise vor.",
+            "page": 2
+        },
+        {
+            "content": "Einnahmen aus **Vermietung, Untervermietung oder Verpachtung** (auch aus Land- und Forstwirtschaft)",
+            "page": 2
+        },
+        {
+            "content": "sonstige **Entgeltersatzleistungen** (zum Beispiel Übergangsgeld, Krankengeld)",
+            "page": 2
+        },
+        {
+            "content": "**Sachbezüge** (zum Beispiel kostenfreie Verpflegung)",
+            "page": 2
+        },
+        {
+            "content": "**Wohngeld, Sozialhilfe, weitere Sozialleistungen**",
+            "page": 2
+        },
+        {
+            "content": "**BAföG, Berufsausbildungsbeihilfe, Ausbildungsgeld**",
+            "page": 2
+        },
+        {
+            "content": "sonstige **laufende Einnahmen** (zum Beispiel Elterngeld, Mutterschaftsgeld, Pflegegeld, Trinkgelder, Einnahmen aus einem Bundesfreiwilligendienst)",
+            "page": 2
+        },
+        {
+            "content": "Name der Person",
+            "page": 2
+        },
+        {
+            "content": "Einkommens-/Leistungsart",
+            "page": 2
+        },
+        {
+            "content": "Name der Person",
+            "page": 2
+        },
+        {
+            "content": "Einkommens-/Leistungsart",
+            "page": 2
+        },
+        {
+            "content": "**einmalige** Einnahmen und **unregelmäßige** Einnahmen (zum Beispiel Steuerrückerstattungen, Insolvenzgeld, Zinsen, sonstige Kapitalerträge, Erbschaften, Schenkungen)",
+            "page": 2
+        },
+        {
+            "content": "Name der Person",
+            "page": 2
+        },
+        {
+            "content": "Einkommensart",
+            "page": 2
+        },
+        {
+            "content": "Einkommenshöhe",
+            "page": 2
+        },
+        {
+            "content": "Zahlungseingang am",
+            "page": 2
+        },
+        {
+            "content": "Bitte legen Sie aktuelle Nachweise vor.",
+            "page": 2
+        },
+        {
+            "content": "**Kindergeld**",
+            "page": 2
+        },
+        {
+            "content": "Bitte legen Sie den Kindergeldbescheid vor.",
+            "page": 2
+        },
+        {
+            "content": "Die Mitglieder der Bedarfsgemeinschaft haben **keines der oben genannten Einkommen**.",
+            "page": 2
+        },
+        {
+            "content": "Absetzungen vom Einkommen (Werbungskosten)",
+            "page": 2
+        },
+        {
+            "content": "Die Absetzungen vom Einkommen (Werbungskosten) haben sich geändert:",
+            "page": 2
+        },
+        {
+            "content": "Ja",
+            "page": 2
+        },
+        {
+            "content": "Nein",
+            "page": 2
+        },
+        {
+            "content": "Name der Person",
+            "page": 2
+        },
+        {
+            "content": "Art der Absetzung",
+            "page": 2
+        },
+        {
+            "content": "Monatliche Höhe in Euro",
+            "page": 2
+        },
+        {
+            "content": "Tag der Änderung",
+            "page": 2
+        },
+        {
+            "content": "Bitte legen Sie aktuelle Nachweise vor.",
+            "page": 2
+        },
+        {
+            "content": "Kosten für Unterkunft und Heizung",
+            "page": 2
+        },
+        {
+            "content": "Mir entstehen Kosten für Unterkunft und Heizung.",
+            "page": 2
+        },
+        {
+            "content": "Ja",
+            "page": 2
+        },
+        {
+            "content": "Nein",
+            "page": 2
+        },
+        {
+            "content": "Ich wohne zur Miete.",
+            "page": 2
+        },
+        {
+            "content": "Höhe der tatsächlichen monatlichen Kosten für die Unterkunft",
+            "page": 2
+        },
+        {
+            "content": "Grundmiete (ohne Nebenkosten)",
+            "page": 2
+        },
+        {
+            "content": "Nebenkosten (ohne Heizkosten)",
+            "page": 2
+        },
+        {
+            "content": "Heizkosten",
+            "page": 2
+        },
+        {
+            "content": "sonstige Wohnkosten",
+            "page": 2
+        },
+        {
+            "content": "Bitte legen Sie aktuelle Nachweise mit Angabe der jeweiligen Fälligkeit vor.",
+            "page": 2
+        },
+        {
+            "content": "Ich wohne im Eigentum.",
+            "page": 2
+        },
+        {
+            "content": "Höhe der tatsächlichen monatlichen Kosten für das Eigentum",
+            "page": 2
+        },
+        {
+            "content": "Schuldzinsen ohne Tilgungsraten",
+            "page": 2
+        },
+        {
+            "content": "Nebenkosten (ohne Heizkosten)",
+            "page": 2
+        },
+        {
+            "content": "Heizkosten",
+            "page": 2
+        },
+        {
+            "content": "sonstige Wohnkosten",
+            "page": 2
+        },
+        {
+            "content": "Bitte legen Sie aktuelle Nachweise mit Angabe der jeweiligen Fälligkeit vor.",
+            "page": 2
+        },
+        {
+            "content": "Weitere Änderungen",
+            "page": 3
+        },
+        {
+            "content": "Bitte geben Sie hier alle Änderungen zu Ihren Angaben im (Erst-) Antrag an, die Sie noch nicht mitgeteilt haben, zum Beispiel (keine abschließende Aufzählung):",
+            "page": 3
+        },
+        {
+            "content": "- Sie haben oder ein Mitglied Ihrer Bedarfsgemeinschaft hat eine eheähnliche Gemeinschaft begründet oder sich von der Partnerin/dem Partner getrennt.",
+            "page": 3
+        },
+        {
+            "content": "- Die Anschrift oder die Bankverbindung hat sich geändert oder wird sich ändern.",
+            "page": 3
+        },
+        {
+            "content": "- Sie möchten oder ein Mitglied Ihrer Bedarfsgemeinschaft möchte nun einen Anspruch auf Mehrbedarf geltend machen (zum Beispiel Mehrbedarf für Schwangere, Mehrbedarf kostenaufwändige Ernährung).",
+            "page": 3
+        },
+        {
+            "content": "- Es haben sich Änderungen zur Kranken- oder Pflegeversicherung ergeben oder werden sich ergeben.",
+            "page": 3
+        },
+        {
+            "content": "- Es haben sich Änderungen zum Vermögen ergeben oder werden sich ergeben.",
+            "page": 3
+        },
+        {
+            "content": "Name der Person",
+            "page": 3
+        },
+        {
+            "content": "Tag der Änderung",
+            "page": 3
+        },
+        {
+            "content": "Art der Änderung",
+            "page": 3
+        },
+        {
+            "content": "Name der Person",
+            "page": 3
+        },
+        {
+            "content": "Tag der Änderung",
+            "page": 3
+        },
+        {
+            "content": "Art der Änderung",
+            "page": 3
+        },
+        {
+            "content": "Bitte legen Sie aktuelle Nachweise vor.",
+            "page": 3
+        },
+        {
+            "content": "Bildung und Teilhabe",
+            "page": 3
+        },
+        {
+            "content": "Beachten Sie bitte, dass Personen unter 25 Jahren einen Anspruch auf Leistungen für Bildung und Teilhabe haben können. Weitere Informationen erhalten Sie bei Ihrem Jobcenter/dem zuständigen kommunalen Träger.",
+            "page": 3
+        },
+        {
+            "content": "Beachten Sie bitte, dass Ihr Antrag in der Regel auf den Ersten des Monats zurückwirkt (§ 37 Absatz 2 Satz 2 SGB II) und Sie deshalb Angaben – insbesondere zum Zufluss von Einkommen – für den kompletten Monat Ihrer Antragstellung machen müssen.",
+            "page": 3
+        },
+        {
+            "content": "Meine Mitwirkungspflichten",
+            "page": 3
+        },
+        {
+            "content": "Personen, die Leistungen nach dem SGB II beantragen oder erhalten, sind **mitwirkungspflichtig**: Das bedeutet, **alle Angaben** im Antrag und in den hierzu eingereichten Anlagen **müssen richtig und vollständig** sein. **Änderungen**, die nach der Antragstellung eintreten und sich auf die Leistungen auswirken können (zum Beispiel Arbeitsaufnahme, Umzug), sind dem zuständigen Jobcenter **unverzüglich mitzuteilen**. Die Mitwirkungspflichten sind **von allen Mitgliedern einer Bedarfsgemeinschaft zu beachten**.",
+            "page": 3
+        },
+        {
+            "content": "**Bei Verstoß** gegen diese Mitwirkungspflichten werden in aller Regel von allen leistungsberechtigten Personen einer Bedarfsgemeinschaft **zu viel gezahlte Leistungen zurückgefordert**. Sofern zu Ihrer Bedarfsgemeinschaft noch weitere Personen gehören, sollten Sie als Vertreterin/Vertreter beim Ausfüllen des Antrags alle Mitglieder einbeziehen und die wesentlichen sowie die sie betreffenden Angaben mit ihnen abstimmen. Stellen Sie zudem bitte sicher, dass alle Mitglieder alle notwendigen Informationen (zum Beispiel Bescheide) erhalten.",
+            "page": 3
+        },
+        {
+            "content": "Ein Verstoß gegen die Mitwirkungspflichten kann zusätzlich zu einem **Ordnungswidrigkeiten- oder Strafverfahren** gegen die Person führen, die die oben genannten Pflichten missachtet hat. Das Jobcenter holt im Wege eines automatisierten Datenabgleichs bei verschiedenen Stellen Auskünfte über Einkommen und Vermögen ein (zum Beispiel Arbeitsentgelte, Kapitalerträge, Renten). Verschwiegene Einkommen und Vermögen werden daher regelmäßig nachträglich bekannt.",
+            "page": 3
+        },
+        {
+            "content": "Es wurde eine Betreuerin/ein Betreuer vom **Betreuungsgericht/Amtsgericht** bestellt.",
+            "page": 3
+        },
+        {
+            "content": "Bitte legen Sie einen Nachweis über die Betreuung vor (Bestallungsurkunde oder Ausweis der Betreuerin/des Betreuers).",
+            "page": 3
+        },
+        {
+            "content": "Name der Betreuten/des Betreuten",
+            "page": 3
+        },
+        {
+            "content": "Ort/Datum",
+            "page": 3
+        },
+        {
+            "content": "Unterschrift Betreuerin/Betreuer",
+            "page": 3
+        },
+        {
+            "content": "Ich bestätige, dass die Angaben richtig sind.",
+            "page": 3
+        },
+        {
+            "content": "Ort/Datum",
+            "page": 3
+        },
+        {
+            "content": "Unterschrift Antragstellerin/Antragsteller",
+            "page": 3
+        },
+        {
+            "content": "(bei Minderjährigen: Unterschrift der/des gesetzlichen Vertreterin/Vertreters)",
+            "page": 3
+        }
+    ],
+    "title": "Antrag auf Weiterbewilligung des Bürgergeldes",
+    "url": "https://www.arbeitsagentur.de/datei/weiterbewilligung-sgb2_ba147844.pdf"
+}

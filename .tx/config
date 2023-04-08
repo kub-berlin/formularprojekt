@@ -97,3 +97,9 @@ file_filter = data/PKH-Hinweisblatt/<lang>.csv
 source_file = data/PKH-Hinweisblatt/de.csv
 source_lang = de
 type = MAGENTO
+
+[o:kub:p:formulare:r:jobcenter-wba]
+file_filter = data/Jobcenter-WBA/<lang>.csv
+source_file = data/Jobcenter-WBA/de.csv
+source_lang = de
+type = MAGENTO
